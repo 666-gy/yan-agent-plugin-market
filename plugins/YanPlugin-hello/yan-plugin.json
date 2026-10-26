@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "id": "YanPlugin-hello",
+  "version": "1.0.0",
+  "name": "Hello Yan",
+  "description": "用于验证 Yan 插件安装、启用与技能调用的最小示例。",
+  "author": "666-gy",
+  "license": "MIT",
+  "instructions": "instructions.md",
+  "skills": [
+    {
+      "id": "hello-yan",
+      "name": "Hello Yan",
+      "description": "用户说“测试 hello 插件”或“Hello Yan”时，返回固定标记以验证技能加载。",
+      "path": "skills/hello-yan/SKILL.md"
+    }
+  ]
+}

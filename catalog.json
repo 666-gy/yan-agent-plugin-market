@@ -1,5 +1,61 @@
 {
   "schemaVersion": 1,
   "market": "yan-agent-official",
-  "plugins": []
+  "plugins": [
+    {
+      "id": "YanPlugin-hello",
+      "name": "Hello Yan",
+      "description": "用于验证 Yan 插件安装、启用与技能调用的最小示例。",
+      "category": "productivity",
+      "repository": "666-gy/YanPlugin-hello",
+      "revision": "f81eeb7da353d1b3f63ebc7c975eaa73a8b4ec1d",
+      "digest": "a725a35886cc1d6b57b31474a6ca7927c8246be5fad357c3d4199cc1881d082c",
+      "download": true,
+      "manifest": {
+        "schemaVersion": 1,
+        "id": "YanPlugin-hello",
+        "version": "1.0.0",
+        "name": "Hello Yan",
+        "description": "用于验证 Yan 插件安装、启用与技能调用的最小示例。",
+        "author": "666-gy",
+        "license": "MIT",
+        "instructions": "instructions.md",
+        "skills": [
+          {
+            "id": "hello-yan",
+            "name": "Hello Yan",
+            "description": "用户说“测试 hello 插件”或“Hello Yan”时，返回固定标记以验证技能加载。",
+            "path": "skills/hello-yan/SKILL.md"
+          }
+        ]
+      },
+      "files": [
+        {
+          "path": "LICENSE",
+          "bytes": 1063,
+          "sha256": "c1cff2d63d030facdd22a686b2b8244bc35ea5cef007610be9e47aae4b6a9e7d"
+        },
+        {
+          "path": "README.md",
+          "bytes": 1175,
+          "sha256": "354edad25e516da5656639b57ce880949bb217e7bb93ddd36718ba630cbd3d0b"
+        },
+        {
+          "path": "instructions.md",
+          "bytes": 210,
+          "sha256": "73c7e30e3861ccad1d9268b2670b3c145495d18c3905ccb363e38d9891db2b36"
+        },
+        {
+          "path": "skills/hello-yan/SKILL.md",
+          "bytes": 377,
+          "sha256": "08923672c731bc2491bd5025a44b2d29ece527b5b1e6e89d22d6af31f12a0a2a"
+        },
+        {
+          "path": "yan-plugin.json",
+          "bytes": 518,
+          "sha256": "c939dfd566df086e95b191ff0bccd31c6400e4b82e56925110628adb6b4072b1"
+        }
+      ]
+    }
+  ]
 }
