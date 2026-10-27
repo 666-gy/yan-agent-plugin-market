@@ -56,6 +56,88 @@
           "sha256": "c939dfd566df086e95b191ff0bccd31c6400e4b82e56925110628adb6b4072b1"
         }
       ]
+    },
+    {
+      "id": "YanPlugin-ego-lite-for-yan",
+      "name": "ego (lite) for Yan",
+      "description": "在 Yan Agent 中通过 ego-browser 驱动 ego lite 浏览器：普通网页任务默认走 ego 的独立 Space，本地预览与前端验收仍用 Yan 内置浏览器。",
+      "category": "developer-tools",
+      "repository": "666-gy/YanPlugin-ego-lite-for-yan",
+      "revision": "6ca9b3f316a2f37683c19033f62f0b59cb0497e5",
+      "digest": "272bb1b820b66083e7a2b6b608bd80f36ac3bfc9222836ff841e820b3062412d",
+      "download": true,
+      "manifest": {
+        "schemaVersion": 1,
+        "id": "YanPlugin-ego-lite-for-yan",
+        "version": "0.1.0",
+        "name": "ego (lite) for Yan",
+        "description": "在 Yan Agent 中通过 ego-browser 驱动 ego lite 浏览器：普通网页任务默认走 ego 的独立 Space，本地预览与前端验收仍用 Yan 内置浏览器。",
+        "author": "666-gy",
+        "license": "MIT",
+        "instructions": "instructions.md",
+        "skills": [
+          {
+            "id": "ego-browser",
+            "name": "ego-browser",
+            "description": "用 ego lite 执行网页任务：打开站点、搜索、读取页面、填表、点击、截图与批量抽取。仅在需要真实浏览器、登录态或并行 Space 时使用；本地 file:// 预览与前端验收改用 Yan 内置浏览器。",
+            "path": "skills/ego-browser/SKILL.md"
+          }
+        ],
+        "platforms": [
+          "win32",
+          "darwin"
+        ],
+        "requiredCommands": [
+          "ego-browser"
+        ]
+      },
+      "files": [
+        {
+          "path": "yan-plugin.json",
+          "bytes": 865,
+          "sha256": "e105bcd822345f6347d0c46534bc594b043d44cf15be5350ecefdf765525c327"
+        },
+        {
+          "path": "instructions.md",
+          "bytes": 2053,
+          "sha256": "732e26d1dbd719d1fa2455376120c1a6cc0e2f4c132b73468151741fbe5bc8fa"
+        },
+        {
+          "path": "skills/ego-browser/SKILL.md",
+          "bytes": 2207,
+          "sha256": "0b77f02e527058932eae337c9352f96a907053703a837736ddeceab95159dafa"
+        },
+        {
+          "path": "assets/logo.png",
+          "bytes": 8612,
+          "sha256": "cec732e29ea3b03d8920b28d912306f43651186dc2f4a488800da9db0a50f993"
+        },
+        {
+          "path": "assets/composer-icon.png",
+          "bytes": 3967,
+          "sha256": "2822b28752520f2a5506cb0693c8db2fd1ec0345806454b5f92d999b84b5bc1f"
+        },
+        {
+          "path": "README.md",
+          "bytes": 4370,
+          "sha256": "609cd82f99a33ee314b9aa2bf3f039aa9afacadd41c757f0ee9c2a98ad098669"
+        },
+        {
+          "path": "LICENSE",
+          "bytes": 1063,
+          "sha256": "bb6bb501f8eaee0095782f8fbf5e1a3da610c1a8a20301c204891a33267c2fc8"
+        },
+        {
+          "path": "NOTICE",
+          "bytes": 701,
+          "sha256": "3337fc3a7bb5c4b19102e58be1a06b7de20e2af74380eb7f6b6a378e5586a998"
+        },
+        {
+          "path": ".gitignore",
+          "bytes": 64,
+          "sha256": "a55a34da758b9633991105b3208e599e67251456f121f9764a54ca3bdfa83193"
+        }
+      ]
     }
   ]
 }
