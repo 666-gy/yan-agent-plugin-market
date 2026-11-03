@@ -1,0 +1,25 @@
+dsh-ops for Yan
+================
+
+This package is a Yan Agent plugin port of dsh-ops.
+
+Upstream
+--------
+dsh-ops
+https://github.com/T-Auto/dsh-ops
+Copyright (c) the dsh-ops authors
+Licensed under the MIT License.
+
+The bundled worker executable is the unmodified win32-x64 binary from the
+published npm package dsh-ops@0.4.4 (runtime/win32-x64), sha256
+607e97c2ff79e0593b6ef28989b724b79d92a2af82eeb7fd02e6f0a2e1d23f0f.
+
+Local changes
+-------------
+The port adds a Yan-native plugin manifest, instructions, one Skill, a stdio
+MCP server (server.cjs) and tests. It exposes a read-only subset of the upstream
+tool surface and does not include the upstream Bash payload or any GPL-licensed
+component.
+
+No upstream source was relicensed. The MIT license in LICENSE applies to this
+port's own files; the upstream worker remains under its original MIT license.

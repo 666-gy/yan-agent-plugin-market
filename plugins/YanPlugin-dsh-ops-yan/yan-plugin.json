@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "YanPlugin-dsh-ops-yan",
+  "version": "0.1.3",
+  "name": "dsh-ops for Yan",
+  "description": "Read-only port of dsh-ops: bounded file, table, DOCX and PDF tools backed by the original Rust worker, exposed to Yan as a local MCP server.",
+  "license": "MIT",
+  "author": "port of T-Auto/dsh-ops",
+  "instructions": "instructions.md",
+  "platforms": ["win32"],
+  "skills": [
+    {
+      "id": "ops-files",
+      "name": "dsh-ops 只读文件工具",
+      "description": "用 dsh-ops 的只读工具分页读取文件、CSV/TSV、DOCX、PDF 文本层，或先取精确 stat/grep/glob 事实，避免把整个文件读进上下文。",
+      "path": "skills/ops-files/SKILL.md"
+    }
+  ],
+  "mcpServers": [
+    {
+      "id": "ops",
+      "type": "local",
+      "command": "$node",
+      "args": ["${pluginRoot}/server.cjs"],
+      "env": {
+        "OPS_WORKSPACE": "${workspace}",
+        "OPS_WORKER": "${pluginRoot}/bin/win32-x64/dsh-ops-worker.exe",
+        "OPS_TIMEOUT_MS": "55000"
+      },
+      "timeoutMs": 60000
+    }
+  ]
+}
