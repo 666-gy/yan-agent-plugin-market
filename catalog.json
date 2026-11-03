@@ -138,6 +138,170 @@
           "sha256": "a55a34da758b9633991105b3208e599e67251456f121f9764a54ca3bdfa83193"
         }
       ]
+    },
+    {
+      "id": "YanPlugin-dsh-ops-yan",
+      "name": "dsh-ops for Yan",
+      "description": "Read-only port of dsh-ops: bounded file, table, DOCX and PDF tools backed by the original Rust worker, exposed to Yan as a local MCP server.",
+      "category": "developer-tools",
+      "repository": "Solren-zhen/YanPlugin-dsh-ops-yan",
+      "revision": "daeebadf9f9bc8fc469049e0f0cddb82137046c4",
+      "digest": "0f096cef09be4ee0554bf32b53112b06931b11f38115d25793befdc53678051d",
+      "download": true,
+      "manifest": {
+        "schemaVersion": 1,
+        "id": "YanPlugin-dsh-ops-yan",
+        "version": "0.1.3",
+        "name": "dsh-ops for Yan",
+        "description": "Read-only port of dsh-ops: bounded file, table, DOCX and PDF tools backed by the original Rust worker, exposed to Yan as a local MCP server.",
+        "author": "port of T-Auto/dsh-ops",
+        "license": "MIT",
+        "instructions": "instructions.md",
+        "skills": [
+          {
+            "id": "ops-files",
+            "name": "dsh-ops 只读文件工具",
+            "description": "用 dsh-ops 的只读工具分页读取文件、CSV/TSV、DOCX、PDF 文本层，或先取精确 stat/grep/glob 事实，避免把整个文件读进上下文。",
+            "path": "skills/ops-files/SKILL.md"
+          }
+        ],
+        "resources": [],
+        "mcpServers": [
+          {
+            "id": "ops",
+            "type": "local",
+            "command": "$node",
+            "args": [
+              "${pluginRoot}/server.cjs"
+            ],
+            "headers": {},
+            "env": {
+              "OPS_WORKSPACE": "${workspace}",
+              "OPS_WORKER": "${pluginRoot}/bin/win32-x64/dsh-ops-worker.exe",
+              "OPS_TIMEOUT_MS": "55000"
+            },
+            "timeoutMs": 60000
+          }
+        ],
+        "configuration": {},
+        "environment": [],
+        "platforms": [
+          "win32"
+        ],
+        "requiredCommands": []
+      },
+      "files": [
+        {
+          "path": ".gitattributes",
+          "bytes": 105,
+          "sha256": "bc84f3615946eb1967633901de42ec1b69434da7def42f5e288a9e7e5130e8df"
+        },
+        {
+          "path": ".github/workflows/ci.yml",
+          "bytes": 439,
+          "sha256": "29de8496943b94907cc33fb7dbeac33a48c697fa3b7768616ac817bd83efd844"
+        },
+        {
+          "path": "LICENSE",
+          "bytes": 1081,
+          "sha256": "59e98ec020fa3fac63dd4d67793ca8e7cc98fc34a1b1cb735a8bceaa216c61e8"
+        },
+        {
+          "path": "NOTICE",
+          "bytes": 853,
+          "sha256": "cf7ef7978b7495345d083bbbdd03227fe7f15e18a4cecc6b03439c7500f7fe58"
+        },
+        {
+          "path": "README.md",
+          "bytes": 5694,
+          "sha256": "10a672dc177151a600dfdd98353a5ae8da93cf633c641b7100136c22f8f4032d"
+        },
+        {
+          "path": "assets/architecture-flow.svg",
+          "bytes": 3894,
+          "sha256": "a74088d17adb9cce0ccffd1368c1690f996a1ebbcd442eea92ade6064aacc29b"
+        },
+        {
+          "path": "assets/banner.svg",
+          "bytes": 3410,
+          "sha256": "cdfaf0bf36af35d246cfdddea476c56a3ca253e256d2690c50d805ae9ef6d19a"
+        },
+        {
+          "path": "bin/win32-x64/dsh-ops-worker.exe",
+          "bytes": 3881472,
+          "sha256": "607e97c2ff79e0593b6ef28989b724b79d92a2af82eeb7fd02e6f0a2e1d23f0f"
+        },
+        {
+          "path": "bin/win32-x64/provenance.json",
+          "bytes": 264,
+          "sha256": "e1b93ce623eeab2ace089c2e35934a935f0d8c57b81c487d1c2d268160e7dce4"
+        },
+        {
+          "path": "docs/PUBLISHING.md",
+          "bytes": 4904,
+          "sha256": "b013c0c9b7e497023688bc57edb07d6fbcdc96d774488770e0795cd67e433849"
+        },
+        {
+          "path": "docs/RELEASE.md",
+          "bytes": 4541,
+          "sha256": "6c70a1450b8e627e1c1042c5d755afa99163bb9606e8535b6aa362c5ea39264f"
+        },
+        {
+          "path": "docs/VALIDATION.md",
+          "bytes": 3781,
+          "sha256": "a33f7c6768fa48c4682d58144a3e216b09c67ede9cc3d7d3de6e1f2e38aa9d33"
+        },
+        {
+          "path": "instructions.md",
+          "bytes": 2230,
+          "sha256": "78fedb0eb36959b97493bf11647b27b8f7a6758a7c38136bda314ba868886b72"
+        },
+        {
+          "path": "scripts/market-entry.mjs",
+          "bytes": 3885,
+          "sha256": "567ef592e251f84261d129e681fb581f68e67e0a2d09c22acf2882485772d767"
+        },
+        {
+          "path": "server.cjs",
+          "bytes": 17064,
+          "sha256": "7b3d01277b7cf49e53a9ccd3e3ed45e01f29ef3e859875b58312dd5816b7fea5"
+        },
+        {
+          "path": "skills/ops-files/SKILL.md",
+          "bytes": 3490,
+          "sha256": "7be20785e273e73ab1e27b746891c72a551172b37aa51ad252ad8a1e06493a20"
+        },
+        {
+          "path": "tests/bench.mjs",
+          "bytes": 11243,
+          "sha256": "6afc2104f43deb67c27b6c6b516695f09f2d9a98d600a6933c23821d599dae4c"
+        },
+        {
+          "path": "tests/fixtures/gbk.csv",
+          "bytes": 22,
+          "sha256": "25c896c9a87224bcca4046f8e8af820c04015fdc0211222b8ae265b94e48b1b2"
+        },
+        {
+          "path": "tests/fixtures/sample.docx",
+          "bytes": 998,
+          "sha256": "ba3b155a662a9b4204f90e4fb40edbcbb571dbf36ac111d50a54255e79038de0"
+        },
+        {
+          "path": "tests/fixtures/sample.pdf",
+          "bytes": 874,
+          "sha256": "a64e77ddcc511238fe0acd3370c4280169fc9b41a55ed822f364153be238f1e5"
+        },
+        {
+          "path": "tests/smoke.mjs",
+          "bytes": 8526,
+          "sha256": "81ef077298192e8f09b5e5ace1fd6b5f308600e41b54c0257eac1b0d0407ee6c"
+        },
+        {
+          "path": "yan-plugin.json",
+          "bytes": 1061,
+          "sha256": "486d9d6137f34b9f63221ce180d3f98a6b9f4747e3a6ff4f068ba278c9948ec4"
+        }
+      ]
     }
   ]
 }

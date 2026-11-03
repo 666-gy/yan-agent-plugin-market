@@ -1,0 +1,7 @@
+* text=auto
+*.exe binary
+*.docx binary
+*.pdf binary
+tests/fixtures/*.csv -text
+*.png binary
+*.jpg binary

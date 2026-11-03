@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="dsh-ops for Yan — bounded read-only file and document tools">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0E14"/>
+      <stop offset="0.55" stop-color="#0D1420"/>
+      <stop offset="1" stop-color="#0A1119"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#2DD4BF"/>
+      <stop offset="0.5" stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#94A3B8" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="glow" cx="0.18" cy="0.35" r="0.55">
+      <stop offset="0" stop-color="#14B8A6" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+  <rect width="1280" height="320" fill="url(#grid)"/>
+  <rect width="1280" height="320" fill="url(#glow)"/>
+
+  <g transform="translate(72 74)">
+    <rect x="0" y="0" width="96" height="96" rx="20" fill="#0F172A" stroke="#2DD4BF" stroke-opacity="0.55" stroke-width="1.5"/>
+    <path d="M30 30h24l12 12v24a6 6 0 0 1-6 6H30a6 6 0 0 1-6-6V36a6 6 0 0 1 6-6z" fill="none" stroke="#E2E8F0" stroke-width="2.2" stroke-linejoin="round"/>
+    <path d="M54 30v12h12" fill="none" stroke="#2DD4BF" stroke-width="2.2" stroke-linejoin="round"/>
+    <path d="M36 58h24M36 66h16" stroke="#94A3B8" stroke-width="2.2" stroke-linecap="round"/>
+  </g>
+
+  <text x="204" y="118" fill="#F8FAFC" font-family="'Segoe UI Variable Display','Segoe UI',Inter,system-ui,-apple-system,sans-serif" font-size="54" font-weight="600" letter-spacing="-1.2">dsh-ops for Yan</text>
+  <text x="206" y="158" fill="#94A3B8" font-family="'Segoe UI Variable Text','Segoe UI',Inter,system-ui,-apple-system,sans-serif" font-size="21" letter-spacing="0.2">Bounded, read-only file &amp; document tools for Yan Agent</text>
+
+  <g font-family="'Cascadia Code',Consolas,'SFMono-Regular',monospace" fill="#CBD5E1" font-size="15">
+    <text x="206" y="214">9 tools</text>
+    <text x="314" y="214" fill="#475569">/</text>
+    <text x="336" y="214">0 npm deps</text>
+    <text x="486" y="214" fill="#475569">/</text>
+    <text x="508" y="214">win32-x64</text>
+    <text x="640" y="214" fill="#475569">/</text>
+    <text x="662" y="214">MCP stdio</text>
+  </g>
+
+  <g transform="translate(936 92)" font-family="'Cascadia Code',Consolas,'SFMono-Regular',monospace" font-size="13.5" fill="#7DD3FC">
+    <rect x="-24" y="-26" width="296" height="140" rx="14" fill="#080D14" fill-opacity="0.7" stroke="#1E293B"/>
+    <text x="0" y="0" fill="#64748B">$ yan-plugin</text>
+    <text x="0" y="30" fill="#E2E8F0">id      YanPlugin-dsh-ops-yan</text>
+    <text x="0" y="56" fill="#E2E8F0">version 0.1.3</text>
+    <text x="0" y="82" fill="#2DD4BF">status  ready</text>
+  </g>
+
+  <rect x="72" y="262" width="1136" height="1" fill="url(#edge)" opacity="0.35"/>
+  <text x="72" y="292" fill="#64748B" font-family="'Segoe UI Variable Text','Segoe UI',Inter,system-ui,sans-serif" font-size="13" letter-spacing="1.6">MIT LICENSE · WINDOWS X64 · BUILT ON THE DSH-OPS RUST WORKER</text>
+</svg>
