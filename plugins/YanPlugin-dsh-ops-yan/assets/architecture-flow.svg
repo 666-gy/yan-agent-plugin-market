@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="486" viewBox="0 0 640 486" role="img" aria-label="Architecture: Yan Agent calls server.cjs over MCP stdio; server.cjs calls the Rust worker over JSON-RPC; the worker reads the bounded workspace">
+  <defs>
+    <linearGradient id="abg2" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0C121B"/>
+      <stop offset="1" stop-color="#0A0F16"/>
+    </linearGradient>
+    <marker id="a2" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0L10 5L0 10z" fill="#475569"/>
+    </marker>
+  </defs>
+
+  <rect width="640" height="486" rx="14" fill="url(#abg2)"/>
+  <rect x="0.75" y="0.75" width="638.5" height="484.5" rx="13.25" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+
+  <text x="32" y="36" fill="#64748B" font-family="'Cascadia Code',Consolas,monospace" font-size="11" letter-spacing="2">REQUEST PATH</text>
+
+  <!-- Yan Agent -->
+  <rect x="32" y="52" width="400" height="62" rx="10" fill="#0F172A" stroke="#1E293B" stroke-width="1.4"/>
+  <text x="52" y="80" fill="#F1F5F9" font-family="'Segoe UI',Inter,system-ui,sans-serif" font-size="17" font-weight="600">Yan Agent</text>
+  <text x="52" y="100" fill="#64748B" font-family="'Cascadia Code',Consolas,monospace" font-size="12">host runtime</text>
+
+  <line x1="72" y1="114" x2="72" y2="146" stroke="#475569" stroke-width="1.5" marker-end="url(#a2)"/>
+  <text x="86" y="136" fill="#7DD3FC" font-family="'Cascadia Code',Consolas,monospace" font-size="11.5">MCP · stdio</text>
+
+  <!-- server.cjs -->
+  <rect x="32" y="150" width="400" height="84" rx="10" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.45" stroke-width="1.4"/>
+  <text x="52" y="180" fill="#F1F5F9" font-family="'Cascadia Code',Consolas,monospace" font-size="16">server.cjs</text>
+  <text x="52" y="204" fill="#94A3B8" font-family="'Segoe UI',Inter,system-ui,sans-serif" font-size="13">协议适配 · 路径边界 · 输出预算</text>
+  <text x="52" y="222" fill="#64748B" font-family="'Segoe UI',Inter,system-ui,sans-serif" font-size="12">realpath 规范化后比较工作区边界</text>
+
+  <line x1="72" y1="234" x2="72" y2="266" stroke="#475569" stroke-width="1.5" marker-end="url(#a2)"/>
+  <text x="86" y="256" fill="#7DD3FC" font-family="'Cascadia Code',Consolas,monospace" font-size="11.5">JSON-RPC · stdin</text>
+
+  <!-- worker -->
+  <rect x="32" y="270" width="400" height="84" rx="10" fill="#0F172A" stroke="#2DD4BF" stroke-opacity="0.45" stroke-width="1.4"/>
+  <text x="52" y="300" fill="#F1F5F9" font-family="'Cascadia Code',Consolas,monospace" font-size="15">dsh-ops-worker.exe</text>
+  <text x="52" y="324" fill="#94A3B8" font-family="'Segoe UI',Inter,system-ui,sans-serif" font-size="13">Rust · 只读解析</text>
+  <text x="52" y="342" fill="#2DD4BF" font-family="'Cascadia Code',Consolas,monospace" font-size="11.5">dsh-ops 0.4.4</text>
+
+  <line x1="72" y1="354" x2="72" y2="386" stroke="#475569" stroke-width="1.5" marker-end="url(#a2)"/>
+  <text x="86" y="376" fill="#7DD3FC" font-family="'Cascadia Code',Consolas,monospace" font-size="11.5">read</text>
+
+  <!-- workspace -->
+  <rect x="32" y="390" width="400" height="56" rx="10" fill="#0F172A" stroke="#1E293B" stroke-width="1.4"/>
+  <text x="52" y="414" fill="#F1F5F9" font-family="'Segoe UI',Inter,system-ui,sans-serif" font-size="15">Workspace</text>
+  <text x="52" y="434" fill="#64748B" font-family="'Cascadia Code',Consolas,monospace" font-size="11.5">只能落在工作区根内</text>
+
+  <text x="452" y="428" fill="#334155" font-family="'Cascadia Code',Consolas,monospace" font-size="10.5">no network</text>
+  <text x="452" y="446" fill="#334155" font-family="'Cascadia Code',Consolas,monospace" font-size="10.5">no writes</text>
+  <text x="452" y="464" fill="#334155" font-family="'Cascadia Code',Consolas,monospace" font-size="10.5">no open ports</text>
+</svg>

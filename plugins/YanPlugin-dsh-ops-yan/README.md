@@ -1,125 +1,105 @@
-# dsh-ops for Yan — 只读 PoC
+<p align="center">
+  <img src="assets/banner.svg" alt="dsh-ops for Yan" width="100%">
+</p>
 
-把 [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops)（MIT）的 Rust worker 接到 Yan，作为本地 MCP 服务器提供 9 个只读文件/文档工具。
+<p align="center">
+  <a href="https://github.com/Solren-zhen/YanPlugin-dsh-ops-yan/actions/workflows/ci.yml"><img src="https://github.com/Solren-zhen/YanPlugin-dsh-ops-yan/actions/workflows/ci.yml/badge.svg?branch=main" alt="CI"></a>
+  <img src="https://img.shields.io/badge/version-0.1.3-38BDF8?style=flat-square&labelColor=0F172A" alt="version">
+  <img src="https://img.shields.io/badge/license-MIT-2DD4BF?style=flat-square&labelColor=0F172A" alt="license">
+  <img src="https://img.shields.io/badge/platform-win32--x64-94A3B8?style=flat-square&labelColor=0F172A" alt="platform">
+</p>
 
-这不是原插件的完整移植。原插件是 DSH 宿主插件（`dsh-plugin` 0.15 host facet），依赖 `@deepseek-ai/dsh-*` 的工具注册表、prompt section、React 设置页和 TUI 面板；Yan 插件协议只支持 instructions / skills / resources / configuration / environment / platforms / requiredCommands / mcpServers，没有这些扩展点。因此这里只移植了**可自包含的工具核心**。
+<p align="center">
+以本地 MCP 服务的形式，把 dsh-ops 的 Rust worker 接入 Yan，提供 9 个有界、只读的文件与文档工具。
+</p>
 
-## 结构
+## 为什么需要它
 
-```
-yan-plugin.json            插件清单（schemaVersion 1，0.1.3）
-instructions.md            注入给模型的使用说明
-skills/ops-files/SKILL.md  工具选择、参数上限与结果解读
-server.cjs                 MCP stdio 服务器（零依赖，JSON-RPC 2.0）
-bin/win32-x64/             dsh-ops-worker.exe 0.4.4 + 来源记录
-tests/                     协议自测与严格测评（fixtures 为 DOCX/PDF/GBK 样张）
-docs/                      验证、发布与上架说明
-LICENSE / NOTICE           MIT 许可与上游归属
-```
+Yan 自带的 `read`、`grep`、`glob` 面向代码与小文件。处理大文件、CSV 宽表、DOCX 正文或 PDF 文本层时，一次性读入很容易占掉大段上下文，而且拿到的结构信息有限。
 
-## 运行环境
+这个插件把这些操作拆成可预期的分页调用：先取精确事实，再按页读取；每个工具都有明确的行数、页数与文件数上限，响应超出预算时返回截断标记而不是静默丢内容。
 
-- Windows x64（只打包了 `win32-x64` 二进制；arm64 会被判就绪但无法启动 worker）
-- Yan 自带 Node（`$node` + `ELECTRON_RUN_AS_NODE`），无 npm 依赖，不需要 `npm install`
-
-## 安装与激活
-
-1. Yan 设置 → 插件 → 从本地目录安装，选本目录。
-2. 在插件列表里启用 `dsh-ops for Yan`。
-3. **在有工作区的任务里**激活：`${workspace}` 由宿主注入，Blank 任务没有工作区目录，插件网关起不来（表现是「插件服务未连接」，不是工具调用被拒）。
-4. 激活后工具名会被 Yan 改写为哈希（`t_…` 加宿主前缀）。按工具描述前缀 `[dsh-ops for Yan / ops / <原工具名>]` 识别，不要按字面名调用。
-
-## 手动运行
-
-```powershell
-$env:OPS_WORKSPACE = "C:\path\to\workspace"
-node .\server.cjs
-```
-
-然后向 stdin 逐行发送 JSON-RPC。
-
-环境变量：
-
-| 变量 | 用途 |
-|---|---|
-| `OPS_WORKSPACE` | 工作区根，宿主注入 `${workspace}`；也是路径边界 |
-| `OPS_WORKER` | 覆盖 worker 路径（其他平台需自编译） |
-| `OPS_TIMEOUT_MS` | 单次 worker 调用超时，默认 55000，上限 119000 |
-| `OPS_OUTPUT_BUDGET_BYTES` | 单次响应预算，默认 1000000 |
-
-超时时长要小于清单里的 `timeoutMs`（60000）：Yan 侧请求超时会销毁整条插件连接，必须让 worker 先超时并返回结构化错误。
+- 9 个只读工具，共享同一套分页、截断与错误语义
+- 零 npm 依赖，worker 二进制随插件分发
+- 路径边界在工作区根内，越界在启动 worker 前拒绝
+- 由 Yan 以 stdio 启动，不监听端口，不产生网络请求
 
 ## 工具
 
-`stat` · `grep` · `glob` · `read_files` · `read_table` · `read_docx` · `read_pdf` · `diff` · `inspect_local_file`
-
-参数为 **camelCase**（与 Rust 侧 `rename_all = "camelCase"` 一致）；worker 外层请求字段为 **snake_case**（`read_only`），适配层已处理。未知字段会被 worker 拒绝。
-
-上限（schema 已编码，越界在校验阶段就被拒）：
-
-| 工具 | offset | limit |
+| 工具 | 用途 | 关键上限 |
 |---|---|---|
-| `grep` / `glob` | ≥ 0 | 1–10000 |
-| `read_files`（每文件） | ≥ 1 | 1–10000；文件数 1–32 |
-| `read_table` | 1–100000 行 | 1–1000 行 |
-| `read_docx` | 1–100000 段 | 1–1000 段 |
-| `read_pdf` | 1–32 页 | 1–32 页 |
-| `diff` | ≥ 0 | 1–1000 块 |
-| `inspect_local_file` | ≥ 1 | 1–10000 行/16 字节行 |
+| `stat` | 文件大小、行数、修订哈希，不读正文 | — |
+| `grep` | 工作区内正则检索，返回行级命中或按文件计数 | 1–10000 条 |
+| `glob` | 按 glob 枚举路径，返回相对路径 | 1–10000 条 |
+| `read_files` | 一次读取 1–32 个文件的行区间 | 每文件 1–10000 行 |
+| `read_table` | CSV/TSV 分页读取，附带列名与类型元数据 | offset 1–100000，limit 1–1000 |
+| `read_docx` | 提取 DOCX 正文段落 | offset 1–100000，limit 1–1000 |
+| `read_pdf` | 提取 PDF 文本层 | offset 1–32，limit 1–32 |
+| `diff` | 将候选内容与现有文件对比，只返回变更块 | 1–1000 块 |
+| `inspect_local_file` | 文本或十六进制检视，用于编码与损坏排查 | 1–10000 行 |
 
-worker 自己也会把单次响应压到约 96 KB（实测 97,992 字节时 `truncated: true`）；`server.cjs` 另加 1 MB 兜底，超出时整体替换为 `{ truncated, truncatedBy, originalBytes, preview }`。
+所有工具均为只读。写入、替换与删除仍使用 Yan 内置工具。
 
-编码：`read_table` 只支持 `utf-8`、`utf-16le`、`utf-16be`，`inspect_local_file` 只支持 UTF-8。传其他 `encoding` 值会在启动 worker 前被拒；如果用 `utf-8` 解析 GBK 文件，worker 会返回 `ERR_INVALID_ENCODING`（`status=partial`，现在会标成 `isError`）。
+## 安装
 
-路径：工作区根可以是 junction/符号链接（Yan 的工作区路径可能就是链接）。服务端先把目标规范化到真实路径再比较边界，交给 worker 的也是真实路径——worker 本身拒绝穿越 reparse point，不规范化会全部失败。
+1. 打开 设置 → 插件，选择从本地目录安装，指向本仓库根目录。
+2. 在插件列表中启用 `dsh-ops for Yan`。
+3. 在有工作区的任务中激活插件。`${workspace}` 由宿主注入；Blank 任务没有工作区目录，服务不会启动。
 
-## 已验证（2026-11-03，本机）
+激活后，Yan 会把工具名改写为带哈希前缀的形式。按描述开头的 `[dsh-ops for Yan / ops / <原工具名>]` 识别，不要按字面名调用。
 
-用真实 MCP JSON-RPC 客户端驱动 `server.cjs`，工作区为本仓库：
+## 工作原理
 
-| 调用 | 结果 |
+<p align="center">
+  <img src="assets/architecture-flow.svg" alt="请求路径：Yan Agent → server.cjs → dsh-ops-worker.exe → 工作区" width="100%">
+</p>
+
+`server.cjs` 负责 MCP 协议、工作区边界和响应预算；`dsh-ops-worker.exe` 负责实际解析。路径会先规范化到真实路径再比较边界，交给 worker 的也是真实路径，因此工作区根是 junction 或符号链接时仍能正常工作。
+
+单次响应超过约 96 KB 时由 worker 标记截断，`server.cjs` 另设 1 MB 兜底；超出预算时返回 `{ truncated, truncatedBy, originalBytes, preview }`。
+
+## 实测
+
+验证环境为 Windows 11 x64 + Yan Agent 1.6.0，插件 `0.1.3`，工作区为本仓库。
+
+| 场景 | 结果 |
 |---|---|
-| `initialize` / `tools/list` | `serverInfo=dsh-ops 0.1.3`，9 个工具 |
-| `stat {path:"dsh-ops-yan/README.md"}` | `status=completed`，bytes/lineCount 正确 |
-| `stat` 指向工作区外 | 拒绝：`path is outside the workspace` |
-| `stat` 用 `../` 越界 | 拒绝：`path is outside the workspace` |
-| `read_files` 读工作区外文件 | 拒绝：`path is outside the workspace` |
-| 工作区根自身是 junction | 正常读取（使用规范化后的真实路径） |
-| 工作区内 junction 指向外部 | 拒绝：`path is outside the workspace` |
-| `read_pdf {limit:40}` | `INVALID_ARGUMENT`（1–32 页） |
-| `read_files {limit:20000}` / 60 个文件 | schema 层拒绝（1–10000 / 1–32 个文件） |
-| `read_table {encoding:"gb18030"}` | 调用前拒绝：仅支持 utf-8 / utf-16le / utf-16be |
-| 非 UTF-8 的 CSV（GBK） | `status=partial` + `ERR_INVALID_ENCODING`，`isError=true` |
-| `read_files` 部分文件不存在 | `status=partial`、`failed=1`、`isError=true` |
-| `OPS_OUTPUT_BUDGET_BYTES=10000` 的批量读 | 返回 `truncatedBy=output-budget:10000` 的预算提示 |
-| 无 `OPS_WORKSPACE` | 工具调用报 `OPS_WORKSPACE is not set` |
+| `node tests/smoke.mjs` | 14/14 通过 |
+| `node tests/bench.mjs` | 17/17 通过（含 DOCX、PDF、CSV、越界与分页） |
+| 宿主安装与启用 | `version 0.1.3`、`ready: true`、`enabled: true` |
+| 宿主内 `read_pdf` | 2 页文本层正确返回 |
+| 宿主内 `read_docx` | 3 段正文正确返回 |
+| 宿主内 `read_table`（UTF-8） | 3 行 × 3 列，列名与行号正确 |
+| GBK 文件按 UTF-8 读取 | `status: partial` + `ERR_INVALID_ENCODING`，未返回伪成功 |
+| 工作区外路径 | 拒绝：`path is outside the workspace` |
 
-## 未移植（需要 Yan 内核扩展，插件协议做不到）
+逐项记录见 [docs/VALIDATION.md](docs/VALIDATION.md)，发布信息见 [docs/RELEASE.md](docs/RELEASE.md)，上架要求见 [docs/PUBLISHING.md](docs/PUBLISHING.md)。
 
-- 替换内置 `read`/`glob`/`grep`（Yan 会把插件工具改成哈希名，无法接管）
-- 写工具（`write_file` / `edit_file` / `replace` / `copy` / `move` / `remove`）——本 PoC 为安全起见不暴露
-- PTC 类型化 SDK（`load_sdk` / `discover_tools` / `batch`）
-- DSH 设置页、TUI 侧栏、profile 安装/卸载 CLI、Windows bash 载荷
+## 边界
 
-内置的 `read`/`grep`/`glob` 仍然可用；本插件的增量是 `stat`、`read_files`、`read_table`、`read_docx`、`read_pdf`、`diff`、`inspect_local_file`。`grep`/`glob` 保留是为了在同一套有界分页与列元数据语义下工作，不是替代内置实现。
+| 项目 | 说明 |
+|---|---|
+| 平台 | 仅打包 `win32-x64` worker；其他架构会显示就绪，但无法启动 |
+| PDF | 只读文本层，单次 1–32 页，不做 OCR，扫描件返回空文本 |
+| DOCX | 只读正文段落，不含页眉页脚、批注与表格排版 |
+| 表格编码 | 仅支持 `utf-8`、`utf-16le`、`utf-16be` |
+| 写入 | 不提供任何写操作 |
+| 与内置工具的关系 | 不替换 `read`/`grep`/`glob`；增量在 `stat`、`read_files`、`read_table`、`read_docx`、`read_pdf`、`diff`、`inspect_local_file` |
 
-## 开发与验证
+## 开发
 
-- `node tests/smoke.mjs`：协议与边界自测（14 项）。
-- `node tests/bench.mjs`：正确性与分位数延迟测评（17 项，含 DOCX/PDF/CSV/越界），CI 在 `windows-latest` 跑 Node 22/24。
-- `docs/VALIDATION.md`：环境、命令、逐项结果与未覆盖项。
-- `docs/RELEASE.md`：仿上游 `dsh-plugin.json` 的发布信息（能力面、权限、平台、市场文案）。
-- `docs/PUBLISHING.md`：宿主验收清单与官方市场上架要求。
-- `node scripts/market-entry.mjs --repository <owner>/YanPlugin-... --revision <40位SHA>`：生成市场条目；缺参数时会列出不合规项（如 id 前缀）。
+```powershell
+node tests/smoke.mjs
+node tests/bench.mjs
+node scripts/market-entry.mjs --repository <owner>/YanPlugin-dsh-ops-yan --revision <40 位 commit SHA>
+```
 
-注意：`tests/`、`scripts/`、`.github/` 也会计入插件包 digest 和市场文件清单，改动它们需要重新生成条目。
+`tests/`、`scripts/` 与 `.github/` 同样计入插件包摘要和市场文件清单，改动后需要重新生成市场条目。
 
-## 许可证
+## 许可与来源
 
-本移植包以 MIT 分发，见 [LICENSE](LICENSE)；上游 dsh-ops 亦为 MIT，worker 二进制来源、版本与哈希见 [NOTICE](NOTICE)。
+本移植包以 MIT 分发，见 [LICENSE](LICENSE)。上游 [T-Auto/dsh-ops](https://github.com/T-Auto/dsh-ops) 同为 MIT；worker 二进制版本、来源与 sha256 记录在 [NOTICE](NOTICE)。
 
-## 上游版本
-
-- worker 二进制：`dsh-ops@0.4.4`（npm 发布包，`runtime/win32-x64`），sha256 `607e97c2…3f0f`
-- 源码审阅：仓库 `0.5.0-alpha3`（协议字段与工具参数按此核对）
-- 许可证：MIT，见上游 `LICENSE`；未包含任何 GPL 的 bash 载荷
+- worker：`dsh-ops@0.4.4`（npm 发布包，`runtime/win32-x64`），sha256 `607e97c2…3f0f`
+- 协议字段与工具参数按上游 `0.5.0-alpha3` 核对
+- 未包含任何 GPL 的 bash 载荷

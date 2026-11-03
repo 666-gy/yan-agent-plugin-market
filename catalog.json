@@ -145,8 +145,8 @@
       "description": "Read-only port of dsh-ops: bounded file, table, DOCX and PDF tools backed by the original Rust worker, exposed to Yan as a local MCP server.",
       "category": "developer-tools",
       "repository": "Solren-zhen/YanPlugin-dsh-ops-yan",
-      "revision": "62ab0da55478ed2a5a6c310abc46fd0f225bf38a",
-      "digest": "eff48fc3ca37b68b1790a844a45b2b4162cd7cc749921c0d13fd465da52fcc1a",
+      "revision": "daeebadf9f9bc8fc469049e0f0cddb82137046c4",
+      "digest": "0f096cef09be4ee0554bf32b53112b06931b11f38115d25793befdc53678051d",
       "download": true,
       "manifest": {
         "schemaVersion": 1,
@@ -213,8 +213,18 @@
         },
         {
           "path": "README.md",
-          "bytes": 7436,
-          "sha256": "40e1720a038f6ec51b5424a4ee6b3b606532ecb153a719549a8cc6a396ac0364"
+          "bytes": 5694,
+          "sha256": "10a672dc177151a600dfdd98353a5ae8da93cf633c641b7100136c22f8f4032d"
+        },
+        {
+          "path": "assets/architecture-flow.svg",
+          "bytes": 3894,
+          "sha256": "a74088d17adb9cce0ccffd1368c1690f996a1ebbcd442eea92ade6064aacc29b"
+        },
+        {
+          "path": "assets/banner.svg",
+          "bytes": 3410,
+          "sha256": "cdfaf0bf36af35d246cfdddea476c56a3ca253e256d2690c50d805ae9ef6d19a"
         },
         {
           "path": "bin/win32-x64/dsh-ops-worker.exe",
