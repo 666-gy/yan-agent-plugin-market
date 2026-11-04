@@ -138,6 +138,76 @@
           "sha256": "a55a34da758b9633991105b3208e599e67251456f121f9764a54ca3bdfa83193"
         }
       ]
+    },
+    {
+      "id": "YanPlugin-magpie-for-yan-agent",
+      "name": "Magpie-for-Yan-Agent",
+      "description": "Magpie 接入助手：指导 Yan 网关接入、检查独立配置与解释断开恢复；附 Magpie Agent 适配器。",
+      "category": "developer-tools",
+      "repository": "666-gy/YanPlugin-magpie-for-yan-agent",
+      "revision": "54e689f937c32fbc236624c7875c9e25ba350a5f",
+      "digest": "23e62699ed6c434f5cdc719adb6e10bef726dd1f3773addebf1dcb3ff9b0c1cb",
+      "download": true,
+      "manifest": {
+        "schemaVersion": 1,
+        "id": "YanPlugin-magpie-for-yan-agent",
+        "version": "0.1.1",
+        "name": "Magpie-for-Yan-Agent",
+        "description": "Magpie 接入助手：指导 Yan 网关接入、检查独立配置与解释断开恢复；附 Magpie Agent 适配器。",
+        "instructions": "instructions.md",
+        "skills": [],
+        "resources": [
+          {
+            "id": "guide",
+            "name": "Magpie 接入指南",
+            "path": "README.md"
+          },
+          {
+            "id": "adapter",
+            "name": "Magpie Agent 适配器",
+            "path": "resources/magpie/yan.agent.js"
+          },
+          {
+            "id": "adapter-manifest",
+            "name": "Magpie 包声明",
+            "path": "resources/magpie/package.json"
+          }
+        ],
+        "mcpServers": [],
+        "configuration": {},
+        "environment": [],
+        "platforms": [
+          "win32"
+        ],
+        "requiredCommands": []
+      },
+      "files": [
+        {
+          "path": "README.md",
+          "bytes": 3282,
+          "sha256": "242714bfaf0071285c730521d762af91ec2a78295ea53cff74223995b348b2b1"
+        },
+        {
+          "path": "instructions.md",
+          "bytes": 2113,
+          "sha256": "31c36d6da19344fecbdcdbbe0a1dec0c626b52bfb9d66d615037fad06324e87f"
+        },
+        {
+          "path": "resources/magpie/package.json",
+          "bytes": 249,
+          "sha256": "f98e11469c3c28dbbc48097f778b7a785bd533dd58e8f553d4a68df9a2b0037f"
+        },
+        {
+          "path": "resources/magpie/yan.agent.js",
+          "bytes": 873,
+          "sha256": "c4563337247e56d2acf5b90aa746043ddf55fe7ebd26f1ffc2a11ecb3f6a64ed"
+        },
+        {
+          "path": "yan-plugin.json",
+          "bytes": 619,
+          "sha256": "684fbc845b800c7b25729872a9da97e76f87b747164dc0136fe2ffebe178637b"
+        }
+      ]
     }
   ]
 }
