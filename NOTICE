@@ -1,0 +1,24 @@
+Evans 红队指南 · Yan 适配版 0.1.0
+
+用户指定来源：https://github.com/BWF3rdTeam/Evans-repo
+上游归档版本：1.1.71-rc2.1
+归档提交：adfc90640035acbe84998c18adf81c2d2a4f23cc
+
+原仓库 LICENSE 的署名：
+Copyright (c) 2026 小杨
+Copyright (c) 2026 巴里啊啊
+
+README 的分支说明提及：
+https://github.com/HunYiSage/dsh-purge
+https://github.com/evan545295555-hash/Evans-repo
+README 的署名要求另列出：https://github.com/YuJunZhiXue/dsh-purge
+
+仓库 docs/redteam-upstream-LICENSE 的署名：
+Copyright (c) 2026 Jueze-2019
+对应声明列出的来源：https://github.com/Jueze-2019/dsh-redteam-mode
+
+本包 resources/guides/ 下的 23 份 Markdown 为上游原文的逐字节副本。
+本次新增：Yan 原生清单、技能入口、适配说明、目录和校验信息。
+本次未移植：宿主补丁、默认提示词注入、DSH 界面、Cordis 服务、SQLite 资产库。
+原始仓库单独存档；它不是可直接导入 Yan 的原生插件。
+本次适配不声称拥有上游作者身份，也不声称上游或 Yan 官方认可。
