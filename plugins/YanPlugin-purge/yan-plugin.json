@@ -1,0 +1,291 @@
+{
+  "schemaVersion": 1,
+  "id": "YanPlugin-purge",
+  "version": "0.1.0",
+  "name": "YanPlugin-purge",
+  "description": "Evans-repo 23 份完整红队操作指南及 Yan 使用映射；文档/技能适配，不含 DSH 宿主补丁或运行时。",
+  "author": "Community adapter; upstream 小杨 / 巴里啊啊 / Jueze-2019",
+  "license": "MIT",
+  "instructions": "instructions.md",
+  "skills": [
+    {
+      "id": "purge-active-scan",
+      "name": "Purge · active-scan",
+      "description": "active-scan 指南；需要确认资产存活与开放端口时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/active-scan/SKILL.md"
+    },
+    {
+      "id": "purge-asset-correlation",
+      "name": "Purge · asset-correlation",
+      "description": "asset-correlation 指南；信息收集阶段性收口，需要形成资产关系视图时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/asset-correlation/SKILL.md"
+    },
+    {
+      "id": "purge-browser-automation",
+      "name": "Purge · browser-automation",
+      "description": "browser-automation 指南；需要渲染 SPA / 取 JS 生成的内容 / 截图留证 / 批量抓页面时（Kimi 扩展不可用时首选）。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/browser-automation/SKILL.md"
+    },
+    {
+      "id": "purge-chisel-tunnel",
+      "name": "Purge · chisel-tunnel",
+      "description": "chisel-tunnel 指南；suo5 不适用（非 WebShell 入口）、目标只能出 HTTP、需要端口转发或稳定 SOCKS 时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/chisel-tunnel/SKILL.md"
+    },
+    {
+      "id": "purge-cn-proxy-pool",
+      "name": "Purge · cn-proxy-pool",
+      "description": "cn-proxy-pool 指南；目标有 WAF/封 IP 风险，或需要高频请求（接口爆破、目录扫描、口令喷洒）时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/cn-proxy-pool/SKILL.md"
+    },
+    {
+      "id": "purge-credential-attack",
+      "name": "Purge · credential-attack",
+      "description": "credential-attack 指南；发现登录入口（Web 后台/SSH/FTP/RDP/SMB/MySQL/MSSQL/Redis）需要试口令；或已拿到哈希/密文需要还原明文。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/credential-attack/SKILL.md"
+    },
+    {
+      "id": "purge-dir-bruteforce",
+      "name": "Purge · dir-bruteforce",
+      "description": "dir-bruteforce 指南；已确认 Web 存活但指纹无直接 Nday 线索；需要找后台入口、备份、配置、源码、上传点等隐藏路径。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/dir-bruteforce/SKILL.md"
+    },
+    {
+      "id": "purge-fofa-recon",
+      "name": "Purge · fofa-recon",
+      "description": "fofa-recon 指南；信息收集阶段需要快速铺开某单位/域名的互联网资产面时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/fofa-recon/SKILL.md"
+    },
+    {
+      "id": "purge-frp-tunnel",
+      "name": "Purge · frp-tunnel",
+      "description": "frp-tunnel 指南；已有命令执行/RCE 且目标可出网；需要长期稳定隧道、把内网端口映射给用户直接访问时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/frp-tunnel/SKILL.md"
+    },
+    {
+      "id": "purge-fscan-intranet",
+      "name": "Purge · fscan-intranet",
+      "description": "fscan-intranet 指南；进入内网（跳板机/WebShell/socks5 隧道）后快速铺开资产面、找弱口令与未授权、把可达性变成可打点。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/fscan-intranet/SKILL.md"
+    },
+    {
+      "id": "purge-gogo-intranet",
+      "name": "Purge · gogo-intranet",
+      "description": "gogo-intranet 指南；进入内网后对大网段（/16 /12）快速测绘、要指纹与关键信息、需要尽量少发包不被发现。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/gogo-intranet/SKILL.md"
+    },
+    {
+      "id": "purge-kimi-webbridge",
+      "name": "Purge · kimi-webbridge",
+      "description": "kimi-webbridge 指南；需要复用浏览器登录态访问后台/需要 JS 渲染的页面/需要真实浏览器指纹时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/kimi-webbridge/SKILL.md"
+    },
+    {
+      "id": "purge-lateral-movement",
+      "name": "Purge · lateral-movement",
+      "description": "lateral-movement 指南；已进内网，需要用已有凭据或哈希横向到其它主机、枚举域环境、dump 凭据、找域控路径。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/lateral-movement/SKILL.md"
+    },
+    {
+      "id": "purge-nuclei-scan",
+      "name": "Purge · nuclei-scan",
+      "description": "nuclei-scan 指南；漏洞发现阶段拿到存活资产清单后，做 Nday/1day 批量检测；或已知组件版本想快速确认是否有现成模板。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/nuclei-scan/SKILL.md"
+    },
+    {
+      "id": "purge-passive-recon",
+      "name": "Purge · passive-recon",
+      "description": "passive-recon 指南；需要在不暴露自身的情况下收集目标资产情报时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/passive-recon/SKILL.md"
+    },
+    {
+      "id": "purge-recon-pipeline",
+      "name": "Purge · recon-pipeline",
+      "description": "recon-pipeline 指南；信息收集阶段拿到域名/单位名后，系统化铺开子域→解析→端口→存活→页面与接口。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/recon-pipeline/SKILL.md"
+    },
+    {
+      "id": "purge-redteam-setup",
+      "name": "Purge · redteam-setup",
+      "description": "redteam-setup 指南；用户第一次使用红队模式时；或 redteam_preflight 报出 onboarding.incomplete / 有技能 broken 时；或用户说\"环境没配好\"\"工具装一下\"。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/redteam-setup/SKILL.md"
+    },
+    {
+      "id": "purge-shell-handler",
+      "name": "Purge · shell-handler",
+      "description": "shell-handler 指南；需要 RCE/命令执行回连、投递后续载荷、把一次性命令执行变成可交互会话时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/shell-handler/SKILL.md"
+    },
+    {
+      "id": "purge-suo5-tunnel",
+      "name": "Purge · suo5-tunnel",
+      "description": "suo5-tunnel 指南；已拿到一台机器（WebShell/RCE）需要进入内网扫描与横向时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/suo5-tunnel/SKILL.md"
+    },
+    {
+      "id": "purge-unauth-exploit",
+      "name": "Purge · unauth-exploit",
+      "description": "unauth-exploit 指南；fscan/nmap 发现暴露的数据库与中间件端口（6379/3306/1433/9200/27017/2375），或 Web 侧发现未授权接口。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/unauth-exploit/SKILL.md"
+    },
+    {
+      "id": "purge-vps-reverse-shell",
+      "name": "Purge · vps-reverse-shell",
+      "description": "vps-reverse-shell 指南；目标无法回连本机 / 需要公网固定监听端口 / 需要长期在线跳板 / 需要让智能体自己下发命令到反弹 Shell。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/vps-reverse-shell/SKILL.md"
+    },
+    {
+      "id": "purge-web-fingerprint",
+      "name": "Purge · web-fingerprint",
+      "description": "web-fingerprint 指南；已发现 HTTP/HTTPS 服务，需要识别技术栈时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/web-fingerprint/SKILL.md"
+    },
+    {
+      "id": "purge-webshell-toolkit",
+      "name": "Purge · webshell-toolkit",
+      "description": "webshell-toolkit 指南；已获得上传点/文件写入/命令执行，需要落地并操作 WebShell 时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/webshell-toolkit/SKILL.md"
+    }
+  ],
+  "resources": [
+    {
+      "id": "yan-adaptation",
+      "name": "Yan 使用映射",
+      "path": "resources/yan-adaptation.md"
+    },
+    {
+      "id": "guide-index",
+      "name": "23 份指南目录",
+      "path": "guide-index.md"
+    },
+    {
+      "id": "source-provenance",
+      "name": "来源与逐文件校验值",
+      "path": "source-provenance.json"
+    },
+    {
+      "id": "guide-active-scan",
+      "name": "active-scan 上游完整指南",
+      "path": "resources/guides/active-scan.md"
+    },
+    {
+      "id": "guide-asset-correlation",
+      "name": "asset-correlation 上游完整指南",
+      "path": "resources/guides/asset-correlation.md"
+    },
+    {
+      "id": "guide-browser-automation",
+      "name": "browser-automation 上游完整指南",
+      "path": "resources/guides/browser-automation.md"
+    },
+    {
+      "id": "guide-chisel-tunnel",
+      "name": "chisel-tunnel 上游完整指南",
+      "path": "resources/guides/chisel-tunnel.md"
+    },
+    {
+      "id": "guide-cn-proxy-pool",
+      "name": "cn-proxy-pool 上游完整指南",
+      "path": "resources/guides/cn-proxy-pool.md"
+    },
+    {
+      "id": "guide-credential-attack",
+      "name": "credential-attack 上游完整指南",
+      "path": "resources/guides/credential-attack.md"
+    },
+    {
+      "id": "guide-dir-bruteforce",
+      "name": "dir-bruteforce 上游完整指南",
+      "path": "resources/guides/dir-bruteforce.md"
+    },
+    {
+      "id": "guide-fofa-recon",
+      "name": "fofa-recon 上游完整指南",
+      "path": "resources/guides/fofa-recon.md"
+    },
+    {
+      "id": "guide-frp-tunnel",
+      "name": "frp-tunnel 上游完整指南",
+      "path": "resources/guides/frp-tunnel.md"
+    },
+    {
+      "id": "guide-fscan-intranet",
+      "name": "fscan-intranet 上游完整指南",
+      "path": "resources/guides/fscan-intranet.md"
+    },
+    {
+      "id": "guide-gogo-intranet",
+      "name": "gogo-intranet 上游完整指南",
+      "path": "resources/guides/gogo-intranet.md"
+    },
+    {
+      "id": "guide-kimi-webbridge",
+      "name": "kimi-webbridge 上游完整指南",
+      "path": "resources/guides/kimi-webbridge.md"
+    },
+    {
+      "id": "guide-lateral-movement",
+      "name": "lateral-movement 上游完整指南",
+      "path": "resources/guides/lateral-movement.md"
+    },
+    {
+      "id": "guide-nuclei-scan",
+      "name": "nuclei-scan 上游完整指南",
+      "path": "resources/guides/nuclei-scan.md"
+    },
+    {
+      "id": "guide-passive-recon",
+      "name": "passive-recon 上游完整指南",
+      "path": "resources/guides/passive-recon.md"
+    },
+    {
+      "id": "guide-recon-pipeline",
+      "name": "recon-pipeline 上游完整指南",
+      "path": "resources/guides/recon-pipeline.md"
+    },
+    {
+      "id": "guide-redteam-setup",
+      "name": "redteam-setup 上游完整指南",
+      "path": "resources/guides/redteam-setup.md"
+    },
+    {
+      "id": "guide-shell-handler",
+      "name": "shell-handler 上游完整指南",
+      "path": "resources/guides/shell-handler.md"
+    },
+    {
+      "id": "guide-suo5-tunnel",
+      "name": "suo5-tunnel 上游完整指南",
+      "path": "resources/guides/suo5-tunnel.md"
+    },
+    {
+      "id": "guide-unauth-exploit",
+      "name": "unauth-exploit 上游完整指南",
+      "path": "resources/guides/unauth-exploit.md"
+    },
+    {
+      "id": "guide-vps-reverse-shell",
+      "name": "vps-reverse-shell 上游完整指南",
+      "path": "resources/guides/vps-reverse-shell.md"
+    },
+    {
+      "id": "guide-web-fingerprint",
+      "name": "web-fingerprint 上游完整指南",
+      "path": "resources/guides/web-fingerprint.md"
+    },
+    {
+      "id": "guide-webshell-toolkit",
+      "name": "webshell-toolkit 上游完整指南",
+      "path": "resources/guides/webshell-toolkit.md"
+    }
+  ],
+  "mcpServers": [],
+  "configuration": {},
+  "environment": [],
+  "platforms": [
+    "win32",
+    "darwin",
+    "linux"
+  ],
+  "requiredCommands": []
+}
