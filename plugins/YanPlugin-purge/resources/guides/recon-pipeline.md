@@ -1,1 +1,111 @@
-LS0tCm5hbWU6IHJlY29uLXBpcGVsaW5lCmRlc2NyaXB0aW9uOiBQcm9qZWN0RGlzY292ZXJ5IOS/oeaBr+aUtumbhua1geawtOe6v++8mnN1YmZpbmRlcuKGkmRuc3jihpJuYWFideKGkmh0dHB44oaSa2F0YW5hIOS4gOmUrumTuuW8gOWfn+WQjei1hOS6p+mdogp3aGVuVG9Vc2U6IOS/oeaBr+aUtumbhumYtuauteaLv+WIsOWfn+WQjS/ljZXkvY3lkI3lkI7vvIzns7vnu5/ljJbpk7rlvIDlrZDln5/ihpLop6PmnpDihpLnq6/lj6PihpLlrZjmtLvihpLpobXpnaLkuI7mjqXlj6MKcm9sZTogcmVjb24KZW5hYmxlZDogdHJ1ZQotLS0KCiMg5aSW6YOo5L+h5oGv5pS26ZuG5rWB5rC057q/77yIUHJvamVjdERpc2NvdmVyee+8iQoK5oqKIuS4gOS4quWfn+WQjSLlj5jmiJAi5LiA5Lu95bim5qCH6aKY44CB5oqA5pyv5qCI44CB56uv5Y+j55qE5a2Y5rS76LWE5Lqn5riF5Y2VIu+8jOaYr+S/oeaBr+aUtumbhumYtuauteeahOagh+WHhuWKqOS9nOOAggrlm5vkuKrlt6XlhbcqKuacieWbuuWumumhuuW6jyoq77ya5YWI5p6a5Li+5a2Q5Z+fIOKGkiDlho3op6PmnpAg4oaSIOWGjeaOouerr+WPoyDihpIg5YaN5Yik5a2Y5rS7IOKGkiDmnIDlkI7mipPpobXpnaLkuI7mjqXlj6PjgIIKCiMjIOacrOacuuW3peWFtwoKfCDlt6XlhbcgfCDot6/lvoQgfCDniYjmnKwgfCDkvZznlKggfAp8IC0tLSB8IC0tLSB8IC0tLSB8IC0tLSB8Cnwgc3ViZmluZGVyIHwgYCREU0hfSE9NRS9yZWR0ZWFtL3Rvb2xraXQvc3ViZmluZGVyL3N1YmZpbmRlcmAgfCB2Mi4xNi4wIHwg6KKr5Yqo5a2Q5Z+f5p6a5Li+77yI5aSa5rqQ6IGa5ZCI77yJIHwKfCBkbnN4IHwgYCREU0hfSE9NRS9yZWR0ZWFtL3Rvb2xraXQvZG5zeC9kbnN4YCB8IHYxLjMuMSB8IOaJuemHj+ino+aekOOAgUROUyDniIbnoLTjgIHms5vop6PmnpDov4fmu6QgfAp8IG5hYWJ1IHwgYCREU0hfSE9NRS9yZWR0ZWFtL3Rvb2xraXQvbmFhYnUvbmFhYnVgIHwgdjIuNi4xIHwg6auY6YCf56uv5Y+j5omr5o+P77yIU1lOIOmcgCByb29077yM5ZCm5YiZIGAtc2Nhbi10eXBlIGNg77yJIHwKfCBodHRweCB8IGAkRFNIX0hPTUUvcmVkdGVhbS90b29sa2l0L2h0dHB4L2h0dHB4YO+8iOWMheijheWZqCBgfi8ubG9jYWwvYmluL3BkLWh0dHB4YO+8iSB8IHYxLjEyLjAgfCBIVFRQIOWtmOa0uy/moIfpopgv5oqA5pyv5qCIL+eKtuaAgeeggSB8Cnwga2F0YW5hIHwg4p2MIOacquWuieijhe+8iOWmgumcgOaKk+WPlueUqOaKgOiDvSBgYnJvd3Nlci1hdXRvbWF0aW9uYO+8iSB8IOKAlCB8IOeIrOiZq+aKk+mhtemdouS4juaOpeWPoyB8Cnwga3N1YmRvbWFpbiB8IGAkRFNIX0hPTUUvcmVkdGVhbS90b29sa2l0L2tzdWJkb21haW4va3N1YmRvbWFpbmAgfCB2MC43IHwg5peg54q25oCB5a2Q5Z+f54iG56C077yI5q+UIGRuc3gg54iG56C05b+r77yJIHwKfCBPbmVGb3JBbGwgfCBgJERTSF9IT01FL3JlZHRlYW0vdG9vbGtpdC9vbmVmb3JhbGwvT25lRm9yQWxsLTAuNC41L2DvvIjmupDnoIHvvIzpnIAgYC52ZW52YO+8iSB8IHYwLjQuNSB8IOWtkOWfn+aUtumbhuWFqOWutuahtu+8iOWtl+WFuOWkp++8jOaFouS9huWFqO+8iSB8Cgo+IOKaoO+4jyAqKmAvdXNyL2Jpbi9odHRweGAg5pivIFB5dGhvbiBodHRweCDlupPnmoQgQ0xJ77yM5LiN5pivIFByb2plY3REaXNjb3Zlcnkg55qEKirigJTigJTlv4XpobvnlKggYHBkLWh0dHB4YCDmiJbnu53lr7not6/lvoTjgIIKCiMjIOagh+WHhua1geawtOe6vwoKYGBgYmFzaApta2RpciAtcCBydW5zClRLPSREU0hfSE9NRS9yZWR0ZWFtL3Rvb2xraXQKRD1leGFtcGxlLmNvbQoKIyDikaAg5a2Q5Z+f5p6a5Li+77yI6KKr5Yqo77yM5aSa5rqQ77yJCiRUSy9zdWJmaW5kZXIvc3ViZmluZGVyIC1kICREIC1hbGwgLXNpbGVudCAtbyBydW5zL3N1YmZpbmRlci0kRC50eHQKIyDooaXlhYXvvJrml6DnirbmgIHniIbnoLTvvIjmnInlrZflhbjml7bvvIkKIyAkVEsva3N1YmRvbWFpbi9rc3ViZG9tYWluIC1kICREIC1mIC91c3Ivc2hhcmUvc2VjbGlzdHMvRGlzY292ZXJ5L0ROUy9zdWJkb21haW5zLXRvcDFtaWxsaW9uLTIwMDAwLnR4dAoKIyDikaEg5rOb6Kej5p6Q6L+H5rukICsg6Kej5p6Q5a2Y5rS777yIZG5zeCDkvJrliZTpmaTms5vop6PmnpDlmarlo7DvvIzov5nkuIDmraXlvojlhbPplK7vvIkKY2F0IHJ1bnMvc3ViZmluZGVyLSRELnR4dCB8ICRUSy9kbnN4L2Ruc3ggLXNpbGVudCAtYSAtcmVzcCAtbyBydW5zL2Ruc3gtJEQudHh0CmF3ayAne3ByaW50ICQxfScgcnVucy9kbnN4LSRELnR4dCB8IHNvcnQgLXUgPiBydW5zL2FsaXZlLWRvbWFpbnMtJEQudHh0CgojIOKRoiDnq6/lj6Pmiavmj4/vvIjlhYggdG9wMTAwIOW/q+mAn+i/h+S4gOmBje+8jOWGjeWvueWtmOa0u+S4u+acuuaJq+WFqOerr+WPo++8iQokVEsvbmFhYnUvbmFhYnUgLWwgcnVucy9hbGl2ZS1kb21haW5zLSRELnR4dCAtdG9wLXBvcnRzIDEwMCAtc2lsZW50IC1vIHJ1bnMvbmFhYnUtJEQudHh0CiMg5YWo56uv5Y+j77yI5oWi77yM56Gu6K6k5Zyo6IyD5Zu05YaF5YaN5YGa77yJ77yaLXAgLSAtcmF0ZSAxMDAwCgojIOKRoyBIVFRQIOWtmOa0u+S4juaMh+e6ue+8iOagh+mimC/nirbmgIHnoIEv5oqA5pyv5qCIL+acjeWKoeWZqO+8iQokVEsvaHR0cHgvaHR0cHggLWwgcnVucy9hbGl2ZS1kb21haW5zLSRELnR4dCAtcG9ydHMgODAsNDQzLDgwODAsODQ0Myw4MDAwLDg4ODgsOTAwMCBcCiAgLXRpdGxlIC1zdGF0dXMtY29kZSAtdGVjaC1kZXRlY3QgLXdlYi1zZXJ2ZXIgLWZvbGxvdy1yZWRpcmVjdHMgLXNpbGVudCBcCiAgLWpzb24gLW8gcnVucy9odHRweC0kRC5qc29ubAoKIyDikaQg5pW055CG5oiQ6LWE5Lqn5riF5Y2V77yIVVJMIOa4heWNlee7meebruW9leeIhuegtC/mvI/mtJ7miavmj4/nlKjvvIkKcHl0aG9uMyAtIDw8J1BZJwppbXBvcnQganNvbgpvdXQ9c2V0KCkKZm9yIGxpbmUgaW4gb3BlbigncnVucy9odHRweC0nKyckRCcrJy5qc29ubCcpOgogICAgdHJ5OiBqPWpzb24ubG9hZHMobGluZSkKICAgIGV4Y2VwdDogY29udGludWUKICAgIGlmIGouZ2V0KCd1cmwnKTogb3V0LmFkZChqWyd1cmwnXSkKb3BlbigncnVucy9hbGl2ZS11cmxzLnR4dCcsJ3cnKS53cml0ZSgnXG4nLmpvaW4oc29ydGVkKG91dCkpKQpwcmludCgn5a2Y5rS7IFVSTDonLCBsZW4ob3V0KSkKUFkKYGBgCgojIyDljZXmnaHlkb3ku6TpgJ/mn6XvvIjkuI3mg7Pot5HlhajmtYHnqIvml7bvvIkKCmBgYGJhc2gKIyDlj6ropoHlrZDln58KJFRLL3N1YmZpbmRlci9zdWJmaW5kZXIgLWQgZXhhbXBsZS5jb20gLWFsbCAtc2lsZW50CgojIOWPquimgeWtmOa0uyBVUkzvvIjlt7LmnInln5/lkI3muIXljZXvvIkKcGQtaHR0cHggLWwgZG9tYWlucy50eHQgLXNpbGVudCAtbyBhbGl2ZS50eHQKCiMg5Y+q6KaB56uv5Y+j77yI5Y2VIElQ77yM5YWo56uv5Y+j77yJCm5tYXAgLXNTIC1wLSAtLW1pbi1yYXRlIDEwMDAgLVQ0IDEuMi4zLjQgLW9YIHJ1bnMvbm1hcC0xLjIuMy40LnhtbCAgICMg5oqA6IO9IGFjdGl2ZS1zY2FuCiRUSy9uYWFidS9uYWFidSAtaG9zdCAxLjIuMy40IC1wIC0gLXJhdGUgMTAwMCAtc2lsZW50CmBgYAoKIyMg5LiO5YW25a6D5oqA6IO955qE5YiG5belCgp8IOWcuuaZryB8IOeUqOWTquS4qiB8CnwgLS0tIHwgLS0tIHwKfCDljZXkvY3lkI0v5Z+f5ZCNIOKGkiDkupLogZTnvZHotYTkuqfpnaLvvIjlkKvmnKrlpIfmoYjjgIHlkIzkuLvkvZPvvIkgfCAqKmBmb2ZhLXJlY29uYCoq77yI5rWL57uY77yM5om+5b6X5pyA5YWo77yJIHwKfCDln5/lkI0g4oaSIOWtkOWfnyDihpIg5a2Y5rS7IOKGkiDmjIfnurkgfCAqKuacrOaKgOiDvSoq77yI5rWB5rC057q/77yM5qCH5YeG5YyW77yJIHwKfCDkuI3mjqXop6bnm67moIfvvIjnuq/ooqvliqjvvIkgfCBgcGFzc2l2ZS1yZWNvbmDvvIhjcnQuc2gvZGlnL3dob2lz77yJIHwKfCDlhoXnvZHlpKfnvZHmrrXmtYvnu5ggfCBgZ29nby1pbnRyYW5ldGDvvIgqKuS4jeimgeeUqOacrOaKgOiDveaJk+WGhee9kSoq77yJIHwKfCBTUOKAi0EvSlMg5riy5p+T6aG16Z2i44CB5o6l5Y+j5riF5Y2VIHwgYGJyb3dzZXItYXV0b21hdGlvbmAgLyBga2ltaS13ZWJicmlkZ2VgIHwKfCDlrZjmtLvkuLvmnLrnq6/lj6Mv5pyN5Yqh54mI5pysIHwgYGFjdGl2ZS1zY2FuYO+8iG5tYXAvbWFzc2Nhbu+8iSB8CgoqKuaOqOiNkOmhuuW6jyoq77yaYGZvZmEtcmVjb25gIOmTuumdou+8iOaLv+WNleS9jei1hOS6p+WFqOaZr++8ieKGkiDmnKzmioDog73lr7nmr4/kuKrln5/lkI3lgZrmtYHmsLTnur/vvIjmi7/lrZjmtLvkuI7mjIfnurnvvInihpIgYGFjdGl2ZS1zY2FuYCDlr7nph43ngrkgSVAg5a6a54mI5pys44CCCgojIyDnuqrlvosKCjEuICoq5Y+q5rWL5o6I5p2D6IyD5Zu05YaF55uu5qCHKirvvJpuYWFidSDlhajnq6/lj6PjgIFrc3ViZG9tYWluIOeIhuegtOmDveWxnuS6jioq5Li75YqoKirooYzkuLrvvIznoa7orqTlnKjojIPlm7TlhoXlho3lgZrjgIIKMi4gKirpmZDpgJ8qKu+8mmBuYWFidSAtcmF0ZSAxMDAwYCDotbfmraXvvJtgc3ViZmluZGVyYCDnlKjooqvliqjmupDkuI3liqAgYC1hbGxgIOaXtuabtOWuiemdme+8iOmFjeminea2iOiAl+S5n+Wwke+8ieOAggozLiAqKuazm+ino+aekCoq77yaYGRuc3hgIOS8mui/h+a7pO+8m+WmguaenOe7k+aenOmHjOWHuueOsOWkp+mHj+WQjCBJUCDnmoTpmo/mnLrlrZDln5/vvIzor7TmmI7nm67moIfmnInms5vop6PmnpDvvIzmlLnnlKggYC13ZGAg5oiW5o2i54iG56C05a2X5YW444CCCjQuICoqQVBJIGtlee+8iOWPr+mAieWinuW8uu+8iSoq77yaYHN1YmZpbmRlcmAg6YWN572uIGB+Ly5jb25maWcvc3ViZmluZGVyL3Byb3ZpZGVyLWNvbmZpZy55YW1sYCDlj6/mjqUKICAgU2hvZGFuL0NlbnN5cy9WaXJ1c1RvdGFsIOetiea6kO+8iCoq6ZyA6KaB55So5oi35o+Q5L6bIGtleSoq77yM6KeB5oqA6IO9IGByZWR0ZWFtLXNldHVwYO+8ie+8m+ayoSBrZXkg5Lmf6IO955So5YWN6LS55rqQ44CCCgojIyDovpPlh7rkuI7okL3lupPvvIjlvLrliLbvvIkKCjEuICoq6YCQ5p2hIGByZWR0ZWFtX2Fzc2V0X2FkZGAqKu+8mmB0YXJnZXRg77yI5Z+f5ZCNL0lQ77yJ44CBYG5hbWVzYO+8iOWfn+WQje+8ieOAgWBwb3J0c2DvvIjluKYgYHVybD1ob3N0YOOAgWB0aXRsZWDjgIFgcHJvZHVjdD1zZXJ2ZXJg77yJ44CBCiAgIGBwcm92ZW5hbmNlPXBhc3NpdmVg77yIc3ViZmluZGVyL2Ruc3gg6Zi25q6177yJ5oiWIGBhY3RpdmVg77yIbmFhYnUvaHR0cHgg5Li75Yqo5o6i5rWL77yJ44CBYHRvb2xg77yI5YW35L2T5bel5YW35ZCN77yJ44CCCjIuICoq5oyJIC8yNCDoh6rliqjlu7ogQyDmrrUqKu+8iGByZWR0ZWFtX2Fzc2V0X2FkZGAg5bey6Ieq5Yqo5aSE55CG77yJ4oaSIOeUqCBgcmVkdGVhbV9hc3NldF9saW5rYCDlu7rnq4sKICAgYHJlc29sdmVzYO+8iOWfn+WQjeKGkklQ77yJ44CBYGNvbnRhaW5zYO+8iEMg5q614oaSSVDvvInlhbPns7vvvIzlvaLmiJDlm77osLHvvIjmioDog70gYGFzc2V0LWNvcnJlbGF0aW9uYO+8ieOAggozLiDmr4/kuKrpmLbmrrUgYHJlZHRlYW1fY2hhaW5fYWRkYO+8mmBzdGFnZV9jb2RlPXJlY29uYO+8jGB0b29sYCDlhpnlrp7pmYXlkb3ku6Tljp/mlofvvIxgcmVzdWx0YCDlhpnmlbDph4/mkZjopoEKICAg77yI5aaCIGBzdWJmaW5kZXIg5ZG95LitIDQyIOS4quWtkOWfnyDihpIgZG5zeCDlrZjmtLsgMzEg4oaSIG5hYWJ1IOW8gOaUviA4NyDnq6/lj6Mg4oaSIGh0dHB4IOWtmOa0uyAxOSDkuKrnq5nngrlg77yJ44CCCjQuICoq6YeN54K55qCH5rOo6L6557yY6LWE5LqnKirvvJrmtYvor5Uv6aKE5Y+R546v5aKD77yIdGVzdC9kZXYvdWF0L3ByZS9zdGFnaW5n77yJ44CB6ICB5pen57O757uf44CB6Z2e5qCH5YeG56uv5Y+j44CBCiAgIOmdnuWkh+ahiOS4u+S9k+S9huWQjCBDIOautS9JUCDnmoTnq5nngrnigJTigJTlhpnov5sgYG5vdGVg77yM6L+Z5Lqb5piv6LWE5Lqn5qKz55CG6Zi25q6155qE6auY5LyY5YWI57qn55uu5qCH44CCCjUuIOe7k+iuuue7meaMh+aMpeiAheaXtioq57uZ5pWw5a2XKirvvJrlrZDln5/mlbAgLyDlrZjmtLsgSVAg5pWwIC8g5byA5pS+56uv5Y+j5pWwIC8g5a2Y5rS756uZ54K55pWwIC8g5YW25Lit6auY5LyY5YWI57qn5Yeg5p2h44CCCg==
+---
+name: recon-pipeline
+description: ProjectDiscovery 信息收集流水线：subfinder→dnsx→naabu→httpx→katana 一键铺开域名资产面
+whenToUse: 信息收集阶段拿到域名/单位名后，系统化铺开子域→解析→端口→存活→页面与接口
+role: recon
+enabled: true
+---
+
+# 外部信息收集流水线（ProjectDiscovery）
+
+把"一个域名"变成"一份带标题、技术栈、端口的存活资产清单"，是信息收集阶段的标准动作。
+四个工具**有固定顺序**：先枚举子域 → 再解析 → 再探端口 → 再判存活 → 最后抓页面与接口。
+
+## 本机工具
+
+| 工具 | 路径 | 版本 | 作用 |
+| --- | --- | --- | --- |
+| subfinder | `$DSH_HOME/redteam/toolkit/subfinder/subfinder` | v2.16.0 | 被动子域枚举（多源聚合） |
+| dnsx | `$DSH_HOME/redteam/toolkit/dnsx/dnsx` | v1.3.1 | 批量解析、DNS 爆破、泛解析过滤 |
+| naabu | `$DSH_HOME/redteam/toolkit/naabu/naabu` | v2.6.1 | 高速端口扫描（SYN 需 root，否则 `-scan-type c`） |
+| httpx | `$DSH_HOME/redteam/toolkit/httpx/httpx`（包装器 `~/.local/bin/pd-httpx`） | v1.12.0 | HTTP 存活/标题/技术栈/状态码 |
+| katana | ❌ 未安装（如需抓取用技能 `browser-automation`） | — | 爬虫抓页面与接口 |
+| ksubdomain | `$DSH_HOME/redteam/toolkit/ksubdomain/ksubdomain` | v0.7 | 无状态子域爆破（比 dnsx 爆破快） |
+| OneForAll | `$DSH_HOME/redteam/toolkit/oneforall/OneForAll-0.4.5/`（源码，需 `.venv`） | v0.4.5 | 子域收集全家桶（字典大，慢但全） |
+
+> ⚠️ **`/usr/bin/httpx` 是 Python httpx 库的 CLI，不是 ProjectDiscovery 的**——必须用 `pd-httpx` 或绝对路径。
+
+## 标准流水线
+
+```bash
+mkdir -p runs
+TK=$DSH_HOME/redteam/toolkit
+D=example.com
+
+# ① 子域枚举（被动，多源）
+$TK/subfinder/subfinder -d $D -all -silent -o runs/subfinder-$D.txt
+# 补充：无状态爆破（有字典时）
+# $TK/ksubdomain/ksubdomain -d $D -f /usr/share/seclists/Discovery/DNS/subdomains-top1million-20000.txt
+
+# ② 泛解析过滤 + 解析存活（dnsx 会剔除泛解析噪声，这一步很关键）
+cat runs/subfinder-$D.txt | $TK/dnsx/dnsx -silent -a -resp -o runs/dnsx-$D.txt
+awk '{print $1}' runs/dnsx-$D.txt | sort -u > runs/alive-domains-$D.txt
+
+# ③ 端口扫描（先 top100 快速过一遍，再对存活主机扫全端口）
+$TK/naabu/naabu -l runs/alive-domains-$D.txt -top-ports 100 -silent -o runs/naabu-$D.txt
+# 全端口（慢，确认在范围内再做）：-p - -rate 1000
+
+# ④ HTTP 存活与指纹（标题/状态码/技术栈/服务器）
+$TK/httpx/httpx -l runs/alive-domains-$D.txt -ports 80,443,8080,8443,8000,8888,9000 \
+  -title -status-code -tech-detect -web-server -follow-redirects -silent \
+  -json -o runs/httpx-$D.jsonl
+
+# ⑤ 整理成资产清单（URL 清单给目录爆破/漏洞扫描用）
+python3 - <<'PY'
+import json
+out=set()
+for line in open('runs/httpx-'+'$D'+'.jsonl'):
+    try: j=json.loads(line)
+    except: continue
+    if j.get('url'): out.add(j['url'])
+open('runs/alive-urls.txt','w').write('\n'.join(sorted(out)))
+print('存活 URL:', len(out))
+PY
+```
+
+## 单条命令速查（不想跑全流程时）
+
+```bash
+# 只要子域
+$TK/subfinder/subfinder -d example.com -all -silent
+
+# 只要存活 URL（已有域名清单）
+pd-httpx -l domains.txt -silent -o alive.txt
+
+# 只要端口（单 IP，全端口）
+nmap -sS -p- --min-rate 1000 -T4 1.2.3.4 -oX runs/nmap-1.2.3.4.xml   # 技能 active-scan
+$TK/naabu/naabu -host 1.2.3.4 -p - -rate 1000 -silent
+```
+
+## 与其它技能的分工
+
+| 场景 | 用哪个 |
+| --- | --- |
+| 单位名/域名 → 互联网资产面（含未备案、同主体） | **`fofa-recon`**（测绘，找得最全） |
+| 域名 → 子域 → 存活 → 指纹 | **本技能**（流水线，标准化） |
+| 不接触目标（纯被动） | `passive-recon`（crt.sh/dig/whois） |
+| 内网大网段测绘 | `gogo-intranet`（**不要用本技能打内网**） |
+| SP​A/JS 渲染页面、接口清单 | `browser-automation` / `kimi-webbridge` |
+| 存活主机端口/服务版本 | `active-scan`（nmap/masscan） |
+
+**推荐顺序**：`fofa-recon` 铺面（拿单位资产全景）→ 本技能对每个域名做流水线（拿存活与指纹）→ `active-scan` 对重点 IP 定版本。
+
+## 纪律
+
+1. **只测授权范围内目标**：naabu 全端口、ksubdomain 爆破都属于**主动**行为，确认在范围内再做。
+2. **限速**：`naabu -rate 1000` 起步；`subfinder` 用被动源不加 `-all` 时更安静（配额消耗也少）。
+3. **泛解析**：`dnsx` 会过滤；如果结果里出现大量同 IP 的随机子域，说明目标有泛解析，改用 `-wd` 或换爆破字典。
+4. **API key（可选增强）**：`subfinder` 配置 `~/.config/subfinder/provider-config.yaml` 可接
+   Shodan/Censys/VirusTotal 等源（**需要用户提供 key**，见技能 `redteam-setup`）；没 key 也能用免费源。
+
+## 输出与落库（强制）
+
+1. **逐条 `redteam_asset_add`**：`target`（域名/IP）、`names`（域名）、`ports`（带 `url=host`、`title`、`product=server`）、
+   `provenance=passive`（subfinder/dnsx 阶段）或 `active`（naabu/httpx 主动探测）、`tool`（具体工具名）。
+2. **按 /24 自动建 C 段**（`redteam_asset_add` 已自动处理）→ 用 `redteam_asset_link` 建立
+   `resolves`（域名→IP）、`contains`（C 段→IP）关系，形成图谱（技能 `asset-correlation`）。
+3. 每个阶段 `redteam_chain_add`：`stage_code=recon`，`tool` 写实际命令原文，`result` 写数量摘要
+   （如 `subfinder 命中 42 个子域 → dnsx 存活 31 → naabu 开放 87 端口 → httpx 存活 19 个站点`）。
+4. **重点标注边缘资产**：测试/预发环境（test/dev/uat/pre/staging）、老旧系统、非标准端口、
+   非备案主体但同 C 段/IP 的站点——写进 `note`，这些是资产梳理阶段的高优先级目标。
+5. 结论给指挥者时**给数字**：子域数 / 存活 IP 数 / 开放端口数 / 存活站点数 / 其中高优先级几条。

@@ -1,1 +1,86 @@
-LS0tCm5hbWU6IGtpbWktd2ViYnJpZGdlCmRlc2NyaXB0aW9uOiDnlKjmnIjkuYvmmpfpnaIgS2ltaSDmtY/op4jlmajmianlsZXvvIhXZWJCcmlkZ2XvvInpqbHliqjnlKjmiLfnnJ/lrp4gQ2hyb21lL0Nocm9taXVt77ya5a+86Iiq44CB6K+75Y+W6aG16Z2i44CB54K55Ye744CB5aGr6KGo44CB5omn6KGMIEpT44CB5oiq5Zu+CndoZW5Ub1VzZTog6ZyA6KaB5aSN55So5rWP6KeI5Zmo55m75b2V5oCB6K6/6Zeu5ZCO5Y+wL+mcgOimgSBKUyDmuLLmn5PnmoTpobXpnaIv6ZyA6KaB55yf5a6e5rWP6KeI5Zmo5oyH57q55pe2CnJvbGU6IHJlY29uCmVuYWJsZWQ6IHRydWUKLS0tCgojIEtpbWkgV2ViQnJpZGdl77yI5rWP6KeI5Zmo5omp5bGVICsg5pys5Zyw5a6I5oqk6L+b56iL77yJCgrlt7Llronoo4Xlubbov5DooYzvvJrlrojmiqTov5vnqIsgKip2Mi4wLjgqKu+8iHN5c3RlbWQg5pyN5YqhIGBraW1pLXdlYmJyaWRnZWDvvIzlvIDmnLroh6rlkK/vvInvvIznm5HlkKwgYDEyNy4wLjAuMToxMDA4NmDvvIzkuozov5vliLYgYH4vLmtpbWktd2ViYnJpZGdlL2Jpbi9raW1pLXdlYmJyaWRnZWDjgIIKCiMjIOW9k+WJjeeKtuaAge+8iDIwMjYtMDkg5a6e5rWL77yJCi0g5a6I5oqk6L+b56iL77yaKirnlLEgc3lzdGVtZCDnrqHnkIYqKu+8iGAvZXRjL3N5c3RlbWQvc3lzdGVtL2tpbWktd2ViYnJpZGdlLnNlcnZpY2Vg77yMYGVuYWJsZWRgICsgYGFjdGl2ZWDvvIxgUmVzdGFydD1vbi1mYWlsdXJlYO+8ieOAggogIOafpeeKtuaAge+8mmBzeXN0ZW1jdGwgc3RhdHVzIGtpbWktd2ViYnJpZGdlYO+8m+mHjeWQr+eUqCBgc3VkbyBzeXN0ZW1jdGwgcmVzdGFydCBraW1pLXdlYmJyaWRnZWDjgIIKICAqKuS4jeimgeWGjeaJi+WKqOi3kSBga2ltaS13ZWJicmlkZ2Ugc3RhcnRgL2B1cGdyYWRlYCoq77yM6YKj5Lya6LW35LiA5Liq5ri456a76L+b56iL44CBc3lzdGVtZCDlj43ogIzlj5ggaW5hY3RpdmXvvJvopoHljYfnuqfnlKgKICBgc3VkbyBzeXN0ZW1jdGwgc3RvcCBraW1pLXdlYmJyaWRnZSAmJiB+Ly5raW1pLXdlYmJyaWRnZS9iaW4va2ltaS13ZWJicmlkZ2UgdXBncmFkZSAmJiBzdWRvIHN5c3RlbWN0bCBzdGFydCBraW1pLXdlYmJyaWRnZWDjgIIKLSDmianlsZXvvJoqKktpbWkgV2ViQnJpZGdlIHYyLjAuOO+8jOeUseS8geS4muetlueVpeiHquWKqOS7jiBDaHJvbWUg5bqU55So5ZWG5bqX5a6J6KOFKirvvIjmianlsZUgSUQgYGZsZG1oY2VsZGdicGZwa2Jnb3BhY2VuaWVvYm1saWdjYO+8ieOAggogIOetlueVpeaWh+S7tiBgL2V0Yy9vcHQvY2hyb21lL3BvbGljaWVzL21hbmFnZWQva2ltaS13ZWJicmlkZ2UuanNvbmAg5LiOIGAvZXRjL2Nocm9taXVtL3BvbGljaWVzL21hbmFnZWQva2ltaS13ZWJicmlkZ2UuanNvbmAKICDpg73orr7nva7kuoYgYEV4dGVuc2lvblNldHRpbmdzLmZvcmNlX2luc3RhbGxlZGAgKyBgRXh0ZW5zaW9uSW5zdGFsbEZvcmNlbGlzdGDvvIzmiYDku6UgKipDaHJvbWUgLyBDaHJvbWl1bSDnmoTku7vkvZUgcHJvZmlsZSDmiZPlvIDljbPoh6rluKbmianlsZXjgIHoh6rliqjmm7TmlrDjgIHluLjpqbvlkK/nlKgqKuOAggotIENocm9tZSAxMzcrIOW3suW/veeVpSBgLS1sb2FkLWV4dGVuc2lvbmDvvIhgLS1kaXNhYmxlLWZlYXR1cmVzPeKApmAg55qE6YCD55Sf5Y+j5Lmf5aSx5pWI77yJ77yM5omA5LulKirkuI3opoHlho3otbDop6PljovliqDovb3ot6/nur8qKuOAggotIOiLpSBgc3RhdHVzYCDmmL7npLogYGV4dGVuc2lvbl9jb25uZWN0ZWQ6IGZhbHNlYO+8mjk5JSDlj6rmmK8qKuayoeaciea1j+iniOWZqOWcqOi/kOihjCoq77yM5ZCv5Yqo5Lu75LiA5rWP6KeI5Zmo77yIYGtpbWktY2hyb21lYCDmiJbnm7TmjqXngrkgQ2hyb21lL0Nocm9taXVtIOWbvuagh++8ieWQjiA1IOenkuWGheS8muiHquWKqOi/nuS4iuOAggotIOeugOWNleWPlumhtemdouWGheWuueWPr+S8mOWFiOeUqOaKgOiDvSBgYnJvd3Nlci1hdXRvbWF0aW9uYO+8iOabtOW/q+OAgeS4jeS+nei1lua1j+iniOWZqOeql+WPo++8ie+8myoq6ZyA6KaB5aSN55So55yf5a6e55m75b2V5oCB5pe25b+F6aG755So5pys5oqA6IO9KioKCiMjIOWFiOWGs+adoeS7tgoxLiDlrojmiqTov5vnqIvlt7Lov5DooYzvvJpgfi8ua2ltaS13ZWJicmlkZ2UvYmluL2tpbWktd2ViYnJpZGdlIHN0YXR1c2Ag5bqU5pi+56S6IGAicnVubmluZyI6IHRydWVg77yI5byA5py66Ieq5ZCv77yM5q2j5bi45peg6ZyA5bmy6aKE77yJ44CCCjIuICoq5b+F6aG75pyJ5LiA5Liq5rWP6KeI5Zmo5Zyo6L+Q6KGMKirvvIjmianlsZXlj6rlnKjmtY/op4jlmajov5vnqIvlrZjmtLvml7bnu7TmjIHov57mjqXvvInjgILlkK/liqjlmaggYH4vLmxvY2FsL2Jpbi9raW1pLWNocm9tZWDvvJoKICAgLSDpu5jorqTlkK/liqggQ2hyb21lICoq6buY6K6kIHByb2ZpbGUqKu+8iOW4puecn+WunueZu+W9leaAge+8jOahpeaOpeeahOS7t+WAvOWwseWcqOi/me+8ie+8mwogICAtIGBLSU1JX0JST1dTRVI9Y2hyb21pdW0ga2ltaS1jaHJvbWVgIOaUueeUqCBDaHJvbWl1be+8m2BLSU1JX1BST0ZJTEU9L3BhdGgga2ltaS1jaHJvbWVgIOaMh+WumueLrOeriyBwcm9maWxl77yI5peg55m75b2V5oCB77yJ44CCCjMuIOajgOafpei/nuaOpe+8mgpgYGBiYXNoCmN1cmwgLXMgaHR0cDovLzEyNy4wLjAuMToxMDA4Ni9zdGF0dXMgfCBweXRob24zIC1tIGpzb24udG9vbAojIOW/hemhu+eci+WIsCAiZXh0ZW5zaW9uX2Nvbm5lY3RlZCI6IHRydWXvvIzlkKbliJnlkI7nu63lkb3ku6TkvJrlpLHotKUKYGBgCgojIyDosIPnlKjmlrnlvI8KYGBgYmFzaApXQj1odHRwOi8vMTI3LjAuMC4xOjEwMDg2L2NvbW1hbmQKY2FsbCgpIHsgcHJpbnRmICclcycgIiQyIiA+IC90bXAvd2IuanNvbjsgY3VybCAtcyAtWCBQT1NUICRXQiAtSCAnQ29udGVudC1UeXBlOiBhcHBsaWNhdGlvbi9qc29uJyAtLWRhdGEtYmluYXJ5IEAvdG1wL3diLmpzb247IH0KYGBgCj4g5ZCr5Lit5paH55qEIEpTT04g5LiA5b6L6LWw5Li05pe25paH5Lu2ICsgYC0tZGF0YS1iaW5hcnlg77yM5LiN6KaB55SoIGVjaG8vaGVyZWRvYyDlhoXogZTjgIIKCiMjIyDluLjnlKjliqjkvZwKYGBgYmFzaAojIOaJk+W8gOmhtemdou+8iOaWsOagh+etvu+8iQpjYWxsIG5hdmlnYXRlICd7ImFjdGlvbiI6Im5hdmlnYXRlIiwiYXJncyI6eyJ1cmwiOiJodHRwczovL3RhcmdldC5leGFtcGxlLmNvbS9sb2dpbiIsIm5ld1RhYiI6dHJ1ZSwiZ3JvdXBfdGl0bGUiOiJyZWNvbiJ9LCJzZXNzaW9uIjoicmVjb24xIn0nCgojIOivu+WPlumhtemdoue6r+aWh+acrO+8iOacgOW4uOeUqO+8iQpjYWxsIGV2YWx1YXRlICd7ImFjdGlvbiI6ImV2YWx1YXRlIiwiYXJncyI6eyJjb2RlIjoiKCgpID0+IGRvY3VtZW50LmJvZHkuaW5uZXJUZXh0LnNsaWNlKDAsNjAwMCkpKCkifSwic2Vzc2lvbiI6InJlY29uMSJ9JwoKIyDlj5bml6Dpmpznoo3moJHvvIjluKYgQGUg5YWD57Sg5byV55So77yM5L6/5LqO5ZCO57utIGNsaWNrL2ZpbGzvvIkKY2FsbCBzbmFwc2hvdCAneyJhY3Rpb24iOiJzbmFwc2hvdCIsImFyZ3MiOnt9LCJzZXNzaW9uIjoicmVjb24xIn0nCgojIOaJp+ihjOS7u+aEjyBKU++8muaKk+WJjeerr+aOpeWPo+a4heWNle+8iOS/oeaBr+aUtumbhi/mjqXlj6Plj5HnjrDnpZ7lmajvvIkKY2FsbCBldmFsdWF0ZSAneyJhY3Rpb24iOiJldmFsdWF0ZSIsImFyZ3MiOnsiY29kZSI6IigoKSA9PiB7Y29uc3Qgcz1uZXcgU2V0KCk7Zm9yKGNvbnN0IGUgb2YgcGVyZm9ybWFuY2UuZ2V0RW50cmllc0J5VHlwZShcInJlc291cmNlXCIpKXMuYWRkKGUubmFtZSk7Y29uc3QgbT1kb2N1bWVudC5kb2N1bWVudEVsZW1lbnQuaW5uZXJIVE1MLm1hdGNoKC9bXFxcIlxceDI3XVxcLyhhcGl8dlswLTldKVxcL1thLXpBLVowLTlfXFwtXFwve31dKy9nKXx8W107bS5mb3JFYWNoKHg9PnMuYWRkKHgpKTtyZXR1cm4gWy4uLnNdLnNsaWNlKDAsMjAwKS5qb2luKFwiXFxuXCIpfSkoKSJ9LCJzZXNzaW9uIjoicmVjb24xIn0nCgojIOeCueWHuyAvIOWhq+ihqApjYWxsIGNsaWNrICd7ImFjdGlvbiI6ImNsaWNrIiwiYXJncyI6eyJyZWYiOiJAZTEyIn0sInNlc3Npb24iOiJyZWNvbjEifScKY2FsbCBmaWxsICAneyJhY3Rpb24iOiJmaWxsIiwiYXJncyI6eyJyZWYiOiJAZTE1IiwidmFsdWUiOiJhZG1pbiJ9LCJzZXNzaW9uIjoicmVjb24xIn0nCgojIOaIquWbvu+8iOi/lOWbnuaWh+S7tui3r+W+hO+8jOS4jeaYryBiYXNlNjTvvIkKY2FsbCBzY3JlZW5zaG90ICd7ImFjdGlvbiI6InNjcmVlbnNob3QiLCJhcmdzIjp7InBhdGgiOiIkRFNIX0hPTUUvcmVkdGVhbS9lbmdhZ2VtZW50cy886Z225qCHPi9ydW5zL3Nob3QucG5nIn0sInNlc3Npb24iOiJyZWNvbjEifScKCiMg5oqT572R57uc6K+35rGC77yI5om+5o6l5Y+j77yJCmNhbGwgbmV0d29yayAneyJhY3Rpb24iOiJuZXR3b3JrIiwiYXJncyI6e30sInNlc3Npb24iOiJyZWNvbjEifScKCiMg5YiX5Ye6L+WFs+mXreagh+etvgpjYWxsIGxpc3RfdGFicyAneyJhY3Rpb24iOiJsaXN0X3RhYnMiLCJhcmdzIjp7fSwic2Vzc2lvbiI6InJlY29uMSJ9JwpjYWxsIGNsb3NlX3Nlc3Npb24gJ3siYWN0aW9uIjoiY2xvc2Vfc2Vzc2lvbiIsImFyZ3MiOnt9LCJzZXNzaW9uIjoicmVjb24xIn0nCmBgYArljp/lp4sgQ0RQIOmAj+S8oO+8iOmrmOe6p++8ie+8mmB7ImFjdGlvbiI6ImNkcCIsImFyZ3MiOnsibWV0aG9kIjoiTmV0d29yay5nZXRBbGxDb29raWVzIn19YOOAggoKIyMg5Zyo57qi6Zif5rWB56iL6YeM55qE55So5rOVCi0gKirmjqXlj6Plj5HnjrAqKu+8muaJk+W8gOermeeCuSDihpIgYGV2YWx1YXRlYCDmipMgcmVzb3VyY2UgdGltaW5nICsg6aG16Z2i5YaFIEpTIOmHjOeahOaOpeWPo+i3r+W+hCDihpIg5oqK5o6l5Y+j5riF5Y2V5Lqk57uZ5ryP5rSe5qOA5rWL6KeS6Imy5YGa6LaK5p2DL+acquaOiOadg+a1i+ivleOAggotICoq55m75b2V5oCB6aG16Z2iKirvvJrnlKjmiLflnKjmtY/op4jlmajph4zlt7LnmbvlvZXnmoTlkI7lj7DvvIzlj6/nm7TmjqUgYG5hdmlnYXRlYCArIGBldmFsdWF0ZWAg6K+75Y+W5YaF5a6577yM5peg6ZyA6YeN5paw55m75b2V44CCCi0gKipKUyDmuLLmn5Pnq5nngrkqKu+8muavlCBjdXJsIOabtOecn+Wunu+8jOiDveaLv+WIsCBTUEEg5riy5p+T5ZCO55qEIERPTeOAggotIOWPkeeOsOeahCBVUkwv5qCH6aKY54Wn5bi45YaZ5ZueIGByZWR0ZWFtX2Fzc2V0X2FkZGDvvIhgdG9vbD0ia2ltaS13ZWJicmlkZ2UiYO+8ieOAggoKIyMg6ZmQ5Yi277yI5Yqh5b+F55+l6YGT77yJCi0gKirml6AgaGVhZGxlc3MqKu+8muW/hemhu+acieWbvuW9ouS8muivne+8iOacrOacuiBgRElTUExBWT06MTAuMGAg5Y+v55So77yJ44CCCi0g5Y+q5pSv5oyBIENocm9tZS9FZGdl77yb6Leo5Z+fIGlmcmFtZSDkuI3mlK/mjIHvvJtgY2xpY2tgL2BmaWxsYCDmmK/lkIjmiJDkuovku7bvvIzpqozor4HnoIEv6ZO26KGM5o6n5Lu25peg5pWI44CCCi0g5omp5bGV5LiO5a6I5oqk6L+b56iL54mI5pys5by66ICm5ZCI77yaYHN0YXR1c2Ag6YeMIGB1cGRhdGVfYXZhaWxhYmxlYCDkuI3kuLrnqbrlsLHmjInkuIrpnaLnmoQgc3lzdGVtZCDlgZzmnLog4oaSIGB1cGdyYWRlYCDihpIg5ZCv5py65rWB56iL5Y2H57qn5a6I5oqk6L+b56iL77yb5omp5bGV55Sx562W55Wl6Ieq5Yqo5pu05paw5Yiw5pyA5paw54mI44CCCi0gTGludXgg5LiN5Zyo5a6Y5pa55pSv5oyB55+p6Zi177yI6IO955So5L2G5LiN5L+d6K+B77yJ44CCCgojIyDml6DmianlsZXml7bnmoTlhZzlupUK6KeB5oqA6IO9IGBicm93c2VyLWF1dG9tYXRpb25g77yIaGVhZGxlc3MgY2hyb21pdW0g6Zu25L6d6LWW5pa55qGI77yJ44CCCg==
+---
+name: kimi-webbridge
+description: 用月之暗面 Kimi 浏览器扩展（WebBridge）驱动用户真实 Chrome/Chromium：导航、读取页面、点击、填表、执行 JS、截图
+whenToUse: 需要复用浏览器登录态访问后台/需要 JS 渲染的页面/需要真实浏览器指纹时
+role: recon
+enabled: true
+---
+
+# Kimi WebBridge（浏览器扩展 + 本地守护进程）
+
+已安装并运行：守护进程 **v2.0.8**（systemd 服务 `kimi-webbridge`，开机自启），监听 `127.0.0.1:10086`，二进制 `~/.kimi-webbridge/bin/kimi-webbridge`。
+
+## 当前状态（2026-09 实测）
+- 守护进程：**由 systemd 管理**（`/etc/systemd/system/kimi-webbridge.service`，`enabled` + `active`，`Restart=on-failure`）。
+  查状态：`systemctl status kimi-webbridge`；重启用 `sudo systemctl restart kimi-webbridge`。
+  **不要再手动跑 `kimi-webbridge start`/`upgrade`**，那会起一个游离进程、systemd 反而变 inactive；要升级用
+  `sudo systemctl stop kimi-webbridge && ~/.kimi-webbridge/bin/kimi-webbridge upgrade && sudo systemctl start kimi-webbridge`。
+- 扩展：**Kimi WebBridge v2.0.8，由企业策略自动从 Chrome 应用商店安装**（扩展 ID `fldmhceldgbpfpkbgopacenieobmligc`）。
+  策略文件 `/etc/opt/chrome/policies/managed/kimi-webbridge.json` 与 `/etc/chromium/policies/managed/kimi-webbridge.json`
+  都设置了 `ExtensionSettings.force_installed` + `ExtensionInstallForcelist`，所以 **Chrome / Chromium 的任何 profile 打开即自带扩展、自动更新、常驻启用**。
+- Chrome 137+ 已忽略 `--load-extension`（`--disable-features=…` 的逃生口也失效），所以**不要再走解压加载路线**。
+- 若 `status` 显示 `extension_connected: false`：99% 只是**没有浏览器在运行**，启动任一浏览器（`kimi-chrome` 或直接点 Chrome/Chromium 图标）后 5 秒内会自动连上。
+- 简单取页面内容可优先用技能 `browser-automation`（更快、不依赖浏览器窗口）；**需要复用真实登录态时必须用本技能**
+
+## 先决条件
+1. 守护进程已运行：`~/.kimi-webbridge/bin/kimi-webbridge status` 应显示 `"running": true`（开机自启，正常无需干预）。
+2. **必须有一个浏览器在运行**（扩展只在浏览器进程存活时维持连接）。启动器 `~/.local/bin/kimi-chrome`：
+   - 默认启动 Chrome **默认 profile**（带真实登录态，桥接的价值就在这）；
+   - `KIMI_BROWSER=chromium kimi-chrome` 改用 Chromium；`KIMI_PROFILE=/path kimi-chrome` 指定独立 profile（无登录态）。
+3. 检查连接：
+```bash
+curl -s http://127.0.0.1:10086/status | python3 -m json.tool
+# 必须看到 "extension_connected": true，否则后续命令会失败
+```
+
+## 调用方式
+```bash
+WB=http://127.0.0.1:10086/command
+call() { printf '%s' "$2" > /tmp/wb.json; curl -s -X POST $WB -H 'Content-Type: application/json' --data-binary @/tmp/wb.json; }
+```
+> 含中文的 JSON 一律走临时文件 + `--data-binary`，不要用 echo/heredoc 内联。
+
+### 常用动作
+```bash
+# 打开页面（新标签）
+call navigate '{"action":"navigate","args":{"url":"https://target.example.com/login","newTab":true,"group_title":"recon"},"session":"recon1"}'
+
+# 读取页面纯文本（最常用）
+call evaluate '{"action":"evaluate","args":{"code":"(() => document.body.innerText.slice(0,6000))()"},"session":"recon1"}'
+
+# 取无障碍树（带 @e 元素引用，便于后续 click/fill）
+call snapshot '{"action":"snapshot","args":{},"session":"recon1"}'
+
+# 执行任意 JS：抓前端接口清单（信息收集/接口发现神器）
+call evaluate '{"action":"evaluate","args":{"code":"(() => {const s=new Set();for(const e of performance.getEntriesByType(\"resource\"))s.add(e.name);const m=document.documentElement.innerHTML.match(/[\\\"\\x27]\\/(api|v[0-9])\\/[a-zA-Z0-9_\\-\\/{}]+/g)||[];m.forEach(x=>s.add(x));return [...s].slice(0,200).join(\"\\n\")})()"},"session":"recon1"}'
+
+# 点击 / 填表
+call click '{"action":"click","args":{"ref":"@e12"},"session":"recon1"}'
+call fill  '{"action":"fill","args":{"ref":"@e15","value":"admin"},"session":"recon1"}'
+
+# 截图（返回文件路径，不是 base64）
+call screenshot '{"action":"screenshot","args":{"path":"$DSH_HOME/redteam/engagements/<靶标>/runs/shot.png"},"session":"recon1"}'
+
+# 抓网络请求（找接口）
+call network '{"action":"network","args":{},"session":"recon1"}'
+
+# 列出/关闭标签
+call list_tabs '{"action":"list_tabs","args":{},"session":"recon1"}'
+call close_session '{"action":"close_session","args":{},"session":"recon1"}'
+```
+原始 CDP 透传（高级）：`{"action":"cdp","args":{"method":"Network.getAllCookies"}}`。
+
+## 在红队流程里的用法
+- **接口发现**：打开站点 → `evaluate` 抓 resource timing + 页面内 JS 里的接口路径 → 把接口清单交给漏洞检测角色做越权/未授权测试。
+- **登录态页面**：用户在浏览器里已登录的后台，可直接 `navigate` + `evaluate` 读取内容，无需重新登录。
+- **JS 渲染站点**：比 curl 更真实，能拿到 SPA 渲染后的 DOM。
+- 发现的 URL/标题照常写回 `redteam_asset_add`（`tool="kimi-webbridge"`）。
+
+## 限制（务必知道）
+- **无 headless**：必须有图形会话（本机 `DISPLAY=:10.0` 可用）。
+- 只支持 Chrome/Edge；跨域 iframe 不支持；`click`/`fill` 是合成事件，验证码/银行控件无效。
+- 扩展与守护进程版本强耦合：`status` 里 `update_available` 不为空就按上面的 systemd 停机 → `upgrade` → 启机流程升级守护进程；扩展由策略自动更新到最新版。
+- Linux 不在官方支持矩阵（能用但不保证）。
+
+## 无扩展时的兜底
+见技能 `browser-automation`（headless chromium 零依赖方案）。

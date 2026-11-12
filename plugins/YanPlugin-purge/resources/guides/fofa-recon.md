@@ -1,1 +1,179 @@
-LS0tCm5hbWU6IGZvZmEtcmVjb24KZGVzY3JpcHRpb246IOeUqCBGT0ZBIEFQSSDmibnph4/mtYvnu5jpnbbmoIfotYTkuqfvvIjln5/lkI0vSVAv56uv5Y+jL+agh+mimC/mjIfnurnvvInvvJvlhoXnva7pmZDpgJ/lrqLmiLfnq6/vvIzkuKXmoLzljZXnur/nqIsgKyDmnIDlsI/pl7TpmpQgKyDpgIDpgb/ph43or5XvvIzpgb/lhY3op6blj5EgNDUwMTIKd2hlblRvVXNlOiDkv6Hmga/mlLbpm4bpmLbmrrXpnIDopoHlv6vpgJ/pk7rlvIDmn5DljZXkvY0v5Z+f5ZCN55qE5LqS6IGU572R6LWE5Lqn6Z2i5pe2CnJvbGU6IHJlY29uCmVuYWJsZWQ6IHRydWUKLS0tCgojIEZPRkEg6LWE5Lqn5rWL57uY77yI6ZmQ6YCf5a6J5YWo54mI77yJCgojIyDlh63mja4KLSBBUEkgS2V577ya5LuO546v5aKD5Y+Y6YePIGBGT0ZBX0tFWWAg6K+75Y+W77yIKirku7vkvZUga2V5IOmDveS4jeimgeWGmei/m+S7k+W6kyoq77yb5pys5oqA6IO95omA5pyJ6ISa5pys5Y+q6K+7546v5aKD5Y+Y6YeP77yJCi0g5o6l5Y+j77yaYEdFVCBodHRwczovL2ZvZmEuaW5mby9hcGkvdjEvc2VhcmNoL2FsbGAKLSDlj4LmlbDvvJpga2V5YOOAgWBxYmFzZTY0YO+8iOafpeivouivreWPpeeahCBiYXNlNjTvvInjgIFgc2l6ZWDjgIFgcGFnZWDjgIFgZmllbGRzYAoKIyMg5a6Y5pa56ZmQ6aKd77yIZm9mYS5pbmZvL3ZpcO+8jDIwMjYtMDkg5qC45a+577yJCgp8IOS8muWRmCB8IOafpeivouivt+axgiB8IOiOt+WPluaVsOaNrumHjyB8ICoq5p+l6K+i5o6l5Y+j5bm25Y+RKiogfAp8LS0tfC0tLXwtLS18LS0tfAp8IOazqOWGjOeUqOaIt++8iOWFjei0ue+8iSB8IOaXoCBBUEnvvIjpobXpnaIgMzAwIOasoS/mnIjvvIkgfCDpobXpnaIgMywwMDAg5p2hL+aciCB8IOKAlCB8Cnwg5Liq5Lq654mIIHwgMTAsMDAwIOasoS/mnIggfCAxMDAsMDAwIOadoS/mnIggfCAqKjEg56eSIDEg5qyhKiogfAp8IOS4k+S4mueJiCB8IDgwLDAwMCDmrKEv5pyIIHwgODAwLDAwMCDmnaEv5pyIIHwgKioxIOenkiAxIOasoSoqIHwKfCDllYbkuJrniYggfCA5MDAsMDAwIOasoS/mnIggfCA5LDAwMCwwMDAg5p2hL+aciCB8ICoqMSDnp5IgMiDmrKEqKiB8Cnwg5LyB5Lia54mIIFYyIHwgNSwwMDAsMDAwIOasoS/mnIggfCA1MCwwMDAsMDAwIOadoS/mnIggfCAqKjEg56eSIDUg5qyhKiogfAoKIyMg5a6e5rWL6KGM5Li677yI5a6e5rWL6aqM6K+B77yJCi0g6L+e57ut5b+r6YCf6K+35rGCIOKGkiAqKkhUVFAgNDI5KirvvIzlk43lupTkvZMgYHsiZXJyb3IiOnRydWUsImVycm1zZyI6Ils0NTAxMl0g6K+35rGC6YCf5bqm6L+H5b+rIn1gCi0ga2V5IOmUmeivryDihpIgSFRUUCAyMDAgKyBgeyJlcnJvciI6dHJ1ZSwiZXJybXNnIjoiWy03MDBdIOi0puWPt+aXoOaViCJ9YAotIOWNlemhtSBgc2l6ZWAg5YiwIDEwMDAg5q2j5bi477yb6K+35rGC6Ze06ZqUIOKJpTEg56eS5pe26L+e57ut6K+35rGC5Z2H6L+U5ZueIDIwMAotIOe7k+iuuu+8mioq5oyJIDEg6K+35rGCL+enkiDkv53lrojmiafooYzvvIznu53kuI3lubblj5EqKu+8m+mBh+WIsCA0NTAxMiDlv4XpobvpgIDpgb/vvIzkuI3opoHnq4vljbPph43or5UKCiMjIOS9v+eUqOe6quW+i++8iOmHjeimge+8iQoxLiAqKueyvuehruafpeivouS8mOWFiCoq77yaYGRvbWFpbj1gIC8gYGNlcnQ9YCAvIGBvcmc9YCDlhYjnvKnlsI/ojIPlm7TvvIzlho3ogIPomZEgYGJvZHk9YCAvIGB0aXRsZT1gIOetieWuveazm+ivreWPpeOAguWuveivreWPpei/lOWbnuWHoOWNgeS4h+adoeayoeaEj+S5ie+8jOi/mOeDp+mFjemineOAggoyLiAqKuS4jeimgeWFqOmHj+e/u+mhtSoq77ya6buY6K6k5Y+q5Y+W5YmNIDHigJMzIOmhte+8iOavj+mhtSAxMDAg5p2h77yJ5ou/5Yiw5rWL57uY5YWl5Y+j5Y2z5Y+v44CCCjMuICoq5Y2V6L+b56iL5Y2V57q/56iLKirvvJrlkIzkuIDml7bliLvlj6rot5HkuIDkuKrph4fpm4bku7vliqHvvJvlpJrkuKrmn6Xor6LkuLLooYzmjpLpmJ/jgIIKNC4gKirnu5PmnpzokL3nm5jnvJPlrZgqKu+8muWQjOS4gOafpeivouS4jeimgemHjeWkjeaLie+8jOWFiOeciyBgcnVucy9mb2ZhLSouanNvbmxgIOaYr+WQpuW3suacieOAggo1LiAqKumVv+S7u+WKoeaUvuWQjuWPsCoq77ya55SoIGBydW5faW5fYmFja2dyb3VuZGAg6LeR77yM5Yir6Zi75aGe5a+56K+d44CCCjYuIOmFjemineiAl+WwveaIluiiq+mZkOmAn+aXtuaUueeUqOWFtuS7luaVsOaNrua6kO+8iOivgeS5pumAj+aYjuOAgUROU+OAgeaQnOe0ouW8leaTju+8ie+8jOS4jeimgeatu+ejleOAggoKIyMg6ZmQ6YCf5a6i5oi356uv77yI55So6L+Z5Liq77yM5LiN6KaB5omL5YaZIGN1cmwg5b6q546v77yJCmBgYGJhc2gKY2F0ID4gcnVucy9mb2ZhX2NsaWVudC5weSA8PCdQWScKIyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwoiIiJGT0ZBIOmHh+mbhu+8iOmZkOmAn+WuieWFqO+8ie+8muWNlee6v+eoiyArIOacgOWwj+mXtOmalCArIOaMh+aVsOmAgOmBvyArIOe7k+aenOe8k+WtmOOAggoK55So5rOVOgogIHB5dGhvbjMgcnVucy9mb2ZhX2NsaWVudC5weSAnZG9tYWluPSJleGFtcGxlLmNvbSInIC0tcGFnZXMgMiAtLXNpemUgMTAwIC0taW50ZXJ2YWwgMi4wCui+k+WHujoKICBydW5zL2ZvZmEtPHNsdWc+Lmpzb25sICAg5q+P6KGM5LiA5Liq6LWE5LqnIHtob3N0LGlwLHBvcnQsdGl0bGUsZG9tYWluLHNlcnZlcixwcm90b2NvbH0KIiIiCmltcG9ydCBhcmdwYXJzZSwgYmFzZTY0LCBoYXNobGliLCBqc29uLCBvcywgc3lzLCB0aW1lLCB1cmxsaWIuZXJyb3IsIHVybGxpYi5wYXJzZSwgdXJsbGliLnJlcXVlc3QKCktFWSA9IG9zLmVudmlyb25bIkZPRkFfS0VZIl0KQVBJID0gImh0dHBzOi8vZm9mYS5pbmZvL2FwaS92MS9zZWFyY2gvYWxsIgpGSUVMRFMgPSAiaG9zdCxpcCxwb3J0LHRpdGxlLGRvbWFpbixzZXJ2ZXIscHJvdG9jb2wiClJFVFJZX0JBQ0tPRkYgPSBbNSwgMTUsIDQ1XSAgICAgICAgICAjIOmBhyA0NTAxMiDnmoTpgIDpgb/np5LmlbAKSEFSRF9CVURHRVQgPSAzMCAgICAgICAgICAgICAgICAgICAgICAjIOWNleasoei/kOihjOacgOWkmuivt+axguasoeaVsAoKCmRlZiBmZXRjaChxdWVyeSwgcGFnZSwgc2l6ZSwgdGltZW91dD0zMCk6CiAgICBxcyA9IHVybGxpYi5wYXJzZS51cmxlbmNvZGUoewogICAgICAgICJrZXkiOiBLRVksICJxYmFzZTY0IjogYmFzZTY0LmI2NGVuY29kZShxdWVyeS5lbmNvZGUoKSkuZGVjb2RlKCksCiAgICAgICAgInNpemUiOiBzaXplLCAicGFnZSI6IHBhZ2UsICJmaWVsZHMiOiBGSUVMRFMsCiAgICB9KQogICAgcmVxID0gdXJsbGliLnJlcXVlc3QuUmVxdWVzdChBUEkgKyAiPyIgKyBxcywgaGVhZGVycz17IlVzZXItQWdlbnQiOiAicmVkdGVhbS1yZWNvbi8xLjAifSkKICAgIHRyeToKICAgICAgICB3aXRoIHVybGxpYi5yZXF1ZXN0LnVybG9wZW4ocmVxLCB0aW1lb3V0PXRpbWVvdXQpIGFzIHI6CiAgICAgICAgICAgIHJldHVybiByLnN0YXR1cywganNvbi5sb2FkKHIpCiAgICBleGNlcHQgdXJsbGliLmVycm9yLkhUVFBFcnJvciBhcyBlOgogICAgICAgIGJvZHkgPSBlLnJlYWQoKS5kZWNvZGUoInV0Zi04IiwgImlnbm9yZSIpCiAgICAgICAgdHJ5OgogICAgICAgICAgICByZXR1cm4gZS5jb2RlLCBqc29uLmxvYWRzKGJvZHkpCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgcmV0dXJuIGUuY29kZSwgeyJlcnJvciI6IFRydWUsICJlcnJtc2ciOiBib2R5WzoyMDBdfQoKCmRlZiBtYWluKCk6CiAgICBhcCA9IGFyZ3BhcnNlLkFyZ3VtZW50UGFyc2VyKCkKICAgIGFwLmFkZF9hcmd1bWVudCgicXVlcnkiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXBhZ2VzIiwgdHlwZT1pbnQsIGRlZmF1bHQ9MiwgaGVscD0i5pyA5aSa57+76aG15pWw77yI6buY6K6kIDLvvIkiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLXNpemUiLCB0eXBlPWludCwgZGVmYXVsdD0xMDAsIGhlbHA9Iuavj+mhteadoeaVsO+8iOm7mOiupCAxMDDvvIzkuI3opoHosIPlpKfvvIkiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLWludGVydmFsIiwgdHlwZT1mbG9hdCwgZGVmYXVsdD0yLjAsIGhlbHA9Iuivt+axguacgOWwj+mXtOmalOenku+8iOm7mOiupCAyLjDvvIkiKQogICAgYXAuYWRkX2FyZ3VtZW50KCItLW91dCIsIGRlZmF1bHQ9Tm9uZSkKICAgIGFyZ3MgPSBhcC5wYXJzZV9hcmdzKCkKCiAgICBzbHVnID0gaGFzaGxpYi5tZDUoYXJncy5xdWVyeS5lbmNvZGUoKSkuaGV4ZGlnZXN0KClbOjhdCiAgICBvdXQgPSBhcmdzLm91dCBvciBmInJ1bnMvZm9mYS17c2x1Z30uanNvbmwiCiAgICBvcy5tYWtlZGlycyhvcy5wYXRoLmRpcm5hbWUob3V0KSBvciAiLiIsIGV4aXN0X29rPVRydWUpCgogICAgaWYgb3MucGF0aC5leGlzdHMob3V0KSBhbmQgb3MucGF0aC5nZXRzaXplKG91dCkgPiAwOgogICAgICAgIHByaW50KGYiW2NhY2hlXSB7b3V0fSDlt7LlrZjlnKjvvIh7b3MucGF0aC5nZXRzaXplKG91dCl9IGJ5dGVz77yJ77yM5aaC6ZyA6YeN5ouJ6K+35YWI5Yig6ZmkIiwgZmlsZT1zeXMuc3RkZXJyKQogICAgICAgIHJldHVybiAwCgogICAgc2Vlbiwgcm93cywgcmVxdWVzdHNfbWFkZSwgbGFzdF90cyA9IHNldCgpLCBbXSwgMCwgMC4wCiAgICBmb3IgcGFnZSBpbiByYW5nZSgxLCBhcmdzLnBhZ2VzICsgMSk6CiAgICAgICAgIyAtLS0tIOmZkOmAn++8muS/neivgeS4pOasoeivt+axguS5i+mXtOiHs+WwkemXtOmalCBpbnRlcnZhbCDnp5IgLS0tLQogICAgICAgIHdhaXQgPSBhcmdzLmludGVydmFsIC0gKHRpbWUudGltZSgpIC0gbGFzdF90cykKICAgICAgICBpZiB3YWl0ID4gMDoKICAgICAgICAgICAgdGltZS5zbGVlcCh3YWl0KQoKICAgICAgICBzdGF0dXMsIGRhdGEgPSBOb25lLCBOb25lCiAgICAgICAgZm9yIGF0dGVtcHQsIGJhY2tvZmYgaW4gZW51bWVyYXRlKFswXSArIFJFVFJZX0JBQ0tPRkYpOgogICAgICAgICAgICBpZiBhdHRlbXB0OgogICAgICAgICAgICAgICAgcHJpbnQoZiJbYmFja29mZl0g562J5b6FIHtiYWNrb2ZmfXMg5ZCO6YeN6K+VIChwYWdlPXtwYWdlfSkiLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgICAgICAgICB0aW1lLnNsZWVwKGJhY2tvZmYpCiAgICAgICAgICAgIGxhc3RfdHMgPSB0aW1lLnRpbWUoKQogICAgICAgICAgICByZXF1ZXN0c19tYWRlICs9IDEKICAgICAgICAgICAgaWYgcmVxdWVzdHNfbWFkZSA+IEhBUkRfQlVER0VUOgogICAgICAgICAgICAgICAgcHJpbnQoZiJbc3RvcF0g6L6+5Yiw6K+35rGC6aKE566XIHtIQVJEX0JVREdFVH0iLCBmaWxlPXN5cy5zdGRlcnIpCiAgICAgICAgICAgICAgICBicmVhawogICAgICAgICAgICBzdGF0dXMsIGRhdGEgPSBmZXRjaChhcmdzLnF1ZXJ5LCBwYWdlLCBhcmdzLnNpemUpCiAgICAgICAgICAgIGlmIHN0YXR1cyA9PSAyMDAgYW5kIG5vdCBkYXRhLmdldCgiZXJyb3IiKToKICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgICAgIGVycm1zZyA9IHN0cihkYXRhLmdldCgiZXJybXNnIiwgIiIpKQogICAgICAgICAgICBpZiAiNDUwMTIiIGluIGVycm1zZyBvciBzdGF0dXMgPT0gNDI5OgogICAgICAgICAgICAgICAgY29udGludWUgICAgICAgICAgICAgICAgICAgICAgIyDpmZDpgJ8g4oaSIOmAgOmBv+mHjeivlQogICAgICAgICAgICBwcmludChmIltzdG9wXSDkuI3lj6/ph43or5XplJnor68gaHR0cD17c3RhdHVzfSB7ZXJybXNnfSIsIGZpbGU9c3lzLnN0ZGVycikKICAgICAgICAgICAgZGF0YSA9IE5vbmUKICAgICAgICAgICAgYnJlYWsKICAgICAgICBpZiBkYXRhIGlzIE5vbmU6CiAgICAgICAgICAgIGJyZWFrCgogICAgICAgIHJlc3VsdHMgPSBkYXRhLmdldCgicmVzdWx0cyIpIG9yIFtdCiAgICAgICAgcHJpbnQoZiJbcGFnZSB7cGFnZX1dIHtsZW4ocmVzdWx0cyl9IOadoSAoc2l6ZT17ZGF0YS5nZXQoJ3NpemUnKX0sIOa2iOiAl0bngrk9e2RhdGEuZ2V0KCdjb25zdW1lZF9mcG9pbnQnKX0pIiwgZmlsZT1zeXMuc3RkZXJyKQogICAgICAgIGZvciBpdGVtIGluIHJlc3VsdHM6CiAgICAgICAgICAgIGlmIGlzaW5zdGFuY2UoaXRlbSwgc3RyKToKICAgICAgICAgICAgICAgIGl0ZW0gPSBbaXRlbV0KICAgICAgICAgICAgaG9zdCA9IGl0ZW1bMF0gaWYgbGVuKGl0ZW0pID4gMCBlbHNlICIiCiAgICAgICAgICAgIGlwID0gaXRlbVsxXSBpZiBsZW4oaXRlbSkgPiAxIGVsc2UgIiIKICAgICAgICAgICAgcG9ydCA9IGl0ZW1bMl0gaWYgbGVuKGl0ZW0pID4gMiBlbHNlICIiCiAgICAgICAgICAgIGtleSA9IChob3N0LCBpcCwgcG9ydCkKICAgICAgICAgICAgaWYga2V5IGluIHNlZW46CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBzZWVuLmFkZChrZXkpCiAgICAgICAgICAgIHJvd3MuYXBwZW5kKHsKICAgICAgICAgICAgICAgICJob3N0IjogaG9zdCwgImlwIjogaXAsICJwb3J0IjogcG9ydCwKICAgICAgICAgICAgICAgICJ0aXRsZSI6IGl0ZW1bM10gaWYgbGVuKGl0ZW0pID4gMyBlbHNlICIiLAogICAgICAgICAgICAgICAgImRvbWFpbiI6IGl0ZW1bNF0gaWYgbGVuKGl0ZW0pID4gNCBlbHNlICIiLAogICAgICAgICAgICAgICAgInNlcnZlciI6IGl0ZW1bNV0gaWYgbGVuKGl0ZW0pID4gNSBlbHNlICIiLAogICAgICAgICAgICAgICAgInByb3RvY29sIjogaXRlbVs2XSBpZiBsZW4oaXRlbSkgPiA2IGVsc2UgIiIsCiAgICAgICAgICAgIH0pCiAgICAgICAgaWYgbGVuKHJlc3VsdHMpIDwgYXJncy5zaXplOgogICAgICAgICAgICBicmVhayAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg5bey5Yiw5pyr6aG1CgogICAgd2l0aCBvcGVuKG91dCwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGZvciByb3cgaW4gcm93czoKICAgICAgICAgICAgZi53cml0ZShqc29uLmR1bXBzKHJvdywgZW5zdXJlX2FzY2lpPUZhbHNlKSArICJcbiIpCiAgICBwcmludChmIltkb25lXSB7bGVuKHJvd3MpfSDmnaHotYTkuqcg4oaSIHtvdXR977yI5YWxIHtyZXF1ZXN0c19tYWRlfSDmrKHor7fmsYLvvIkiLCBmaWxlPXN5cy5zdGRlcnIpCiAgICByZXR1cm4gMAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBzeXMuZXhpdChtYWluKCkpClBZCmBgYAoKIyMjIOeUqOazlQpgYGBiYXNoCm1rZGlyIC1wIHJ1bnMKcHl0aG9uMyBydW5zL2ZvZmFfY2xpZW50LnB5ICdkb21haW49ImV4YW1wbGUuY29tIicgLS1wYWdlcyAyIC0tc2l6ZSAxMDAgLS1pbnRlcnZhbCAyLjAKcHl0aG9uMyBydW5zL2ZvZmFfY2xpZW50LnB5ICdjZXJ0PSJleGFtcGxlLmNvbSInIC0tcGFnZXMgMyAtLWludGVydmFsIDIuMApweXRob24zIHJ1bnMvZm9mYV9jbGllbnQucHkgJ29yZz0i56S65L6L56eR5oqA5pyJ6ZmQ5YWs5Y+4IicgLS1wYWdlcyAyIC0taW50ZXJ2YWwgMi4wCmBgYAoKIyMjIOiQveW6kwror7sgYHJ1bnMvZm9mYS0qLmpzb25sYO+8jOmAkOadoSBgcmVkdGVhbV9hc3NldF9hZGRg77yaYHByb3ZlbmFuY2U9InBhc3NpdmUiYOOAgWB0b29sPSJmb2ZhImDvvIznq6/lj6PluKYgYHVybD1ob3N0YOOAgWB0aXRsZWDjgIFgcHJvZHVjdD1zZXJ2ZXJg77yb5Z+f5ZCN5YaZ6L+bIGBuYW1lc2DjgIIKCiMjIOW4uOeUqOafpeivouivreWPpQp8IOebrueahCB8IOivreWPpSB8CnwtLS18LS0tfAp8IOafkOWfn+WQjeWFqOmDqOi1hOS6pyB8IGBkb21haW49ImV4YW1wbGUuY29tImAgfAp8IOivgeS5puWMheWQq+ivpeWfn+WQjSB8IGBjZXJ0PSJleGFtcGxlLmNvbSJgIHwKfCDmn5AgQyDmrrUgfCBgaXA9IjIwMy4wLjExMy4wLzI0ImAgfAp8IOWNleS9jeWQjeensCB8IGBvcmc9IuekuuS+i+enkeaKgOaciemZkOWFrOWPuCJgIHwKfCDmjInmoIfpopjmib7lkI7lj7AgfCBgdGl0bGU9IueZu+W9lSIgJiYgZG9tYWluPSJleGFtcGxlLmNvbSJgIHwKfCDmjIkgYm9keSDnibnlvoEgfCBgYm9keT0iL3NlZXlvbi8iYCB8Cnwg5oyH5a6a56uv5Y+jIHwgYGlwPSIyMDMuMC4xMTMuMC8yNCIgJiYgcG9ydD0iMzMwNiJgIHwKCj4g5a695rOb6K+t5Y+l77yI5Y2V54us55SoIGBib2R5PWAgLyBgdGl0bGU9YO+8iee7k+aenOmHj+Wkp+OAgea2iOiAl+mFjemineW/q++8jOWKoeW/heWPoOWKoOWfn+WQjeaIliBJUCDpmZDlrprjgIIK
+---
+name: fofa-recon
+description: 用 FOFA API 批量测绘靶标资产（域名/IP/端口/标题/指纹）；内置限速客户端，严格单线程 + 最小间隔 + 退避重试，避免触发 45012
+whenToUse: 信息收集阶段需要快速铺开某单位/域名的互联网资产面时
+role: recon
+enabled: true
+---
+
+# FOFA 资产测绘（限速安全版）
+
+## 凭据
+- API Key：从环境变量 `FOFA_KEY` 读取（**任何 key 都不要写进仓库**；本技能所有脚本只读环境变量）
+- 接口：`GET https://fofa.info/api/v1/search/all`
+- 参数：`key`、`qbase64`（查询语句的 base64）、`size`、`page`、`fields`
+
+## 官方限额（fofa.info/vip，2026-09 核对）
+
+| 会员 | 查询请求 | 获取数据量 | **查询接口并发** |
+|---|---|---|---|
+| 注册用户（免费） | 无 API（页面 300 次/月） | 页面 3,000 条/月 | — |
+| 个人版 | 10,000 次/月 | 100,000 条/月 | **1 秒 1 次** |
+| 专业版 | 80,000 次/月 | 800,000 条/月 | **1 秒 1 次** |
+| 商业版 | 900,000 次/月 | 9,000,000 条/月 | **1 秒 2 次** |
+| 企业版 V2 | 5,000,000 次/月 | 50,000,000 条/月 | **1 秒 5 次** |
+
+## 实测行为（实测验证）
+- 连续快速请求 → **HTTP 429**，响应体 `{"error":true,"errmsg":"[45012] 请求速度过快"}`
+- key 错误 → HTTP 200 + `{"error":true,"errmsg":"[-700] 账号无效"}`
+- 单页 `size` 到 1000 正常；请求间隔 ≥1 秒时连续请求均返回 200
+- 结论：**按 1 请求/秒 保守执行，绝不并发**；遇到 45012 必须退避，不要立即重试
+
+## 使用纪律（重要）
+1. **精确查询优先**：`domain=` / `cert=` / `org=` 先缩小范围，再考虑 `body=` / `title=` 等宽泛语句。宽语句返回几十万条没意义，还烧配额。
+2. **不要全量翻页**：默认只取前 1–3 页（每页 100 条）拿到测绘入口即可。
+3. **单进程单线程**：同一时刻只跑一个采集任务；多个查询串行排队。
+4. **结果落盘缓存**：同一查询不要重复拉，先看 `runs/fofa-*.jsonl` 是否已有。
+5. **长任务放后台**：用 `run_in_background` 跑，别阻塞对话。
+6. 配额耗尽或被限速时改用其他数据源（证书透明、DNS、搜索引擎），不要死磕。
+
+## 限速客户端（用这个，不要手写 curl 循环）
+```bash
+cat > runs/fofa_client.py <<'PY'
+#!/usr/bin/env python3
+"""FOFA 采集（限速安全）：单线程 + 最小间隔 + 指数退避 + 结果缓存。
+
+用法:
+  python3 runs/fofa_client.py 'domain="example.com"' --pages 2 --size 100 --interval 2.0
+输出:
+  runs/fofa-<slug>.jsonl   每行一个资产 {host,ip,port,title,domain,server,protocol}
+"""
+import argparse, base64, hashlib, json, os, sys, time, urllib.error, urllib.parse, urllib.request
+
+KEY = os.environ["FOFA_KEY"]
+API = "https://fofa.info/api/v1/search/all"
+FIELDS = "host,ip,port,title,domain,server,protocol"
+RETRY_BACKOFF = [5, 15, 45]          # 遇 45012 的退避秒数
+HARD_BUDGET = 30                      # 单次运行最多请求次数
+
+
+def fetch(query, page, size, timeout=30):
+    qs = urllib.parse.urlencode({
+        "key": KEY, "qbase64": base64.b64encode(query.encode()).decode(),
+        "size": size, "page": page, "fields": FIELDS,
+    })
+    req = urllib.request.Request(API + "?" + qs, headers={"User-Agent": "redteam-recon/1.0"})
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            return r.status, json.load(r)
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", "ignore")
+        try:
+            return e.code, json.loads(body)
+        except Exception:
+            return e.code, {"error": True, "errmsg": body[:200]}
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("query")
+    ap.add_argument("--pages", type=int, default=2, help="最多翻页数（默认 2）")
+    ap.add_argument("--size", type=int, default=100, help="每页条数（默认 100，不要调大）")
+    ap.add_argument("--interval", type=float, default=2.0, help="请求最小间隔秒（默认 2.0）")
+    ap.add_argument("--out", default=None)
+    args = ap.parse_args()
+
+    slug = hashlib.md5(args.query.encode()).hexdigest()[:8]
+    out = args.out or f"runs/fofa-{slug}.jsonl"
+    os.makedirs(os.path.dirname(out) or ".", exist_ok=True)
+
+    if os.path.exists(out) and os.path.getsize(out) > 0:
+        print(f"[cache] {out} 已存在（{os.path.getsize(out)} bytes），如需重拉请先删除", file=sys.stderr)
+        return 0
+
+    seen, rows, requests_made, last_ts = set(), [], 0, 0.0
+    for page in range(1, args.pages + 1):
+        # ---- 限速：保证两次请求之间至少间隔 interval 秒 ----
+        wait = args.interval - (time.time() - last_ts)
+        if wait > 0:
+            time.sleep(wait)
+
+        status, data = None, None
+        for attempt, backoff in enumerate([0] + RETRY_BACKOFF):
+            if attempt:
+                print(f"[backoff] 等待 {backoff}s 后重试 (page={page})", file=sys.stderr)
+                time.sleep(backoff)
+            last_ts = time.time()
+            requests_made += 1
+            if requests_made > HARD_BUDGET:
+                print(f"[stop] 达到请求预算 {HARD_BUDGET}", file=sys.stderr)
+                break
+            status, data = fetch(args.query, page, args.size)
+            if status == 200 and not data.get("error"):
+                break
+            errmsg = str(data.get("errmsg", ""))
+            if "45012" in errmsg or status == 429:
+                continue                      # 限速 → 退避重试
+            print(f"[stop] 不可重试错误 http={status} {errmsg}", file=sys.stderr)
+            data = None
+            break
+        if data is None:
+            break
+
+        results = data.get("results") or []
+        print(f"[page {page}] {len(results)} 条 (size={data.get('size')}, 消耗F点={data.get('consumed_fpoint')})", file=sys.stderr)
+        for item in results:
+            if isinstance(item, str):
+                item = [item]
+            host = item[0] if len(item) > 0 else ""
+            ip = item[1] if len(item) > 1 else ""
+            port = item[2] if len(item) > 2 else ""
+            key = (host, ip, port)
+            if key in seen:
+                continue
+            seen.add(key)
+            rows.append({
+                "host": host, "ip": ip, "port": port,
+                "title": item[3] if len(item) > 3 else "",
+                "domain": item[4] if len(item) > 4 else "",
+                "server": item[5] if len(item) > 5 else "",
+                "protocol": item[6] if len(item) > 6 else "",
+            })
+        if len(results) < args.size:
+            break                              # 已到末页
+
+    with open(out, "w", encoding="utf-8") as f:
+        for row in rows:
+            f.write(json.dumps(row, ensure_ascii=False) + "\n")
+    print(f"[done] {len(rows)} 条资产 → {out}（共 {requests_made} 次请求）", file=sys.stderr)
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
+PY
+```
+
+### 用法
+```bash
+mkdir -p runs
+python3 runs/fofa_client.py 'domain="example.com"' --pages 2 --size 100 --interval 2.0
+python3 runs/fofa_client.py 'cert="example.com"' --pages 3 --interval 2.0
+python3 runs/fofa_client.py 'org="示例科技有限公司"' --pages 2 --interval 2.0
+```
+
+### 落库
+读 `runs/fofa-*.jsonl`，逐条 `redteam_asset_add`：`provenance="passive"`、`tool="fofa"`，端口带 `url=host`、`title`、`product=server`；域名写进 `names`。
+
+## 常用查询语句
+| 目的 | 语句 |
+|---|---|
+| 某域名全部资产 | `domain="example.com"` |
+| 证书包含该域名 | `cert="example.com"` |
+| 某 C 段 | `ip="203.0.113.0/24"` |
+| 单位名称 | `org="示例科技有限公司"` |
+| 按标题找后台 | `title="登录" && domain="example.com"` |
+| 按 body 特征 | `body="/seeyon/"` |
+| 指定端口 | `ip="203.0.113.0/24" && port="3306"` |
+
+> 宽泛语句（单独用 `body=` / `title=`）结果量大、消耗配额快，务必叠加域名或 IP 限定。

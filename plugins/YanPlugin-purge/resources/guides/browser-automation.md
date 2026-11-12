@@ -1,1 +1,82 @@
-LS0tCm5hbWU6IGJyb3dzZXItYXV0b21hdGlvbgpkZXNjcmlwdGlvbjog5peg5L6d6LWW6amx5YqoIENocm9tZS9DaHJvbWl1bSDmipPlj5YgSlMg5riy5p+T6aG16Z2i44CB5oiq5Zu+44CB5omn6KGMIEpT44CB5oqT5o6l5Y+j5riF5Y2V77yIaGVhZGxlc3Mg5YWc5bqVICsgcGxheXdyaWdodC1jbGnvvIkKd2hlblRvVXNlOiDpnIDopoHmuLLmn5MgU1BBIC8g5Y+WIEpTIOeUn+aIkOeahOWGheWuuSAvIOaIquWbvueVmeivgSAvIOaJuemHj+aKk+mhtemdouaXtu+8iEtpbWkg5omp5bGV5LiN5Y+v55So5pe26aaW6YCJ77yJCnJvbGU6IHJlY29uCmVuYWJsZWQ6IHRydWUKLS0tCgojIOa1j+iniOWZqOiHquWKqOWMlu+8iGhlYWRsZXNzIENocm9tZe+8iQoK5pys5py677yaYC91c3IvYmluL2Nocm9taXVtYCAxNTAuMC43ODcxLjE4Me+8jGBESVNQTEFZPToxMC4wYO+8jE5vZGUgdjIyLjIzLjLjgIIKCiMjIOS4gOOAgembtuS+nei1lu+8mmNocm9taXVtIOWRveS7pOihjO+8iOacgOeos++8iQpgYGBiYXNoCkNIUk9NRT0vdXNyL2Jpbi9jaHJvbWl1bQpGTEFHUz0iLS1oZWFkbGVzcz1uZXcgLS1uby1zYW5kYm94IC0tZGlzYWJsZS1ncHUgLS1kaXNhYmxlLWRldi1zaG0tdXNhZ2UgLS12aXJ0dWFsLXRpbWUtYnVkZ2V0PTgwMDAiCgojIDEpIOaKk+a4suafk+WQjueahCBET03vvIhTUEEg5Lmf6IO95ou/5Yiw5YaF5a6577yJCiRDSFJPTUUgJEZMQUdTIC0tZHVtcC1kb20gImh0dHBzOi8vdGFyZ2V0LmV4YW1wbGUuY29tLyIgMj4vZGV2L251bGwgPiBydW5zL3BhZ2UuaHRtbAoKIyAyKSDlj6rlj5bnuq/mlofmnKwKJENIUk9NRSAkRkxBR1MgLS1kdW1wLWRvbSAiaHR0cHM6Ly90YXJnZXQuZXhhbXBsZS5jb20vIiAyPi9kZXYvbnVsbCBcCiAgfCBweXRob24zIC1jICJpbXBvcnQgc3lzLHJlO2g9c3lzLnN0ZGluLnJlYWQoKTtwcmludChyZS5zdWIocic8W14+XSs+JywnICcscmUuc3ViKHInKD9pcyk8KHNjcmlwdHxzdHlsZSkuKj88L1wxPicsJyAnLGgpKSkiIHwgaGVhZCAtMjAwCgojIDMpIOaIquWbvueVmeivgQokQ0hST01FICRGTEFHUyAtLXdpbmRvdy1zaXplPTE0NDAsOTAwIC0tc2NyZWVuc2hvdD1ydW5zL3Nob3QtJChkYXRlICslcykucG5nICJodHRwczovL3RhcmdldC5leGFtcGxlLmNvbS8iCgojIDQpIOW4piBDb29raWUg6K6/6Zeu77yI55m75b2V5oCB5aSN55So77ya5LuOIEJ1cnAv5rWP6KeI5Zmo5a+85Ye6IENvb2tpZSDlkI7lhpnlhaXvvIkKJENIUk9NRSAkRkxBR1MgLS11c2VyLWRhdGEtZGlyPS90bXAvcnQtcHJvZmlsZSAtLWR1bXAtZG9tICJodHRwczovL3RhcmdldC5leGFtcGxlLmNvbS9hZG1pbiIKCiMgNSkg55Sf5oiQIFBERgokQ0hST01FICRGTEFHUyAtLXByaW50LXRvLXBkZj1ydW5zL3BhZ2UucGRmICJodHRwczovL3RhcmdldC5leGFtcGxlLmNvbS8iCmBgYAoKIyMjIOaKk+WJjeerr+aOpeWPo+a4heWNle+8iOS/oeaBr+aUtumbhumHjeeCue+8iQpgYGBiYXNoCiMg55SoIGNocm9taXVtIOi3keS4gOautSBKUyDlubbovpPlh7rnu5PmnpwKJENIUk9NRSAkRkxBR1MgLS1kdW1wLWRvbSAiaHR0cHM6Ly90YXJnZXQuZXhhbXBsZS5jb20vIiAyPi9kZXYvbnVsbCA+IHJ1bnMvcGFnZS5odG1sCnB5dGhvbjMgLSA8PCdQWScKaW1wb3J0IHJlLCBqc29uLCBwYXRobGliCmh0bWwgPSBwYXRobGliLlBhdGgoJ3J1bnMvcGFnZS5odG1sJykucmVhZF90ZXh0KGVycm9ycz0naWdub3JlJykKcGF0aHMgPSBzZXQocmUuZmluZGFsbChyJ1siXCddKC8oPzphcGl8cmVzdHx2WzAtOV18YWRtaW58dXNlcnxvcmRlcnx1cGxvYWR8ZmlsZSlbQS1aYS16MC05X1wtL3t9LjpdezAsODB9KVsiXCddJywgaHRtbCkpCnByaW50KCdcbicuam9pbihzb3J0ZWQocGF0aHMpKSkKUFkKIyDlho3nu5PlkIggSlMg6LWE5rqQ6YCQ5Liq5LiL6L295o+Q5Y+W77yaCmdyZXAgLW9FICdzcmM9IlteIl0rXC5qc1teIl0qIicgcnVucy9wYWdlLmh0bWwgfCBzZWQgJ3Mvc3JjPSIvLztzLyIkLy8nIHwgd2hpbGUgcmVhZCB1OyBkbwogIGNhc2UgIiR1IiBpbiBodHRwKikgdXJsPSIkdSI7OyAvKikgdXJsPSJodHRwczovL3RhcmdldC5leGFtcGxlLmNvbSR1Ijs7ICopIHVybD0iaHR0cHM6Ly90YXJnZXQuZXhhbXBsZS5jb20vJHUiOzsgZXNhYwogIGN1cmwgLXMgIiR1cmwiIHwgZ3JlcCAtb0UgJ1siXCddKC8oYXBpfHJlc3R8dlswLTldKVtBLVphLXowLTlfXC0ve30uOl17MCw4MH0pWyJcJ10nIHwgdHIgLWQgJyInIiciID4+IHJ1bnMvaW50ZXJmYWNlcy50eHQKZG9uZQpzb3J0IC11IHJ1bnMvaW50ZXJmYWNlcy50eHQKYGBgCgojIyDkuozjgIFwbGF5d3JpZ2h0LWNsae+8iOmcgOimgeS6pOS6ki/nrYnlvoUv5aSa6aG15pe277yJCioq5pys5py65bey6KOF5aW95rWP6KeI5ZmoKirvvIhgfi8uY2FjaGUvbXMtcGxheXdyaWdodC9jaHJvbWl1bS0xMjQzYO+8jOS4gOasoeaApyBgbnB4IHBsYXl3cmlnaHQgaW5zdGFsbCBjaHJvbWl1bWAg5bey5a6M5oiQ77yJ44CC5rOo5oSP77yaKirpu5jorqTotbAgY2hyb21lIOmAmumBk+S8muaKpSBgQ2hyb21pdW0gZGlzdHJpYnV0aW9uICdjaHJvbWUnIGlzIG5vdCBmb3VuZGDvvIzlv4XpobvliqAgYC0tYnJvd3NlciBjaHJvbWl1bWAqKuOAggoKYGBgYmFzaApQVz0ibnB4IC0teWVzIEBwbGF5d3JpZ2h0L2NsaUBsYXRlc3QiCiRQVyAtcz1yZWNvbjEgb3BlbiAtLWJyb3dzZXIgY2hyb21pdW0gImh0dHBzOi8vdGFyZ2V0LmV4YW1wbGUuY29tLyIgICAjIOaJk+W8gO+8iC1zIOaMh+WumuS8muivneWQje+8iQokUFcgLXM9cmVjb24xIHNuYXBzaG90ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDml6Dpmpznoo3moJEgKyBAZSDlhYPntKDlvJXnlKgKJFBXIC1zPXJlY29uMSBldmFsICIoKSA9PiBkb2N1bWVudC50aXRsZSIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg5omn6KGMIEpTCiRQVyAtcz1yZWNvbjEgZmluZCAi55m75b2VIiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOWcqOW/q+eFp+mHjOaQnOaWh+acrAokUFcgLXM9cmVjb24xIGNsaWNrICJAZTUiICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIyDngrnlh7sKJFBXIC1zPXJlY29uMSBmaWxsICJAZTciICJhZG1pbiIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg5aGr6KGoCiRQVyAtcz1yZWNvbjEgc2NyZWVuc2hvdCAtLXBhdGggcnVucy9wdy5wbmcgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOaIquWbvgokUFcgLXM9cmVjb24xIC0tcGVyc2lzdGVudCAtLXByb2ZpbGUgcnVucy9wdy1wcm9maWxlIG9wZW4gLS1icm93c2VyIGNocm9taXVtIFVSTCAgICMg5aSN55So55m75b2V5oCBCiRQVyAtcz1yZWNvbjEgY2xvc2UgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAjIOWFs+mXreS8muivnQpgYGAKCueZu+W9leaAgeWkjeeUqO+8mmAtLXBlcnNpc3RlbnQgLS1wcm9maWxlIDxkaXI+YO+8m+mmluasoeeZu+W9leWQjuivpSBwcm9maWxlIOS/neeVmSBDb29raWXvvIzlkI7nu63nm7TmjqXnlKjlkIzkuIAgcHJvZmlsZSDmiZPlvIDljbPkuLrlt7LnmbvlvZXjgIIK5bi455So5a2Q5ZG95Luk77yaYG9wZW4gLyBnb3RvIC8gc25hcHNob3QgLyBmaW5kIC8gZXZhbCAvIGNsaWNrIC8gZmlsbCAvIHByZXNzIC8gdXBsb2FkIC8gc2NyZWVuc2hvdCAvIHJlc2l6ZSAvIHJlbG9hZCAvIGdvLWJhY2sgLyBjbG9zZSAvIGxpc3Rg44CCCgojIyDkuInjgIHpgInmi6nlu7rorq4KfCDlnLrmma8gfCDnlKjlk6rkuKogfAp8LS0tfC0tLXwKfCDlj6rpnIDpobXpnaLlhoXlrrkv5oiq5Zu+L+aOpeWPo+a4heWNlSB8IGNocm9taXVtIOWRveS7pOihjO+8iOmbtuS+nei1luOAgeacgOW/q++8iSB8Cnwg6ZyA6KaB54K55Ye7L+Whq+ihqC/nrYnlvoUv5aSa5qCH562+IHwgcGxheXdyaWdodC1jbGnvvIhgLS1icm93c2VyIGNocm9taXVtYO+8iXwKfCDpnIDopoHlpI3nlKjnlKjmiLfnnJ/lrp7nmbvlvZXmgIEgfCBLaW1pIFdlYkJyaWRnZe+8iOaKgOiDvSBga2ltaS13ZWJicmlkZ2Vg77yM6ZyA5omp5bGV77yJIHwKCiMjIOazqOaEj+S6i+mhuQotIGAtLW5vLXNhbmRib3hgIOS7heWcqOacrOacuua8lOe7g+eOr+Wig+S9v+eUqO+8m+S4jeimgeaKiuivpeWPguaVsOW4pui/m+eUn+S6p+OAggotIOaKk+WIsOeahCBVUkwv5qCH6aKY5YaZ5ZueIGByZWR0ZWFtX2Fzc2V0X2FkZGDvvIhgdXJsYC9gdGl0bGVgIOWtl+aute+8ie+8jOaOpeWPo+a4heWNleWGmSBgcnVucy9gIOW5tuWcqOaUu+WHu+mTvumHjOW8leeUqOOAggotIOaIquWbvuS4jumhtemdouWGheWuueWPr+iDveWQq+aVj+aEn+aVsOaNru+8jOWPquiQvSBgcnVucy9g77yM5LiN6KaB5YaZ6L+b6LWE5Lqn5bqT44CCCg==
+---
+name: browser-automation
+description: 无依赖驱动 Chrome/Chromium 抓取 JS 渲染页面、截图、执行 JS、抓接口清单（headless 兜底 + playwright-cli）
+whenToUse: 需要渲染 SPA / 取 JS 生成的内容 / 截图留证 / 批量抓页面时（Kimi 扩展不可用时首选）
+role: recon
+enabled: true
+---
+
+# 浏览器自动化（headless Chrome）
+
+本机：`/usr/bin/chromium` 150.0.7871.181，`DISPLAY=:10.0`，Node v22.23.2。
+
+## 一、零依赖：chromium 命令行（最稳）
+```bash
+CHROME=/usr/bin/chromium
+FLAGS="--headless=new --no-sandbox --disable-gpu --disable-dev-shm-usage --virtual-time-budget=8000"
+
+# 1) 抓渲染后的 DOM（SPA 也能拿到内容）
+$CHROME $FLAGS --dump-dom "https://target.example.com/" 2>/dev/null > runs/page.html
+
+# 2) 只取纯文本
+$CHROME $FLAGS --dump-dom "https://target.example.com/" 2>/dev/null \
+  | python3 -c "import sys,re;h=sys.stdin.read();print(re.sub(r'<[^>]+>',' ',re.sub(r'(?is)<(script|style).*?</\1>',' ',h)))" | head -200
+
+# 3) 截图留证
+$CHROME $FLAGS --window-size=1440,900 --screenshot=runs/shot-$(date +%s).png "https://target.example.com/"
+
+# 4) 带 Cookie 访问（登录态复用：从 Burp/浏览器导出 Cookie 后写入）
+$CHROME $FLAGS --user-data-dir=/tmp/rt-profile --dump-dom "https://target.example.com/admin"
+
+# 5) 生成 PDF
+$CHROME $FLAGS --print-to-pdf=runs/page.pdf "https://target.example.com/"
+```
+
+### 抓前端接口清单（信息收集重点）
+```bash
+# 用 chromium 跑一段 JS 并输出结果
+$CHROME $FLAGS --dump-dom "https://target.example.com/" 2>/dev/null > runs/page.html
+python3 - <<'PY'
+import re, json, pathlib
+html = pathlib.Path('runs/page.html').read_text(errors='ignore')
+paths = set(re.findall(r'["\'](/(?:api|rest|v[0-9]|admin|user|order|upload|file)[A-Za-z0-9_\-/{}.:]{0,80})["\']', html))
+print('\n'.join(sorted(paths)))
+PY
+# 再结合 JS 资源逐个下载提取：
+grep -oE 'src="[^"]+\.js[^"]*"' runs/page.html | sed 's/src="//;s/"$//' | while read u; do
+  case "$u" in http*) url="$u";; /*) url="https://target.example.com$u";; *) url="https://target.example.com/$u";; esac
+  curl -s "$url" | grep -oE '["\'](/(api|rest|v[0-9])[A-Za-z0-9_\-/{}.:]{0,80})["\']' | tr -d '"'"'" >> runs/interfaces.txt
+done
+sort -u runs/interfaces.txt
+```
+
+## 二、playwright-cli（需要交互/等待/多页时）
+**本机已装好浏览器**（`~/.cache/ms-playwright/chromium-1243`，一次性 `npx playwright install chromium` 已完成）。注意：**默认走 chrome 通道会报 `Chromium distribution 'chrome' is not found`，必须加 `--browser chromium`**。
+
+```bash
+PW="npx --yes @playwright/cli@latest"
+$PW -s=recon1 open --browser chromium "https://target.example.com/"   # 打开（-s 指定会话名）
+$PW -s=recon1 snapshot                                                # 无障碍树 + @e 元素引用
+$PW -s=recon1 eval "() => document.title"                             # 执行 JS
+$PW -s=recon1 find "登录"                                              # 在快照里搜文本
+$PW -s=recon1 click "@e5"                                             # 点击
+$PW -s=recon1 fill "@e7" "admin"                                      # 填表
+$PW -s=recon1 screenshot --path runs/pw.png                           # 截图
+$PW -s=recon1 --persistent --profile runs/pw-profile open --browser chromium URL   # 复用登录态
+$PW -s=recon1 close                                                   # 关闭会话
+```
+
+登录态复用：`--persistent --profile <dir>`；首次登录后该 profile 保留 Cookie，后续直接用同一 profile 打开即为已登录。
+常用子命令：`open / goto / snapshot / find / eval / click / fill / press / upload / screenshot / resize / reload / go-back / close / list`。
+
+## 三、选择建议
+| 场景 | 用哪个 |
+|---|---|
+| 只需页面内容/截图/接口清单 | chromium 命令行（零依赖、最快） |
+| 需要点击/填表/等待/多标签 | playwright-cli（`--browser chromium`）|
+| 需要复用用户真实登录态 | Kimi WebBridge（技能 `kimi-webbridge`，需扩展） |
+
+## 注意事项
+- `--no-sandbox` 仅在本机演练环境使用；不要把该参数带进生产。
+- 抓到的 URL/标题写回 `redteam_asset_add`（`url`/`title` 字段），接口清单写 `runs/` 并在攻击链里引用。
+- 截图与页面内容可能含敏感数据，只落 `runs/`，不要写进资产库。

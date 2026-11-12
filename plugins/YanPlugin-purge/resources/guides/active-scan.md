@@ -1,1 +1,34 @@
-LS0tCm5hbWU6IGFjdGl2ZS1zY2FuCmRlc2NyaXB0aW9uOiDkuLvliqjnq6/lj6PkuI7mnI3liqHmiavmj4/vvIhubWFwL21hc3NjYW7vvInvvIzkuKXmoLzpgbXlrojmjojmnYPojIPlm7QKd2hlblRvVXNlOiDpnIDopoHnoa7orqTotYTkuqflrZjmtLvkuI7lvIDmlL7nq6/lj6Pml7YKcm9sZTogcmVjb24KZW5hYmxlZDogdHJ1ZQotLS0KCiMjIOWJjee9ruajgOafpQoxLiDnoa7orqTnm67moIcgQ0lEUiDlnKjmjojmnYPojIPlm7TlhoXjgIIKMi4g56Gu6K6k5b2T5YmN5pe26Ze056qX5Y+j5YWB6K645Li75Yqo5omr5o+P44CCCgojIyDlkb3ku6QKLSDlv6vpgJ/lrZjmtLvvvJpgbm1hcCAtc24gPGNpZHI+YAotIOWFqOerr+WPo++8iOmZkOmAn++8ie+8mmBubWFwIC1zUyAtcC0gLS1taW4tcmF0ZSAxMDAwIC1UNCA8dGFyZ2V0PiAtb1ggcnVucy9ubWFwLWZ1bGwueG1sYAotIOacjeWKoeeJiOacrO+8mmBubWFwIC1zViAtc0MgLXAgPHBvcnRzPiA8dGFyZ2V0PiAtb1ggcnVucy9ubWFwLXN2Yy54bWxgCgojIyDmnKzlnLDlt7LlpIflpb3nmoTlt6XlhbfvvIjnu53lr7not6/lvoTvvIzkvJjlhYjnlKjlroPku6zvvIzkuI3opoHmiYvmkJPvvIkKfCDnlKjpgJQgfCDlkb3ku6QgfAp8IC0tLSB8IC0tLSB8Cnwg56uv5Y+j5omr5o+PIHwgYG5tYXBgIC8gYG1hc3NjYW5gIC8gYH4vLmRzaC9yZWR0ZWFtL3Rvb2xraXQvbmFhYnUvbmFhYnVg77yIU1lOIOmcgCByb29077yM5ZCm5YiZ5YqgIGAtc2Nhbi10eXBlIGNg77yJIHwKfCDlhoXnvZHnu7zlkIjmiavmj48gfCBgfi8uZHNoL3JlZHRlYW0vdG9vbGtpdC9mc2Nhbi9mc2NhbmDvvIjmioDog70gZnNjYW4taW50cmFuZXTvvIkgfAp8IOWGhee9kea1i+e7mC/mjIfnurkgfCBgfi8uZHNoL3JlZHRlYW0vdG9vbGtpdC9nb2dvL2dvZ29g77yI5oqA6IO9IGdvZ28taW50cmFuZXTvvIkgfAp8IEhUVFAg5o6i5rWL77yIUHJvamVjdERpc2NvdmVyee+8iSB8IGB+Ly5sb2NhbC9iaW4vcGQtaHR0cHhg77yIKirms6jmhI/vvJpgL3Vzci9iaW4vaHR0cHhgIOaYryBQeXRob24gaHR0cHgg5bqT55qEIENMSe+8jOS4jeaYr+i/meS4qioq77yJIHwKfCDlrZDln58v6Kej5p6QIHwgYH4vLmRzaC9yZWR0ZWFtL3Rvb2xraXQvc3ViZmluZGVyL3N1YmZpbmRlcmDjgIFgfi8uZHNoL3JlZHRlYW0vdG9vbGtpdC9kbnN4L2Ruc3hgIHwKfCBQT0Mg5omr5o+PIHwgYG51Y2xlaWDvvIjmqKHmnb/lt7LlnKggYH4vLmxvY2FsL251Y2xlaS10ZW1wbGF0ZXNg77yJIHwKfCDnm67lvZXniIbnoLQgfCBgZmZ1ZmDjgIFgfi8uZHNoL3JlZHRlYW0vdG9vbGtpdC9kaXJzZWFyY2gvZGlyc2VhcmNoYCB8Cnwg6Zqn6YGTIHwgYH4vLmRzaC9yZWR0ZWFtL3Rvb2xraXQvc3VvNS9zdW81LWxpbnV4LWFtZDY0YOOAgWB0b29sa2l0L2NoaXNlbC9jaGlzZWxg44CBYHRvb2xraXQvZnJwL3tmcnBjLGZycHN9YCB8Cnwg5a6M5pW05riF5Y2VIHwgYH4vLmRzaC9yZWR0ZWFtL3Rvb2xraXQv5riF5Y2VLm1kYOOAgWDmioDog73lt6XlhbfmuIXljZUubWRgIHwKCmBzZXR1cC5zaGAg5LiN5LiL6L29IGRpcnNlYXJjaOOAgmDmuIXljZUubWRgIOaYr+ivtOaYjuaWh+S7tu+8jOe8uuS6huS4jeS7o+ihqOaJq+aPj+WZqOayoeijheOAgldpbmRvd3Mg5LiOIEFSTSDmnoTlu7rkuZ/kuI3lnKjlronoo4XohJrmnKzph4zjgIIKCiMjIOiQveW6k+imgeaxggpwcm92ZW5hbmNlID0gYGFjdGl2ZWDvvIx0b29sID0gYG5tYXBgL2BtYXNzY2FuYO+8jOiusOW9lSBzY2FuX3J1buOAggo=
+---
+name: active-scan
+description: 主动端口与服务扫描（nmap/masscan），严格遵守授权范围
+whenToUse: 需要确认资产存活与开放端口时
+role: recon
+enabled: true
+---
+
+## 前置检查
+1. 确认目标 CIDR 在授权范围内。
+2. 确认当前时间窗口允许主动扫描。
+
+## 命令
+- 快速存活：`nmap -sn <cidr>`
+- 全端口（限速）：`nmap -sS -p- --min-rate 1000 -T4 <target> -oX runs/nmap-full.xml`
+- 服务版本：`nmap -sV -sC -p <ports> <target> -oX runs/nmap-svc.xml`
+
+## 本地已备好的工具（绝对路径，优先用它们，不要手搓）
+| 用途 | 命令 |
+| --- | --- |
+| 端口扫描 | `nmap` / `masscan` / `~/.dsh/redteam/toolkit/naabu/naabu`（SYN 需 root，否则加 `-scan-type c`） |
+| 内网综合扫描 | `~/.dsh/redteam/toolkit/fscan/fscan`（技能 fscan-intranet） |
+| 内网测绘/指纹 | `~/.dsh/redteam/toolkit/gogo/gogo`（技能 gogo-intranet） |
+| HTTP 探测（ProjectDiscovery） | `~/.local/bin/pd-httpx`（**注意：`/usr/bin/httpx` 是 Python httpx 库的 CLI，不是这个**） |
+| 子域/解析 | `~/.dsh/redteam/toolkit/subfinder/subfinder`、`~/.dsh/redteam/toolkit/dnsx/dnsx` |
+| POC 扫描 | `nuclei`（模板已在 `~/.local/nuclei-templates`） |
+| 目录爆破 | `ffuf`、`~/.dsh/redteam/toolkit/dirsearch/dirsearch` |
+| 隧道 | `~/.dsh/redteam/toolkit/suo5/suo5-linux-amd64`、`toolkit/chisel/chisel`、`toolkit/frp/{frpc,frps}` |
+| 完整清单 | `~/.dsh/redteam/toolkit/清单.md`、`技能工具清单.md` |
+
+`setup.sh` 不下载 dirsearch。`清单.md` 是说明文件，缺了不代表扫描器没装。Windows 与 ARM 构建也不在安装脚本里。
+
+## 落库要求
+provenance = `active`，tool = `nmap`/`masscan`，记录 scan_run。

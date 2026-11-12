@@ -1,1 +1,90 @@
-LS0tCm5hbWU6IGNuLXByb3h5LXBvb2wKZGVzY3JpcHRpb246IOWbveWGheWFjei0uSBIVFRQL1NPQ0tTNSDku6PnkIbmsaDvvJrmipPlj5bjgIHpqozmtLvjgIHmjInpnIDova7mjaLvvJvlj6rnlKjlkb3ku6Tnuqfku6PnkIblj4LmlbDvvIznu53kuI3mlLnliqjmnKzmnLrnvZHnu5zkuI7ku6PnkIbphY3nva4Kd2hlblRvVXNlOiDnm67moIfmnIkgV0FGL+WwgSBJUCDpo47pmanvvIzmiJbpnIDopoHpq5jpopHor7fmsYLvvIjmjqXlj6PniIbnoLTjgIHnm67lvZXmiavmj4/jgIHlj6Pku6TllrfmtJLvvInml7YKcm9sZTogdnVsbi1zY2FuCmVuYWJsZWQ6IHRydWUKLS0tCgojIOWbveWGheWFjei0uSBJUCDku6PnkIbmsaAKCuWFjei0ueS7o+eQhuS4jeeos+Wumu+8jOWumuS9jeaYryoq6ZmN5L2O6KKr5bCB6aOO6ZmpKirogIzkuI3mmK/pmpDol4/ouqvku73jgILlhbPplK7nm67moIfkvJjlhYjnlKjoh6rmnInlh7rlj6PmiJYgc3VvNSDpmqfpgZPjgIIKCiMjIOKblCDpk4Hop4TliJnvvJrkuI3orrjliqjmnKzmnLrnmoTnvZHnu5zkuI7ku6PnkIbphY3nva4KCuS9v+eUqOS7o+eQhioq5Y+q5YWB6K645Zyo5Y2V5p2h5ZG95Luk5LiK5Li05pe25oyH5a6aKirvvIzku7vkvZXmg4XlhrXkuIvpg73kuI3opoHkv67mlLnmnKzmnLrphY3nva7jgILku6XkuIvmk43kvZzkuIDlvovnpoHmraLvvJoKCnwg56aB5q2iIHwg6K+05piOIHwKfC0tLXwtLS18Cnwg6K6+57O757uf5Luj55CGIHwgR05PTUUvS0RFIOe9kee7nOiuvue9ruOAgWBnc2V0dGluZ3Mgc2V0IG9yZy5nbm9tZS5zeXN0ZW0ucHJveHkg4oCmYOOAgWBuZXR3b3Jrc2V0dXAgLXNldHdlYnByb3h5YOOAgVdpbmRvd3MgYG5ldHNoIHdpbmh0dHAgc2V0IHByb3h5YCB8Cnwg5YaZ5YWo5bGA546v5aKD5Y+Y6YePIHwg5L+u5pS5IGAvZXRjL2Vudmlyb25tZW50YOOAgWAvZXRjL3Byb2ZpbGVg44CBYC9ldGMvcHJvZmlsZS5kLypg44CBYH4vLmJhc2hyY2DjgIFgfi8uYmFzaF9wcm9maWxlYOOAgWB+Ly5wcm9maWxlYOOAgWB+Ly56c2hyY2Ag6YeM55qEIGBodHRwX3Byb3h5YCAvIGBodHRwc19wcm94eWAgLyBgYWxsX3Byb3h5YCAvIGBub19wcm94eWAgfAp8IOaUueW3peWFt+WFqOWxgOmFjee9riB8IGB+Ly5jdXJscmNg44CBYH4vLndnZXRyY2DjgIFgfi8ubnBtcmNg44CBYC9ldGMvYXB0L2FwdC5jb25mLmQvKnByb3h5KmDjgIFgL2V0Yy9waXAuY29uZmDjgIFgfi8uZG9ja2VyL2NvbmZpZy5qc29uYOOAgWB+Ly5naXRjb25maWdgIOeahCBwcm94eSDpobkgfAp8IOaUuSBwcm94eWNoYWlucyDlhajlsYDphY3nva4gfCDkuI3kv67mlLkgYC9ldGMvcHJveHljaGFpbnM0LmNvbmZg44CBYH4vLnByb3h5Y2hhaW5zL3Byb3h5Y2hhaW5zLmNvbmZg77yb56Gu6ZyA55So5pe255SoIGAtZmAg5oyH5ZCRIGBydW5zL2Ag5LiL55qE5Li05pe26YWN572u77yM55So5a6M5Yig6ZmkIHwKfCDliqjns7vnu5/nvZHnu5wgfCBpcHRhYmxlcy9uZnRhYmxlcyDop4TliJnjgIHot6/nlLHooajjgIFETlPvvIhgL2V0Yy9yZXNvbHYuY29uZmDvvInjgIFOZXR3b3JrTWFuYWdlcuOAgei1t+WBnCBWUE4vdHVuIOiuvuWkhyB8Cnwg5oyB5LmF5YyWIGV4cG9ydCB8IOS4jeWcqCBzaGVsbCDph4wgYGV4cG9ydCBodHRwX3Byb3h5PeKApmAg6K6p5a6D55WZ5Zyo5Lya6K+d6YeM77yb6KaB5Lyg5bCxKirlhoXogZQqKuWcqOivpeadoeWRveS7pOWJjSB8CgoqKuato+ehruWnv+WKvyoq77yI5YWo6YOo5piv5ZG95Luk57qn44CB5LiA5qyh5oCn55qE77yJ77yaCgpgYGBiYXNoClA9JChzaHVmIC1uMSBydW5zL2xpdmUtcHJveGllcy50eHQpCgojIOaWueW8j+S4gO+8muW3peWFt+iHquW4pueahOS7o+eQhuWPguaVsO+8iOmmlumAie+8iQpjdXJsIC1zIC0tcHJveHkgImh0dHA6Ly8kUCIgLS1tYXgtdGltZSAxNSAtSSAiaHR0cHM6Ly90YXJnZXQuZXhhbXBsZS5jb20vIgpudWNsZWkgLXUgaHR0cHM6Ly90YXJnZXQuZXhhbXBsZS5jb20vIC1wcm94eSAiaHR0cDovLyRQIiAtcmF0ZS1saW1pdCAyMApzcWxtYXAgLXUgImh0dHBzOi8vdGFyZ2V0LmV4YW1wbGUuY29tL2l0ZW0/aWQ9MSIgLS1wcm94eT0iaHR0cDovLyRQIiAtLWJhdGNoIC0tcmFuZG9tLWFnZW50CmZmdWYgLXUgaHR0cHM6Ly90YXJnZXQuZXhhbXBsZS5jb20vYXBpL0ZVWlogLXcgd29yZGxpc3QudHh0IC14ICJodHRwOi8vJFAiIC1yYXRlIDIwCgojIOaWueW8j+S6jO+8muWPquWvuei/meadoeWRveS7pOWGheiBlOeOr+Wig+WPmOmHj++8iOS4jSBleHBvcnTvvIzov5vnqIvnu5PmnZ/ljbPlpLHmlYjvvIkKaHR0cF9wcm94eT0iaHR0cDovLyRQIiBodHRwc19wcm94eT0iaHR0cDovLyRQIiBjdXJsIC1zIC0tbWF4LXRpbWUgMTUgImh0dHBzOi8vdGFyZ2V0LmV4YW1wbGUuY29tLyIKCiMg5pa55byP5LiJ77ya5Y+q5pSv5oyB5Y6f5aeLIFRDUCDnmoTlt6Xlhbcg4oaSIOeUqCBzdW81IFNPQ0tTNSDpmqfpgZPvvIjmioDog70gc3VvNS10dW5uZWzvvInvvIwKIyAgICAgICAg5LiN6KaB5Li65a6D5Y675pS557O757uf5Luj55CG77ybcHJveHljaGFpbnMg55So5Li05pe26YWN572u5paH5Lu277yaCnByb3h5Y2hhaW5zNCAtZiBydW5zL3Byb3h5Y2hhaW5zLnRtcC5jb25mIC1xIG5tYXAgLXNUIC1QbiAtcCA4MCw0NDMgMTAuMC4wLjUKYGBgCgojIyDkuIDjgIHmipPlj5bvvIjlpJrmupDlkIjlubbvvIkKYGBgYmFzaApta2RpciAtcCBydW5zICYmIGNkIHJ1bnMKY3VybCAtcyAtLW1heC10aW1lIDIwICJodHRwczovL3d3dy44OWlwLmNuL3RxZGwuaHRtbD9hcGk9MSZudW09NTAmcG9ydD0mYWRkcmVzcz0lRTQlQjglQUQlRTUlOUIlQkQmaXNwPSIgXAogIHwgZ3JlcCAtb0UgJyhbMC05XXsxLDN9XC4pezN9WzAtOV17MSwzfTpbMC05XXsyLDV9JyA+PiByYXctcHJveGllcy50eHQKY3VybCAtcyAtLW1heC10aW1lIDIwICJodHRwOi8vd3d3LmlwMzM2Ni5uZXQvZnJlZS8/c3R5cGU9MSIgXAogIHwgZ3JlcCAtb0UgJyhbMC05XXsxLDN9XC4pezN9WzAtOV17MSwzfTwvdGQ+W1s6c3BhY2U6XV0qPHRkPlswLTldezIsNX0nIFwKICB8IHNlZCAtRSAncyM8L3RkPltbOnNwYWNlOl1dKjx0ZD4jOiMnID4+IHJhdy1wcm94aWVzLnR4dApjdXJsIC1zIC0tbWF4LXRpbWUgMjAgImh0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9wcm94aWZseS9mcmVlLXByb3h5LWxpc3QvbWFpbi9wcm94aWVzL2NvdW50cmllcy9DTi9kYXRhLnR4dCIgXAogIHwgZ3JlcCAtb0UgJyhbMC05XXsxLDN9XC4pezN9WzAtOV17MSwzfTpbMC05XXsyLDV9JyA+PiByYXctcHJveGllcy50eHQKc29ydCAtdSByYXctcHJveGllcy50eHQgLW8gcmF3LXByb3hpZXMudHh0ICYmIHdjIC1sIHJhdy1wcm94aWVzLnR4dApgYGAKCiMjIOS6jOOAgemqjOivge+8iOW5tuWPkea1i+a0u++8jOeVmeS4i+iDveeUqOeahO+8iQpgYGBiYXNoCmNhdCA+IHJ1bnMvY2hlY2tfcHJveHkucHkgPDwnUFknCmltcG9ydCBjb25jdXJyZW50LmZ1dHVyZXMsIHN5cywgdXJsbGliLnJlcXVlc3QKVEFSR0VUID0gImh0dHA6Ly93d3cuYmFpZHUuY29tIiAgICMg5LuF5rWL6L+e6YCa5oCn77yM5LiN5pC65bim5Lu75L2V5pWP5oSf5pWw5o2uCmRlZiBvayhwcm94eSk6CiAgICB0cnk6CiAgICAgICAgb3AgPSB1cmxsaWIucmVxdWVzdC5idWlsZF9vcGVuZXIodXJsbGliLnJlcXVlc3QuUHJveHlIYW5kbGVyKHsiaHR0cCI6ICJodHRwOi8vIiArIHByb3h5LCAiaHR0cHMiOiAiaHR0cDovLyIgKyBwcm94eX0pKQogICAgICAgIHdpdGggb3Aub3BlbihUQVJHRVQsIHRpbWVvdXQ9NikgYXMgcjoKICAgICAgICAgICAgcmV0dXJuIHByb3h5IGlmIHIuc3RhdHVzID09IDIwMCBlbHNlIE5vbmUKICAgIGV4Y2VwdCBFeGNlcHRpb246CiAgICAgICAgcmV0dXJuIE5vbmUKd2l0aCBvcGVuKHN5cy5hcmd2WzFdKSBhcyBmOgogICAgY2FuZHMgPSBbbC5zdHJpcCgpIGZvciBsIGluIGYgaWYgbC5zdHJpcCgpXQp3aXRoIGNvbmN1cnJlbnQuZnV0dXJlcy5UaHJlYWRQb29sRXhlY3V0b3IobWF4X3dvcmtlcnM9NTApIGFzIGV4OgogICAgZm9yIHJlcyBpbiBleC5tYXAob2ssIGNhbmRzKToKICAgICAgICBpZiByZXM6IHByaW50KHJlcywgZmx1c2g9VHJ1ZSkKUFkKcHl0aG9uMyBydW5zL2NoZWNrX3Byb3h5LnB5IHJ1bnMvcmF3LXByb3hpZXMudHh0ID4gcnVucy9saXZlLXByb3hpZXMudHh0CndjIC1sIHJ1bnMvbGl2ZS1wcm94aWVzLnR4dApgYGAKCiMjIOS4ieOAgei9ruaNouS4jumZkOmAnwotIOavj+S4quivt+axgumaj+acuuWPluS4gOS4quS7o+eQhu+8m+Wksei0peiHquWKqOWJlOmZpOW5tuaNouS4i+S4gOS4quOAggotIOebruagh+S+p+S7jeimgemZkOmAn++8iGAtcmF0ZS1saW1pdGAgLyBgLS1kZWxheWDvvInvvIzku6PnkIblj6rmmK/mjaLlh7rlj6MgSVDvvIzkuI3mmK/liqDpgJ/lmajjgIIKLSDorrDlvZXmr4/kuKrlh7rlj6MgSVAg55qE5oiQ6LSl77yM5ZCM5LiA55uu5qCH6L+e57utIDMg5qyh6KKr5bCB5bCx5oyJ5ryP5rSe5qOA5rWL5o+Q56S66K+N6YeM55qE6KeE5YiZKirmlL7lvIPor6Xnm67moIcqKuOAggoKIyMg5Zub44CB5rOo5oSP5LqL6aG5Ci0gKirkuI3opoHpgJrov4flhY3otLnku6PnkIbkvKDovpPlh63mja7jgIFDb29raWXjgIHkuIrkvKDnmoQgc2hlbGwqKuKAlOKAlOWFjei0ueS7o+eQhuWPr+iDveiusOW9lea1gemHj+OAggotIOa1i+a0u+WPqua1i+i/numAmuaAp++8jOS4jeimgeeUqOecn+WunuS4muWKoeivt+axguWOu+a1i+OAggotIOmrmOmikeeIhuegtOWJjeehruiupOebruagh+ayoeaciei0puWPt+mUgeWumuetlueVpe+8m+inpuWPkemUgeWumuWJjeS4u+WKqOWBnOaJi+OAggotIOeUqOWujOa4heaOiSBgcnVucy9gIOS4i+eahOS4tOaXtumFjee9ru+8iOWmgiBgcHJveHljaGFpbnMudG1wLmNvbmZg77yJ77yM5LiN6KaB5Zyo57O757uf6YeM55WZ5LiL5Lu75L2V5Luj55CG55eV6L+544CCCi0g5LuF5Zyo5o6I5p2D5ryU57uD6IyD5Zu05YaF5L2/55So44CCCg==
+---
+name: cn-proxy-pool
+description: 国内免费 HTTP/SOCKS5 代理池：抓取、验活、按需轮换；只用命令级代理参数，绝不改动本机网络与代理配置
+whenToUse: 目标有 WAF/封 IP 风险，或需要高频请求（接口爆破、目录扫描、口令喷洒）时
+role: vuln-scan
+enabled: true
+---
+
+# 国内免费 IP 代理池
+
+免费代理不稳定，定位是**降低被封风险**而不是隐藏身份。关键目标优先用自有出口或 suo5 隧道。
+
+## ⛔ 铁规则：不许动本机的网络与代理配置
+
+使用代理**只允许在单条命令上临时指定**，任何情况下都不要修改本机配置。以下操作一律禁止：
+
+| 禁止 | 说明 |
+|---|---|
+| 设系统代理 | GNOME/KDE 网络设置、`gsettings set org.gnome.system.proxy …`、`networksetup -setwebproxy`、Windows `netsh winhttp set proxy` |
+| 写全局环境变量 | 修改 `/etc/environment`、`/etc/profile`、`/etc/profile.d/*`、`~/.bashrc`、`~/.bash_profile`、`~/.profile`、`~/.zshrc` 里的 `http_proxy` / `https_proxy` / `all_proxy` / `no_proxy` |
+| 改工具全局配置 | `~/.curlrc`、`~/.wgetrc`、`~/.npmrc`、`/etc/apt/apt.conf.d/*proxy*`、`/etc/pip.conf`、`~/.docker/config.json`、`~/.gitconfig` 的 proxy 项 |
+| 改 proxychains 全局配置 | 不修改 `/etc/proxychains4.conf`、`~/.proxychains/proxychains.conf`；确需用时用 `-f` 指向 `runs/` 下的临时配置，用完删除 |
+| 动系统网络 | iptables/nftables 规则、路由表、DNS（`/etc/resolv.conf`）、NetworkManager、起停 VPN/tun 设备 |
+| 持久化 export | 不在 shell 里 `export http_proxy=…` 让它留在会话里；要传就**内联**在该条命令前 |
+
+**正确姿势**（全部是命令级、一次性的）：
+
+```bash
+P=$(shuf -n1 runs/live-proxies.txt)
+
+# 方式一：工具自带的代理参数（首选）
+curl -s --proxy "http://$P" --max-time 15 -I "https://target.example.com/"
+nuclei -u https://target.example.com/ -proxy "http://$P" -rate-limit 20
+sqlmap -u "https://target.example.com/item?id=1" --proxy="http://$P" --batch --random-agent
+ffuf -u https://target.example.com/api/FUZZ -w wordlist.txt -x "http://$P" -rate 20
+
+# 方式二：只对这条命令内联环境变量（不 export，进程结束即失效）
+http_proxy="http://$P" https_proxy="http://$P" curl -s --max-time 15 "https://target.example.com/"
+
+# 方式三：只支持原始 TCP 的工具 → 用 suo5 SOCKS5 隧道（技能 suo5-tunnel），
+#        不要为它去改系统代理；proxychains 用临时配置文件：
+proxychains4 -f runs/proxychains.tmp.conf -q nmap -sT -Pn -p 80,443 10.0.0.5
+```
+
+## 一、抓取（多源合并）
+```bash
+mkdir -p runs && cd runs
+curl -s --max-time 20 "https://www.89ip.cn/tqdl.html?api=1&num=50&port=&address=%E4%B8%AD%E5%9B%BD&isp=" \
+  | grep -oE '([0-9]{1,3}\.){3}[0-9]{1,3}:[0-9]{2,5}' >> raw-proxies.txt
+curl -s --max-time 20 "http://www.ip3366.net/free/?stype=1" \
+  | grep -oE '([0-9]{1,3}\.){3}[0-9]{1,3}</td>[[:space:]]*<td>[0-9]{2,5}' \
+  | sed -E 's#</td>[[:space:]]*<td>#:#' >> raw-proxies.txt
+curl -s --max-time 20 "https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/countries/CN/data.txt" \
+  | grep -oE '([0-9]{1,3}\.){3}[0-9]{1,3}:[0-9]{2,5}' >> raw-proxies.txt
+sort -u raw-proxies.txt -o raw-proxies.txt && wc -l raw-proxies.txt
+```
+
+## 二、验证（并发测活，留下能用的）
+```bash
+cat > runs/check_proxy.py <<'PY'
+import concurrent.futures, sys, urllib.request
+TARGET = "http://www.baidu.com"   # 仅测连通性，不携带任何敏感数据
+def ok(proxy):
+    try:
+        op = urllib.request.build_opener(urllib.request.ProxyHandler({"http": "http://" + proxy, "https": "http://" + proxy}))
+        with op.open(TARGET, timeout=6) as r:
+            return proxy if r.status == 200 else None
+    except Exception:
+        return None
+with open(sys.argv[1]) as f:
+    cands = [l.strip() for l in f if l.strip()]
+with concurrent.futures.ThreadPoolExecutor(max_workers=50) as ex:
+    for res in ex.map(ok, cands):
+        if res: print(res, flush=True)
+PY
+python3 runs/check_proxy.py runs/raw-proxies.txt > runs/live-proxies.txt
+wc -l runs/live-proxies.txt
+```
+
+## 三、轮换与限速
+- 每个请求随机取一个代理；失败自动剔除并换下一个。
+- 目标侧仍要限速（`-rate-limit` / `--delay`），代理只是换出口 IP，不是加速器。
+- 记录每个出口 IP 的成败，同一目标连续 3 次被封就按漏洞检测提示词里的规则**放弃该目标**。
+
+## 四、注意事项
+- **不要通过免费代理传输凭据、Cookie、上传的 shell**——免费代理可能记录流量。
+- 测活只测连通性，不要用真实业务请求去测。
+- 高频爆破前确认目标没有账号锁定策略；触发锁定前主动停手。
+- 用完清掉 `runs/` 下的临时配置（如 `proxychains.tmp.conf`），不要在系统里留下任何代理痕迹。
+- 仅在授权演练范围内使用。

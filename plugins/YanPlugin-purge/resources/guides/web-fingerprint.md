@@ -1,1 +1,17 @@
-LS0tCm5hbWU6IHdlYi1maW5nZXJwcmludApkZXNjcmlwdGlvbjogV2ViIOacjeWKoeaMh+e6ueivhuWIq++8muahhuaetuOAgeS4remXtOS7tuOAgUNNU+OAgee7hOS7tueJiOacrAp3aGVuVG9Vc2U6IOW3suWPkeeOsCBIVFRQL0hUVFBTIOacjeWKoe+8jOmcgOimgeivhuWIq+aKgOacr+agiOaXtgpyb2xlOiByZWNvbgplbmFibGVkOiB0cnVlCi0tLQoKIyMg5pa55rOVCjEuIOWTjeW6lOWktO+8mmBTZXJ2ZXJg44CBYFgtUG93ZXJlZC1CeWDjgIFgU2V0LUNvb2tpZWAg54m55b6B44CCCjIuIOmhtemdoueJueW+ge+8mmZhdmljb24g5ZOI5biM44CB6Z2Z5oCB6LWE5rqQ6Lev5b6E44CB5oql6ZSZ6aG144CBcm9ib3RzLnR4dOOAggozLiDkuLvliqjmjqLmtYvvvJpudWNsZWkg5oqA5pyv6K+G5Yir5qih5p2/IGBudWNsZWkgLXUgPHVybD4gLXRhZ3MgdGVjaGDvvJtIVFRQIOWtmOa0u+S4juaKgOacr+agiOaxh+aAu+eUqCBgfi8ubG9jYWwvYmluL3BkLWh0dHB4IC1sIHVybHMudHh0IC10ZWNoLWRldGVjdCAtdGl0bGUgLXN0YXR1cy1jb2RlIC13ZWItc2VydmVyYO+8iCoqUHJvamVjdERpc2NvdmVyeSDniYjlv4XpobvnlKggcGQtaHR0cHjvvIxgL3Vzci9iaW4vaHR0cHhgIOaYryBQeXRob24g5bqT55qEIENMSSoq77yJ44CCCjQuIOWkp+e9keauteaJuemHj+aMh+e6ueeUqOaKgOiDvSBgZ29nby1pbnRyYW5ldGDvvIhgZ29nbyAtaSA8Y2lkcj4gLXAgdG9wMiAtdiAtLWFmYO+8jOS4u+WKqOaMh+e6ueimgeWKoCBgLXZg77yJ44CCCjUuIOeJiOacrOavlOWvue+8muS7juaMh+e6ueaOqOaWreS6p+WTgeS4jueJiOacrO+8jOS4uua8j+a0nuajgOa1i+WBmuWHhuWkh+OAggoKIyMg6JC95bqT6KaB5rGCCuWGmeWFpSBmaW5nZXJwcmludCDooajvvJpjYXRlZ29yee+8iOahhuaeti/kuK3pl7Tku7YvQ01TL+e7hOS7tu+8ieOAgXZlbmRvcuOAgXByb2R1Y3TjgIF2ZXJzaW9u44CBZXZpZGVuY2XjgIIK
+---
+name: web-fingerprint
+description: Web 服务指纹识别：框架、中间件、CMS、组件版本
+whenToUse: 已发现 HTTP/HTTPS 服务，需要识别技术栈时
+role: recon
+enabled: true
+---
+
+## 方法
+1. 响应头：`Server`、`X-Powered-By`、`Set-Cookie` 特征。
+2. 页面特征：favicon 哈希、静态资源路径、报错页、robots.txt。
+3. 主动探测：nuclei 技术识别模板 `nuclei -u <url> -tags tech`；HTTP 存活与技术栈汇总用 `~/.local/bin/pd-httpx -l urls.txt -tech-detect -title -status-code -web-server`（**ProjectDiscovery 版必须用 pd-httpx，`/usr/bin/httpx` 是 Python 库的 CLI**）。
+4. 大网段批量指纹用技能 `gogo-intranet`（`gogo -i <cidr> -p top2 -v --af`，主动指纹要加 `-v`）。
+5. 版本比对：从指纹推断产品与版本，为漏洞检测做准备。
+
+## 落库要求
+写入 fingerprint 表：category（框架/中间件/CMS/组件）、vendor、product、version、evidence。

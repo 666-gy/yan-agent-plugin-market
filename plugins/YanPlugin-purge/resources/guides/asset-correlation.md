@@ -1,1 +1,16 @@
-LS0tCm5hbWU6IGFzc2V0LWNvcnJlbGF0aW9uCmRlc2NyaXB0aW9uOiDotYTkuqflhbPogZTvvJrln5/lkI3ihpRJUOKGlEMg5q614oaU6K+B5Lmm4oaU5pyN5Yqh55qE5Zu+6LCx5YyWCndoZW5Ub1VzZTog5L+h5oGv5pS26ZuG6Zi25q615oCn5pS25Y+j77yM6ZyA6KaB5b2i5oiQ6LWE5Lqn5YWz57O76KeG5Zu+5pe2CnJvbGU6IHJlY29uCmVuYWJsZWQ6IHRydWUKLS0tCgojIyDlhbPogZTop4TliJkKLSDln5/lkI3op6PmnpAg4oaSIGByZXNvbHZlc2Ag6L6577yIZG9tYWluIOKGkiBhc3NldO+8iQotIEMg5q615b2S5bGeIOKGkiBgY29udGFpbnNgIOi+ue+8iHNlZ21lbnQg4oaSIGFzc2V077yJCi0g56uv5Y+j5byA5pS+IOKGkiBgZXhwb3Nlc2Ag6L6577yIYXNzZXQg4oaSIHBvcnTvvIkKLSDor4HkuaYgU0FOIOWFseS6qyDihpIgYHNoYXJlc19jZXJ0YCDovrkKCiMjIOiQveW6k+imgeaxggrpgJrov4cgcmVkdGVhbV9hc3NldF9saW5rIOWGmeWFpSBlZGdlIOihqO+8m+mHjeWkjeWFs+ezu+W5guetieOAggo=
+---
+name: asset-correlation
+description: 资产关联：域名↔IP↔C 段↔证书↔服务的图谱化
+whenToUse: 信息收集阶段性收口，需要形成资产关系视图时
+role: recon
+enabled: true
+---
+
+## 关联规则
+- 域名解析 → `resolves` 边（domain → asset）
+- C 段归属 → `contains` 边（segment → asset）
+- 端口开放 → `exposes` 边（asset → port）
+- 证书 SAN 共享 → `shares_cert` 边
+
+## 落库要求
+通过 redteam_asset_link 写入 edge 表；重复关系幂等。

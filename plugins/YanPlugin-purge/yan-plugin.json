@@ -1,1 +1,291 @@
-ew0KICAic2NoZW1hVmVyc2lvbiI6IDEsDQogICJpZCI6ICJZYW5QbHVnaW4tcHVyZ2UiLAogICJ2ZXJzaW9uIjogIjAuMS4wIiwNCiAgIm5hbWUiOiAiWWFuUGx1Z2luLXB1cmdlIiwKICAiZGVzY3JpcHRpb24iOiAiRXZhbnMtcmVwbyAyMyDku73lrozmlbTnuqLpmJ/mk43kvZzmjIfljZflj4ogWWFuIOS9v+eUqOaYoOWwhO+8m+aWh+ahoy/mioDog73pgILphY3vvIzkuI3lkKsgRFNIIOWuv+S4u+ihpeS4geaIlui/kOihjOaXtuOAgiIsDQogICJhdXRob3IiOiAiQ29tbXVuaXR5IGFkYXB0ZXI7IHVwc3RyZWFtIOWwj+adqCAvIOW3tOmHjOWViuWViiAvIEp1ZXplLTIwMTkiLA0KICAibGljZW5zZSI6ICJNSVQiLA0KICAiaW5zdHJ1Y3Rpb25zIjogImluc3RydWN0aW9ucy5tZCIsDQogICJza2lsbHMiOiBbDQogICAgew0KICAgICAgImlkIjogInB1cmdlLWFjdGl2ZS1zY2FuIiwKICAgICAgIm5hbWUiOiAiUHVyZ2UgwrcgYWN0aXZlLXNjYW4iLAogICAgICAiZGVzY3JpcHRpb24iOiAiYWN0aXZlLXNjYW4g5oyH5Y2X77yb6ZyA6KaB56Gu6K6k6LWE5Lqn5a2Y5rS75LiO5byA5pS+56uv5Y+j5pe244CC5o+Q5L6b5LiK5ri45YWo5paH5LiOIFlhbiDpgILphY3mmKDlsITvvIzkuI3mj5DkvpsgRFNIIOi/kOihjOaXtuOAgiIsDQogICAgICAicGF0aCI6ICJza2lsbHMvYWN0aXZlLXNjYW4vU0tJTEwubWQiDQogICAgfSwNCiAgICB7DQogICAgICAiaWQiOiAicHVyZ2UtYXNzZXQtY29ycmVsYXRpb24iLAogICAgICAibmFtZSI6ICJQdXJnZSDCtyBhc3NldC1jb3JyZWxhdGlvbiIsCiAgICAgICJkZXNjcmlwdGlvbiI6ICJhc3NldC1jb3JyZWxhdGlvbiDmjIfljZfvvJvkv6Hmga/mlLbpm4bpmLbmrrXmgKfmlLblj6PvvIzpnIDopoHlvaLmiJDotYTkuqflhbPns7vop4blm77ml7bjgILmj5DkvpvkuIrmuLjlhajmlofkuI4gWWFuIOmAgumFjeaYoOWwhO+8jOS4jeaPkOS+myBEU0gg6L+Q6KGM5pe244CCIiwNCiAgICAgICJwYXRoIjogInNraWxscy9hc3NldC1jb3JyZWxhdGlvbi9TS0lMTC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJwdXJnZS1icm93c2VyLWF1dG9tYXRpb24iLAogICAgICAibmFtZSI6ICJQdXJnZSDCtyBicm93c2VyLWF1dG9tYXRpb24iLAogICAgICAiZGVzY3JpcHRpb24iOiAiYnJvd3Nlci1hdXRvbWF0aW9uIOaMh+WNl++8m+mcgOimgea4suafkyBTUEEgLyDlj5YgSlMg55Sf5oiQ55qE5YaF5a65IC8g5oiq5Zu+55WZ6K+BIC8g5om56YeP5oqT6aG16Z2i5pe277yIS2ltaSDmianlsZXkuI3lj6/nlKjml7bpppbpgInvvInjgILmj5DkvpvkuIrmuLjlhajmlofkuI4gWWFuIOmAgumFjeaYoOWwhO+8jOS4jeaPkOS+myBEU0gg6L+Q6KGM5pe244CCIiwNCiAgICAgICJwYXRoIjogInNraWxscy9icm93c2VyLWF1dG9tYXRpb24vU0tJTEwubWQiDQogICAgfSwNCiAgICB7DQogICAgICAiaWQiOiAicHVyZ2UtY2hpc2VsLXR1bm5lbCIsCiAgICAgICJuYW1lIjogIlB1cmdlIMK3IGNoaXNlbC10dW5uZWwiLAogICAgICAiZGVzY3JpcHRpb24iOiAiY2hpc2VsLXR1bm5lbCDmjIfljZfvvJtzdW81IOS4jemAgueUqO+8iOmdniBXZWJTaGVsbCDlhaXlj6PvvInjgIHnm67moIflj6rog73lh7ogSFRUUOOAgemcgOimgeerr+WPo+i9rOWPkeaIlueos+WumiBTT0NLUyDml7bjgILmj5DkvpvkuIrmuLjlhajmlofkuI4gWWFuIOmAgumFjeaYoOWwhO+8jOS4jeaPkOS+myBEU0gg6L+Q6KGM5pe244CCIiwNCiAgICAgICJwYXRoIjogInNraWxscy9jaGlzZWwtdHVubmVsL1NLSUxMLm1kIg0KICAgIH0sDQogICAgew0KICAgICAgImlkIjogInB1cmdlLWNuLXByb3h5LXBvb2wiLAogICAgICAibmFtZSI6ICJQdXJnZSDCtyBjbi1wcm94eS1wb29sIiwKICAgICAgImRlc2NyaXB0aW9uIjogImNuLXByb3h5LXBvb2wg5oyH5Y2X77yb55uu5qCH5pyJIFdBRi/lsIEgSVAg6aOO6Zmp77yM5oiW6ZyA6KaB6auY6aKR6K+35rGC77yI5o6l5Y+j54iG56C044CB55uu5b2V5omr5o+P44CB5Y+j5Luk5Za35rSS77yJ5pe244CC5o+Q5L6b5LiK5ri45YWo5paH5LiOIFlhbiDpgILphY3mmKDlsITvvIzkuI3mj5DkvpsgRFNIIOi/kOihjOaXtuOAgiIsDQogICAgICAicGF0aCI6ICJza2lsbHMvY24tcHJveHktcG9vbC9TS0lMTC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJwdXJnZS1jcmVkZW50aWFsLWF0dGFjayIsCiAgICAgICJuYW1lIjogIlB1cmdlIMK3IGNyZWRlbnRpYWwtYXR0YWNrIiwKICAgICAgImRlc2NyaXB0aW9uIjogImNyZWRlbnRpYWwtYXR0YWNrIOaMh+WNl++8m+WPkeeOsOeZu+W9leWFpeWPo++8iFdlYiDlkI7lj7AvU1NIL0ZUUC9SRFAvU01CL015U1FML01TU1FML1JlZGlz77yJ6ZyA6KaB6K+V5Y+j5Luk77yb5oiW5bey5ou/5Yiw5ZOI5biML+WvhuaWh+mcgOimgei/mOWOn+aYjuaWh+OAguaPkOS+m+S4iua4uOWFqOaWh+S4jiBZYW4g6YCC6YWN5pig5bCE77yM5LiN5o+Q5L6bIERTSCDov5DooYzml7bjgIIiLA0KICAgICAgInBhdGgiOiAic2tpbGxzL2NyZWRlbnRpYWwtYXR0YWNrL1NLSUxMLm1kIg0KICAgIH0sDQogICAgew0KICAgICAgImlkIjogInB1cmdlLWRpci1icnV0ZWZvcmNlIiwKICAgICAgIm5hbWUiOiAiUHVyZ2UgwrcgZGlyLWJydXRlZm9yY2UiLAogICAgICAiZGVzY3JpcHRpb24iOiAiZGlyLWJydXRlZm9yY2Ug5oyH5Y2X77yb5bey56Gu6K6kIFdlYiDlrZjmtLvkvYbmjIfnurnml6Dnm7TmjqUgTmRheSDnur/ntKLvvJvpnIDopoHmib7lkI7lj7DlhaXlj6PjgIHlpIfku73jgIHphY3nva7jgIHmupDnoIHjgIHkuIrkvKDngrnnrYnpmpDol4/ot6/lvoTjgILmj5DkvpvkuIrmuLjlhajmlofkuI4gWWFuIOmAgumFjeaYoOWwhO+8jOS4jeaPkOS+myBEU0gg6L+Q6KGM5pe244CCIiwNCiAgICAgICJwYXRoIjogInNraWxscy9kaXItYnJ1dGVmb3JjZS9TS0lMTC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJwdXJnZS1mb2ZhLXJlY29uIiwKICAgICAgIm5hbWUiOiAiUHVyZ2UgwrcgZm9mYS1yZWNvbiIsCiAgICAgICJkZXNjcmlwdGlvbiI6ICJmb2ZhLXJlY29uIOaMh+WNl++8m+S/oeaBr+aUtumbhumYtuautemcgOimgeW/q+mAn+mTuuW8gOafkOWNleS9jS/ln5/lkI3nmoTkupLogZTnvZHotYTkuqfpnaLml7bjgILmj5DkvpvkuIrmuLjlhajmlofkuI4gWWFuIOmAgumFjeaYoOWwhO+8jOS4jeaPkOS+myBEU0gg6L+Q6KGM5pe244CCIiwNCiAgICAgICJwYXRoIjogInNraWxscy9mb2ZhLXJlY29uL1NLSUxMLm1kIg0KICAgIH0sDQogICAgew0KICAgICAgImlkIjogInB1cmdlLWZycC10dW5uZWwiLAogICAgICAibmFtZSI6ICJQdXJnZSDCtyBmcnAtdHVubmVsIiwKICAgICAgImRlc2NyaXB0aW9uIjogImZycC10dW5uZWwg5oyH5Y2X77yb5bey5pyJ5ZG95Luk5omn6KGML1JDRSDkuJTnm67moIflj6/lh7rnvZHvvJvpnIDopoHplb/mnJ/nqLPlrprpmqfpgZPjgIHmiorlhoXnvZHnq6/lj6PmmKDlsITnu5nnlKjmiLfnm7TmjqXorr/pl67ml7bjgILmj5DkvpvkuIrmuLjlhajmlofkuI4gWWFuIOmAgumFjeaYoOWwhO+8jOS4jeaPkOS+myBEU0gg6L+Q6KGM5pe244CCIiwNCiAgICAgICJwYXRoIjogInNraWxscy9mcnAtdHVubmVsL1NLSUxMLm1kIg0KICAgIH0sDQogICAgew0KICAgICAgImlkIjogInB1cmdlLWZzY2FuLWludHJhbmV0IiwKICAgICAgIm5hbWUiOiAiUHVyZ2UgwrcgZnNjYW4taW50cmFuZXQiLAogICAgICAiZGVzY3JpcHRpb24iOiAiZnNjYW4taW50cmFuZXQg5oyH5Y2X77yb6L+b5YWl5YaF572R77yI6Lez5p2/5py6L1dlYlNoZWxsL3NvY2tzNSDpmqfpgZPvvInlkI7lv6vpgJ/pk7rlvIDotYTkuqfpnaLjgIHmib7lvLHlj6Pku6TkuI7mnKrmjojmnYPjgIHmiorlj6/ovr7mgKflj5jmiJDlj6/miZPngrnjgILmj5DkvpvkuIrmuLjlhajmlofkuI4gWWFuIOmAgumFjeaYoOWwhO+8jOS4jeaPkOS+myBEU0gg6L+Q6KGM5pe244CCIiwNCiAgICAgICJwYXRoIjogInNraWxscy9mc2Nhbi1pbnRyYW5ldC9TS0lMTC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJwdXJnZS1nb2dvLWludHJhbmV0IiwKICAgICAgIm5hbWUiOiAiUHVyZ2UgwrcgZ29nby1pbnRyYW5ldCIsCiAgICAgICJkZXNjcmlwdGlvbiI6ICJnb2dvLWludHJhbmV0IOaMh+WNl++8m+i/m+WFpeWGhee9keWQjuWvueWkp+e9keaute+8iC8xNiAvMTLvvInlv6vpgJ/mtYvnu5jjgIHopoHmjIfnurnkuI7lhbPplK7kv6Hmga/jgIHpnIDopoHlsL3ph4/lsJHlj5HljIXkuI3ooqvlj5HnjrDjgILmj5DkvpvkuIrmuLjlhajmlofkuI4gWWFuIOmAgumFjeaYoOWwhO+8jOS4jeaPkOS+myBEU0gg6L+Q6KGM5pe244CCIiwNCiAgICAgICJwYXRoIjogInNraWxscy9nb2dvLWludHJhbmV0L1NLSUxMLm1kIg0KICAgIH0sDQogICAgew0KICAgICAgImlkIjogInB1cmdlLWtpbWktd2ViYnJpZGdlIiwKICAgICAgIm5hbWUiOiAiUHVyZ2Ugwrcga2ltaS13ZWJicmlkZ2UiLAogICAgICAiZGVzY3JpcHRpb24iOiAia2ltaS13ZWJicmlkZ2Ug5oyH5Y2X77yb6ZyA6KaB5aSN55So5rWP6KeI5Zmo55m75b2V5oCB6K6/6Zeu5ZCO5Y+wL+mcgOimgSBKUyDmuLLmn5PnmoTpobXpnaIv6ZyA6KaB55yf5a6e5rWP6KeI5Zmo5oyH57q55pe244CC5o+Q5L6b5LiK5ri45YWo5paH5LiOIFlhbiDpgILphY3mmKDlsITvvIzkuI3mj5DkvpsgRFNIIOi/kOihjOaXtuOAgiIsDQogICAgICAicGF0aCI6ICJza2lsbHMva2ltaS13ZWJicmlkZ2UvU0tJTEwubWQiDQogICAgfSwNCiAgICB7DQogICAgICAiaWQiOiAicHVyZ2UtbGF0ZXJhbC1tb3ZlbWVudCIsCiAgICAgICJuYW1lIjogIlB1cmdlIMK3IGxhdGVyYWwtbW92ZW1lbnQiLAogICAgICAiZGVzY3JpcHRpb24iOiAibGF0ZXJhbC1tb3ZlbWVudCDmjIfljZfvvJvlt7Lov5vlhoXnvZHvvIzpnIDopoHnlKjlt7LmnInlh63mja7miJblk4jluIzmqKrlkJHliLDlhbblroPkuLvmnLrjgIHmnprkuL7ln5/njq/looPjgIFkdW1wIOWHreaNruOAgeaJvuWfn+aOp+i3r+W+hOOAguaPkOS+m+S4iua4uOWFqOaWh+S4jiBZYW4g6YCC6YWN5pig5bCE77yM5LiN5o+Q5L6bIERTSCDov5DooYzml7bjgIIiLA0KICAgICAgInBhdGgiOiAic2tpbGxzL2xhdGVyYWwtbW92ZW1lbnQvU0tJTEwubWQiDQogICAgfSwNCiAgICB7DQogICAgICAiaWQiOiAicHVyZ2UtbnVjbGVpLXNjYW4iLAogICAgICAibmFtZSI6ICJQdXJnZSDCtyBudWNsZWktc2NhbiIsCiAgICAgICJkZXNjcmlwdGlvbiI6ICJudWNsZWktc2NhbiDmjIfljZfvvJvmvI/mtJ7lj5HnjrDpmLbmrrXmi7/liLDlrZjmtLvotYTkuqfmuIXljZXlkI7vvIzlgZogTmRheS8xZGF5IOaJuemHj+ajgOa1i++8m+aIluW3suefpee7hOS7tueJiOacrOaDs+W/q+mAn+ehruiupOaYr+WQpuacieeOsOaIkOaooeadv+OAguaPkOS+m+S4iua4uOWFqOaWh+S4jiBZYW4g6YCC6YWN5pig5bCE77yM5LiN5o+Q5L6bIERTSCDov5DooYzml7bjgIIiLA0KICAgICAgInBhdGgiOiAic2tpbGxzL251Y2xlaS1zY2FuL1NLSUxMLm1kIg0KICAgIH0sDQogICAgew0KICAgICAgImlkIjogInB1cmdlLXBhc3NpdmUtcmVjb24iLAogICAgICAibmFtZSI6ICJQdXJnZSDCtyBwYXNzaXZlLXJlY29uIiwKICAgICAgImRlc2NyaXB0aW9uIjogInBhc3NpdmUtcmVjb24g5oyH5Y2X77yb6ZyA6KaB5Zyo5LiN5pq06Zyy6Ieq6Lqr55qE5oOF5Ya15LiL5pS26ZuG55uu5qCH6LWE5Lqn5oOF5oql5pe244CC5o+Q5L6b5LiK5ri45YWo5paH5LiOIFlhbiDpgILphY3mmKDlsITvvIzkuI3mj5DkvpsgRFNIIOi/kOihjOaXtuOAgiIsDQogICAgICAicGF0aCI6ICJza2lsbHMvcGFzc2l2ZS1yZWNvbi9TS0lMTC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJwdXJnZS1yZWNvbi1waXBlbGluZSIsCiAgICAgICJuYW1lIjogIlB1cmdlIMK3IHJlY29uLXBpcGVsaW5lIiwKICAgICAgImRlc2NyaXB0aW9uIjogInJlY29uLXBpcGVsaW5lIOaMh+WNl++8m+S/oeaBr+aUtumbhumYtuauteaLv+WIsOWfn+WQjS/ljZXkvY3lkI3lkI7vvIzns7vnu5/ljJbpk7rlvIDlrZDln5/ihpLop6PmnpDihpLnq6/lj6PihpLlrZjmtLvihpLpobXpnaLkuI7mjqXlj6PjgILmj5DkvpvkuIrmuLjlhajmlofkuI4gWWFuIOmAgumFjeaYoOWwhO+8jOS4jeaPkOS+myBEU0gg6L+Q6KGM5pe244CCIiwNCiAgICAgICJwYXRoIjogInNraWxscy9yZWNvbi1waXBlbGluZS9TS0lMTC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJwdXJnZS1yZWR0ZWFtLXNldHVwIiwKICAgICAgIm5hbWUiOiAiUHVyZ2UgwrcgcmVkdGVhbS1zZXR1cCIsCiAgICAgICJkZXNjcmlwdGlvbiI6ICJyZWR0ZWFtLXNldHVwIOaMh+WNl++8m+eUqOaIt+esrOS4gOasoeS9v+eUqOe6oumYn+aooeW8j+aXtu+8m+aIliByZWR0ZWFtX3ByZWZsaWdodCDmiqXlh7ogb25ib2FyZGluZy5pbmNvbXBsZXRlIC8g5pyJ5oqA6IO9IGJyb2tlbiDml7bvvJvmiJbnlKjmiLfor7RcIueOr+Wig+ayoemFjeWlvVwiXCLlt6Xlhbfoo4XkuIDkuItcIuOAguaPkOS+m+S4iua4uOWFqOaWh+S4jiBZYW4g6YCC6YWN5pig5bCE77yM5LiN5o+Q5L6bIERTSCDov5DooYzml7bjgIIiLA0KICAgICAgInBhdGgiOiAic2tpbGxzL3JlZHRlYW0tc2V0dXAvU0tJTEwubWQiDQogICAgfSwNCiAgICB7DQogICAgICAiaWQiOiAicHVyZ2Utc2hlbGwtaGFuZGxlciIsCiAgICAgICJuYW1lIjogIlB1cmdlIMK3IHNoZWxsLWhhbmRsZXIiLAogICAgICAiZGVzY3JpcHRpb24iOiAic2hlbGwtaGFuZGxlciDmjIfljZfvvJvpnIDopoEgUkNFL+WRveS7pOaJp+ihjOWbnui/nuOAgeaKlemAkuWQjue7rei9veiNt+OAgeaKiuS4gOasoeaAp+WRveS7pOaJp+ihjOWPmOaIkOWPr+S6pOS6kuS8muivneaXtuOAguaPkOS+m+S4iua4uOWFqOaWh+S4jiBZYW4g6YCC6YWN5pig5bCE77yM5LiN5o+Q5L6bIERTSCDov5DooYzml7bjgIIiLA0KICAgICAgInBhdGgiOiAic2tpbGxzL3NoZWxsLWhhbmRsZXIvU0tJTEwubWQiDQogICAgfSwNCiAgICB7DQogICAgICAiaWQiOiAicHVyZ2Utc3VvNS10dW5uZWwiLAogICAgICAibmFtZSI6ICJQdXJnZSDCtyBzdW81LXR1bm5lbCIsCiAgICAgICJkZXNjcmlwdGlvbiI6ICJzdW81LXR1bm5lbCDmjIfljZfvvJvlt7Lmi7/liLDkuIDlj7DmnLrlmajvvIhXZWJTaGVsbC9SQ0XvvInpnIDopoHov5vlhaXlhoXnvZHmiavmj4/kuI7mqKrlkJHml7bjgILmj5DkvpvkuIrmuLjlhajmlofkuI4gWWFuIOmAgumFjeaYoOWwhO+8jOS4jeaPkOS+myBEU0gg6L+Q6KGM5pe244CCIiwNCiAgICAgICJwYXRoIjogInNraWxscy9zdW81LXR1bm5lbC9TS0lMTC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJwdXJnZS11bmF1dGgtZXhwbG9pdCIsCiAgICAgICJuYW1lIjogIlB1cmdlIMK3IHVuYXV0aC1leHBsb2l0IiwKICAgICAgImRlc2NyaXB0aW9uIjogInVuYXV0aC1leHBsb2l0IOaMh+WNl++8m2ZzY2FuL25tYXAg5Y+R546w5pq06Zyy55qE5pWw5o2u5bqT5LiO5Lit6Ze05Lu256uv5Y+j77yINjM3OS8zMzA2LzE0MzMvOTIwMC8yNzAxNy8yMzc177yJ77yM5oiWIFdlYiDkvqflj5HnjrDmnKrmjojmnYPmjqXlj6PjgILmj5DkvpvkuIrmuLjlhajmlofkuI4gWWFuIOmAgumFjeaYoOWwhO+8jOS4jeaPkOS+myBEU0gg6L+Q6KGM5pe244CCIiwNCiAgICAgICJwYXRoIjogInNraWxscy91bmF1dGgtZXhwbG9pdC9TS0lMTC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJwdXJnZS12cHMtcmV2ZXJzZS1zaGVsbCIsCiAgICAgICJuYW1lIjogIlB1cmdlIMK3IHZwcy1yZXZlcnNlLXNoZWxsIiwKICAgICAgImRlc2NyaXB0aW9uIjogInZwcy1yZXZlcnNlLXNoZWxsIOaMh+WNl++8m+ebruagh+aXoOazleWbnui/nuacrOacuiAvIOmcgOimgeWFrOe9keWbuuWumuebkeWQrOerr+WPoyAvIOmcgOimgemVv+acn+WcqOe6v+i3s+advyAvIOmcgOimgeiuqeaZuuiDveS9k+iHquW3seS4i+WPkeWRveS7pOWIsOWPjeW8uSBTaGVsbOOAguaPkOS+m+S4iua4uOWFqOaWh+S4jiBZYW4g6YCC6YWN5pig5bCE77yM5LiN5o+Q5L6bIERTSCDov5DooYzml7bjgIIiLA0KICAgICAgInBhdGgiOiAic2tpbGxzL3Zwcy1yZXZlcnNlLXNoZWxsL1NLSUxMLm1kIg0KICAgIH0sDQogICAgew0KICAgICAgImlkIjogInB1cmdlLXdlYi1maW5nZXJwcmludCIsCiAgICAgICJuYW1lIjogIlB1cmdlIMK3IHdlYi1maW5nZXJwcmludCIsCiAgICAgICJkZXNjcmlwdGlvbiI6ICJ3ZWItZmluZ2VycHJpbnQg5oyH5Y2X77yb5bey5Y+R546wIEhUVFAvSFRUUFMg5pyN5Yqh77yM6ZyA6KaB6K+G5Yir5oqA5pyv5qCI5pe244CC5o+Q5L6b5LiK5ri45YWo5paH5LiOIFlhbiDpgILphY3mmKDlsITvvIzkuI3mj5DkvpsgRFNIIOi/kOihjOaXtuOAgiIsDQogICAgICAicGF0aCI6ICJza2lsbHMvd2ViLWZpbmdlcnByaW50L1NLSUxMLm1kIg0KICAgIH0sDQogICAgew0KICAgICAgImlkIjogInB1cmdlLXdlYnNoZWxsLXRvb2xraXQiLAogICAgICAibmFtZSI6ICJQdXJnZSDCtyB3ZWJzaGVsbC10b29sa2l0IiwKICAgICAgImRlc2NyaXB0aW9uIjogIndlYnNoZWxsLXRvb2xraXQg5oyH5Y2X77yb5bey6I635b6X5LiK5Lyg54K5L+aWh+S7tuWGmeWFpS/lkb3ku6TmiafooYzvvIzpnIDopoHokL3lnLDlubbmk43kvZwgV2ViU2hlbGwg5pe244CC5o+Q5L6b5LiK5ri45YWo5paH5LiOIFlhbiDpgILphY3mmKDlsITvvIzkuI3mj5DkvpsgRFNIIOi/kOihjOaXtuOAgiIsDQogICAgICAicGF0aCI6ICJza2lsbHMvd2Vic2hlbGwtdG9vbGtpdC9TS0lMTC5tZCINCiAgICB9DQogIF0sDQogICJyZXNvdXJjZXMiOiBbDQogICAgew0KICAgICAgImlkIjogInlhbi1hZGFwdGF0aW9uIiwNCiAgICAgICJuYW1lIjogIllhbiDkvb/nlKjmmKDlsIQiLA0KICAgICAgInBhdGgiOiAicmVzb3VyY2VzL3lhbi1hZGFwdGF0aW9uLm1kIg0KICAgIH0sDQogICAgew0KICAgICAgImlkIjogImd1aWRlLWluZGV4IiwNCiAgICAgICJuYW1lIjogIjIzIOS7veaMh+WNl+ebruW9lSIsDQogICAgICAicGF0aCI6ICJndWlkZS1pbmRleC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJzb3VyY2UtcHJvdmVuYW5jZSIsDQogICAgICAibmFtZSI6ICLmnaXmupDkuI7pgJDmlofku7bmoKHpqozlgLwiLA0KICAgICAgInBhdGgiOiAic291cmNlLXByb3ZlbmFuY2UuanNvbiINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1hY3RpdmUtc2NhbiIsDQogICAgICAibmFtZSI6ICJhY3RpdmUtc2NhbiDkuIrmuLjlrozmlbTmjIfljZciLA0KICAgICAgInBhdGgiOiAicmVzb3VyY2VzL2d1aWRlcy9hY3RpdmUtc2Nhbi5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1hc3NldC1jb3JyZWxhdGlvbiIsDQogICAgICAibmFtZSI6ICJhc3NldC1jb3JyZWxhdGlvbiDkuIrmuLjlrozmlbTmjIfljZciLA0KICAgICAgInBhdGgiOiAicmVzb3VyY2VzL2d1aWRlcy9hc3NldC1jb3JyZWxhdGlvbi5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1icm93c2VyLWF1dG9tYXRpb24iLA0KICAgICAgIm5hbWUiOiAiYnJvd3Nlci1hdXRvbWF0aW9uIOS4iua4uOWujOaVtOaMh+WNlyIsDQogICAgICAicGF0aCI6ICJyZXNvdXJjZXMvZ3VpZGVzL2Jyb3dzZXItYXV0b21hdGlvbi5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1jaGlzZWwtdHVubmVsIiwNCiAgICAgICJuYW1lIjogImNoaXNlbC10dW5uZWwg5LiK5ri45a6M5pW05oyH5Y2XIiwNCiAgICAgICJwYXRoIjogInJlc291cmNlcy9ndWlkZXMvY2hpc2VsLXR1bm5lbC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1jbi1wcm94eS1wb29sIiwNCiAgICAgICJuYW1lIjogImNuLXByb3h5LXBvb2wg5LiK5ri45a6M5pW05oyH5Y2XIiwNCiAgICAgICJwYXRoIjogInJlc291cmNlcy9ndWlkZXMvY24tcHJveHktcG9vbC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1jcmVkZW50aWFsLWF0dGFjayIsDQogICAgICAibmFtZSI6ICJjcmVkZW50aWFsLWF0dGFjayDkuIrmuLjlrozmlbTmjIfljZciLA0KICAgICAgInBhdGgiOiAicmVzb3VyY2VzL2d1aWRlcy9jcmVkZW50aWFsLWF0dGFjay5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1kaXItYnJ1dGVmb3JjZSIsDQogICAgICAibmFtZSI6ICJkaXItYnJ1dGVmb3JjZSDkuIrmuLjlrozmlbTmjIfljZciLA0KICAgICAgInBhdGgiOiAicmVzb3VyY2VzL2d1aWRlcy9kaXItYnJ1dGVmb3JjZS5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1mb2ZhLXJlY29uIiwNCiAgICAgICJuYW1lIjogImZvZmEtcmVjb24g5LiK5ri45a6M5pW05oyH5Y2XIiwNCiAgICAgICJwYXRoIjogInJlc291cmNlcy9ndWlkZXMvZm9mYS1yZWNvbi5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1mcnAtdHVubmVsIiwNCiAgICAgICJuYW1lIjogImZycC10dW5uZWwg5LiK5ri45a6M5pW05oyH5Y2XIiwNCiAgICAgICJwYXRoIjogInJlc291cmNlcy9ndWlkZXMvZnJwLXR1bm5lbC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1mc2Nhbi1pbnRyYW5ldCIsDQogICAgICAibmFtZSI6ICJmc2Nhbi1pbnRyYW5ldCDkuIrmuLjlrozmlbTmjIfljZciLA0KICAgICAgInBhdGgiOiAicmVzb3VyY2VzL2d1aWRlcy9mc2Nhbi1pbnRyYW5ldC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1nb2dvLWludHJhbmV0IiwNCiAgICAgICJuYW1lIjogImdvZ28taW50cmFuZXQg5LiK5ri45a6M5pW05oyH5Y2XIiwNCiAgICAgICJwYXRoIjogInJlc291cmNlcy9ndWlkZXMvZ29nby1pbnRyYW5ldC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1raW1pLXdlYmJyaWRnZSIsDQogICAgICAibmFtZSI6ICJraW1pLXdlYmJyaWRnZSDkuIrmuLjlrozmlbTmjIfljZciLA0KICAgICAgInBhdGgiOiAicmVzb3VyY2VzL2d1aWRlcy9raW1pLXdlYmJyaWRnZS5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1sYXRlcmFsLW1vdmVtZW50IiwNCiAgICAgICJuYW1lIjogImxhdGVyYWwtbW92ZW1lbnQg5LiK5ri45a6M5pW05oyH5Y2XIiwNCiAgICAgICJwYXRoIjogInJlc291cmNlcy9ndWlkZXMvbGF0ZXJhbC1tb3ZlbWVudC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1udWNsZWktc2NhbiIsDQogICAgICAibmFtZSI6ICJudWNsZWktc2NhbiDkuIrmuLjlrozmlbTmjIfljZciLA0KICAgICAgInBhdGgiOiAicmVzb3VyY2VzL2d1aWRlcy9udWNsZWktc2Nhbi5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1wYXNzaXZlLXJlY29uIiwNCiAgICAgICJuYW1lIjogInBhc3NpdmUtcmVjb24g5LiK5ri45a6M5pW05oyH5Y2XIiwNCiAgICAgICJwYXRoIjogInJlc291cmNlcy9ndWlkZXMvcGFzc2l2ZS1yZWNvbi5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1yZWNvbi1waXBlbGluZSIsDQogICAgICAibmFtZSI6ICJyZWNvbi1waXBlbGluZSDkuIrmuLjlrozmlbTmjIfljZciLA0KICAgICAgInBhdGgiOiAicmVzb3VyY2VzL2d1aWRlcy9yZWNvbi1waXBlbGluZS5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1yZWR0ZWFtLXNldHVwIiwNCiAgICAgICJuYW1lIjogInJlZHRlYW0tc2V0dXAg5LiK5ri45a6M5pW05oyH5Y2XIiwNCiAgICAgICJwYXRoIjogInJlc291cmNlcy9ndWlkZXMvcmVkdGVhbS1zZXR1cC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1zaGVsbC1oYW5kbGVyIiwNCiAgICAgICJuYW1lIjogInNoZWxsLWhhbmRsZXIg5LiK5ri45a6M5pW05oyH5Y2XIiwNCiAgICAgICJwYXRoIjogInJlc291cmNlcy9ndWlkZXMvc2hlbGwtaGFuZGxlci5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS1zdW81LXR1bm5lbCIsDQogICAgICAibmFtZSI6ICJzdW81LXR1bm5lbCDkuIrmuLjlrozmlbTmjIfljZciLA0KICAgICAgInBhdGgiOiAicmVzb3VyY2VzL2d1aWRlcy9zdW81LXR1bm5lbC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS11bmF1dGgtZXhwbG9pdCIsDQogICAgICAibmFtZSI6ICJ1bmF1dGgtZXhwbG9pdCDkuIrmuLjlrozmlbTmjIfljZciLA0KICAgICAgInBhdGgiOiAicmVzb3VyY2VzL2d1aWRlcy91bmF1dGgtZXhwbG9pdC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS12cHMtcmV2ZXJzZS1zaGVsbCIsDQogICAgICAibmFtZSI6ICJ2cHMtcmV2ZXJzZS1zaGVsbCDkuIrmuLjlrozmlbTmjIfljZciLA0KICAgICAgInBhdGgiOiAicmVzb3VyY2VzL2d1aWRlcy92cHMtcmV2ZXJzZS1zaGVsbC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS13ZWItZmluZ2VycHJpbnQiLA0KICAgICAgIm5hbWUiOiAid2ViLWZpbmdlcnByaW50IOS4iua4uOWujOaVtOaMh+WNlyIsDQogICAgICAicGF0aCI6ICJyZXNvdXJjZXMvZ3VpZGVzL3dlYi1maW5nZXJwcmludC5tZCINCiAgICB9LA0KICAgIHsNCiAgICAgICJpZCI6ICJndWlkZS13ZWJzaGVsbC10b29sa2l0IiwNCiAgICAgICJuYW1lIjogIndlYnNoZWxsLXRvb2xraXQg5LiK5ri45a6M5pW05oyH5Y2XIiwNCiAgICAgICJwYXRoIjogInJlc291cmNlcy9ndWlkZXMvd2Vic2hlbGwtdG9vbGtpdC5tZCINCiAgICB9DQogIF0sDQogICJtY3BTZXJ2ZXJzIjogW10sDQogICJjb25maWd1cmF0aW9uIjoge30sDQogICJlbnZpcm9ubWVudCI6IFtdLA0KICAicGxhdGZvcm1zIjogWw0KICAgICJ3aW4zMiIsDQogICAgImRhcndpbiIsDQogICAgImxpbnV4Ig0KICBdLA0KICAicmVxdWlyZWRDb21tYW5kcyI6IFtdDQp9DQo=
+{
+  "schemaVersion": 1,
+  "id": "YanPlugin-purge",
+  "version": "0.1.0",
+  "name": "YanPlugin-purge",
+  "description": "Evans-repo 23 份完整红队操作指南及 Yan 使用映射；文档/技能适配，不含 DSH 宿主补丁或运行时。",
+  "author": "Community adapter; upstream 小杨 / 巴里啊啊 / Jueze-2019",
+  "license": "MIT",
+  "instructions": "instructions.md",
+  "skills": [
+    {
+      "id": "purge-active-scan",
+      "name": "Purge · active-scan",
+      "description": "active-scan 指南；需要确认资产存活与开放端口时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/active-scan/SKILL.md"
+    },
+    {
+      "id": "purge-asset-correlation",
+      "name": "Purge · asset-correlation",
+      "description": "asset-correlation 指南；信息收集阶段性收口，需要形成资产关系视图时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/asset-correlation/SKILL.md"
+    },
+    {
+      "id": "purge-browser-automation",
+      "name": "Purge · browser-automation",
+      "description": "browser-automation 指南；需要渲染 SPA / 取 JS 生成的内容 / 截图留证 / 批量抓页面时（Kimi 扩展不可用时首选）。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/browser-automation/SKILL.md"
+    },
+    {
+      "id": "purge-chisel-tunnel",
+      "name": "Purge · chisel-tunnel",
+      "description": "chisel-tunnel 指南；suo5 不适用（非 WebShell 入口）、目标只能出 HTTP、需要端口转发或稳定 SOCKS 时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/chisel-tunnel/SKILL.md"
+    },
+    {
+      "id": "purge-cn-proxy-pool",
+      "name": "Purge · cn-proxy-pool",
+      "description": "cn-proxy-pool 指南；目标有 WAF/封 IP 风险，或需要高频请求（接口爆破、目录扫描、口令喷洒）时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/cn-proxy-pool/SKILL.md"
+    },
+    {
+      "id": "purge-credential-attack",
+      "name": "Purge · credential-attack",
+      "description": "credential-attack 指南；发现登录入口（Web 后台/SSH/FTP/RDP/SMB/MySQL/MSSQL/Redis）需要试口令；或已拿到哈希/密文需要还原明文。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/credential-attack/SKILL.md"
+    },
+    {
+      "id": "purge-dir-bruteforce",
+      "name": "Purge · dir-bruteforce",
+      "description": "dir-bruteforce 指南；已确认 Web 存活但指纹无直接 Nday 线索；需要找后台入口、备份、配置、源码、上传点等隐藏路径。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/dir-bruteforce/SKILL.md"
+    },
+    {
+      "id": "purge-fofa-recon",
+      "name": "Purge · fofa-recon",
+      "description": "fofa-recon 指南；信息收集阶段需要快速铺开某单位/域名的互联网资产面时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/fofa-recon/SKILL.md"
+    },
+    {
+      "id": "purge-frp-tunnel",
+      "name": "Purge · frp-tunnel",
+      "description": "frp-tunnel 指南；已有命令执行/RCE 且目标可出网；需要长期稳定隧道、把内网端口映射给用户直接访问时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/frp-tunnel/SKILL.md"
+    },
+    {
+      "id": "purge-fscan-intranet",
+      "name": "Purge · fscan-intranet",
+      "description": "fscan-intranet 指南；进入内网（跳板机/WebShell/socks5 隧道）后快速铺开资产面、找弱口令与未授权、把可达性变成可打点。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/fscan-intranet/SKILL.md"
+    },
+    {
+      "id": "purge-gogo-intranet",
+      "name": "Purge · gogo-intranet",
+      "description": "gogo-intranet 指南；进入内网后对大网段（/16 /12）快速测绘、要指纹与关键信息、需要尽量少发包不被发现。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/gogo-intranet/SKILL.md"
+    },
+    {
+      "id": "purge-kimi-webbridge",
+      "name": "Purge · kimi-webbridge",
+      "description": "kimi-webbridge 指南；需要复用浏览器登录态访问后台/需要 JS 渲染的页面/需要真实浏览器指纹时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/kimi-webbridge/SKILL.md"
+    },
+    {
+      "id": "purge-lateral-movement",
+      "name": "Purge · lateral-movement",
+      "description": "lateral-movement 指南；已进内网，需要用已有凭据或哈希横向到其它主机、枚举域环境、dump 凭据、找域控路径。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/lateral-movement/SKILL.md"
+    },
+    {
+      "id": "purge-nuclei-scan",
+      "name": "Purge · nuclei-scan",
+      "description": "nuclei-scan 指南；漏洞发现阶段拿到存活资产清单后，做 Nday/1day 批量检测；或已知组件版本想快速确认是否有现成模板。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/nuclei-scan/SKILL.md"
+    },
+    {
+      "id": "purge-passive-recon",
+      "name": "Purge · passive-recon",
+      "description": "passive-recon 指南；需要在不暴露自身的情况下收集目标资产情报时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/passive-recon/SKILL.md"
+    },
+    {
+      "id": "purge-recon-pipeline",
+      "name": "Purge · recon-pipeline",
+      "description": "recon-pipeline 指南；信息收集阶段拿到域名/单位名后，系统化铺开子域→解析→端口→存活→页面与接口。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/recon-pipeline/SKILL.md"
+    },
+    {
+      "id": "purge-redteam-setup",
+      "name": "Purge · redteam-setup",
+      "description": "redteam-setup 指南；用户第一次使用红队模式时；或 redteam_preflight 报出 onboarding.incomplete / 有技能 broken 时；或用户说\"环境没配好\"\"工具装一下\"。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/redteam-setup/SKILL.md"
+    },
+    {
+      "id": "purge-shell-handler",
+      "name": "Purge · shell-handler",
+      "description": "shell-handler 指南；需要 RCE/命令执行回连、投递后续载荷、把一次性命令执行变成可交互会话时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/shell-handler/SKILL.md"
+    },
+    {
+      "id": "purge-suo5-tunnel",
+      "name": "Purge · suo5-tunnel",
+      "description": "suo5-tunnel 指南；已拿到一台机器（WebShell/RCE）需要进入内网扫描与横向时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/suo5-tunnel/SKILL.md"
+    },
+    {
+      "id": "purge-unauth-exploit",
+      "name": "Purge · unauth-exploit",
+      "description": "unauth-exploit 指南；fscan/nmap 发现暴露的数据库与中间件端口（6379/3306/1433/9200/27017/2375），或 Web 侧发现未授权接口。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/unauth-exploit/SKILL.md"
+    },
+    {
+      "id": "purge-vps-reverse-shell",
+      "name": "Purge · vps-reverse-shell",
+      "description": "vps-reverse-shell 指南；目标无法回连本机 / 需要公网固定监听端口 / 需要长期在线跳板 / 需要让智能体自己下发命令到反弹 Shell。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/vps-reverse-shell/SKILL.md"
+    },
+    {
+      "id": "purge-web-fingerprint",
+      "name": "Purge · web-fingerprint",
+      "description": "web-fingerprint 指南；已发现 HTTP/HTTPS 服务，需要识别技术栈时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/web-fingerprint/SKILL.md"
+    },
+    {
+      "id": "purge-webshell-toolkit",
+      "name": "Purge · webshell-toolkit",
+      "description": "webshell-toolkit 指南；已获得上传点/文件写入/命令执行，需要落地并操作 WebShell 时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。",
+      "path": "skills/webshell-toolkit/SKILL.md"
+    }
+  ],
+  "resources": [
+    {
+      "id": "yan-adaptation",
+      "name": "Yan 使用映射",
+      "path": "resources/yan-adaptation.md"
+    },
+    {
+      "id": "guide-index",
+      "name": "23 份指南目录",
+      "path": "guide-index.md"
+    },
+    {
+      "id": "source-provenance",
+      "name": "来源与逐文件校验值",
+      "path": "source-provenance.json"
+    },
+    {
+      "id": "guide-active-scan",
+      "name": "active-scan 上游完整指南",
+      "path": "resources/guides/active-scan.md"
+    },
+    {
+      "id": "guide-asset-correlation",
+      "name": "asset-correlation 上游完整指南",
+      "path": "resources/guides/asset-correlation.md"
+    },
+    {
+      "id": "guide-browser-automation",
+      "name": "browser-automation 上游完整指南",
+      "path": "resources/guides/browser-automation.md"
+    },
+    {
+      "id": "guide-chisel-tunnel",
+      "name": "chisel-tunnel 上游完整指南",
+      "path": "resources/guides/chisel-tunnel.md"
+    },
+    {
+      "id": "guide-cn-proxy-pool",
+      "name": "cn-proxy-pool 上游完整指南",
+      "path": "resources/guides/cn-proxy-pool.md"
+    },
+    {
+      "id": "guide-credential-attack",
+      "name": "credential-attack 上游完整指南",
+      "path": "resources/guides/credential-attack.md"
+    },
+    {
+      "id": "guide-dir-bruteforce",
+      "name": "dir-bruteforce 上游完整指南",
+      "path": "resources/guides/dir-bruteforce.md"
+    },
+    {
+      "id": "guide-fofa-recon",
+      "name": "fofa-recon 上游完整指南",
+      "path": "resources/guides/fofa-recon.md"
+    },
+    {
+      "id": "guide-frp-tunnel",
+      "name": "frp-tunnel 上游完整指南",
+      "path": "resources/guides/frp-tunnel.md"
+    },
+    {
+      "id": "guide-fscan-intranet",
+      "name": "fscan-intranet 上游完整指南",
+      "path": "resources/guides/fscan-intranet.md"
+    },
+    {
+      "id": "guide-gogo-intranet",
+      "name": "gogo-intranet 上游完整指南",
+      "path": "resources/guides/gogo-intranet.md"
+    },
+    {
+      "id": "guide-kimi-webbridge",
+      "name": "kimi-webbridge 上游完整指南",
+      "path": "resources/guides/kimi-webbridge.md"
+    },
+    {
+      "id": "guide-lateral-movement",
+      "name": "lateral-movement 上游完整指南",
+      "path": "resources/guides/lateral-movement.md"
+    },
+    {
+      "id": "guide-nuclei-scan",
+      "name": "nuclei-scan 上游完整指南",
+      "path": "resources/guides/nuclei-scan.md"
+    },
+    {
+      "id": "guide-passive-recon",
+      "name": "passive-recon 上游完整指南",
+      "path": "resources/guides/passive-recon.md"
+    },
+    {
+      "id": "guide-recon-pipeline",
+      "name": "recon-pipeline 上游完整指南",
+      "path": "resources/guides/recon-pipeline.md"
+    },
+    {
+      "id": "guide-redteam-setup",
+      "name": "redteam-setup 上游完整指南",
+      "path": "resources/guides/redteam-setup.md"
+    },
+    {
+      "id": "guide-shell-handler",
+      "name": "shell-handler 上游完整指南",
+      "path": "resources/guides/shell-handler.md"
+    },
+    {
+      "id": "guide-suo5-tunnel",
+      "name": "suo5-tunnel 上游完整指南",
+      "path": "resources/guides/suo5-tunnel.md"
+    },
+    {
+      "id": "guide-unauth-exploit",
+      "name": "unauth-exploit 上游完整指南",
+      "path": "resources/guides/unauth-exploit.md"
+    },
+    {
+      "id": "guide-vps-reverse-shell",
+      "name": "vps-reverse-shell 上游完整指南",
+      "path": "resources/guides/vps-reverse-shell.md"
+    },
+    {
+      "id": "guide-web-fingerprint",
+      "name": "web-fingerprint 上游完整指南",
+      "path": "resources/guides/web-fingerprint.md"
+    },
+    {
+      "id": "guide-webshell-toolkit",
+      "name": "webshell-toolkit 上游完整指南",
+      "path": "resources/guides/webshell-toolkit.md"
+    }
+  ],
+  "mcpServers": [],
+  "configuration": {},
+  "environment": [],
+  "platforms": [
+    "win32",
+    "darwin",
+    "linux"
+  ],
+  "requiredCommands": []
+}

@@ -1,1 +1,103 @@
-LS0tCm5hbWU6IG51Y2xlaS1zY2FuCmRlc2NyaXB0aW9uOiBudWNsZWkg5qih5p2/5YyW5ryP5rSe5omr5o+P77yaMTMsMDAwKyDmqKHmnb/opobnm5YgQ1ZFL+aatOmcsumdoi/phY3nva7nvLrpmbcv6buY6K6k5Y+j5Luk77yMTmRheSDkuI4gMWRheSDnmoTkuLvlipvmo4DmtYvmiYvmrrUKd2hlblRvVXNlOiDmvI/mtJ7lj5HnjrDpmLbmrrXmi7/liLDlrZjmtLvotYTkuqfmuIXljZXlkI7vvIzlgZogTmRheS8xZGF5IOaJuemHj+ajgOa1i++8m+aIluW3suefpee7hOS7tueJiOacrOaDs+W/q+mAn+ehruiupOaYr+WQpuacieeOsOaIkOaooeadvwpyb2xlOiB2dWxuLXNjYW4KZW5hYmxlZDogdHJ1ZQotLS0KCiMgbnVjbGVp77yI5qih5p2/5YyW5ryP5rSe5qOA5rWL77yJCgpgbnVjbGVpYCDmmK/mvI/mtJ7lj5HnjrDpmLbmrrXnmoQqKuS4u+WKmyoq77ya5LiA5p2h5ZG95Luk6KaG55uWIENWReOAgeaatOmcsumdouOAgemUmeivr+mFjee9ruOAgem7mOiupOWPo+S7pOOAgeacquaOiOadg+iuv+mXruOAggrmnKzmnLrmqKHmnb/lupPlt7LlsLHkvY3vvIjor6bop4HkuIvmlrnot6/lvoTvvInvvIwqKuS4jeimgeS4iue9kemHjeaWsOaJviBQT0MqKuOAggoKIyMg5pys5py65LqM6L+b5Yi25LiO5qih5p2/Cgp8IOmhuSB8IOWAvCB8CnwgLS0tIHwgLS0tIHwKfCDkuozov5vliLYgfCBgL3Vzci9iaW4vbnVjbGVpYO+8iHYzLjExLjHvvIkgfAp8IOaooeadv+W6kyB8IGB+Ly5sb2NhbC9udWNsZWktdGVtcGxhdGVzYO+8iCoqMTMsNzQyIOS4quaooeadvyoq77yJIHwKfCDmqKHmnb/niYjmnKwgfCB2MTAuNC4577yI5pu05paw5LqOIDIwMjYtMDktMTjvvIkgfAp8IOmFjee9riB8IGB+Ly5jb25maWcvbnVjbGVpL2NvbmZpZy55YW1sYOOAgWAudGVtcGxhdGVzLWNvbmZpZy5qc29uYCB8CgrmqKHmnb/liIbluIPvvIjlhpnmiqXlkYrml7bmjInnsbvlvJXnlKjvvInvvJpgaHR0cC9gIDExLDM2NO+8iOWFtuS4rSBgaHR0cC9jdmVzYCA0LDMyMOOAgWBodHRwL21pc2NvbmZpZ3VyYXRpb25gIDk4MeOAgQpgaHR0cC92dWxuZXJhYmlsaXRpZXNgIDk2MeOAgWBodHRwL2V4cG9zdXJlc2AgNzA344CBYGh0dHAvZGVmYXVsdC1sb2dpbnNgIDMwN++8ieOAgWBjbG91ZC9gIDY2M+OAgWBmaWxlL2AgNDQ344CBCmBuZXR3b3JrL2AgMjgy44CBYGRhc3QvYCAyNTHjgIIKCioq5pu05paw5qih5p2/KirvvJpgbnVjbGVpIC11cGRhdGUtdGVtcGxhdGVzYO+8iOmikeeOh+S4jei2hei/h+avj+WRqOS4gOasoe+8m+abtOaWsOWQjuWFiOi3kSBgLXRsYCDnoa7orqTmsqHlnY/vvInjgIIKCiMjIOWfuuacrOeUqOazlQoKYGBgYmFzaAojIDEpIOWNleebruagh+W/q+mAn+S9k+ajgO+8iOWFiOeci+S8muWRveS4reS7gOS5iO+8jOS4jeWunumZheaJk++8iQpudWNsZWkgLXUgaHR0cHM6Ly90YXJnZXQuZXhhbXBsZS5jb20gLXNldmVyaXR5IGNyaXRpY2FsLGhpZ2gsbWVkaXVtIC1ybCAzMCAtYyAxNQoKIyAyKSDmibnph4/vvJrku47otYTkuqflupPlr7zlh7rnmoTlrZjmtLsgVVJMIOa4heWNlQpudWNsZWkgLWwgcnVucy9hbGl2ZS11cmxzLnR4dCAtc2V2ZXJpdHkgY3JpdGljYWwsaGlnaCAtcmwgNTAgLWMgMjUgXAogIC1qc29ubCAtbyBydW5zL251Y2xlaS0kKGRhdGUgKyVtJWQtJUglTSkuanNvbmwKCiMgMykg5oyH5a6a5qih5p2/77yI5bey55+l57uE5Lu254mI5pysIOKGkiDnsr7noa7miZPlh7vvvIzlkb3kuK3njofpq5jjgIHlmarlo7DlsI/vvIkKbnVjbGVpIC11IGh0dHA6Ly90YXJnZXQ6ODA4MCAtdCBodHRwL2N2ZXMvMjAyMS9DVkUtMjAyMS00NDIyOC55YW1sCm51Y2xlaSAtdSBodHRwOi8vdGFyZ2V0IC10IGh0dHAvZXhwb3N1cmVzLyAtdCBodHRwL2RlZmF1bHQtbG9naW5zLwoKIyA0KSDmjInmoIfnrb7vvIh0YWdz77yJ5om56YePCm51Y2xlaSAtbCBydW5zL2FsaXZlLXVybHMudHh0IC10YWdzIHNlZXlvbix3ZWF2ZXIscGFuZWwsZXhwb3N1cmUgLXJsIDIwCgojIDUpIOWPquWIl+WHuuS8mui3keeahOaooeadv++8iOS4jeWPkeWMhe+8jOWFiOivhOS8sOimhueblumdou+8iQpudWNsZWkgLWwgcnVucy9hbGl2ZS11cmxzLnR4dCAtdGFncyBjdmUgLXRsCmBgYAoKIyMg5YWz6ZSu5Y+C5pWw77yI5pys5Zy65pmv5bi455So77yJCgp8IOWPguaVsCB8IOS9nOeUqCB8IOW7uuiuriB8CnwgLS0tIHwgLS0tIHwgLS0tIHwKfCBgLXJsYCB8IOavj+enkuivt+axguS4iumZkCB8IOS6kuiBlOe9keS+pyAzMOKAkzUw77yb6KKrIFdBRiDnm6/kuIrlkI7pmY3liLAgNSB8CnwgYC1jYCB8IOW5tuWPkeaooeadv+aVsCB8IDE14oCTMjXvvIzov4fpq5jkvJrmiZPltKnlsI/nq5kgfAp8IGAtc2V2ZXJpdHlgIHwg5Y+q6LeR5oyH5a6a562J57qnIHwg5ryU57uD5Y+q5YWz5b+DIGBjcml0aWNhbCxoaWdoYO+8iOS4reS9juWNseS4jeW+l+WIhu+8iSB8CnwgYC10YWdzYCAvIGAtdGAgfCDmqKHmnb/nrZvpgIkgfCDmnInmjIfnurnnur/ntKLml7bkvJjlhYjnlKjvvIzliKvlhajph4/ovbAgfAp8IGAtanNvbmwgLW9gIHwg57uT5p6E5YyW6L6T5Ye6IHwgKirlv4XpobvokL0gYHJ1bnMvYCoq77yM5oql5ZGK6KaB5byV55SoIHwKfCBgLXByb3h5YCB8IOi1sOS7o+eQhiB8IOmZjeWZqueUqCBgY24tcHJveHktcG9vbGDvvJsqKuWGhee9keebruagh+i1sCBzdW81IOmap+mBk+WKoCBgLXByb3h5IHNvY2tzNTovLzEyNy4wLjAuMToxMDgwYCoqIHwKfCBgLUhgIHwg6Ieq5a6a5LmJ5aS0IHwg5bimIENvb2tpZS9Ub2tlbiDmtYvnmbvlvZXlkI7lip/og73ngrkgfAp8IGAtZHVjYCB8IOemgeeUqOaooeadv+abtOaWsOajgOafpSB8IOaJuemHj+i3keaXtuecgeaXtumXtCB8CnwgYC1zdGF0cyAtc2kgMzBgIHwg6L+b5bqm6L6T5Ye6IHwg6ZW/5Lu75Yqh55yL6L+b5bqmIHwKCiMjIOS4juefpeivhuW6k+eahOmFjeWQiO+8iOWFiOafpeWGjeaJk++8jOemgeatoumHjeWkjeWKs+WKqO+8iQoK5Yqo5omL5YmN5YWIIGByZWR0ZWFtX3BvY19zZWFyY2hg77yI5oyJIENWRSAvIOe7hOS7tiAvIOeJiOacrCAvIOato+aWh+eJueW+ge+8ieKAlOKAlOWug+S4gOasoeafpeS4pOWxgu+8mioq5pys5py6IFBPQyDnn6Xor4blupMgKyDmnKzmnLogbnVjbGVpIOaooeadv+W6kyoq44CCCuWRveS4reWwseeUqCBgcmVkdGVhbV9wb2NfZ2V0YCDlj5blhajmlofmiJbnm7TmjqUgYG51Y2xlaSAtdCA85qih5p2/PmDvvJvkuKTlsYLpg73msqHmnInmiY3kuIrnvZHmib7vvIzmnIDlkI7miY3miYvmkJPjgIIKCumqjOivgeacieaViOeahOaWsOaooeadvy9FWFAg55SoIGByZWR0ZWFtX3BvY19hZGRgIOWbnuWhq+efpeivhuW6k++8iOW4piBgY2F0ZWdvcnlgICsgYGVuZ2FnZW1lbnRgICsgYGFzc2V0X3RhcmdldGAgKyBgdmVyaWZpZWRgICsgYHZlcmlmaWVkX25vdGVg77yM6ISx5pWP5pys5qyh6Z225qCH5L+h5oGv77yJ44CCCgojIyDpmY3lmarkuI7oh6rkv53vvIjph43opoHvvIkKCjEuICoq6buY6K6kIGlnbm9yZSDlt7LmjpLpmaTljbHpmanmoIfnrb4qKu+8mmB+Ly5jb25maWcvbnVjbGVpLy5udWNsZWktaWdub3JlYCDph4zpu5jorqTlv73nlaUgYGRvc2DjgIFgbG9jYWxg44CBYGZ1enpg44CBYGJydXRlZm9yY2Vg44CBYHR4dC1zZXJ2aWNlYOKAlOKAlAogICAqKuS4jeimgeS4uuS6hiLmiZPlvpfmm7Tlhagi5Y675o6J6L+Z5Lqb5b+955Wl6aG5KirvvIxEb1Mg57G75qih5p2/5Lya5omT5q2755Sf5Lqn57O757uf77yM55u05o6l5q+B5o6J5ryU57uD44CCCjIuICoq5YWI5o6i5rWL5ZCO5byA54GrKirvvJrlhYjnlKggYC1zZXZlcml0eSBjcml0aWNhbCxoaWdoYCDot5HkuIDova7vvJvlkb3kuK3lkI7lho3lr7nlhbfkvZPlkb3kuK3pobnmt7HlhaXvvIzkuI3opoHkuIDkuIrmnaXlhajph4/jgIIKMy4gKipXQUYv5bCB56aB5aSE55CGKirvvJrooqvmi6blhYjpmY0gYC1ybGAg5YiwIDUg5bm25YqgIGAtLWRlbGF5IDFzYO+8jOaNoiBVQe+8iGAtSCAiVXNlci1BZ2VudDogLi4uImDvvInvvIwKICAg5b+F6KaB5pe255So5oqA6IO9IGBjbi1wcm94eS1wb29sYCDmjaLlh7rlj6PvvJsqKuWQjOS4gOebruagh+e0r+iuoeiiq+WwgSA+MyDmrKHnq4vliLvmlL7lvIMqKu+8iGByZWR0ZWFtX2Fzc2V0X3Rlc3RgIHN0YXR1cz1hYmFuZG9uZWQgKyBibG9ja2VkPXRydWXvvInvvIzovazlkJHkuIvkuIDkuKrnm67moIfjgIIKNC4gKirnlJ/kuqfns7vnu5/pgb/lvIDkuJrliqHpq5jls7AqKu+8muWumuaXtuS7u+WKoeOAgeaJuemHj+S7u+WKoeexu+aooeadv++8iOWmguinpuWPkeWQjOatpS/ph43lu7rntKLlvJXnmoTvvInlhYjlnKjmtYvor5Uv6aKE5Y+R6LWE5Lqn5LiK6aqM6K+B44CCCgojIyDovpPlh7rkuI7okL3lupPvvIjlvLrliLbvvIkKCui3keWujOeri+WIu+iQveW6k++8jCoq5LiN6KaB5pSS5Yiw5pyA5ZCOKirvvJoKCjEuIOivuyBgcnVucy9udWNsZWktKi5qc29ubGDvvIzpgJDmnaEgYHJlZHRlYW1fdnVsbl9hZGRg77yaCiAgIC0gYHRpdGxlYO+8iOaooeadv+WQjSArIOWRveS4reeCue+8ieOAgWBzZXZlcml0eWDjgIFgY3ZlYO+8iOaooeadv+W4pueahCBgY2xhc3NpZmljYXRpb24uY3ZlLWlkYO+8ieOAgWB0YXJnZXRg77yIKirluKbnq6/lj6MqKu+8ieOAgQogICAgIGBldmlkZW5jZWDvvIjlkb3kuK3lm57mmL4v5ZON5bqU54m55b6BL21hdGNoZWQtYXTvvInjgIFgY29uZmlkZW5jZT1jb25maXJtZWRg77yIbnVjbGVpIOWRveS4reWNs+S4uuW3suehruiupOWtmOWcqOS6juWTjeW6lOWxgumdou+8ieOAgQogICAgIGBnYWluZWRg77yI6YCa6L+H5a6D6IO95ou/5Yiw5LuA5LmI77yJ44CBYGFnZW50PXZ1bG4tc2NhbmDjgIIKMi4gKirmr4/mnaHnoa7orqTmvI/mtJ7phY3kuIDmnaEgYHJlZHRlYW1faHR0cF9ldmlkZW5jZV9hZGRgKirvvJror7fmsYLooYwgKyBIb3N0ICsg5YWz6ZSu6K+35rGC5aS0ICsg5ZON5bqU5pGY6KaB77yI5qih5p2/55qEIGBjdXJsLWNvbW1hbmRgIOWtl+auteWPr+ebtOaOpeeUqO+8ieOAggozLiDmr4/kuKrlhbPplK7liqjkvZwgYHJlZHRlYW1fY2hhaW5fYWRkYO+8mmBzdGFnZV9jb2RlPXJlY29uYCDmiJYgYGludGVybmV0YO+8jAogICBgdG9vbGAg5YaZKirlrp7pmYXlkb3ku6Tljp/mlocqKu+8iOS+i+WmgiBgbnVjbGVpIC1sIHJ1bnMvYWxpdmUtdXJscy50eHQgLXNldmVyaXR5IGNyaXRpY2FsLGhpZ2ggLXJsIDUwIC1qc29ubCAtbyBydW5zL251Y2xlaS0wOTE4Lmpzb25sYO+8ie+8jAogICBgcmVzdWx0YCDlhpnlm57mmL7mkZjopoHvvIjkvovlpoIgYOWRveS4rSAzIOadoe+8mkNWRS0yMDIzLXh4eHjvvIhjcml0aWNhbO+8ieKApmDvvInjgIIKNC4g5rWL5a6M6K+l6LWE5Lqn56uL5Yi7IGByZWR0ZWFtX2Fzc2V0X3Rlc3RgIOWbnuWGme+8mmBzdGF0dXNg77yIdGVzdGluZy90ZXN0ZWQvbm9fc3VyZmFjZS9ibG9ja2Vk77yJ44CBYHRlc3Rg77yI6L+95Yqg5byP57uT6K6677yJ44CBYHN1cmZhY2Vg77yI6L+Y5Ymp5LuA5LmI5Y+v5rWL77yJ44CCCjUuICoq5Y+q6K6w6IO95b6X5YiG55qE6Z2iKirvvJrkuI7lvpfliIbml6DlhbPnmoTkv6Hmga/ms4TpnLLjgIHniYjmnKzmmrTpnLLjgIFDT1JTL0NTUkbjgIFTU0wg5LiO5ZON5bqU5aS057G76Zeu6aKYKirmnIDlpJrorrDkuIDooYzmjpLpmaTnu5PorroqKu+8jOS4jea3seaMluOAgeS4jemHjeWkjei3keOAggoKIyMg5bi46KeB5Z2RCgp8IOeOsOixoSB8IOWOn+WboCB8IOWkhOeQhiB8CnwgLS0tIHwgLS0tIHwgLS0tIHwKfCDkuIDmnaHkuI3lkb3kuK0gfCDnm67moIfkuI3mmK8gSFRUUO+8jOaIluaooeadv+iiqyBpZ25vcmUgfCDliqAgYC10bGAg55yL5a6e6ZmF6LeR5LqG5ZOq5Lqb5qih5p2/77yb56Gu6K6k5Y2P6K6uIGAtdCBodHRwL2AgdnMgYG5ldHdvcmsvYCB8Cnwg5aSn6YePIGBjb3VsZCBub3QgcmVzb2x2ZWAgfCBVUkwg5riF5Y2V6YeM5pyJ5q276ZO+IHwg5YWI55SoIGBwZC1odHRweGAg6L+H5ruk5a2Y5rS777yaYHBkLWh0dHB4IC1sIGFsbC50eHQgLW8gYWxpdmUtdXJscy50eHQgLXNpbGVudGAgfAp8IOWRveS4reS4gOWghiBsb3cvaW5mbyB8IHNldmVyaXR5IOayoemZkCB8IOa8lOe7g+WKoCBgLXNldmVyaXR5IGNyaXRpY2FsLGhpZ2gsbWVkaXVtYCB8Cnwg55uu5qCH6KKr5omT5oyCIHwg5bm25Y+R6L+H6auYIC8g6LeR5LqGIGRvcyDmqKHmnb8gfCDpmY0gYC1ybGAvYC1jYO+8m+ehruiupCBpZ25vcmUg5paH5Lu25rKh6KKr5Yqo6L+HIHwKfCDlhoXnvZHnm67moIfmiZPkuI3liLAgfCDmsqHotbDpmqfpgZMgfCDliqAgYC1wcm94eSBzb2NrczU6Ly8xMjcuMC4wLjE6PHN1bzXnq6/lj6M+YO+8iOaKgOiDvSBgc3VvNS10dW5uZWxg77yJIHwK
+---
+name: nuclei-scan
+description: nuclei 模板化漏洞扫描：13,000+ 模板覆盖 CVE/暴露面/配置缺陷/默认口令，Nday 与 1day 的主力检测手段
+whenToUse: 漏洞发现阶段拿到存活资产清单后，做 Nday/1day 批量检测；或已知组件版本想快速确认是否有现成模板
+role: vuln-scan
+enabled: true
+---
+
+# nuclei（模板化漏洞检测）
+
+`nuclei` 是漏洞发现阶段的**主力**：一条命令覆盖 CVE、暴露面、错误配置、默认口令、未授权访问。
+本机模板库已就位（详见下方路径），**不要上网重新找 POC**。
+
+## 本机二进制与模板
+
+| 项 | 值 |
+| --- | --- |
+| 二进制 | `/usr/bin/nuclei`（v3.11.1） |
+| 模板库 | `~/.local/nuclei-templates`（**13,742 个模板**） |
+| 模板版本 | v10.4.9（更新于 2026-09-18） |
+| 配置 | `~/.config/nuclei/config.yaml`、`.templates-config.json` |
+
+模板分布（写报告时按类引用）：`http/` 11,364（其中 `http/cves` 4,320、`http/misconfiguration` 981、
+`http/vulnerabilities` 961、`http/exposures` 707、`http/default-logins` 307）、`cloud/` 663、`file/` 447、
+`network/` 282、`dast/` 251。
+
+**更新模板**：`nuclei -update-templates`（频率不超过每周一次；更新后先跑 `-tl` 确认没坏）。
+
+## 基本用法
+
+```bash
+# 1) 单目标快速体检（先看会命中什么，不实际打）
+nuclei -u https://target.example.com -severity critical,high,medium -rl 30 -c 15
+
+# 2) 批量：从资产库导出的存活 URL 清单
+nuclei -l runs/alive-urls.txt -severity critical,high -rl 50 -c 25 \
+  -jsonl -o runs/nuclei-$(date +%m%d-%H%M).jsonl
+
+# 3) 指定模板（已知组件版本 → 精确打击，命中率高、噪声小）
+nuclei -u http://target:8080 -t http/cves/2021/CVE-2021-44228.yaml
+nuclei -u http://target -t http/exposures/ -t http/default-logins/
+
+# 4) 按标签（tags）批量
+nuclei -l runs/alive-urls.txt -tags seeyon,weaver,panel,exposure -rl 20
+
+# 5) 只列出会跑的模板（不发包，先评估覆盖面）
+nuclei -l runs/alive-urls.txt -tags cve -tl
+```
+
+## 关键参数（本场景常用）
+
+| 参数 | 作用 | 建议 |
+| --- | --- | --- |
+| `-rl` | 每秒请求上限 | 互联网侧 30–50；被 WAF 盯上后降到 5 |
+| `-c` | 并发模板数 | 15–25，过高会打崩小站 |
+| `-severity` | 只跑指定等级 | 演练只关心 `critical,high`（中低危不得分） |
+| `-tags` / `-t` | 模板筛选 | 有指纹线索时优先用，别全量轰 |
+| `-jsonl -o` | 结构化输出 | **必须落 `runs/`**，报告要引用 |
+| `-proxy` | 走代理 | 降噪用 `cn-proxy-pool`；**内网目标走 suo5 隧道加 `-proxy socks5://127.0.0.1:1080`** |
+| `-H` | 自定义头 | 带 Cookie/Token 测登录后功能点 |
+| `-duc` | 禁用模板更新检查 | 批量跑时省时间 |
+| `-stats -si 30` | 进度输出 | 长任务看进度 |
+
+## 与知识库的配合（先查再打，禁止重复劳动）
+
+动手前先 `redteam_poc_search`（按 CVE / 组件 / 版本 / 正文特征）——它一次查两层：**本机 POC 知识库 + 本机 nuclei 模板库**。
+命中就用 `redteam_poc_get` 取全文或直接 `nuclei -t <模板>`；两层都没有才上网找，最后才手搓。
+
+验证有效的新模板/EXP 用 `redteam_poc_add` 回填知识库（带 `category` + `engagement` + `asset_target` + `verified` + `verified_note`，脱敏本次靶标信息）。
+
+## 降噪与自保（重要）
+
+1. **默认 ignore 已排除危险标签**：`~/.config/nuclei/.nuclei-ignore` 里默认忽略 `dos`、`local`、`fuzz`、`bruteforce`、`txt-service`——
+   **不要为了"打得更全"去掉这些忽略项**，DoS 类模板会打死生产系统，直接毁掉演练。
+2. **先探测后开火**：先用 `-severity critical,high` 跑一轮；命中后再对具体命中项深入，不要一上来全量。
+3. **WAF/封禁处理**：被拦先降 `-rl` 到 5 并加 `--delay 1s`，换 UA（`-H "User-Agent: ..."`），
+   必要时用技能 `cn-proxy-pool` 换出口；**同一目标累计被封 >3 次立刻放弃**（`redteam_asset_test` status=abandoned + blocked=true），转向下一个目标。
+4. **生产系统避开业务高峰**：定时任务、批量任务类模板（如触发同步/重建索引的）先在测试/预发资产上验证。
+
+## 输出与落库（强制）
+
+跑完立刻落库，**不要攒到最后**：
+
+1. 读 `runs/nuclei-*.jsonl`，逐条 `redteam_vuln_add`：
+   - `title`（模板名 + 命中点）、`severity`、`cve`（模板带的 `classification.cve-id`）、`target`（**带端口**）、
+     `evidence`（命中回显/响应特征/matched-at）、`confidence=confirmed`（nuclei 命中即为已确认存在于响应层面）、
+     `gained`（通过它能拿到什么）、`agent=vuln-scan`。
+2. **每条确认漏洞配一条 `redteam_http_evidence_add`**：请求行 + Host + 关键请求头 + 响应摘要（模板的 `curl-command` 字段可直接用）。
+3. 每个关键动作 `redteam_chain_add`：`stage_code=recon` 或 `internet`，
+   `tool` 写**实际命令原文**（例如 `nuclei -l runs/alive-urls.txt -severity critical,high -rl 50 -jsonl -o runs/nuclei-0918.jsonl`），
+   `result` 写回显摘要（例如 `命中 3 条：CVE-2023-xxxx（critical）…`）。
+4. 测完该资产立刻 `redteam_asset_test` 回写：`status`（testing/tested/no_surface/blocked）、`test`（追加式结论）、`surface`（还剩什么可测）。
+5. **只记能得分的面**：与得分无关的信息泄露、版本暴露、CORS/CSRF、SSL 与响应头类问题**最多记一行排除结论**，不深挖、不重复跑。
+
+## 常见坑
+
+| 现象 | 原因 | 处理 |
+| --- | --- | --- |
+| 一条不命中 | 目标不是 HTTP，或模板被 ignore | 加 `-tl` 看实际跑了哪些模板；确认协议 `-t http/` vs `network/` |
+| 大量 `could not resolve` | URL 清单里有死链 | 先用 `pd-httpx` 过滤存活：`pd-httpx -l all.txt -o alive-urls.txt -silent` |
+| 命中一堆 low/info | severity 没限 | 演练加 `-severity critical,high,medium` |
+| 目标被打挂 | 并发过高 / 跑了 dos 模板 | 降 `-rl`/`-c`；确认 ignore 文件没被动过 |
+| 内网目标打不到 | 没走隧道 | 加 `-proxy socks5://127.0.0.1:<suo5端口>`（技能 `suo5-tunnel`） |

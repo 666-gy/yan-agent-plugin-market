@@ -1,1 +1,115 @@
-LS0tCm5hbWU6IGRpci1icnV0ZWZvcmNlCmRlc2NyaXB0aW9uOiDnm67lvZXkuI7mlofku7bniIbnoLTvvJrlkI7lj7DlhaXlj6PjgIHlpIfku73mlofku7bjgIHphY3nva7ms4TpnLLjgIHmupDnoIHkuI7niYjmnKzlupPmmrTpnLLvvIhmZnVmL2Zlcm94YnVzdGVyL2RpcnNlYXJjaC9nb2J1c3Rlcu+8iQp3aGVuVG9Vc2U6IOW3suehruiupCBXZWIg5a2Y5rS75L2G5oyH57q55peg55u05o6lIE5kYXkg57q/57Si77yb6ZyA6KaB5om+5ZCO5Y+w5YWl5Y+j44CB5aSH5Lu944CB6YWN572u44CB5rqQ56CB44CB5LiK5Lyg54K5562J6ZqQ6JeP6Lev5b6ECnJvbGU6IHZ1bG4tc2NhbgplbmFibGVkOiB0cnVlCi0tLQoKIyDnm67lvZXkuI7mlofku7bniIbnoLTvvIjmib7lhaXlj6PnmoTkuLvlipvvvIkKCioq5a6e5oiY6YeM5aSn6YOo5YiG5YWl5Y+j5LiN5pivIENWRSDmiZPov5vljrvnmoTvvIzmmK/nm67lvZXniIbnoLTmiavlh7rmnaXnmoQqKu+8muWQjuWPsCBgL2FkbWluYOOAgeWkh+S7vSBgd3d3LnppcGDjgIHphY3nva4gYC5lbnZg44CBCua6kOeggSBgLmdpdC9g44CB5o6l5Y+j5paH5qGjIGBzd2FnZ2VyLXVpLmh0bWxg44CB5LiK5Lyg54K544CB6LCD6K+V6aG144CBYWN0dWF0b3IvZHJ1aWQg55uR5o6n5Y+w44CCCuacrOaKgOiDveimhuebluacrOacuuW3suWwseS9jeeahOWbm+S4quW3peWFt++8jCoq5LiN6KaB5Y+q55So5LiA5LiqKirigJTigJTlroPku6znmoTlrZflhbjkuI7liKTlrprpgLvovpHkuI3lkIzvvIzkupLooaXjgIIKCiMjIOacrOacuuW3peWFtwoKfCDlt6XlhbcgfCDot6/lvoQgfCDniYjmnKwgfCDnibnngrkgfAp8IC0tLSB8IC0tLSB8IC0tLSB8IC0tLSB8CnwgKipmZXJveGJ1c3RlcioqIHwgYC91c3IvYmluL2Zlcm94YnVzdGVyYCB8IDIuMTMuMSB8IFJ1c3TvvIzpgJLlvZLniIbnoLTmnIDlvLrvvIzoh6rliqjot5/pmo/nm67lvZXlsYLnuqfvvIwqKummlumAiSoqIHwKfCAqKmZmdWYqKiB8IGAvdXNyL2Jpbi9mZnVmYCB8IDIuMS4wLWRldiB8IOacgOW/q+OAgeacgOeBtea0u++8jOaUr+aMgeWkmuWtl+WFuC92aG9zdC/lj4LmlbAgZnV6eiB8CnwgKipkaXJzZWFyY2gqKiB8IGAkRFNIX0hPTUUvcmVkdGVhbS90b29sa2l0L2RpcnNlYXJjaC9kaXJzZWFyY2hgIHwgdjAuNS4wIHwgUHl0aG9u44CCYHNldHVwLnNoYCDkuI3kuIvovb3vvIzpnIDoh6rooYzmlL7liLDor6Xot6/lvoQgfAp8ICoqZ29idXN0ZXIqKiB8IGAvdXNyL2Jpbi9nb2J1c3RlcmAgfCDigJQgfCDovbvph4/nqLPlrprvvIxkaXIvZG5zL3Zob3N0IOS4ieaooeW8jyB8CgojIyDkuIDjgIFmZXJveGJ1c3Rlcu+8iOmmlumAie+8mumAkuW9kiArIOiHquWKqOi/h+a7pO+8iQoKYGBgYmFzaApmZXJveGJ1c3RlciAtdSBodHRwczovL3RhcmdldC5leGFtcGxlLmNvbSBcCiAgLXcgL3Vzci9zaGFyZS9zZWNsaXN0cy9EaXNjb3ZlcnkvV2ViLUNvbnRlbnQvcmFmdC1sYXJnZS1kaXJlY3Rvcmllcy50eHQgXAogIC14IHBocCxhc3AsYXNweCxqc3AsaHRtbCxqcyx6aXAsdGFyLmd6LGJhayxzcWwsdHh0LHhtbCxqc29uLGNvbmZpZyBcCiAgLWQgMyAtdCAzMCAtLXJhdGUtbGltaXQgODAgLS10aW1lb3V0IDEwIFwKICAtLWZpbHRlci1zdGF0dXMgNDA0IC0tZmlsdGVyLXNpemUgMCBcCiAgLW8gcnVucy9mZXJveC10YXJnZXQudHh0IC0tanNvbiAtbyBydW5zL2Zlcm94LXRhcmdldC5qc29uCmBgYAoK6KaB54K577yaYC1kIDNg77yI6YCS5b2S5rex5bqm77yJ5Yir5byA5aSq5aSn77ybYC0tcmF0ZS1saW1pdGAg5Lqk57uZ5pyN5Yqh5Zmo5ZaY5rCU77ybYC14YCDlkI7nvIDooajlv4XpobvluKYqKuWkh+S7veS4jumFjee9ruexuyoq44CCCgojIyDkuozjgIFmZnVm77yI5pyA5b+r77yM5aSa5a2X5YW4IC8gdmhvc3QgLyDlj4LmlbDvvIkKCmBgYGJhc2gKIyDnm67lvZXkuI7mlofku7bvvIjkuKTova7vvJrlhYjnm67lvZXvvIzlho3mjInlkb3kuK3nmoTnm67lvZXliqDlkI7nvIDvvIkKZmZ1ZiAtdSBodHRwczovL3RhcmdldC9GVVpaIC13IC91c3Ivc2hhcmUvc2VjbGlzdHMvRGlzY292ZXJ5L1dlYi1Db250ZW50L3JhZnQtbWVkaXVtLWRpcmVjdG9yaWVzLnR4dCBcCiAgLW1jIDIwMCwyMDQsMzAxLDMwMiwzMDcsNDAxLDQwMyw1MDAgLWZjIDQwNCAtdCA0MCAtcmF0ZSA4MCAtdGltZW91dCAxMCBcCiAgLW8gcnVucy9mZnVmLWRpci5qc29uIC1vZiBqc29uCgojIOaVj+aEn+aWh+S7tu+8iOWkh+S7vS/phY3nva4v5rqQ56CBL+WvhumSpe+8iQpmZnVmIC11IGh0dHBzOi8vdGFyZ2V0L0ZVWlogLXcgL3Vzci9zaGFyZS9zZWNsaXN0cy9EaXNjb3ZlcnkvV2ViLUNvbnRlbnQvcXVpY2toaXRzLnR4dCBcCiAgLW1jIGFsbCAtZmMgNDA0IC10IDQwIC1vIHJ1bnMvZmZ1Zi1xdWljay5qc29uIC1vZiBqc29uCgojIHZob3N0IOiZmuaLn+S4u+acuuWPkeeOsO+8iOWQjCBJUCDlpJrnq5nngrnvvIzovrnnvJjotYTkuqfluLjku47ov5nph4zlh7rmnaXvvIkKZmZ1ZiAtdSBodHRwczovL3RhcmdldC8gLUggIkhvc3Q6IEZVWlouZXhhbXBsZS5jb20iIFwKICAtdyAvdXNyL3NoYXJlL3NlY2xpc3RzL0Rpc2NvdmVyeS9ETlMvc3ViZG9tYWlucy10b3AxbWlsbGlvbi0yMDAwMC50eHQgXAogIC1mcyAwIC1tYyBhbGwgLXQgNTAgLW8gcnVucy9mZnVmLXZob3N0Lmpzb24gLW9mIGpzb24KYGBgCgojIyDkuInjgIFkaXJzZWFyY2jvvIjlrZflhbjlhajvvIzpgILlkIjooaXmvI/vvIkKCmBgYGJhc2gKJERTSF9IT01FL3JlZHRlYW0vdG9vbGtpdC9kaXJzZWFyY2gvZGlyc2VhcmNoIFwKICAtdSBodHRwczovL3RhcmdldC5leGFtcGxlLmNvbSAtZSBwaHAsYXNwLGFzcHgsanNwLHppcCxiYWssdHh0LHNxbCxqc29uIFwKICAtLXJhbmRvbS1hZ2VudCAtdCAzMCAtLWRlbGF5IDAuMSAtLWV4Y2x1ZGUtc3RhdHVzIDQwNCBcCiAgLXIgLVIgMyAtLWZvcm1hdCBqc29uIC1vIHJ1bnMvZGlyc2VhcmNoLXRhcmdldC5qc29uCmBgYAoKIyMg5Zub44CBZ29idXN0ZXLvvIjovbvph4/lhZzlupXvvIkKCmBgYGJhc2gKZ29idXN0ZXIgZGlyIC11IGh0dHBzOi8vdGFyZ2V0IC13IC91c3Ivc2hhcmUvc2VjbGlzdHMvRGlzY292ZXJ5L1dlYi1Db250ZW50L2NvbW1vbi50eHQgXAogIC14IHBocCxhc3AsYXNweCxqc3AsemlwLGJhayAtdCAzMCAtayAtbyBydW5zL2dvYnVzdGVyLXRhcmdldC50eHQKYGBgCgojIyDlrZflhbjvvIjmnKzmnLrlt7LmnInvvIzkvJjlhYjnlKjov5nkupvvvIkKCnwg55So6YCUIHwg6Lev5b6EIHwKfCAtLS0gfCAtLS0gfAp8IOWkp+ebruW9leWtl+WFuCB8IGAvdXNyL3NoYXJlL3NlY2xpc3RzL0Rpc2NvdmVyeS9XZWItQ29udGVudC9yYWZ0LWxhcmdlLWRpcmVjdG9yaWVzLnR4dGAgfAp8IOS4reebruW9leWtl+WFuCB8IGAvdXNyL3NoYXJlL3NlY2xpc3RzL0Rpc2NvdmVyeS9XZWItQ29udGVudC9yYWZ0LW1lZGl1bS1kaXJlY3Rvcmllcy50eHRgIHwKfCDluLjop4Hmlofku7YgfCBgL3Vzci9zaGFyZS9zZWNsaXN0cy9EaXNjb3ZlcnkvV2ViLUNvbnRlbnQvY29tbW9uLnR4dGAgfAp8IOaVj+aEn+aWh+S7tu+8iHF1aWNraGl0c++8iSB8IGAvdXNyL3NoYXJlL3NlY2xpc3RzL0Rpc2NvdmVyeS9XZWItQ29udGVudC9xdWlja2hpdHMudHh0YCB8Cnwg5a2Q5Z+f77yIdmhvc3Qg55So77yJIHwgYC91c3Ivc2hhcmUvc2VjbGlzdHMvRGlzY292ZXJ5L0ROUy9zdWJkb21haW5zLXRvcDFtaWxsaW9uLTIwMDAwLnR4dGAgfAoK5a2X5YW455uu5b2V77yaYC91c3Ivc2hhcmUvc2VjbGlzdHNg44CBYC91c3Ivc2hhcmUvd29yZGxpc3RzYOOAgioq57y65a2X5YW45pe2KirnlKggYHJlZHRlYW1fY3JlZGVudGlhbF9saXN0YCDph4zlt7LmlLbpm4bnmoQK5Y2V5L2N6K+N77yI5ZOB54mM5ZCN44CB5ou86Z+z57yp5YaZ77yJ6Ieq6YCg5bCP5a2X5YW44oCU4oCU6ZKI5a+55oCn5a2X5YW45ZG95Lit546H5b6A5b6A6auY5LqO6YCa55So5aSn5a2X5YW444CCCgojIyDph43ngrnnm67moIfvvIjmiavliLDlsLHopoHot5/liLDlupXvvIkKCnwg5ZG95LitIHwg5LiL5LiA5q2lIHwKfCAtLS0gfCAtLS0gfAp8IGAvYWRtaW5g44CBYC9tYW5hZ2Vg44CBYC9sb2dpbmDjgIHlkI7lj7Dot6/lvoQgfCDkuqTnu5notKblj7fmnYPpmZDot6/nur/vvJrpu5jorqTlj6Pku6Qv5byx5Y+j5Luk77yI5oqA6IO9IGBjcmVkZW50aWFsLWF0dGFja2DvvIkgfAp8IGAuZ2l0L2DjgIFgLnN2bi9g44CBYC5lbnZg44CBYGNvbmZpZy5waHAuYmFrYOOAgWB3d3cuemlwYOOAgWB3ZWIucmFyYCB8ICoq5rqQ56CB5LiO6YWN572u5rOE6ZyyKirvvJrmi4nkuIvmnaXmib7mlbDmja7lupPov57mjqXkuLLjgIHlr4bpkqXjgIHnoaznvJbnoIHotKblj7cg4oaSIGByZWR0ZWFtX2NyZWRlbnRpYWxfYWRkYCB8CnwgYHN3YWdnZXItdWkuaHRtbGDjgIFgL3YyL2FwaS1kb2NzYOOAgWAvb3BlbmFwaS5qc29uYCB8IOaPkOWPluWFqOmHj+aOpeWPo+a4heWNlSDihpIg5pyq5o6I5p2D5LiO6LaK5p2D5o6i5rWL77yI5oqA6IO9IGB1bmF1dGgtZXhwbG9pdGDvvIkgfAp8IGBhY3R1YXRvcmDjgIFgZHJ1aWRg44CBYC9jb25zb2xlYOOAgWAvam14YCB8IOacquaOiOadg+ebkeaOp+WPsO+8jOW4uOebtOmAmiBSQ0Ug5oiW5pWw5o2u5bqTIHwKfCDkuIrkvKDngrnjgIHlr7zlhaXjgIHlpIfku73mgaLlpI3jgIHmqKHmnb8v5oql6KGo6K6+6K6hIHwg5Lqk57uZ5ryP5rSe5Yip55So6KeS6Imy5LiyIGdldHNoZWxsIOmTviB8CnwgYC5zc2gvYOOAgWBpZF9yc2Fg44CBYCoucGVtYOOAgWAqLmprc2AgfCDnp4HpkqXms4TpnLIg4oaSIOebtOaOpeWwneivleeZu+W9le+8iGBzc2ggLWlg77yJIHwKCiMjIOmZjeWZquS4juiHquS/nQoKMS4gKirlv4XpobvlhYjov4fmu6QgNDA0IOeahOi9ryA0MDQqKu+8muWFiOivt+axguS4gOS4quS4jeWtmOWcqOeahOmaj+acuui3r+W+hO+8jOeci+i/lOWbnueKtuaAgeeggeS4juWTjeW6lOmVv+W6pu+8jOeUqOWug+WBmiBgLS1maWx0ZXItc2l6ZWAgLyBgLWZzYOOAggoyLiAqKumZkOmAnyoq77yaYC1yYXRlIDgwYCAvIGAtLWRlbGF5IDAuMWAgLyBgLXQgMzBgIOi1t+atpe+8m+iiqyBXQUYg5oum77yI5aSn6YePIDQwMy80MjnvvInlhYjpmY3liLAgNeKAkzEwIHJlcS9z44CCCjMuICoq5Yir56Kw5Y2x6Zmp6Lev5b6EKirvvJpgL2xvZ291dGDjgIFgL3JlYm9vdGDjgIFgL3NodXRkb3duYOOAgWAvZGVsZXRlKmDjgIFgL3Jlc2V0KmAg6L+Z57G75Lya5pS554q25oCB55qE5LiN6KaB54iG56C077yMCiAgIOWtl+WFuOmHjOmBh+WIsOS5n+imgeaOkumZpO+8iOS8mumAoOaIkOS4muWKoeS4reaWre+8jOS4lOa8lOe7g+iusOWIhuS4jeiupO+8ieOAggo0LiAqKuiiq+WwgSA+MyDmrKHmlL7lvIMqKuivpei1hOS6p++8iGByZWR0ZWFtX2Fzc2V0X3Rlc3RgIHN0YXR1cz1hYmFuZG9uZWQgKyBibG9ja2VkPXRydWXvvInvvIzovazkuIvkuIDkuKrjgIIKNS4gKirlhoXnvZHnm67moIfotbDpmqfpgZMqKu+8mmZlcm94YnVzdGVyIGAtLXByb3h5IHNvY2tzNTovLzEyNy4wLjAuMToxMDgwYOOAgWZmdWYgYC14IHNvY2tzNTovLzEyNy4wLjAuMToxMDgwYAogICDvvIjmioDog70gYHN1bzUtdHVubmVsYO+8ieOAggoKIyMg6L6T5Ye65LiO6JC95bqT77yI5by65Yi277yJCgoxLiAqKumakOiXj+i3r+W+hOacrOi6q+S4jeaYr+W+l+WIhumhuSoq77yM5L2GKirmr4/kuKrmi7/liLDkuJzopb/nmoTot6/lvoTpg73opoHokL3lupMqKu+8mgogICAtIOaJvuWIsOWQjuWPsC/kuIrkvKDngrkv5o6l5Y+j5paH5qGjIOKGkiDorrDov5vor6XotYTkuqcgYHJlZHRlYW1fYXNzZXRfdGVzdGAg55qEIGBzdXJmYWNlYO+8iOi/veWKoOW8j++8ie+8jOS6pOe7mea8j+a0nuWPkeeOsC/liKnnlKjnmoTkuIvkuIDkuKrliqjkvZzvvJsKICAgLSDms4TpnLLmupDnoIEv6YWN572uL+WvhumSpS/lh63mja4g4oaSIGByZWR0ZWFtX2NyZWRlbnRpYWxfYWRkYO+8iGBzb3VyY2U96YWN572u5rOE6ZyyYO+8jGB0b29sYCDlhpnot6/lvoTkuI7lkb3ku6TvvIzmmI7mloflhpkgYHNlY3JldF92YWx1ZWDvvInvvJsKICAgLSDmnKrmjojmnYPlj6/orr/pl67nmoTmjqXlj6Mv55uR5o6n5Y+wIOKGkiDnm7TmjqUgYHJlZHRlYW1fdnVsbl9hZGRg77yI5ZCrIGBldmlkZW5jZWAg5Zue5pi+77yJKyBgcmVkdGVhbV9odHRwX2V2aWRlbmNlX2FkZGDjgIIKMi4g5q+P5Liq5YWz6ZSu5Yqo5L2cIGByZWR0ZWFtX2NoYWluX2FkZGDvvJpgc3RhZ2VfY29kZT1pbnRlcm5ldGDvvIjmiJYgYGludGVybmFsYO+8ie+8jAogICBgdG9vbGAg5YaZ5a6e6ZmF5ZG95Luk5Y6f5paH77yI5L6L5aaCIGBmZXJveGJ1c3RlciAtdSBodHRwczovL3RhcmdldCAtdyByYWZ0LWxhcmdlLWRpcmVjdG9yaWVzLnR4dCAteCBwaHAsemlwLGJhayAtZCAzIC0tcmF0ZS1saW1pdCA4MGDvvInvvIwKICAgYHJlc3VsdGAg5YaZ5ZG95Lit5pGY6KaB77yI5L6L5aaCIGDlkb3kuK0gL2FkbWluL+OAgS9iYWNrdXAvd3d3LnppcOOAgS8uZW52YO+8ieOAggozLiDot5Hlroznq4vliLsgYHJlZHRlYW1fYXNzZXRfdGVzdGAg5Zue5YaZIGBzdGF0dXNgL2B0ZXN0YC9gc3VyZmFjZWDigJTigJTkuI3lhpnnirbmgIHlkI7pnaLnmoTkurrkuIDlrprph43lpI3miavjgIIKNC4g5a2X5YW45LiO57uT5p6c5paH5Lu25LiA5b6L5pS+IGBydW5zL2DvvIjmiqXlkYropoHog73lpI3njrDvvInjgIIK
+---
+name: dir-bruteforce
+description: 目录与文件爆破：后台入口、备份文件、配置泄露、源码与版本库暴露（ffuf/feroxbuster/dirsearch/gobuster）
+whenToUse: 已确认 Web 存活但指纹无直接 Nday 线索；需要找后台入口、备份、配置、源码、上传点等隐藏路径
+role: vuln-scan
+enabled: true
+---
+
+# 目录与文件爆破（找入口的主力）
+
+**实战里大部分入口不是 CVE 打进去的，是目录爆破扫出来的**：后台 `/admin`、备份 `www.zip`、配置 `.env`、
+源码 `.git/`、接口文档 `swagger-ui.html`、上传点、调试页、actuator/druid 监控台。
+本技能覆盖本机已就位的四个工具，**不要只用一个**——它们的字典与判定逻辑不同，互补。
+
+## 本机工具
+
+| 工具 | 路径 | 版本 | 特点 |
+| --- | --- | --- | --- |
+| **feroxbuster** | `/usr/bin/feroxbuster` | 2.13.1 | Rust，递归爆破最强，自动跟随目录层级，**首选** |
+| **ffuf** | `/usr/bin/ffuf` | 2.1.0-dev | 最快、最灵活，支持多字典/vhost/参数 fuzz |
+| **dirsearch** | `$DSH_HOME/redteam/toolkit/dirsearch/dirsearch` | v0.5.0 | Python。`setup.sh` 不下载，需自行放到该路径 |
+| **gobuster** | `/usr/bin/gobuster` | — | 轻量稳定，dir/dns/vhost 三模式 |
+
+## 一、feroxbuster（首选：递归 + 自动过滤）
+
+```bash
+feroxbuster -u https://target.example.com \
+  -w /usr/share/seclists/Discovery/Web-Content/raft-large-directories.txt \
+  -x php,asp,aspx,jsp,html,js,zip,tar.gz,bak,sql,txt,xml,json,config \
+  -d 3 -t 30 --rate-limit 80 --timeout 10 \
+  --filter-status 404 --filter-size 0 \
+  -o runs/ferox-target.txt --json -o runs/ferox-target.json
+```
+
+要点：`-d 3`（递归深度）别开太大；`--rate-limit` 交给服务器喘气；`-x` 后缀表必须带**备份与配置类**。
+
+## 二、ffuf（最快，多字典 / vhost / 参数）
+
+```bash
+# 目录与文件（两轮：先目录，再按命中的目录加后缀）
+ffuf -u https://target/FUZZ -w /usr/share/seclists/Discovery/Web-Content/raft-medium-directories.txt \
+  -mc 200,204,301,302,307,401,403,500 -fc 404 -t 40 -rate 80 -timeout 10 \
+  -o runs/ffuf-dir.json -of json
+
+# 敏感文件（备份/配置/源码/密钥）
+ffuf -u https://target/FUZZ -w /usr/share/seclists/Discovery/Web-Content/quickhits.txt \
+  -mc all -fc 404 -t 40 -o runs/ffuf-quick.json -of json
+
+# vhost 虚拟主机发现（同 IP 多站点，边缘资产常从这里出来）
+ffuf -u https://target/ -H "Host: FUZZ.example.com" \
+  -w /usr/share/seclists/Discovery/DNS/subdomains-top1million-20000.txt \
+  -fs 0 -mc all -t 50 -o runs/ffuf-vhost.json -of json
+```
+
+## 三、dirsearch（字典全，适合补漏）
+
+```bash
+$DSH_HOME/redteam/toolkit/dirsearch/dirsearch \
+  -u https://target.example.com -e php,asp,aspx,jsp,zip,bak,txt,sql,json \
+  --random-agent -t 30 --delay 0.1 --exclude-status 404 \
+  -r -R 3 --format json -o runs/dirsearch-target.json
+```
+
+## 四、gobuster（轻量兜底）
+
+```bash
+gobuster dir -u https://target -w /usr/share/seclists/Discovery/Web-Content/common.txt \
+  -x php,asp,aspx,jsp,zip,bak -t 30 -k -o runs/gobuster-target.txt
+```
+
+## 字典（本机已有，优先用这些）
+
+| 用途 | 路径 |
+| --- | --- |
+| 大目录字典 | `/usr/share/seclists/Discovery/Web-Content/raft-large-directories.txt` |
+| 中目录字典 | `/usr/share/seclists/Discovery/Web-Content/raft-medium-directories.txt` |
+| 常见文件 | `/usr/share/seclists/Discovery/Web-Content/common.txt` |
+| 敏感文件（quickhits） | `/usr/share/seclists/Discovery/Web-Content/quickhits.txt` |
+| 子域（vhost 用） | `/usr/share/seclists/Discovery/DNS/subdomains-top1million-20000.txt` |
+
+字典目录：`/usr/share/seclists`、`/usr/share/wordlists`。**缺字典时**用 `redteam_credential_list` 里已收集的
+单位词（品牌名、拼音缩写）自造小字典——针对性字典命中率往往高于通用大字典。
+
+## 重点目标（扫到就要跟到底）
+
+| 命中 | 下一步 |
+| --- | --- |
+| `/admin`、`/manage`、`/login`、后台路径 | 交给账号权限路线：默认口令/弱口令（技能 `credential-attack`） |
+| `.git/`、`.svn/`、`.env`、`config.php.bak`、`www.zip`、`web.rar` | **源码与配置泄露**：拉下来找数据库连接串、密钥、硬编码账号 → `redteam_credential_add` |
+| `swagger-ui.html`、`/v2/api-docs`、`/openapi.json` | 提取全量接口清单 → 未授权与越权探测（技能 `unauth-exploit`） |
+| `actuator`、`druid`、`/console`、`/jmx` | 未授权监控台，常直通 RCE 或数据库 |
+| 上传点、导入、备份恢复、模板/报表设计 | 交给漏洞利用角色串 getshell 链 |
+| `.ssh/`、`id_rsa`、`*.pem`、`*.jks` | 私钥泄露 → 直接尝试登录（`ssh -i`） |
+
+## 降噪与自保
+
+1. **必须先过滤 404 的软 404**：先请求一个不存在的随机路径，看返回状态码与响应长度，用它做 `--filter-size` / `-fs`。
+2. **限速**：`-rate 80` / `--delay 0.1` / `-t 30` 起步；被 WAF 拦（大量 403/429）先降到 5–10 req/s。
+3. **别碰危险路径**：`/logout`、`/reboot`、`/shutdown`、`/delete*`、`/reset*` 这类会改状态的不要爆破，
+   字典里遇到也要排除（会造成业务中断，且演练记分不认）。
+4. **被封 >3 次放弃**该资产（`redteam_asset_test` status=abandoned + blocked=true），转下一个。
+5. **内网目标走隧道**：feroxbuster `--proxy socks5://127.0.0.1:1080`、ffuf `-x socks5://127.0.0.1:1080`
+   （技能 `suo5-tunnel`）。
+
+## 输出与落库（强制）
+
+1. **隐藏路径本身不是得分项**，但**每个拿到东西的路径都要落库**：
+   - 找到后台/上传点/接口文档 → 记进该资产 `redteam_asset_test` 的 `surface`（追加式），交给漏洞发现/利用的下一个动作；
+   - 泄露源码/配置/密钥/凭据 → `redteam_credential_add`（`source=配置泄露`，`tool` 写路径与命令，明文写 `secret_value`）；
+   - 未授权可访问的接口/监控台 → 直接 `redteam_vuln_add`（含 `evidence` 回显）+ `redteam_http_evidence_add`。
+2. 每个关键动作 `redteam_chain_add`：`stage_code=internet`（或 `internal`），
+   `tool` 写实际命令原文（例如 `feroxbuster -u https://target -w raft-large-directories.txt -x php,zip,bak -d 3 --rate-limit 80`），
+   `result` 写命中摘要（例如 `命中 /admin/、/backup/www.zip、/.env`）。
+3. 跑完立刻 `redteam_asset_test` 回写 `status`/`test`/`surface`——不写状态后面的人一定重复扫。
+4. 字典与结果文件一律放 `runs/`（报告要能复现）。

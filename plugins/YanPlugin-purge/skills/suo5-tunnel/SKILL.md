@@ -1,1 +1,18 @@
-LS0tDQpuYW1lOiBwdXJnZS1zdW81LXR1bm5lbApkZXNjcmlwdGlvbjogInN1bzUtdHVubmVsIOaMh+WNl++8m+W3suaLv+WIsOS4gOWPsOacuuWZqO+8iFdlYlNoZWxsL1JDRe+8iemcgOimgei/m+WFpeWGhee9keaJq+aPj+S4juaoquWQkeaXtuOAguaPkOS+m+S4iua4uOWFqOaWh+S4jiBZYW4g6YCC6YWN5pig5bCE77yM5LiN5o+Q5L6bIERTSCDov5DooYzml7bjgIIiDQotLS0NCg0KIyBQdXJnZSDCtyBzdW81LXR1bm5lbAoNCumAgueUqO+8muW3suaLv+WIsOS4gOWPsOacuuWZqO+8iFdlYlNoZWxsL1JDRe+8iemcgOimgei/m+WFpeWGhee9keaJq+aPj+S4juaoquWQkeaXtuOAgg0KDQojIyDmiafooYzmraXpqqQNCg0KMS4g6K+75Y+W5pys5o+S5Lu2IGByZXNvdXJjZTp5YW4tYWRhcHRhdGlvbmAg55qE546v5aKD44CB5bel5YW35ZKM6K6w5b2V5pig5bCE44CCDQoyLiDor7vlj5YgYHJlc291cmNlOmd1aWRlLXN1bzUtdHVubmVsYCDlrozmlbTljp/mlofvvJvor6XotYTmupDmmK/kuIrmuLjmjIfljZfvvIzkuI3mmK/mnKzmnLrnirbmgIHor4HmmI7jgIINCjMuIOWvueeFp+eUqOaIt+acrOasoeivt+axguehruiupOebruagh+OAgeeOsOacieebruW9leOAgeebuOWFs+eoi+W6j+WSjOWPguaVsO+8m+WPquajgOafpeatpOS4u+mimOmcgOimgeeahOS+nei1luOAgg0KNC4g5L2/55So5pys6L2u5a6e6ZmF5o+Q5L6b55qEIFlhbiDlt6XlhbflrozmiJDmiYDor7fmsYLnmoTmk43kvZzjgIJEU0gg5LiT55So5bel5YW35oyJ6YCC6YWN6KGo6L2s5o2i5Li65bel5L2c5Yy66K6w5b2V44CCDQo1LiDmoLjlr7novpPlh7rkuI7or4Hmja7mlofku7bvvIzmiqXlkYrlrp7pmYXnu5PmnpzjgIHnvLrpobnlkozmnKrpqozor4HkuovpobnvvJvku4XpmIXor7vmjIfljZfml7bkuI3miafooYzlkb3ku6TjgIINCg0K5a6M5pW05rqQ5paH5Lu277yaYHJlc291cmNlcy9ndWlkZXMvc3VvNS10dW5uZWwubWRg77yI55u45a+55LqO5o+S5Lu25qC555uu5b2V77yJ44CCDQo=
+---
+name: purge-suo5-tunnel
+description: "suo5-tunnel 指南；已拿到一台机器（WebShell/RCE）需要进入内网扫描与横向时。提供上游全文与 Yan 适配映射，不提供 DSH 运行时。"
+---
+
+# Purge · suo5-tunnel
+
+适用：已拿到一台机器（WebShell/RCE）需要进入内网扫描与横向时。
+
+## 执行步骤
+
+1. 读取本插件 `resource:yan-adaptation` 的环境、工具和记录映射。
+2. 读取 `resource:guide-suo5-tunnel` 完整原文；该资源是上游指南，不是本机状态证明。
+3. 对照用户本次请求确认目标、现有目录、相关程序和参数；只检查此主题需要的依赖。
+4. 使用本轮实际提供的 Yan 工具完成所请求的操作。DSH 专用工具按适配表转换为工作区记录。
+5. 核对输出与证据文件，报告实际结果、缺项和未验证事项；仅阅读指南时不执行命令。
+
+完整源文件：`resources/guides/suo5-tunnel.md`（相对于插件根目录）。

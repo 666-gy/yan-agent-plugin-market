@@ -1,1 +1,86 @@
-RElTQ0xPU1VSRSDigJQgZHVhbC11c2UgY29udGVudCBkZWNsYXJhdGlvbgo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKUGFja2FnZTogZHNoLXJlZHRlYW0tbW9kZQpEZWNsYXJlZCBjbGFzczogZHVhbC11c2UgKHNlZSAiY29udGVudFBvbGljeSIgaW4gcGFja2FnZS5qc29uKQpVcHN0cmVhbTogaHR0cHM6Ly9naXRodWIuY29tL0p1ZXplLTIwMTkvZHNoLXJlZHRlYW0tbW9kZQpQb2xpY3kgcmVmZXJlbmNlOiBodHRwczovL2RvY3MubnBtanMuY29tL3BvbGljaWVzL2R1YWwtdXNlCgpXaGF0IHRoaXMgcGFja2FnZSBpcwotLS0tLS0tLS0tLS0tLS0tLS0tLQoKZHNoLXJlZHRlYW0tbW9kZSBpcyBhIHBsdWdpbiBmb3IgRGVlcFNlZWsgSGFybmVzcyAoRFNIKSB0aGF0IHR1cm5zIHRoZSBhZ2VudApydW50aW1lIGludG8gYW4gb3JjaGVzdHJhdGlvbiBjb25zb2xlIGZvciAqKmF1dGhvcml6ZWQqKiBhZHZlcnNhcnkgZW11bGF0aW9uIGFuZApwZW5ldHJhdGlvbi10ZXN0aW5nIGVuZ2FnZW1lbnRzLiBJdCBpcyBhbiBvcmNoZXN0cmF0aW9uLCBldmlkZW5jZS1yZWNvcmRpbmcgYW5kCnJlcG9ydGluZyBsYXllci4gSXRzIHNlY3VyaXR5LXJlbGV2YW50IG5hdHVyZSBjb21lcyBmcm9tIHdoYXQgaXQgKmRyaXZlcyogYW5kCipyZWNvcmRzKiwgbm90IGZyb20gc2hpcHBpbmcgYXR0YWNrIGNvZGUuCgpUaGlzIHBhY2thZ2UgY29udGFpbnMgTk8gZXhwbG9pdCBjb2RlCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KClRoZSBwdWJsaXNoZWQgdGFyYmFsbCBjb250YWlucyBubyB2dWxuZXJhYmlsaXR5IGV4cGxvaXRzLCBubyBwYXlsb2Fkcywgbm8Kc2hlbGxjb2RlLCBubyBjcmVkZW50aWFsIGR1bXBzIGFuZCBubyBDMiBpbXBsYW50cy4gSXQgY29uc2lzdHMgb2Y6CgogIGxpYi8gICAgICAgICAgICBvcmNoZXN0cmF0aW9uIGxvZ2ljLCBhIGxvY2FsIFNRTGl0ZSBmYWN0IGJhc2UsIHRvb2wgc2NoZW1hcywKICAgICAgICAgICAgICAgICAgYSByaWdodC1zaWRlIGNvbnNvbGUgVUkgYW5kIHJlcG9ydCByZW5kZXJpbmcKICBza2lsbHMvICAgICAgICAgMjMgTWFya2Rvd24gaW5zdHJ1Y3Rpb24gZG9jdW1lbnRzIChwcm9zZSBydW5ib29rcykgdGVsbGluZyBhbgogICAgICAgICAgICAgICAgICBhZ2VudCBob3cgdG8gKm9wZXJhdGUqIHRoaXJkLXBhcnR5IHRvb2xzIHRoZSB1c2VyIGluc3RhbGxzCiAgcHJlc2V0cy8gICAgICAgIGFnZW50IHByZXNldCBjb21wb3NpdGlvbiAoWUFNTCkKICBzY3JpcHRzLyAgICAgICAgcmVkdGVhbS1zZXR1cC5zaCDigJQgYW4gb3B0aW9uYWwgZW52aXJvbm1lbnQgYm9vdHN0cmFwIHRoYXQKICAgICAgICAgICAgICAgICAgZG93bmxvYWRzIHdlbGwta25vd24gb3Blbi1zb3VyY2Ugc2VjdXJpdHkgdG9vbHMgKG5tYXAsIG51Y2xlaSwKICAgICAgICAgICAgICAgICAgZnNjYW4sIGdvZ28sIGNoaXNlbCwgZnJwLCAuLi4pIGludG8gdGhlIHVzZXIncyBvd24gaG9tZQogICAgICAgICAgICAgICAgICBkaXJlY3RvcnkKCkR1YWwtdXNlIGNhcGFiaWxpdGllcywgYW5kIHRoZWlyIGxlZ2l0aW1hdGUgdXNlCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgoxLiBPcmNoZXN0cmF0aW5nIHNlY3VyaXR5IHRvb2xpbmcuIFRoZSBwbHVnaW4gY29vcmRpbmF0ZXMgc2Nhbm5pbmcgdG9vbHMgdGhhdCB0aGUKICAgdXNlciBpbnN0YWxscyB0aGVtc2VsdmVzIGFuZCByZWNvcmRzIHdoYXQgd2FzIGZvdW5kLiBMZWdpdGltYXRlIHVzZTogcnVubmluZyBhCiAgIHNjb3BlZCwgYXV0aG9yaXplZCBhc3Nlc3NtZW50IGFnYWluc3Qgc3lzdGVtcyB0aGUgb3BlcmF0b3Igb3ducyBvciBoYXMgd3JpdHRlbgogICBwZXJtaXNzaW9uIHRvIHRlc3QuCgoyLiBDb21tYW5kIGV4ZWN1dGlvbiBvbiB0aGUgb3BlcmF0b3IncyBvd24gbWFjaGluZS4gVG9vbCBpbnZvY2F0aW9ucyBhcmUgaXNzdWVkIG9uCiAgIHRoZSBsb2NhbCBob3N0IHRoYXQgcnVucyBEU0gg4oCUIHRoZSBvcGVyYXRvcidzIG93biBhc3Nlc3NtZW50IHdvcmtzdGF0aW9uIG9yIGEKICAgZGlzcG9zYWJsZSB2aXJ0dWFsIG1hY2hpbmUuIFRoZSBwYWNrYWdlIGRvZXMgbm90IHNlbGYtcHJvcGFnYXRlLCBkb2VzIG5vdAogICBpbnN0YWxsIHBlcnNpc3RlbmNlLCBhbmQgZG9lcyBub3QgY29udGFjdCBhbnkgc2VydmVyIGNvbnRyb2xsZWQgYnkgdGhlIGF1dGhvci4KCjMuIFJlY29ubmFpc3NhbmNlIGd1aWRhbmNlLiBTa2lsbHMgZGVzY3JpYmUgcGFzc2l2ZSBhbmQgYWN0aXZlIGluZm9ybWF0aW9uCiAgIGdhdGhlcmluZyB0ZWNobmlxdWVzLiBMZWdpdGltYXRlIHVzZTogbWFwcGluZyB0aGUgYXR0YWNrIHN1cmZhY2Ugb2YgYW4KICAgYXV0aG9yaXplZCB0YXJnZXQsIHdoaWNoIGlzIHRoZSBzdGFuZGFyZCBmaXJzdCBwaGFzZSBvZiBhbnkgZW5nYWdlbWVudC4KCjQuIENyZWRlbnRpYWwgYW5kIHNlc3Npb24gaGFuZGxpbmcgZ3VpZGFuY2UuIFNraWxscyBkZXNjcmliZSB0ZXN0aW5nIGZvciB3ZWFrCiAgIGNyZWRlbnRpYWxzIG9uIHN5c3RlbXMgd2l0aGluIGFuIGF1dGhvcml6ZWQgc2NvcGUsIGFuZCBob3cgdG8gcmVjb3JkIHNlc3Npb25zCiAgIHRoZSBvcGVyYXRvciBoYXMgbGVnaXRpbWF0ZWx5IG9idGFpbmVkLiBBbGwgY2FwdHVyZWQgbWF0ZXJpYWwgc3RheXMgaW4gYSBsb2NhbAogICBTUUxpdGUgZGF0YWJhc2UgdW5kZXIgdGhlIG9wZXJhdG9yJ3Mgb3duICREU0hfSE9NRSBkaXJlY3Rvcnk7IGl0IGlzIG5ldmVyCiAgIHRyYW5zbWl0dGVkIGFueXdoZXJlIGJ5IHRoaXMgcGFja2FnZS4KCjUuIEVudmlyb25tZW50IGJvb3RzdHJhcCAoc2NyaXB0cy9yZWR0ZWFtLXNldHVwLnNoKS4gVGhpcyBzaGVsbCBzY3JpcHQgZG93bmxvYWRzCiAgIG9wZW4tc291cmNlIHNlY3VyaXR5IGJpbmFyaWVzIGZyb20gdGhlaXIgb2ZmaWNpYWwgR2l0SHViIHJlbGVhc2UgYXNzZXRzIGludG8KICAgJERTSF9IT01FL3JlZHRlYW0vdG9vbGtpdC8uIEl0IGRvZXMgbm90IGluc3RhbGwgc3lzdGVtIHBhY2thZ2VzLCBkb2VzIG5vdAogICByZXF1aXJlIG9yIHVzZSBzdWRvLCBkb2VzIG5vdCBtb2RpZnkgbmV0d29yayBvciBwcm94eSBjb25maWd1cmF0aW9uLCBhbmQgZG9lcwogICBub3QgcnVuIGFueSBkb3dubG9hZGVkIGJpbmFyeSBiZXlvbmQgYSAtLXZlcnNpb24vLWggc21va2UgdGVzdC4gT3BlcmF0b3JzIHdobwogICBwcmVmZXIgdG8gaW5zdGFsbCB0aGVzZSB0b29scyB0aGVtc2VsdmVzIGNhbiBza2lwIHRoZSBzY3JpcHQgZW50aXJlbHk7IG5vdGhpbmcKICAgaW4gdGhlIHBsdWdpbiByZXF1aXJlcyBpdCB0byBydW4uCgpIYXJkIGJvdW5kYXJpZXMgdGhlIHBhY2thZ2UgZGVjbGFyZXMgYW5kIGVuZm9yY2VzCi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCiogQXV0aG9yaXphdGlvbi1vbmx5LiBUaGUgUkVBRE1FLCB0aGUgYWdlbnQgcHJlc2V0IGFuZCBhbGwgcm9sZSBwcm9tcHRzIHN0YXRlIHRoYXQKICB1c2UgaXMgbGltaXRlZCB0byBlbmdhZ2VtZW50cyB3aXRoIHdyaXR0ZW4gYXV0aG9yaXphdGlvbiwgYW5kIHRoYXQgdW5hdXRob3JpemVkCiAgc2Nhbm5pbmcgb3IgaW50cnVzaW9uIGlzIGlsbGVnYWwgaW4gbW9zdCBqdXJpc2RpY3Rpb25zLgoqIExvY2FsLW9ubHkgZGF0YS4gTm8gdGVsZW1ldHJ5LCBubyBhbmFseXRpY3MsIG5vIGNsb3VkIHN5bmMsIG5vIGF1dGhvci1jb250cm9sbGVkCiAgZW5kcG9pbnRzLiBBbGwgZmluZGluZ3Mgc3RheSBvbiB0aGUgb3BlcmF0b3IncyBtYWNoaW5lLgoqIEp1ZGdlbWVudC1mcmVlIHRvb2xpbmcuIFRoZSBwYWNrYWdlIGRvZXMgbm90IGRlY2lkZSB3aGV0aGVyIGEgdGFyZ2V0IGlzIGluIHNjb3BlOwogIHRoYXQgZGV0ZXJtaW5hdGlvbiBpcyB0aGUgb3BlcmF0b3IncyByZXNwb25zaWJpbGl0eS4KCkludGVuZGVkIG9wZXJhdG9ycwotLS0tLS0tLS0tLS0tLS0tLS0KClByb2Zlc3Npb25hbCBwZW5ldHJhdGlvbiB0ZXN0ZXJzLCByZWQgdGVhbXMgYW5kIHNlY3VyaXR5IGVuZ2luZWVycyBydW5uaW5nCmF1dGhvcml6ZWQgZW5nYWdlbWVudHMsIHR5cGljYWxseSBpbnNpZGUgYSBkZWRpY2F0ZWQgYW5kIGRpc3Bvc2FibGUgS2FsaSB2aXJ0dWFsCm1hY2hpbmUgcmF0aGVyIHRoYW4gb24gYSBkYXktdG8tZGF5IHdvcmtzdGF0aW9uLgoKQ29udGFjdAotLS0tLS0tCgpJc3N1ZXM6IGh0dHBzOi8vZ2l0aHViLmNvbS9KdWV6ZS0yMDE5L2RzaC1yZWR0ZWFtLW1vZGUvaXNzdWVzCg==
+DISCLOSURE — dual-use content declaration
+=========================================
+
+Package: dsh-redteam-mode
+Declared class: dual-use (see "contentPolicy" in package.json)
+Upstream: https://github.com/Jueze-2019/dsh-redteam-mode
+Policy reference: https://docs.npmjs.com/policies/dual-use
+
+What this package is
+--------------------
+
+dsh-redteam-mode is a plugin for DeepSeek Harness (DSH) that turns the agent
+runtime into an orchestration console for **authorized** adversary emulation and
+penetration-testing engagements. It is an orchestration, evidence-recording and
+reporting layer. Its security-relevant nature comes from what it *drives* and
+*records*, not from shipping attack code.
+
+This package contains NO exploit code
+-------------------------------------
+
+The published tarball contains no vulnerability exploits, no payloads, no
+shellcode, no credential dumps and no C2 implants. It consists of:
+
+  lib/            orchestration logic, a local SQLite fact base, tool schemas,
+                  a right-side console UI and report rendering
+  skills/         23 Markdown instruction documents (prose runbooks) telling an
+                  agent how to *operate* third-party tools the user installs
+  presets/        agent preset composition (YAML)
+  scripts/        redteam-setup.sh — an optional environment bootstrap that
+                  downloads well-known open-source security tools (nmap, nuclei,
+                  fscan, gogo, chisel, frp, ...) into the user's own home
+                  directory
+
+Dual-use capabilities, and their legitimate use
+-----------------------------------------------
+
+1. Orchestrating security tooling. The plugin coordinates scanning tools that the
+   user installs themselves and records what was found. Legitimate use: running a
+   scoped, authorized assessment against systems the operator owns or has written
+   permission to test.
+
+2. Command execution on the operator's own machine. Tool invocations are issued on
+   the local host that runs DSH — the operator's own assessment workstation or a
+   disposable virtual machine. The package does not self-propagate, does not
+   install persistence, and does not contact any server controlled by the author.
+
+3. Reconnaissance guidance. Skills describe passive and active information
+   gathering techniques. Legitimate use: mapping the attack surface of an
+   authorized target, which is the standard first phase of any engagement.
+
+4. Credential and session handling guidance. Skills describe testing for weak
+   credentials on systems within an authorized scope, and how to record sessions
+   the operator has legitimately obtained. All captured material stays in a local
+   SQLite database under the operator's own $DSH_HOME directory; it is never
+   transmitted anywhere by this package.
+
+5. Environment bootstrap (scripts/redteam-setup.sh). This shell script downloads
+   open-source security binaries from their official GitHub release assets into
+   $DSH_HOME/redteam/toolkit/. It does not install system packages, does not
+   require or use sudo, does not modify network or proxy configuration, and does
+   not run any downloaded binary beyond a --version/-h smoke test. Operators who
+   prefer to install these tools themselves can skip the script entirely; nothing
+   in the plugin requires it to run.
+
+Hard boundaries the package declares and enforces
+-------------------------------------------------
+
+* Authorization-only. The README, the agent preset and all role prompts state that
+  use is limited to engagements with written authorization, and that unauthorized
+  scanning or intrusion is illegal in most jurisdictions.
+* Local-only data. No telemetry, no analytics, no cloud sync, no author-controlled
+  endpoints. All findings stay on the operator's machine.
+* Judgement-free tooling. The package does not decide whether a target is in scope;
+  that determination is the operator's responsibility.
+
+Intended operators
+------------------
+
+Professional penetration testers, red teams and security engineers running
+authorized engagements, typically inside a dedicated and disposable Kali virtual
+machine rather than on a day-to-day workstation.
+
+Contact
+-------
+
+Issues: https://github.com/Jueze-2019/dsh-redteam-mode/issues

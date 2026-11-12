@@ -1,1 +1,21 @@
-LS0tCm5hbWU6IHBhc3NpdmUtcmVjb24KZGVzY3JpcHRpb246IOiiq+WKqOS/oeaBr+aUtumbhu+8muS4jeaOpeinpuebruagh+S4u+acuu+8jOS7heS9v+eUqOWFrOW8gOaVsOaNrua6kAp3aGVuVG9Vc2U6IOmcgOimgeWcqOS4jeaatOmcsuiHqui6q+eahOaDheWGteS4i+aUtumbhuebruagh+i1hOS6p+aDheaKpeaXtgpyb2xlOiByZWNvbgplbmFibGVkOiB0cnVlCi0tLQoKCgojIyDmlbDmja7mupAKLSDor4HkuabpgI/mmI7ml6Xlv5fvvIhjcnQuc2jvvInvvJpgY3VybCAtcyAiaHR0cHM6Ly9jcnQuc2gvP3E9JTI1Ljxkb21haW4+Jm91dHB1dD1qc29uIiB8IGpxIC1yICcuW10ubmFtZV92YWx1ZScgfCBzb3J0IC11YAotIEROUyDorrDlvZXvvJpgZGlnICtzaG9ydCA8ZG9tYWluPiBBL0FBQUEvTVgvVFhUL05TYAotIHdob2lz77ya5rOo5YaM5Lq644CB572R5q6144CBQVNOCi0g5pCc57Si5byV5pOO5LiO5Luj56CB5omY566h5bmz5Y+w77ya5rOE6Zyy55qE5a2Q5Z+f44CB5a+G6ZKl44CB5YaF6YOo5Zyw5Z2ACi0g5YWs5byA56uv5Y+j5rWL57uY5pWw5o2u77yIU2hvZGFuL0NlbnN5cy9GT0ZBIOetie+8jOmcgOaOiOadgyBBUEnvvIkKCiMjIOiQveW6k+imgeaxggrmr4/mnaHlj5HnjrDosIPnlKggcmVkdGVhbV9hc3NldF91cHNlcnTvvIxwcm92ZW5hbmNlIOWbuuWumuS4uiBgcGFzc2l2ZWDvvIx0b29sIOiusOW9leWFt+S9k+aVsOaNrua6kOOAggoKCg==
+---
+name: passive-recon
+description: 被动信息收集：不接触目标主机，仅使用公开数据源
+whenToUse: 需要在不暴露自身的情况下收集目标资产情报时
+role: recon
+enabled: true
+---
+
+
+
+## 数据源
+- 证书透明日志（crt.sh）：`curl -s "https://crt.sh/?q=%25.<domain>&output=json" | jq -r '.[].name_value' | sort -u`
+- DNS 记录：`dig +short <domain> A/AAAA/MX/TXT/NS`
+- whois：注册人、网段、ASN
+- 搜索引擎与代码托管平台：泄露的子域、密钥、内部地址
+- 公开端口测绘数据（Shodan/Censys/FOFA 等，需授权 API）
+
+## 落库要求
+每条发现调用 redteam_asset_upsert，provenance 固定为 `passive`，tool 记录具体数据源。
+
+

