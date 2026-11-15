@@ -1,0 +1,72 @@
+{
+  "schemaVersion": 1,
+  "id": "YanPlugin-wallpaper-engine",
+  "version": "1.7.3",
+  "name": "Wallpaper Engine 壁纸桥接",
+  "description": "官方市场版：把 Wallpaper Engine 创意工坊/本地壁纸导入 Yan，提供 MCP 工具（扫描、导入、转码、备用图、修复、移除）和本地浏览器自选面板。不修改 app.asar，不注入设置页 UI。仅 Windows，需 Wallpaper Engine。",
+  "author": "mostny",
+  "license": "MIT",
+  "instructions": "instructions.md",
+  "platforms": ["win32"],
+  "skills": [
+    {
+      "id": "wallpaper-engine-bridge",
+      "name": "Wallpaper Engine 壁纸桥接",
+      "description": "浏览 Wallpaper Engine 创意工坊与本地壁纸，把视频/图片壁纸导入 Yan Agent 壁纸库并应用；管理已导入壁纸。用户提到 Wallpaper Engine、壁纸引擎、创意工坊壁纸、把 WE 壁纸设为 Yan 壁纸时使用。",
+      "path": "skills/wallpaper-engine-bridge/SKILL.md"
+    }
+  ],
+  "resources": [
+    {
+      "id": "tutorial",
+      "name": "新手教程",
+      "path": "TUTORIAL.md"
+    },
+    {
+      "id": "readme",
+      "name": "使用说明",
+      "path": "README.md"
+    }
+  ],
+  "configuration": {
+    "steamLibrary": {
+      "label": "Steam 库路径（可选）",
+      "description": "例如 D:\\Steam。留空时自动从注册表与常见安装位置检测所有 Steam 库。",
+      "required": false,
+      "default": ""
+    },
+    "yanDataDir": {
+      "label": "Yan 数据目录（可选）",
+      "description": "留空时自动使用 %APPDATA%\\yan-agent\\YanData。",
+      "required": false,
+      "default": ""
+    },
+    "ffmpegPath": {
+      "label": "ffmpeg 路径（可选）",
+      "description": "ffmpeg.exe 的完整路径。留空时自动从 PATH、winget、scoop、chocolatey 与常见目录查找。",
+      "required": false,
+      "default": ""
+    },
+    "galleryPort": {
+      "label": "自选面板端口（可选）",
+      "description": "本地自选面板的 HTTP 端口，默认 43197，仅绑定 127.0.0.1。修改后重启自选面板后端（或重新打开面板）生效。",
+      "required": false,
+      "default": "43197"
+    }
+  },
+  "mcpServers": [
+    {
+      "id": "wallpaper-engine",
+      "type": "local",
+      "command": "$node",
+      "args": ["${pluginRoot}/server.cjs"],
+      "env": {
+        "WE_BRIDGE_STEAM_LIBRARY": "${config.steamLibrary}",
+        "WE_BRIDGE_YAN_DATA": "${config.yanDataDir}",
+        "WE_BRIDGE_GALLERY_PORT": "${config.galleryPort}",
+        "WE_BRIDGE_FFMPEG": "${config.ffmpegPath}"
+      },
+      "timeoutMs": 120000
+    }
+  ]
+}
