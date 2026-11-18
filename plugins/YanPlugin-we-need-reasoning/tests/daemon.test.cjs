@@ -175,7 +175,7 @@ test('daemon：MCP 被杀后代理仍存活，重新激活可复用并安全停�
   }
 });
 
-test('daemon：启动器进程退出后仍存活（Windows 使用 WMI 脱离父作业）', async () => {
+test('daemon：启动器进程退出后仍存活（Windows 使用 WMI + 隐藏 wscript 脱离父作业）', async () => {
   const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'weneed-launcher-'));
   const configPath = path.join(dir, 'config.json');
   const statePath = path.join(dir, 'daemon.json');

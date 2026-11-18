@@ -160,13 +160,13 @@
       "description": "把 DSH We Need 4.1.1 寄存器移植到 Yan：激活后在 127.0.0.1 启动独立常驻反向代理 daemon，对 chat/completions、responses、messages 请求注入 seed、system register、工具步锚与压缩规则，未匹配模型原样透传。MCP/内核退出不会关闭代理；含 we-need 技能、seed 组合与寄存器审计工具；内置本地配置页可直接设置并持久化上游地址；需自行添加指向代理 Base URL 的自定义连接，插件不改模型配置。",
       "category": "developer-tools",
       "repository": "fourorfor/YanPlugin-we-need-reasoning",
-      "revision": "3b40814db477d3786f7aa6e60fcf8a55d0f65d64",
-      "digest": "18235e9fc4bb77c4b6c30844d8b3c6d785fc79d2042f0ae7ed03bf584a68b798",
+      "revision": "a79a7fe825162e710d5d26f5383255fa7c048d50",
+      "digest": "ee97c2c546581305bb5654626cab0b650592496154fc5bf322d31c9d684c4dd9",
       "download": true,
       "manifest": {
         "schemaVersion": 1,
         "id": "YanPlugin-we-need-reasoning",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "name": "We Need Reasoning",
         "description": "把 DSH We Need 4.1.1 寄存器移植到 Yan：激活后在 127.0.0.1 启动独立常驻反向代理 daemon，对 chat/completions、responses、messages 请求注入 seed、system register、工具步锚与压缩规则，未匹配模型原样透传。MCP/内核退出不会关闭代理；含 we-need 技能、seed 组合与寄存器审计工具；内置本地配置页可直接设置并持久化上游地址；需自行添加指向代理 Base URL 的自定义连接，插件不改模型配置。",
         "author": "Yan adaptation of DSH We Need Plugin contributors",
@@ -275,8 +275,8 @@
         },
         {
           "path": "README.md",
-          "bytes": 11284,
-          "sha256": "420dd2c1908fe868888b9c400e2dccad0ee7c60c699da6421d5bc13d59564256"
+          "bytes": 11465,
+          "sha256": "42c0e54b2b8f2f69878ca0dd39399e56ea8794dbf1ca73b071f49805fbd418a8"
         },
         {
           "path": "instructions.md",
@@ -285,18 +285,18 @@
         },
         {
           "path": "lib/daemon-control.js",
-          "bytes": 11314,
-          "sha256": "bd126e21a4a1c6f9e94bcad9d698ddfdc2b6b826f5ff4e0a952a6888d6a35f60"
+          "bytes": 12929,
+          "sha256": "322251e601f66e0ddd8ae940c79169c5f096d630314ef2f01850e50a270598dc"
         },
         {
           "path": "lib/daemon.js",
           "bytes": 3513,
-          "sha256": "7df8c26a2f32bcd7bad95a2140eb446e97712ba13890f76669d7efb0d6da9a5c"
+          "sha256": "90806b7599d8c9b003fb857eed4706647366b0b7630cf12ce39348892634458f"
         },
         {
           "path": "lib/proxy.js",
           "bytes": 29822,
-          "sha256": "de209738d0502f191957852152014b1b2d44fd3d8e86a2181ad920a449e90053"
+          "sha256": "75e7e594ebf9ce1b75d5805a6a58b22677edf4ae288f0c4237217a083d8e7337"
         },
         {
           "path": "lib/registers-data.json",
@@ -316,7 +316,7 @@
         {
           "path": "server.cjs",
           "bytes": 12754,
-          "sha256": "5b0cd2199341a15b3f6c8ad3b93d64926f16ab288086fd31bddf23269b14b7c4"
+          "sha256": "d3fe30256552bec130655c559167a95d727195a37d9f646f5690b74e892b484a"
         },
         {
           "path": "skills/we-need/SKILL.md",
@@ -335,8 +335,8 @@
         },
         {
           "path": "tests/daemon.test.cjs",
-          "bytes": 8651,
-          "sha256": "106aa514b5baf055f422d725e1d1ca9cf46e002db14093ffe439e4a5fd60660b"
+          "bytes": 8668,
+          "sha256": "75fd71bbf4e3337baef92812a06947bd4185eaf4076581d0670efa988e7138bb"
         },
         {
           "path": "tests/injection.test.cjs",
@@ -346,7 +346,7 @@
         {
           "path": "tests/mcp.test.cjs",
           "bytes": 4782,
-          "sha256": "d0c8ec60b74bd8b4793043600ecd93ac49462b7a157eaf52969922c160733fc3"
+          "sha256": "385ff1f975107ea1bb6be19ef481be35b7fec80cbe67cf18541b252ab35748d8"
         },
         {
           "path": "tests/proxy.test.cjs",
@@ -356,7 +356,7 @@
         {
           "path": "yan-plugin.json",
           "bytes": 3834,
-          "sha256": "888c766173de5a9f7d2823cb27c6095cca52d49eef14a66a429775a690a8e6fa"
+          "sha256": "c31f4c3960713d0a5ca9ace44ee0817a5c5c281b3599dd6293c8452d4356f77f"
         }
       ]
     }

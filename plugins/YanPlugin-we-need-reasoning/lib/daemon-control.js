@@ -8,6 +8,7 @@ const { spawn } = require('node:child_process');
 
 const START_TIMEOUT_MS = 8000;
 const STOP_TIMEOUT_MS = 5000;
+const WSCRIPT = path.join(process.env.SystemRoot || 'C:\\Windows', 'System32', 'wscript.exe');
 
 function defaultStatePath() {
   const custom = String(process.env.WENEED_STATE_PATH || '').trim();
@@ -204,6 +205,35 @@ function runPowerShell(script) {
   });
 }
 
+function prepareWindowsLauncher(daemonPath, args) {
+  const binDir = path.join(path.dirname(defaultStatePath()), 'bin');
+  const launcherPath = path.join(binDir, 'plugin-start-daemon.vbs');
+  const commandPath = path.join(binDir, 'plugin-start-daemon.command');
+  fs.mkdirSync(binDir, { recursive: true });
+  const commandLine = [process.execPath, daemonPath, ...args].map(quoteWin).join(' ');
+  fs.writeFileSync(commandPath, '\uFEFF' + commandLine + '\r\n', {
+    encoding: 'utf16le',
+    mode: 0o600
+  });
+  const launcher = [
+    'Option Explicit',
+    'On Error Resume Next',
+    '',
+    'Dim shell, fso, input, command, commandPath',
+    'Set shell = CreateObject("WScript.Shell")',
+    'Set fso = CreateObject("Scripting.FileSystemObject")',
+    'commandPath = fso.BuildPath(fso.GetParentFolderName(WScript.ScriptFullName), "plugin-start-daemon.command")',
+    'If Not fso.FileExists(commandPath) Then WScript.Quit 1',
+    'Set input = fso.OpenTextFile(commandPath, 1, False, -1)',
+    'command = Trim(input.ReadAll)',
+    'input.Close',
+    'If Len(command) > 0 Then shell.Run command, 0, False',
+    ''
+  ].join('\r\n');
+  fs.writeFileSync(launcherPath, launcher, { encoding: 'utf8', mode: 0o600 });
+  return launcherPath;
+}
+
 async function spawnDaemon(config) {
   // 清掉上一次启动失败留下的 error 状态，避免 waitForStart 误读旧错误。
   removeState();
@@ -219,8 +249,11 @@ async function spawnDaemon(config) {
     `--seed-language=${String(config.seedLanguage || '')}`
   ];
   if (process.platform === 'win32') {
+    const launcherPath = prepareWindowsLauncher(daemonPath, args);
     try {
-      const commandLine = [process.execPath, daemonPath, ...args].map(quoteWin).join(' ');
+      // WMI 只创建 wscript.exe（GUI 进程，不创建控制台），并借此脱离 MCP 父作业；
+      // VBS 随后以 ShowWindow=0 隐藏启动 Node daemon。
+      const commandLine = `${quoteWin(WSCRIPT)} ${quoteWin(launcherPath)}`;
       const quote = value => `'${String(value).replace(/'/g, "''")}'`;
       const script = [
         '$ErrorActionPreference = "Stop";',
@@ -235,8 +268,9 @@ async function spawnDaemon(config) {
       if (!/^\d+$/.test(output)) throw new Error(`WMI 未返回进程号：${output || '(empty)'}`);
       return Number(output);
     } catch (error) {
-      // WMI 不可用时退回 detached；这仍能在 MCP 存活期间工作，但可能被父作业回收。
-      const child = spawn(process.execPath, [daemonPath, ...args], {
+      // WMI 不可用时仍走隐藏 VBS，不再直接启动带控制台的 Node；
+      // 这条回退可能随父作业回收，跨内核重启的存活能力由 WMI 主路径保证。
+      const child = spawn(WSCRIPT, [launcherPath], {
         detached: true,
         stdio: 'ignore',
         windowsHide: true

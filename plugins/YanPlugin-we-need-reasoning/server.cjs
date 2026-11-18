@@ -16,7 +16,7 @@ const {
   matchesTarget
 } = require('./lib/registers');
 
-const VERSION = '1.0.1';
+const VERSION = '1.0.2';
 const UPSTREAM_VERSION = '4.1.1';
 
 function pick(value, allowed, fallback) {

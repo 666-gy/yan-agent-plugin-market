@@ -60,7 +60,7 @@ test('MCP：握手、工具清单、seed/审计/状态/启停', async () => {
     });
     assert.equal(init.result.protocolVersion, '2025-03-26');
     assert.equal(init.result.serverInfo.name, 'We Need Reasoning');
-    assert.equal(init.result.serverInfo.version, '1.0.1');
+    assert.equal(init.result.serverInfo.version, '1.0.2');
 
     const list = await request('tools/list');
     const names = list.result.tools.map(tool => tool.name).sort();

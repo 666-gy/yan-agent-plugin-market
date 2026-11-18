@@ -33,7 +33,7 @@ Yan 模型连接（自定义 Base URL = 本地代理）
 | `seed.txt` | 上游 4.1.1 的 921 字符 seed 原文（1365 字节） |
 | `server.cjs` | MCP 工具服务（管理独立 daemon，不持有代理端口） |
 | `lib/daemon.js` | 独立常驻代理进程，MCP/内核退出后继续监听 |
-| `lib/daemon-control.js` | daemon 启动、健康检查、复用、停止与状态文件；Windows 使用 WMI 脱离父作业，其他平台使用 detached |
+| `lib/daemon-control.js` | daemon 启动、健康检查、复用、停止与状态文件；Windows 通过 WMI 启动隐藏 wscript，再由 wscript 无窗口拉起 Node，其他平台使用 detached |
 | `lib/registers.js` | 注入、seed 组合、寄存器审计 |
 | `lib/proxy.js` | 无依赖 HTTP/HTTPS 代理，支持 SSE 流式透传；内置 `/__weneed/` 配置页与本地持久化 |
 | `tests/` | 注入、代理、配置页、MCP 协议、daemon 存活自测 |
@@ -168,7 +168,7 @@ node tests/daemon.test.cjs
 - 配置页只在代理运行时可打开；插件未激活且 daemon 未运行时不可用。
 - daemon 能跨 MCP/内核重启存活；机器重启或 daemon 被手动结束后，需要激活插件或调用 `proxy_start` 才会重新监听。
 - 从旧版进程内代理升级时，先停用旧插件实例或结束其代理进程；新版不会静默接管控不了的旧代理，会返回明确错误。
-- Windows 上 daemon 通过 WMI `Win32_Process.Create` 脱离父作业；如果系统禁用了 WMI，会退回普通 detached 进程，跨内核重启的存活能力可能下降。`proxy_status` 会暴露实际运行状态。
+- Windows 上 daemon 通过 WMI `Win32_Process.Create` 启动 `wscript.exe`（GUI 进程，不创建控制台），再由生成的隐藏 VBS 以 `shell.Run(..., 0)` 拉起 Node；这样既脱离 MCP 父作业，也不会弹出终端。WMI 不可用时会退回隐藏 VBS，跨内核重启的存活能力可能下降。`proxy_status` 会暴露实际运行状态。
 - 配置保存到用户目录；同一台机器多个实例共用同一路径时，以最后一次保存为准。
 - Yan 没有请求 hook，必须经过代理；未经过代理的请求不会被改写。
 - 压缩识别是启发式，DSH 的原生 `purpose=compaction` 标记在 HTTP 层不可见。
@@ -179,4 +179,4 @@ node tests/daemon.test.cjs
 
 上游 DSH We Need Plugin 4.1.1 为 MIT，版权归 DSH We Need Plugin contributors。本适配保留 `seed.txt`、寄存器原文和 MIT 许可，修改部分同样以 MIT 发布。详见 `LICENSE`。
 
-版本对应：插件 `1.0.1` ← 上游 `4.1.1`。
+版本对应：插件 `1.0.2` ← 上游 `4.1.1`。

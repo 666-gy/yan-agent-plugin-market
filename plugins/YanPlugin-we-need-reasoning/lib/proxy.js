@@ -271,7 +271,7 @@ function sameToken(left, right) {
 function createWeneedProxy(options = {}) {
   const configPath = options.configPath === undefined ? '' : String(options.configPath || '');
   const persisted = readStoredConfig(configPath);
-  const version = String(options.version || '1.0.1');
+  const version = String(options.version || '1.0.2');
   const controlToken = String(options.controlToken || '');
   const onStopRequested = typeof options.onStopRequested === 'function' ? options.onStopRequested : null;
   const allowPortShift = options.allowPortShift === true;

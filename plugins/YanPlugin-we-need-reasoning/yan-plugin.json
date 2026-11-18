@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "YanPlugin-we-need-reasoning",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "We Need Reasoning",
   "description": "把 DSH We Need 4.1.1 寄存器移植到 Yan：激活后在 127.0.0.1 启动独立常驻反向代理 daemon，对 chat/completions、responses、messages 请求注入 seed、system register、工具步锚与压缩规则，未匹配模型原样透传。MCP/内核退出不会关闭代理；含 we-need 技能、seed 组合与寄存器审计工具；内置本地配置页可直接设置并持久化上游地址；需自行添加指向代理 Base URL 的自定义连接，插件不改模型配置。",
   "author": "Yan adaptation of DSH We Need Plugin contributors",

@@ -7,7 +7,7 @@ const crypto = require('node:crypto');
 const { createWeneedProxy, defaultConfigPath } = require('./proxy');
 const { writeState, removeState } = require('./daemon-control');
 
-const VERSION = '1.0.1';
+const VERSION = '1.0.2';
 function argValue(name) {
   const prefix = `--${name}=`;
   const found = process.argv.slice(2).find(value => value.startsWith(prefix));
