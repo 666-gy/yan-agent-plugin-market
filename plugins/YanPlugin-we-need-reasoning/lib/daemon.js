@@ -8,16 +8,31 @@ const { createWeneedProxy, defaultConfigPath } = require('./proxy');
 const { writeState, removeState } = require('./daemon-control');
 
 const VERSION = '1.0.1';
-const statePath = String(process.env.WENEED_STATE_PATH || '').trim()
-  ? path.resolve(String(process.env.WENEED_STATE_PATH))
-  : path.join(os.homedir(), '.weneed-reasoning', 'daemon.json');
-const configPath = process.env.WENEED_CONFIG_PATH === undefined
-  ? defaultConfigPath()
-  : String(process.env.WENEED_CONFIG_PATH || '');
+function argValue(name) {
+  const prefix = `--${name}=`;
+  const found = process.argv.slice(2).find(value => value.startsWith(prefix));
+  return found === undefined ? undefined : found.slice(prefix.length);
+}
+function pickArg(name, envName, fallback) {
+  const argument = argValue(name);
+  if (argument !== undefined) return argument;
+  const value = process.env[envName];
+  return value === undefined ? fallback : String(value);
+}
+const stateArg = argValue('state-path');
+const statePath = stateArg
+  ? path.resolve(stateArg)
+  : (String(process.env.WENEED_STATE_PATH || '').trim()
+    ? path.resolve(String(process.env.WENEED_STATE_PATH))
+    : path.join(os.homedir(), '.weneed-reasoning', 'daemon.json'));
+const configArg = argValue('config-path');
+const configPath = configArg !== undefined
+  ? configArg
+  : (process.env.WENEED_CONFIG_PATH === undefined ? defaultConfigPath() : String(process.env.WENEED_CONFIG_PATH || ''));
 const token = crypto.randomBytes(32).toString('hex');
 const startedAt = Date.now();
-const portValue = process.env.WENEED_LISTEN_PORT;
-const numericPort = portValue === undefined || portValue === '' ? 8787 : Number(portValue);
+const portValue = pickArg('port', 'WENEED_LISTEN_PORT', '8787');
+const numericPort = portValue === '' ? 8787 : Number(portValue);
 const port = Number.isInteger(numericPort) && numericPort >= 0 && numericPort <= 65535 ? numericPort : 8787;
 let shuttingDown = false;
 
@@ -40,12 +55,12 @@ function clearDaemonState() {
 }
 
 const proxy = createWeneedProxy({
-  upstreamBaseUrl: String(process.env.WENEED_UPSTREAM_BASE_URL || ''),
+  upstreamBaseUrl: pickArg('upstream-base-url', 'WENEED_UPSTREAM_BASE_URL', ''),
   port,
-  targetModels: String(process.env.WENEED_TARGET_MODELS || 'deepseek,flash;weneed,ds41'),
-  mode: String(process.env.WENEED_MODE || 'standard'),
-  seedMode: String(process.env.WENEED_SEED_MODE || 'upstream'),
-  seedLanguage: String(process.env.WENEED_SEED_LANGUAGE || 'en'),
+  targetModels: pickArg('target-models', 'WENEED_TARGET_MODELS', 'deepseek,flash;weneed,ds41') || 'deepseek,flash;weneed,ds41',
+  mode: pickArg('mode', 'WENEED_MODE', 'standard') || 'standard',
+  seedMode: pickArg('seed-mode', 'WENEED_SEED_MODE', 'upstream') || 'upstream',
+  seedLanguage: pickArg('seed-language', 'WENEED_SEED_LANGUAGE', 'en') || 'en',
   configPath,
   version: VERSION,
   controlToken: token,

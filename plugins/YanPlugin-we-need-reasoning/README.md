@@ -33,7 +33,7 @@ Yan 模型连接（自定义 Base URL = 本地代理）
 | `seed.txt` | 上游 4.1.1 的 921 字符 seed 原文（1365 字节） |
 | `server.cjs` | MCP 工具服务（管理独立 daemon，不持有代理端口） |
 | `lib/daemon.js` | 独立常驻代理进程，MCP/内核退出后继续监听 |
-| `lib/daemon-control.js` | daemon 启动、健康检查、复用、停止与状态文件 |
+| `lib/daemon-control.js` | daemon 启动、健康检查、复用、停止与状态文件；Windows 使用 WMI 脱离父作业，其他平台使用 detached |
 | `lib/registers.js` | 注入、seed 组合、寄存器审计 |
 | `lib/proxy.js` | 无依赖 HTTP/HTTPS 代理，支持 SSE 流式透传；内置 `/__weneed/` 配置页与本地持久化 |
 | `tests/` | 注入、代理、配置页、MCP 协议、daemon 存活自测 |
@@ -147,7 +147,7 @@ node tests/daemon.test.cjs
 - `proxy`：本地 mock 上游，验证注入后转发、非目标模型透传、Authorization 转发、`/models` 透传、计数，以及固定端口被占用时不静默顺延。
 - `config`：配置页可打开、保存后立即生效、写入文件、跨站来源拒绝、非法上游拒绝、重启恢复。
 - `mcp`：真实 stdio JSON-RPC 握手、`tools/list`、`tools/call`。
-- `daemon`：MCP 被 SIGKILL 后代理仍在监听，重新启动 MCP 可复用同一 daemon，最后安全停止。
+- `daemon`：MCP 被 SIGKILL 后代理仍在监听，重新启动 MCP 可复用同一 daemon；启动器进程退出后 daemon 仍存活；最后安全停止。
 
 代理与 MCP 协议可以本地自测；Yan 设置页的“连接保存 → 主模型切换 → 真实上游返回”属于 UI 与账号相关验证，安装后需按上面的步骤实测。插件不会自动完成或声称完成这一步。
 
@@ -168,6 +168,7 @@ node tests/daemon.test.cjs
 - 配置页只在代理运行时可打开；插件未激活且 daemon 未运行时不可用。
 - daemon 能跨 MCP/内核重启存活；机器重启或 daemon 被手动结束后，需要激活插件或调用 `proxy_start` 才会重新监听。
 - 从旧版进程内代理升级时，先停用旧插件实例或结束其代理进程；新版不会静默接管控不了的旧代理，会返回明确错误。
+- Windows 上 daemon 通过 WMI `Win32_Process.Create` 脱离父作业；如果系统禁用了 WMI，会退回普通 detached 进程，跨内核重启的存活能力可能下降。`proxy_status` 会暴露实际运行状态。
 - 配置保存到用户目录；同一台机器多个实例共用同一路径时，以最后一次保存为准。
 - Yan 没有请求 hook，必须经过代理；未经过代理的请求不会被改写。
 - 压缩识别是启发式，DSH 的原生 `purpose=compaction` 标记在 HTTP 层不可见。

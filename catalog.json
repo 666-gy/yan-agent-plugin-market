@@ -160,8 +160,8 @@
       "description": "把 DSH We Need 4.1.1 寄存器移植到 Yan：激活后在 127.0.0.1 启动独立常驻反向代理 daemon，对 chat/completions、responses、messages 请求注入 seed、system register、工具步锚与压缩规则，未匹配模型原样透传。MCP/内核退出不会关闭代理；含 we-need 技能、seed 组合与寄存器审计工具；内置本地配置页可直接设置并持久化上游地址；需自行添加指向代理 Base URL 的自定义连接，插件不改模型配置。",
       "category": "developer-tools",
       "repository": "fourorfor/YanPlugin-we-need-reasoning",
-      "revision": "d600e60e27c810a4d438d3bb9c124d954708ab67",
-      "digest": "0d732defcd2a99ae6e7cc9d60e0157aaff3175fabb1af978c861d655e067e76b",
+      "revision": "3b40814db477d3786f7aa6e60fcf8a55d0f65d64",
+      "digest": "18235e9fc4bb77c4b6c30844d8b3c6d785fc79d2042f0ae7ed03bf584a68b798",
       "download": true,
       "manifest": {
         "schemaVersion": 1,
@@ -275,8 +275,8 @@
         },
         {
           "path": "README.md",
-          "bytes": 10947,
-          "sha256": "b70f9dcf616c5b52dc27b88380ef761f46df3661e28aaa70c13bc02918a54657"
+          "bytes": 11284,
+          "sha256": "420dd2c1908fe868888b9c400e2dccad0ee7c60c699da6421d5bc13d59564256"
         },
         {
           "path": "instructions.md",
@@ -285,13 +285,13 @@
         },
         {
           "path": "lib/daemon-control.js",
-          "bytes": 9321,
-          "sha256": "1ad05be998e42c9976d4e25942af9bf85eb2fe8473f3cf34416ad40ec7efc12c"
+          "bytes": 11314,
+          "sha256": "bd126e21a4a1c6f9e94bcad9d698ddfdc2b6b826f5ff4e0a952a6888d6a35f60"
         },
         {
           "path": "lib/daemon.js",
-          "bytes": 2834,
-          "sha256": "ce1caac3dd56c8bda39d369ed29a077d5d98aba9391488516a2dbada29a768c9"
+          "bytes": 3513,
+          "sha256": "7df8c26a2f32bcd7bad95a2140eb446e97712ba13890f76669d7efb0d6da9a5c"
         },
         {
           "path": "lib/proxy.js",
@@ -335,8 +335,8 @@
         },
         {
           "path": "tests/daemon.test.cjs",
-          "bytes": 5684,
-          "sha256": "493ff2c3a8e0c52e60b847eee5cad53e474b22de34732809f524a4052911b607"
+          "bytes": 8651,
+          "sha256": "106aa514b5baf055f422d725e1d1ca9cf46e002db14093ffe439e4a5fd60660b"
         },
         {
           "path": "tests/injection.test.cjs",

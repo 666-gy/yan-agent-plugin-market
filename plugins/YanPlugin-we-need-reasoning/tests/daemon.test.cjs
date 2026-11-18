@@ -8,6 +8,8 @@ const fs = require('node:fs');
 const os = require('node:os');
 const { spawn } = require('node:child_process');
 const readline = require('node:readline');
+const { createWeneedProxy } = require('../lib/proxy');
+const daemonControl = require('../lib/daemon-control');
 
 function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
@@ -164,6 +166,77 @@ test('daemon：MCP 被杀后代理仍存活，重新激活可复用并安全停�
     if (second && second.child.exitCode === null) {
       second.child.stdin.end();
       await waitExit(second.child);
+    }
+    try {
+      const state = JSON.parse(fs.readFileSync(statePath, 'utf8'));
+      if (state && state.pid) process.kill(state.pid);
+    } catch {}
+    fs.rmSync(dir, { recursive: true, force: true });
+  }
+});
+
+test('daemon：启动器进程退出后仍存活（Windows 使用 WMI 脱离父作业）', async () => {
+  const dir = fs.mkdtempSync(path.join(os.tmpdir(), 'weneed-launcher-'));
+  const configPath = path.join(dir, 'config.json');
+  const statePath = path.join(dir, 'daemon.json');
+  const port = await freePort();
+  fs.writeFileSync(configPath, JSON.stringify({
+    upstreamBaseUrl: 'http://127.0.0.1:9/v1',
+    targetModels: 'deepseek,flash;weneed,ds41',
+    mode: 'standard',
+    seedMode: 'upstream',
+    seedLanguage: 'en'
+  }, null, 2) + '\n');
+
+  const launcherCode = `
+    const { createWeneedProxy } = require(process.env.WENEED_TEST_PROXY);
+    const daemon = require(process.env.WENEED_TEST_CONTROL);
+    const configPath = process.env.WENEED_TEST_CONFIG;
+    const proxy = createWeneedProxy({ port: Number(process.env.WENEED_TEST_PORT), configPath });
+    daemon.ensureStarted({ ...proxy.config, configPath }).then(state => {
+      console.log(JSON.stringify({ running: state.running, managed: state.managed, pid: state.pid, port: state.port }));
+      process.exit(0);
+    }).catch(error => { console.error(error.message); process.exit(1); });
+  `;
+  const launcher = spawn(process.execPath, ['-e', launcherCode], {
+    env: {
+      ...process.env,
+      WENEED_STATE_PATH: statePath,
+      WENEED_TEST_PROXY: path.join(__dirname, '..', 'lib', 'proxy'),
+      WENEED_TEST_CONTROL: path.join(__dirname, '..', 'lib', 'daemon-control'),
+      WENEED_TEST_CONFIG: configPath,
+      WENEED_TEST_PORT: String(port)
+    },
+    stdio: ['ignore', 'pipe', 'pipe']
+  });
+  let out = '';
+  let err = '';
+  launcher.stdout.on('data', chunk => { out += chunk; });
+  launcher.stderr.on('data', chunk => { err += chunk; });
+  launcher.on('error', error => { err += `${error.message}\n`; });
+  try {
+    await waitExit(launcher);
+    assert.equal(launcher.exitCode, 0, err || out);
+
+    const alive = await waitHealth(port);
+    assert.equal(alive.json.service, 'weneed-proxy');
+    assert.equal(alive.json.port, port);
+
+    const previousStatePath = process.env.WENEED_STATE_PATH;
+    process.env.WENEED_STATE_PATH = statePath;
+    try {
+      const proxy = createWeneedProxy({ port, configPath });
+      const stopped = await daemonControl.stop({ ...proxy.config, configPath });
+      assert.equal(stopped.running, false);
+    } finally {
+      if (previousStatePath === undefined) delete process.env.WENEED_STATE_PATH;
+      else process.env.WENEED_STATE_PATH = previousStatePath;
+    }
+    await assert.rejects(() => health(port));
+  } finally {
+    if (launcher.exitCode === null) {
+      launcher.kill();
+      await waitExit(launcher);
     }
     try {
       const state = JSON.parse(fs.readFileSync(statePath, 'utf8'));

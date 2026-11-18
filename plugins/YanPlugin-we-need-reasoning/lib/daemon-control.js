@@ -177,30 +177,81 @@ async function status(config = {}) {
   };
 }
 
-function spawnDaemon(config) {
+function quoteWin(value) {
+  return `"${String(value).replace(/"/g, '\\"')}"`;
+}
+
+function runPowerShell(script) {
+  return new Promise((resolve, reject) => {
+    const ps = spawn('powershell.exe', ['-NoProfile', '-NonInteractive', '-Command', script], {
+      windowsHide: true,
+      stdio: ['ignore', 'pipe', 'pipe']
+    });
+    let out = '';
+    let err = '';
+    const timer = setTimeout(() => {
+      try { ps.kill(); } catch {}
+      reject(new Error('PowerShell 启动 daemon 超时'));
+    }, 12000);
+    ps.stdout.on('data', chunk => { out += chunk; });
+    ps.stderr.on('data', chunk => { err += chunk; });
+    ps.on('error', error => { clearTimeout(timer); reject(error); });
+    ps.on('exit', code => {
+      clearTimeout(timer);
+      if (code !== 0) reject(new Error(err.trim() || `PowerShell 退出码 ${code}`));
+      else resolve(out.trim());
+    });
+  });
+}
+
+async function spawnDaemon(config) {
   // 清掉上一次启动失败留下的 error 状态，避免 waitForStart 误读旧错误。
   removeState();
   const daemonPath = path.join(__dirname, 'daemon.js');
-  const env = {
-    ...process.env,
-    WENEED_DAEMON: '1',
-    WENEED_STATE_PATH: defaultStatePath(),
-    WENEED_LISTEN_PORT: String(config.port),
-    WENEED_UPSTREAM_BASE_URL: String(config.upstreamBaseUrl || ''),
-    WENEED_TARGET_MODELS: String(config.targetModels || ''),
-    WENEED_MODE: String(config.mode || ''),
-    WENEED_SEED_MODE: String(config.seedMode || ''),
-    WENEED_SEED_LANGUAGE: String(config.seedLanguage || '')
-  };
-  if (config.configPath) env.WENEED_CONFIG_PATH = String(config.configPath);
-  const child = spawn(process.execPath, [daemonPath], {
+  const args = [
+    `--config-path=${String(config.configPath || '')}`,
+    `--state-path=${defaultStatePath()}`,
+    `--port=${String(config.port)}`,
+    `--upstream-base-url=${String(config.upstreamBaseUrl || '')}`,
+    `--target-models=${String(config.targetModels || '')}`,
+    `--mode=${String(config.mode || '')}`,
+    `--seed-mode=${String(config.seedMode || '')}`,
+    `--seed-language=${String(config.seedLanguage || '')}`
+  ];
+  if (process.platform === 'win32') {
+    try {
+      const commandLine = [process.execPath, daemonPath, ...args].map(quoteWin).join(' ');
+      const quote = value => `'${String(value).replace(/'/g, "''")}'`;
+      const script = [
+        '$ErrorActionPreference = "Stop";',
+        '$r = Invoke-CimMethod -ClassName Win32_Process -MethodName Create -Arguments @{',
+        `CommandLine = ${quote(commandLine)};`,
+        `CurrentDirectory = ${quote(path.dirname(daemonPath))}`,
+        '};',
+        'if ($r.ReturnValue -ne 0) { throw "Win32_Process.Create failed: $($r.ReturnValue)" };',
+        'Write-Output $r.ProcessId'
+      ].join(' ');
+      const output = await runPowerShell(script);
+      if (!/^\d+$/.test(output)) throw new Error(`WMI 未返回进程号：${output || '(empty)'}`);
+      return Number(output);
+    } catch (error) {
+      // WMI 不可用时退回 detached；这仍能在 MCP 存活期间工作，但可能被父作业回收。
+      const child = spawn(process.execPath, [daemonPath, ...args], {
+        detached: true,
+        stdio: 'ignore',
+        windowsHide: true
+      });
+      child.unref();
+      return child.pid;
+    }
+  }
+  const child = spawn(process.execPath, [daemonPath, ...args], {
     detached: true,
     stdio: 'ignore',
-    windowsHide: true,
-    env
+    windowsHide: true
   });
   child.unref();
-  return child;
+  return child.pid;
 }
 
 async function waitForStart(config) {
@@ -229,7 +280,7 @@ async function ensureStarted(config) {
     if (current.legacy) throw new Error(current.warning);
     return current;
   }
-  spawnDaemon(config);
+  await spawnDaemon(config);
   return waitForStart(config);
 }
 
@@ -242,7 +293,7 @@ async function start(config) {
     }
     await stop(config);
   }
-  spawnDaemon(config);
+  await spawnDaemon(config);
   return waitForStart(config);
 }
 
