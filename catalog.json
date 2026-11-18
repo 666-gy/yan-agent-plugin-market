@@ -153,6 +153,212 @@
           "sha256": "684fbc845b800c7b25729872a9da97e76f87b747164dc0136fe2ffebe178637b"
         }
       ]
+    },
+    {
+      "id": "YanPlugin-we-need-reasoning",
+      "name": "We Need Reasoning",
+      "description": "把 DSH We Need 4.1.1 寄存器移植到 Yan：激活后在 127.0.0.1 启动独立常驻反向代理 daemon，对 chat/completions、responses、messages 请求注入 seed、system register、工具步锚与压缩规则，未匹配模型原样透传。MCP/内核退出不会关闭代理；含 we-need 技能、seed 组合与寄存器审计工具；内置本地配置页可直接设置并持久化上游地址；需自行添加指向代理 Base URL 的自定义连接，插件不改模型配置。",
+      "category": "developer-tools",
+      "repository": "fourorfor/YanPlugin-we-need-reasoning",
+      "revision": "a79a7fe825162e710d5d26f5383255fa7c048d50",
+      "digest": "ee97c2c546581305bb5654626cab0b650592496154fc5bf322d31c9d684c4dd9",
+      "download": true,
+      "manifest": {
+        "schemaVersion": 1,
+        "id": "YanPlugin-we-need-reasoning",
+        "version": "1.0.2",
+        "name": "We Need Reasoning",
+        "description": "把 DSH We Need 4.1.1 寄存器移植到 Yan：激活后在 127.0.0.1 启动独立常驻反向代理 daemon，对 chat/completions、responses、messages 请求注入 seed、system register、工具步锚与压缩规则，未匹配模型原样透传。MCP/内核退出不会关闭代理；含 we-need 技能、seed 组合与寄存器审计工具；内置本地配置页可直接设置并持久化上游地址；需自行添加指向代理 Base URL 的自定义连接，插件不改模型配置。",
+        "author": "Yan adaptation of DSH We Need Plugin contributors",
+        "license": "MIT",
+        "instructions": "instructions.md",
+        "platforms": [
+          "win32",
+          "darwin",
+          "linux"
+        ],
+        "skills": [
+          {
+            "id": "we-need",
+            "name": "We Need Reasoning",
+            "description": "用 Need / Should / Could / Must / Let's 组织计划、执行、压缩与委派外发；包含 seed 组合、工具步重锚、寄存器审计和本地代理验收。",
+            "path": "skills/we-need/SKILL.md"
+          }
+        ],
+        "resources": [
+          {
+            "id": "register",
+            "name": "We Need 寄存器全文",
+            "path": "skills/we-need/references/register.md"
+          },
+          {
+            "id": "upstream-seed",
+            "name": "上游 seed.txt 原文",
+            "path": "seed.txt"
+          },
+          {
+            "id": "readme",
+            "name": "插件说明与安装步骤",
+            "path": "README.md"
+          }
+        ],
+        "mcpServers": [
+          {
+            "id": "weneed",
+            "type": "local",
+            "command": "$node",
+            "args": [
+              "${pluginRoot}/server.cjs"
+            ],
+            "timeoutMs": 120000,
+            "env": {
+              "WENEED_UPSTREAM_BASE_URL": "${config.upstreamBaseUrl}",
+              "WENEED_LISTEN_PORT": "${config.listenPort}",
+              "WENEED_TARGET_MODELS": "${config.targetModels}",
+              "WENEED_MODE": "${config.mode}",
+              "WENEED_SEED_MODE": "${config.seedMode}",
+              "WENEED_SEED_LANGUAGE": "${config.seedLanguage}",
+              "WENEED_AUTO_START": "${config.autoStart}"
+            }
+          }
+        ],
+        "configuration": {
+          "upstreamBaseUrl": {
+            "label": "上游 API 根地址",
+            "description": "代理转发的真实端点，例如 https://api.deepseek.com 或 https://api.deepseek.com/v1。留空时代理返回 502，也可调用 proxy_start 临时传入。",
+            "required": false,
+            "default": ""
+          },
+          "listenPort": {
+            "label": "本地监听端口",
+            "description": "代理只绑定 127.0.0.1。默认 8787；端口固定，被占用时会明确报错，不再自动顺延。",
+            "required": false,
+            "default": "8787"
+          },
+          "targetModels": {
+            "label": "目标模型匹配",
+            "description": "分号分组、逗号表示同时包含，例如 deepseek,flash;weneed,ds41。不匹配的模型原样透传。",
+            "required": false,
+            "default": "deepseek,flash;weneed,ds41"
+          },
+          "mode": {
+            "label": "寄存器模式",
+            "description": "standard / goal / team。team 会把外发规则追加到委派类工具描述。",
+            "required": false,
+            "default": "standard"
+          },
+          "seedMode": {
+            "label": "Seed 来源",
+            "description": "upstream 使用包内 seed.txt 原文；task 按最新 user task 现场组合；off 只注入系统规则。",
+            "required": false,
+            "default": "upstream"
+          },
+          "seedLanguage": {
+            "label": "Seed 语言",
+            "description": "en（默认，与上游一致）、zh 或 auto。仅影响 task 模式。",
+            "required": false,
+            "default": "en"
+          },
+          "autoStart": {
+            "label": "激活时自动启动代理",
+            "description": "true 时 MCP 启动会确保独立 daemon 运行；false 时需调用 proxy_start。",
+            "required": false,
+            "default": "true"
+          }
+        }
+      },
+      "files": [
+        {
+          "path": "LICENSE",
+          "bytes": 1088,
+          "sha256": "d669db19942518fd24f838f44997dc19c8169c0b41a6836f5d26461bae90c830"
+        },
+        {
+          "path": "README.md",
+          "bytes": 11465,
+          "sha256": "42c0e54b2b8f2f69878ca0dd39399e56ea8794dbf1ca73b071f49805fbd418a8"
+        },
+        {
+          "path": "instructions.md",
+          "bytes": 4853,
+          "sha256": "575a738ecb6c50f5356a07783ce3a35d6f82f13cd779cd7c86384a7079720bac"
+        },
+        {
+          "path": "lib/daemon-control.js",
+          "bytes": 12929,
+          "sha256": "322251e601f66e0ddd8ae940c79169c5f096d630314ef2f01850e50a270598dc"
+        },
+        {
+          "path": "lib/daemon.js",
+          "bytes": 3513,
+          "sha256": "90806b7599d8c9b003fb857eed4706647366b0b7630cf12ce39348892634458f"
+        },
+        {
+          "path": "lib/proxy.js",
+          "bytes": 29822,
+          "sha256": "75e7e594ebf9ce1b75d5805a6a58b22677edf4ae288f0c4237217a083d8e7337"
+        },
+        {
+          "path": "lib/registers-data.json",
+          "bytes": 3572,
+          "sha256": "ae9280f71d859bdfe7c3129e31bb5bb0e973dc3ac33e8425a12a55065e20e25e"
+        },
+        {
+          "path": "lib/registers.js",
+          "bytes": 23844,
+          "sha256": "513e4a5ad9fed3de53c0778167a320c56a92fa776cade2af3fa0070c6bb97384"
+        },
+        {
+          "path": "seed.txt",
+          "bytes": 1365,
+          "sha256": "d5ffda5727b3cd02ae89c92df4dfb8527f1778d844541e9f0894197e3a6a05c7"
+        },
+        {
+          "path": "server.cjs",
+          "bytes": 12754,
+          "sha256": "d3fe30256552bec130655c559167a95d727195a37d9f646f5690b74e892b484a"
+        },
+        {
+          "path": "skills/we-need/SKILL.md",
+          "bytes": 7160,
+          "sha256": "1857f6691e56042fc508d552d2da324b83eff0698bf760196e090cbead048508"
+        },
+        {
+          "path": "skills/we-need/references/register.md",
+          "bytes": 6247,
+          "sha256": "195ccd54a1b9874e61949951747e4cc329bc3d0a2f3d6ce99e124fe1da743798"
+        },
+        {
+          "path": "tests/config.test.cjs",
+          "bytes": 5324,
+          "sha256": "999310c04daee9ef09bce66f7e0d76bab35c3dff67e2887a57cb489c1a9b7157"
+        },
+        {
+          "path": "tests/daemon.test.cjs",
+          "bytes": 8668,
+          "sha256": "75fd71bbf4e3337baef92812a06947bd4185eaf4076581d0670efa988e7138bb"
+        },
+        {
+          "path": "tests/injection.test.cjs",
+          "bytes": 7267,
+          "sha256": "ebdefe3212aabca9bede33ec020ecd9d3e22504b57571476311fb5fb1f6bfbb5"
+        },
+        {
+          "path": "tests/mcp.test.cjs",
+          "bytes": 4782,
+          "sha256": "385ff1f975107ea1bb6be19ef481be35b7fec80cbe67cf18541b252ab35748d8"
+        },
+        {
+          "path": "tests/proxy.test.cjs",
+          "bytes": 5672,
+          "sha256": "e8287975f81e10b1ec916f06f34ffa41b1faeaee29b304ce945668911d81d29c"
+        },
+        {
+          "path": "yan-plugin.json",
+          "bytes": 3834,
+          "sha256": "c31f4c3960713d0a5ca9ace44ee0817a5c5c281b3599dd6293c8452d4356f77f"
+        }
+      ]
     }
   ]
 }
